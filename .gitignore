@@ -1,0 +1,14 @@
+data/
+*.log
+ngrok
+ngrok.yml
+tunnel-domain.txt
+*.app
+*.applescript
+start.sh
+stop.sh
+tunnel.sh
+stop-tunnel.sh
+tools/
+deploy/
+.DS_Store

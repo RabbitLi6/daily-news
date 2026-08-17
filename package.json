@@ -1,0 +1,13 @@
+{
+  "name": "daily-news-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "每日时事工作区：科技热点、国际形势、地区动态聚合，零依赖，每天自动更新并按日归档",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

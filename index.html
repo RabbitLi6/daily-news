@@ -1,0 +1,547 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f172a">
+<title>每日时事 · 科技与国际热点</title>
+<link rel="icon" href="data:,">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="每日时事">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<style>
+:root{
+  --bg:#eef2f7; --card:#ffffff; --text:#0f172a; --muted:#64748b; --line:#e2e8f0;
+  --chip:#e8edf5; --accent:#2563eb; --tech:#0284c7; --world:#7c3aed; --region:#dc2626;
+  --radius:14px; --shadow:0 1px 2px rgba(15,23,42,.05),0 6px 20px rgba(15,23,42,.05);
+  --side:#0f172a; --side2:#1e293b; --side-text:#cbd5e1; --side-active:#2563eb;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#0b1120; --card:#141c2e; --text:#e7edf7; --muted:#8ea0b8; --line:#24304a; --chip:#1d2842; --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.25); }
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html,body{height:100%}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text)}
+a{color:inherit}
+
+/* ============ 布局 ============ */
+.layout{display:flex;min-height:100vh}
+.sidebar{width:236px;flex:none;background:linear-gradient(180deg,var(--side) 0%,#111c33 100%);color:var(--side-text);display:flex;flex-direction:column;padding:18px 12px 14px;position:sticky;top:0;height:100vh;overflow-y:auto}
+.main{flex:1;min-width:0;display:flex;flex-direction:column}
+
+/* ============ 侧边栏 ============ */
+.brand{display:flex;gap:10px;align-items:center;padding:2px 10px 16px;border-bottom:1px solid rgba(148,163,184,.15)}
+.logo{font-size:28px}
+.brand h1{font-size:17px;color:#fff;letter-spacing:.5px}
+.brand p{font-size:11px;color:#94a3b8;margin-top:2px}
+.nav{display:flex;flex-direction:column;gap:2px;margin-top:14px}
+.nav button{display:flex;align-items:center;gap:9px;background:none;border:none;color:var(--side-text);font-size:13.5px;font-weight:500;padding:9px 12px;border-radius:9px;cursor:pointer;text-align:left;width:100%;transition:.15s}
+.nav button .ic{width:20px;text-align:center;font-size:14px;flex:none}
+.nav button i{margin-left:auto;font-style:normal;font-size:10.5px;background:rgba(148,163,184,.18);border-radius:99px;padding:1px 7px;font-weight:500}
+.nav button:hover{background:rgba(148,163,184,.12)}
+.nav button.active{background:var(--side-active);color:#fff}
+.nav button.active i{background:rgba(255,255,255,.22)}
+.side-title{font-size:11px;color:#64748b;text-transform:uppercase;letter-spacing:1px;margin:18px 12px 7px}
+.regions{display:flex;flex-direction:column;gap:3px;padding:0 4px}
+.region-chip{display:flex;justify-content:space-between;align-items:center;background:none;border:none;color:var(--side-text);font-size:12.5px;padding:6px 12px;border-radius:8px;cursor:pointer;width:100%;transition:.15s}
+.region-chip i{font-style:normal;font-size:10.5px;color:#64748b}
+.region-chip:hover{background:rgba(148,163,184,.12)}
+.region-chip.active{background:var(--region);color:#fff}
+.region-chip.active i{color:rgba(255,255,255,.75)}
+.side-foot{margin-top:auto;padding:12px 10px 2px;border-top:1px solid rgba(148,163,184,.15);font-size:11.5px;color:#94a3b8;display:flex;gap:7px;align-items:center;line-height:1.6}
+.dot{width:8px;height:8px;border-radius:50%;background:#fbbf24;display:inline-block;flex:none}
+.dot.ok{background:#4ade80}.dot.err{background:#f87171}
+
+/* ============ 主区顶栏 ============ */
+.topbar{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--line);padding:12px 18px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;backdrop-filter:blur(10px)}
+.page-title{font-size:16px;font-weight:700;margin-right:auto}
+.page-title small{font-size:12px;color:var(--muted);font-weight:400;margin-left:8px}
+.chips{display:flex;gap:6px;overflow-x:auto;flex:1;min-width:140px;padding:2px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;background:var(--chip);border:1px solid transparent;color:var(--text);padding:6px 13px;border-radius:999px;font-size:12.5px;cursor:pointer;white-space:nowrap}
+.chip.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.dateinput{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:10px;padding:6px 8px;font-size:12.5px;width:134px}
+#search{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:7px 14px;font-size:12.5px;width:170px;outline:none}
+#search:focus{border-color:var(--accent)}
+#refreshBtn{flex:none;background:var(--accent);color:#fff;border:none;padding:7px 15px;border-radius:999px;font-size:12.5px;cursor:pointer;transition:.15s}
+#refreshBtn:hover{filter:brightness(1.1)}
+#refreshBtn:disabled{opacity:.6;cursor:wait}
+
+/* ============ 内容卡片 ============ */
+.content{flex:1;padding:16px 18px 8px;max-width:1060px;width:100%;margin:0 auto}
+.list{columns:2;column-gap:12px}
+@media (max-width:1180px){.list{columns:1}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:13px 15px;box-shadow:var(--shadow);break-inside:avoid;margin-bottom:12px;transition:transform .12s}
+.card:hover{transform:translateY(-1px)}
+.card .meta{display:flex;gap:7px;align-items:center;font-size:11.5px;color:var(--muted);flex-wrap:wrap}
+.badge{color:#fff;font-size:11px;padding:2px 8px;border-radius:6px}
+.badge.tech{background:var(--tech)}
+.badge.world{background:var(--world)}
+.badge.politics{background:#b45309}
+.badge.war{background:#dc2626}
+.badge.disaster{background:#ea580c}
+.badge.tw{background:#0d9488}
+.badge.cn{background:#16a34a}
+.tab-desc{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 14px;font-size:12.5px;color:var(--muted);margin-bottom:12px;box-shadow:var(--shadow)}
+.card h3{margin:7px 0 5px;font-size:15px;line-height:1.5;font-weight:600}
+.card h3 a{text-decoration:none}
+.card h3 a:hover{color:var(--accent)}
+.summary{font-size:12.5px;color:var(--muted);line-height:1.65;margin:0 0 8px}
+.regions-inline{display:flex;gap:5px;flex-wrap:wrap}
+.r{font-size:11px;color:var(--region);background:rgba(220,38,38,.09);border:1px solid rgba(220,38,38,.25);padding:1px 8px;border-radius:6px}
+
+.empty{text-align:center;color:var(--muted);padding:70px 20px;font-size:14.5px;line-height:2}
+.empty .hint{font-size:12.5px;opacity:.75}
+.spinner{width:34px;height:34px;border:3px solid var(--line);border-top-color:var(--accent);border-radius:50%;margin:0 auto 14px;animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+button.primary{background:var(--accent);color:#fff;border:none;padding:9px 22px;border-radius:10px;font-size:14px;cursor:pointer;margin-top:12px}
+
+footer{max-width:1060px;margin:0 auto 26px;padding:0 18px;color:var(--muted);font-size:12px;line-height:2;text-align:center}
+footer a{color:var(--accent);text-decoration:none}
+
+/* ============ 搜索与详情弹窗 ============ */
+.card{cursor:pointer}
+.orig{color:var(--muted);text-decoration:none;border:1px solid var(--line);border-radius:6px;padding:0 6px;font-size:10.5px;margin-left:auto;flex:none}
+.orig:hover{color:var(--accent);border-color:var(--accent)}
+.search-bar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 14px;margin-bottom:12px;box-shadow:var(--shadow);font-size:13px}
+.search-bar .q{color:var(--accent);font-weight:700}
+.search-bar b{color:var(--accent)}
+.search-bar .close{margin-left:auto;background:var(--chip);border:none;color:var(--text);border-radius:8px;padding:4px 12px;cursor:pointer;font-size:12px}
+.overlay{position:fixed;inset:0;background:rgba(2,6,23,.55);z-index:100;display:flex;align-items:center;justify-content:center;padding:14px}
+.sheet{background:var(--card);color:var(--text);border:1px solid var(--line);border-radius:16px;max-width:640px;width:100%;max-height:88vh;overflow-y:auto;padding:18px 18px 14px;box-shadow:0 20px 60px rgba(0,0,0,.35);animation:pop .18s ease}
+@keyframes pop{from{transform:scale(.96);opacity:0}to{transform:scale(1);opacity:1}}
+.sheet-head{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);flex-wrap:wrap}
+.sheet-head .x{margin-left:auto;background:none;border:none;color:var(--muted);font-size:16px;cursor:pointer;padding:2px 8px}
+.sheet h2{font-size:16.5px;line-height:1.5;margin:10px 0 6px}
+.sheet h2 a{color:var(--text);text-decoration:none}
+.sheet h2 a:hover{color:var(--accent)}
+.sheet .summary{font-size:13px;color:var(--muted);line-height:1.7;margin:0 0 10px}
+.btn-orig{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;padding:7px 16px;border-radius:9px;font-size:12.5px}
+.btn-orig:hover{filter:brightness(1.1)}
+.related-title{font-size:13px;font-weight:700;margin:16px 0 8px;padding-top:12px;border-top:1px solid var(--line)}
+.related-item{border:1px solid var(--line);border-radius:10px;padding:9px 12px;margin-bottom:8px;cursor:pointer;transition:.12s}
+.related-item:hover{border-color:var(--accent);transform:translateY(-1px)}
+.related-item .t{font-size:13px;line-height:1.5;font-weight:600}
+.related-item .m{font-size:11px;color:var(--muted);margin-top:3px;display:flex;gap:7px;align-items:center;flex-wrap:wrap}
+.related-item .m a{color:var(--accent);margin-left:auto;text-decoration:none}
+.related-empty{font-size:12.5px;color:var(--muted);padding:8px 2px}
+
+/* ============ 移动端：侧栏收起到顶部 ============ */
+@media (max-width:860px){
+  .layout{display:block}
+  .sidebar{width:100%;height:auto;position:static;padding:12px 12px 10px}
+  .brand{padding:0 6px 10px}
+  .nav{flex-direction:row;gap:6px;overflow-x:auto;margin-top:10px;padding-bottom:4px;scrollbar-width:none}
+  .nav::-webkit-scrollbar{display:none}
+  .nav button{width:auto;flex:none;padding:7px 12px;font-size:12.5px}
+  .side-title{margin:10px 8px 4px}
+  .regions{flex-direction:row;flex-wrap:wrap;gap:5px;padding:0}
+  .region-chip{width:auto;padding:4px 11px;border:1px solid rgba(148,163,184,.25);font-size:12px}
+  .side-foot{margin-top:10px}
+  .topbar{padding:10px 12px}
+  .content{padding:12px 12px 6px}
+  #search{width:130px}
+}
+</style>
+</head>
+<body>
+<div class="layout">
+
+  <!-- 左侧边栏 -->
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="logo">📰</div>
+      <div>
+        <h1>每日时事</h1>
+        <p>科技热点 · 国际形势 · 地区动态</p>
+      </div>
+    </div>
+    <nav class="nav" id="nav">
+      <button data-tab="all" class="active"><span class="ic">📋</span>全部 <i id="cnt-all">0</i></button>
+      <button data-tab="tech"><span class="ic">💡</span>科技 <i id="cnt-tech">0</i></button>
+      <button data-tab="politics"><span class="ic">🏛️</span>政治 <i id="cnt-politics">0</i></button>
+      <button data-tab="world"><span class="ic">🌍</span>国际 <i id="cnt-world">0</i></button>
+      <button data-tab="tw"><span class="ic">🇭🇰</span>港澳台 <i id="cnt-tw">0</i></button>
+      <button data-tab="cn"><span class="ic">🏙️</span>国内热点 <i id="cnt-cn">0</i></button>
+      <button data-tab="war"><span class="ic">⚔️</span>战争冲突 <i id="cnt-war">0</i></button>
+      <button data-tab="disaster"><span class="ic">🌪️</span>自然灾害 <i id="cnt-disaster">0</i></button>
+      <button data-tab="regions"><span class="ic">🔥</span>地区热点 <i id="cnt-regions">0</i></button>
+    </nav>
+    <div class="side-title">地区筛选</div>
+    <div class="regions" id="regionChips"></div>
+    <div class="side-foot">
+      <span class="dot" id="statusDot"></span>
+      <span id="statusText">连接中…</span>
+    </div>
+  </aside>
+
+  <!-- 主区 -->
+  <main class="main">
+    <div class="topbar">
+      <div class="page-title" id="pageTitle">全部新闻</div>
+      <div class="chips" id="dateChips"></div>
+      <input type="date" id="dateInput" class="dateinput" title="选择任意日期">
+      <input type="search" id="search" placeholder="🔍 搜索标题 / 来源">
+      <button id="refreshBtn">🔄 刷新</button>
+    </div>
+    <div class="content" id="content">
+      <div id="tabDesc"></div>
+      <div class="list" id="list">
+      <div class="empty"><div class="spinner"></div>正在抓取最新新闻…</div>
+    </div></div>
+    <footer>
+      <p>📅 每天自动存档，可回看历史 · 每 20 分钟自动检查更新 · 内容全部来自官方新闻网站</p>
+      __URL_LINE__
+      __PUBLIC_URL_LINE__
+    </footer>
+  </main>
+</div>
+
+<script>
+const REGION_ORDER = ['中东','俄乌','台海','南海','朝鲜半岛','欧洲','美洲','亚太','非洲','拉美'];
+const POLITICS_HINT = /政治|外交|会谈|峰会|峰会|选举|总统|总理|首相|国会|议会|政府|内政|内阁|制裁|谈判|冲突|战争|停火|军演|导弹|核武|核弹|军事|国防|军队|士兵|袭击|空袭|无人机|坦克|战舰|航母|战机|大使|出访|访问|声明|抗议|示威|政变|危机|协议|条约|安全|情报|间谍|恐怖|武装|反恐|维和|撤军|驻军|基地|盟友|紧张|边界|领土|主权|封锁|斡旋|调停|G7|G20|王毅|普京|特朗普|拜登|泽连斯基|内塔尼亚胡|阿萨德|哈梅内伊|政权|过渡政府|反对派|停火|和谈|谈判|冲突|局势/;
+const WAR_HINT = /战争|战事|战况|开战|宣战|交火|停火|空袭|袭击|轰炸|炮击|导弹|巡航导弹|弹道导弹|无人机|战机|坦克|战舰|航母|核武|核弹|核武器|军演|军事行动|军事打击|进攻|反攻|占领|阵地|前线|战场|士兵|阵亡|伤亡|军队|军方|武装|武装分子|雇佣兵|游击队|封锁|反击|拦截|击落|摧毁|巷战|围困|对峙|紧张局势|战争罪|人道主义|停战|和谈|斡旋|战俘|征兵|动员|威慑|集安组织|防务|国防|军营|空域|领空|领海|边境冲突|越境|入侵/;
+const DISASTER_HINT = /地震|震中|震级|余震|海啸|台风|飓风|风暴|气旋|火山|喷发|洪水|洪灾|山洪|泥石流|滑坡|塌方|干旱|森林大火|山火|林火|火灾|暴雪|雪灾|寒潮|热浪|极端天气|暴雨|冰雹|龙卷风|雷暴|自然灾害|灾害|遇难|失踪|疏散|受灾|警报|earthquake|tsunami|typhoon|hurricane|cyclone|volcano|flood|landslide|wildfire|drought|storm|eruption/;
+const TAB_TITLES = { all:'全部新闻', tech:'科技热点', politics:'政治时事', world:'国际形势', tw:'港澳台动态', cn:'国内热点', war:'战争冲突', disaster:'自然灾害', regions:'地区热点' };
+const TAB_DESC = {
+  war: '⚔️ 全球战争与军事冲突动态：中东（美以伊、叙利亚、黎巴嫩）、俄乌战场等紧张局势实时汇总',
+  disaster: '🌪️ 全球自然灾害速览：按发生时间排列，标注地点与震级/强度，出行前可快速查看（来源：GDACS 联合国/欧盟联合监测、USGS 美国官方地震台网、各国官方媒体）',
+  tw: '🇭🇰 香港、澳门、台湾最新热门新闻（来源：中新网中国频道、中新网滚动）',
+  cn: '🏙️ 国内城市热门新闻与民生动态（来源：中新网社会频道、中新网中国频道、中新网滚动）',
+};
+const state = { dates: [], current: null, today: null, yesterday: null, data: null, tab: 'all', regions: new Set(), loading: false, error: null, search: { q: '', items: null, loading: false }, modal: null };
+let currentItems = [];
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const pad2 = n => String(n).padStart(2, '0');
+const localDateOf = d => `${d.getFullYear()}-${pad2(d.getMonth()+1)}-${pad2(d.getDate())}`;
+const badgeLabel = c => c === 'tech' ? '科技' : c === 'war' ? '战争' : c === 'disaster' ? '灾害' : c === 'politics' ? '政治' : c === 'tw' ? '港澳台' : c === 'cn' ? '国内' : '国际';
+const cardHTML = (it, idx, fullDate) => `
+  <article class="card" data-i="${idx}">
+    <div class="meta">
+      <span class="badge ${it.cat}">${badgeLabel(it.cat)}</span>
+      <span>${esc(it.source||'')}</span><time>${fmtTime(it.time, fullDate ? null : state.current)}</time>
+      ${fullDate && it.date ? `<span>📅 ${fmtLabel(it.date)}</span>` : ''}
+      <a class="orig" href="${esc(it.link)}" target="_blank" rel="noopener">原文 ↗</a>
+    </div>
+    <h3><a href="${esc(it.link)}" target="_blank" rel="noopener" class="card-link">${esc(it.title)}</a></h3>
+    ${it.summary ? `<p class="summary">${esc(it.summary)}</p>` : ''}
+    ${(it.regions||[]).length ? `<div class="regions-inline">${it.regions.map(r => `<span class="r">${esc(r)}</span>`).join('')}</div>` : ''}
+  </article>`;
+
+async function api(path, opts) {
+  const r = await fetch(path, opts);
+  const j = await r.json().catch(() => ({}));
+  if (!r.ok) { const e = new Error(j.error || `HTTP ${r.status}`); e.code = r.status; throw e; }
+  return j;
+}
+
+const fmtTime = (iso, selected) => {
+  const d = new Date(iso); if (Number.isNaN(d.getTime())) return '';
+  const hm = `${pad2(d.getHours())}:${pad2(d.getMinutes())}`;
+  return localDateOf(d) === selected ? hm : `${d.getMonth()+1}月${d.getDate()}日 ${hm}`;
+};
+const fmtLabel = dstr => {
+  if (dstr === state.today) return '今天';
+  if (dstr === state.yesterday) return '昨天';
+  const [, m, dd] = dstr.split('-').map(Number);
+  return `${m}月${dd}日`;
+};
+
+const catOf = x => {
+  const t = x.title + ' ' + (x.summary || '');
+  if (WAR_HINT.test(t)) return 'war';
+  if (DISASTER_HINT.test(t)) return 'disaster';
+  if (POLITICS_HINT.test(t)) return 'politics';
+  return 'world';
+};
+
+function filtered() {
+  if (!state.data) return { tech: [], world: [], tw: [], cn: [], all: [], war: [], disaster: [] };
+  const matchR = x => state.regions.size === 0 || (x.regions||[]).some(r => state.regions.has(r));
+  const tech = (state.data.tech||[]).filter(matchR);
+  const world = (state.data.world||[]).filter(matchR);
+  const tw = (state.data.tw||[]).filter(matchR);
+  const cn = (state.data.cn||[]).filter(matchR);
+  const war = world.filter(x => WAR_HINT.test(x.title + ' ' + (x.summary||'')));
+  const disaster = world.filter(x => DISASTER_HINT.test(x.title + ' ' + (x.summary||'')));
+  const all = [
+    ...tech.map(x => ({ ...x, cat: 'tech' })),
+    ...world.map(x => ({ ...x, cat: catOf(x) })),
+    ...tw.map(x => ({ ...x, cat: 'tw' })),
+    ...cn.map(x => ({ ...x, cat: 'cn' })),
+  ].sort((a,b) => (b.time||'').localeCompare(a.time||''));
+  return { tech, world, tw, cn, war, disaster, all };
+}
+
+function renderList() {
+  const el = $('#list');
+  // 搜索模式：展示跨历史存档的全局搜索结果
+  if (state.search.q) {
+    if (state.search.loading) { el.innerHTML = '<div class="empty"><div class="spinner"></div>正在全库搜索…</div>'; return; }
+    const items = state.search.items || [];
+    const bar = `<div class="search-bar">🔍 关于「<span class="q">${esc(state.search.q)}</span>」的搜索结果 <b>${items.length}</b> 条（含全部历史存档）<button class="close" onclick="clearSearch()">✕ 关闭搜索</button></div>`;
+    if (!items.length) {
+      el.innerHTML = bar + '<div class="empty">📭 没有找到相关新闻<br><span class="hint">换个关键词试试：地名（霍尔木兹海峡、加沙）、国家（伊朗、印尼）、事件（地震、军演）或科技词（AI、芯片）</span></div>';
+      return;
+    }
+    currentItems = items;
+    el.innerHTML = bar + items.map((it, i) => cardHTML(it, i, true)).join('');
+    return;
+  }
+  if (state.loading || (!state.data && !state.error)) {
+    el.innerHTML = '<div class="empty"><div class="spinner"></div>正在抓取最新新闻…（首次运行约需 10~30 秒）</div>';
+    return;
+  }
+  if (!state.data) {
+    el.innerHTML = `<div class="empty">⚠️ ${esc(state.error||'连接失败')}<br><button class="primary" onclick="init()">重试</button></div>`;
+    return;
+  }
+  const { tech, world, tw, cn, war, disaster, all } = filtered();
+  const lists = {
+    all,
+    tech: tech.map(x => ({ ...x, cat: 'tech' })),
+    politics: world.filter(x => POLITICS_HINT.test(x.title + ' ' + (x.summary||''))).map(x => ({ ...x, cat: 'politics' })),
+    world: world.map(x => ({ ...x, cat: 'world' })),
+    tw: tw.map(x => ({ ...x, cat: 'tw' })),
+    cn: cn.map(x => ({ ...x, cat: 'cn' })),
+    war: war.map(x => ({ ...x, cat: 'war' })),
+    disaster: disaster.map(x => ({ ...x, cat: 'disaster' })),
+    regions: world.filter(x => (x.regions||[]).length).map(x => ({ ...x, cat: catOf(x) })),
+  };
+  const items = lists[state.tab];
+  if (!items.length) {
+    el.innerHTML = '<div class="empty">📭 没有符合条件的内容<br><span class="hint">试试切换分类或清除地区筛选</span></div>';
+    return;
+  }
+  currentItems = items;
+  el.innerHTML = items.map((it, i) => cardHTML(it, i, it.cat === 'disaster')).join('');
+}
+
+function renderRegionChips() {
+  const wrap = $('#regionChips'); wrap.innerHTML = '';
+  const worldQ = (state.data?.world||[]);
+  for (const r of REGION_ORDER) {
+    const n = worldQ.filter(x => (x.regions||[]).includes(r)).length;
+    if (!n) continue;
+    const b = document.createElement('button');
+    b.className = 'region-chip' + (state.regions.has(r) ? ' active' : '');
+    b.innerHTML = `<span>${esc(r)}</span><i>${n}</i>`;
+    b.onclick = () => { state.regions.has(r) ? state.regions.delete(r) : state.regions.add(r); render(); };
+    wrap.appendChild(b);
+  }
+}
+
+function renderStatus() {
+  $('#statusDot').className = 'dot ' + (state.data ? 'ok' : 'err');
+  if (state.data?.updatedAt) {
+    const t = new Date(state.data.updatedAt);
+    $('#statusText').textContent = `更新于 ${pad2(t.getHours())}:${pad2(t.getMinutes())} · 每天自动更新`;
+  } else {
+    $('#statusText').textContent = state.error || '无法连接服务';
+  }
+}
+
+function render() {
+  const { tech, world, tw, cn, war, disaster, all } = filtered();
+  const politics = world.filter(x => POLITICS_HINT.test(x.title + ' ' + (x.summary||'')));
+  const regionsTab = world.filter(x => (x.regions||[]).length);
+  $('#cnt-all').textContent = all.length;
+  $('#cnt-tech').textContent = tech.length;
+  $('#cnt-politics').textContent = politics.length;
+  $('#cnt-world').textContent = world.length;
+  $('#cnt-tw').textContent = tw.length;
+  $('#cnt-cn').textContent = cn.length;
+  $('#cnt-war').textContent = war.length;
+  $('#cnt-disaster').textContent = disaster.length;
+  $('#cnt-regions').textContent = regionsTab.length;
+  $('#pageTitle').innerHTML = state.search.q ? `🔍 搜索「${esc(state.search.q)}」` : TAB_TITLES[state.tab] + `<small>${fmtLabel(state.current)}</small>`;
+  $('#tabDesc').innerHTML = TAB_DESC[state.tab] ? `<div class="tab-desc">${TAB_DESC[state.tab]}</div>` : '';
+  renderRegionChips();
+  renderList();
+  renderStatus();
+}
+
+function renderDateChips() {
+  const wrap = $('#dateChips'); wrap.innerHTML = '';
+  for (const d of state.dates.slice(0, 15)) {
+    const b = document.createElement('button');
+    b.className = 'chip' + (d === state.current ? ' active' : '');
+    b.textContent = fmtLabel(d);
+    b.onclick = () => selectDate(d);
+    wrap.appendChild(b);
+  }
+  $('#dateInput').max = state.today;
+}
+
+async function loadDates() {
+  const res = await api('/api/dates');
+  state.today = res.today;
+  const y = new Date(); y.setDate(y.getDate() - 1);
+  state.yesterday = localDateOf(y);
+  state.dates = [...new Set([state.today, ...(res.dates||[])])].sort().reverse();
+  renderDateChips();
+}
+
+async function selectDate(d) {
+  if (state.search.q) clearSearch();
+  state.current = d;
+  state.error = null;
+  renderDateChips();
+  $('#dateInput').value = d;
+  if (!state.data) { state.loading = true; renderList(); }
+  try {
+    state.data = await api(`/api/news?date=${encodeURIComponent(d)}`);
+  } catch (e) {
+    state.data = null;
+    const earliest = state.dates[state.dates.length - 1];
+    state.error = e.code === 404
+      ? `该日期暂无存档。存档从服务首次运行起每天自动积累${state.dates.length > 1 ? `，目前最早可回看 ${fmtLabel(earliest)}` : ''}。`
+      : `加载失败：${e.message}`;
+  }
+  state.loading = false;
+  render();
+}
+
+async function refreshToday() {
+  const btn = $('#refreshBtn');
+  btn.disabled = true; btn.textContent = '⏳ 更新中…';
+  try {
+    await api('/api/refresh', { method: 'POST' });
+    await loadDates();
+    await selectDate(state.today);
+  } catch (e) { alert('刷新失败：' + e.message); }
+  finally { btn.disabled = false; btn.textContent = '🔄 刷新'; }
+}
+
+async function init() {
+  state.error = null; state.data = null;
+  try {
+    await loadDates();
+    await selectDate(state.today);
+  } catch (e) {
+    state.error = '无法连接服务：' + e.message;
+    render();
+  }
+}
+window.init = init;
+
+document.querySelectorAll('#nav button').forEach(b => b.onclick = () => {
+  if (state.search.q) clearSearch();
+  state.tab = b.dataset.tab;
+  document.querySelectorAll('#nav button').forEach(x => x.classList.toggle('active', x === b));
+  render();
+});
+
+/* ============ 全库搜索 ============ */
+let searchTimer = null;
+function clearSearch() {
+  state.search.q = ''; state.search.items = null; state.search.loading = false;
+  $('#search').value = '';
+  render();
+}
+async function runSearch() {
+  const q = state.search.q.trim();
+  if (!q) return;
+  try {
+    const res = await api(`/api/search?q=${encodeURIComponent(q)}`);
+    if (state.search.q === q) {
+      state.search.items = res.results.map(x => ({ ...x, cat: (x.cat === 'tw' || x.cat === 'cn') ? x.cat : catOf(x) }));
+      state.search.loading = false;
+      render();
+    }
+  } catch (e) {
+    if (state.search.q === q) { state.search.items = []; state.search.loading = false; render(); }
+  }
+}
+$('#search').oninput = e => {
+  const q = e.target.value.trim();
+  clearTimeout(searchTimer);
+  if (!q) { clearSearch(); return; }
+  state.search.q = q;
+  state.search.items = null;
+  state.search.loading = true;
+  render();
+  searchTimer = setTimeout(runSearch, 450);
+};
+$('#search').addEventListener('keydown', e => { if (e.key === 'Enter') { clearTimeout(searchTimer); runSearch(); } });
+
+/* ============ 详情弹窗 + 相关新闻 ============ */
+function openDetail(item) {
+  state.modal = { item, related: null, loading: true };
+  renderModal();
+  api(`/api/related?link=${encodeURIComponent(item.link)}&title=${encodeURIComponent(item.title)}`)
+    .then(res => {
+      if (state.modal) { state.modal.related = res.results.map(x => ({ ...x, cat: (x.cat === 'tw' || x.cat === 'cn') ? x.cat : catOf(x) })); state.modal.loading = false; renderModal(); }
+    })
+    .catch(() => { if (state.modal) { state.modal.related = []; state.modal.loading = false; renderModal(); } });
+}
+function closeModal() { state.modal = null; renderModal(); }
+function renderModal() {
+  let ov = $('#overlay');
+  if (!state.modal) { if (ov) ov.remove(); return; }
+  if (!ov) { ov = document.createElement('div'); ov.id = 'overlay'; ov.className = 'overlay'; document.body.appendChild(ov); }
+  const m = state.modal, it = m.item;
+  ov.innerHTML = `
+    <div class="sheet">
+      <div class="sheet-head">
+        <span class="badge ${it.cat}">${badgeLabel(it.cat)}</span>
+        <span>${esc(it.source||'')}</span><time>${fmtTime(it.time, null)}</time>
+        ${it.date ? `<span>📅 ${fmtLabel(it.date)}</span>` : ''}
+        <button class="x" title="关闭">✕</button>
+      </div>
+      <h2><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></h2>
+      ${it.summary ? `<p class="summary">${esc(it.summary)}</p>` : '<p class="summary">（该来源未提供摘要，可点击下方按钮查看完整报道）</p>'}
+      <a class="btn-orig" href="${esc(it.link)}" target="_blank" rel="noopener">在新窗口打开原文 ↗</a>
+      <div class="related-title">🔗 相关新闻${m.related ? `（${m.related.length}）` : ''}</div>
+      <div class="related-list">
+        ${m.loading ? '<div class="empty"><div class="spinner"></div>正在查找相关新闻…</div>'
+          : m.related && m.related.length ? m.related.map((r, i) => `
+            <div class="related-item" data-ridx="${i}">
+              <div class="t">${esc(r.title)}</div>
+              <div class="m"><span>${esc(r.source||'')}</span><time>${fmtTime(r.time, null)}</time>${r.date ? `<span>📅 ${fmtLabel(r.date)}</span>` : ''}<a href="${esc(r.link)}" target="_blank" rel="noopener" class="ro">原文 ↗</a></div>
+            </div>`).join('')
+          : '<div class="related-empty">暂无相关新闻</div>'}
+      </div>
+    </div>`;
+  ov.querySelector('.x').onclick = closeModal;
+  ov.addEventListener('click', e => { if (e.target === ov) closeModal(); });
+  ov.querySelectorAll('.related-item').forEach(node => node.onclick = ev => {
+    if (ev.target.closest('.ro')) return; // 点「原文」直接跳官方站点
+    const r = m.related[Number(node.dataset.ridx)];
+    if (r) openDetail(r);
+  });
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+$('#list').addEventListener('click', e => {
+  const card = e.target.closest('.card');
+  if (!card) return;
+  if (e.target.closest('.orig')) return; // 「原文 ↗」按钮：直接跳官方站点
+  e.preventDefault();
+  const it = currentItems[Number(card.dataset.i)];
+  if (it) openDetail(it);
+});
+
+$('#dateInput').onchange = e => { if (e.target.value) selectDate(e.target.value); };
+$('#refreshBtn').onclick = refreshToday;
+
+setInterval(async () => {
+  if (state.current !== state.today) return;
+  try {
+    const d = await api(`/api/news?date=${state.today}`);
+    if (d.updatedAt !== state.data?.updatedAt) { state.data = d; render(); }
+  } catch {}
+}, 2 * 60 * 1000);
+
+init();
+</script>
+<script>
+if ('serviceWorker' in navigator) addEventListener('load', () => navigator.serviceWorker.register('/sw.js').catch(() => {}));
+</script>
+</body>
+</html>

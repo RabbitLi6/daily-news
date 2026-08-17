@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: daily-news
+    runtime: node
+    plan: free
+    region: singapore
+    startCommand: node server.mjs
+    autoDeploy: true
+    healthCheckPath: /api/dates
