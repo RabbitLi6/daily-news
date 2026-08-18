@@ -1,0 +1,210 @@
+{
+ "date": "2026-08-15",
+ "tech": [
+  {
+   "title": "SmartCall v1.0.3 发布 新增短信发送节点",
+   "link": "https://www.oschina.net/news/501944",
+   "source": "开源中国",
+   "time": "2026-08-15T11:12:31.000Z",
+   "summary": ":book: 项目简介 SmartCall 是一套基于 AI 大模型 + Asterisk 通信引擎构建的新一代智能客服呼叫中心系统。系统深度融合了 AI 语音机器人、智能 IVR 流程编排、实时语音识别（ASR）、语音合成（TTS）、大模…",
+   "regions": []
+  },
+  {
+   "title": "3 个月烧掉 105 亿，腾讯急了",
+   "link": "http://www.geekpark.net/news/368852",
+   "source": "极客公园",
+   "time": "2026-08-15T08:46:20.000Z",
+   "summary": "头图来源：视觉中国 腾讯的 AI 故事，正在进入一个更昂贵的阶段。 8 月 12 日，腾讯发布 2026 年第二季度财报。本季度营收 2047.9 亿元，同比增长 11%；Non-IFRS 经营利润 756.4 亿元，同比增长 9%；Non…",
+   "regions": []
+  },
+  {
+   "title": "VTJ.PRO v2.7.1 发布：推出 Agent 项目级记忆系统，让 AI 真正理解项目上下文",
+   "link": "https://www.oschina.net/news/501943",
+   "source": "开源中国",
+   "time": "2026-08-15T07:57:37.000Z",
+   "summary": "摘要： 低代码开发平台 VTJ.PRO 于近日发布 v2.7.1 版本，正式上线 Agent 项目级记忆系统。该系统通过将项目规范、技术决策、避坑规则等结构化记忆跨 Topic 持久化，解决了 AI Agent 在多轮对话中“遗忘”项目约定…",
+   "regions": []
+  },
+  {
+   "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+   "link": "https://sspai.com/post/111974",
+   "source": "少数派",
+   "time": "2026-08-15T07:07:54.000Z",
+   "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+   "regions": []
+  },
+  {
+   "title": "当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题",
+   "link": "http://www.geekpark.net/news/368851",
+   "source": "极客公园",
+   "time": "2026-08-15T06:41:47.000Z",
+   "summary": "头图来源：视觉中国 「人人都应该有一个 AI 工作台」，最近这段时间，网络上掀起了一阵搭建个人工作台的热潮。 先是一位百万级大网红用 WorkBuddy 几句话搭出了一个专属工作台，视频发出后，抖音、小红书的评论区随即变成了「大型交作业现场…",
+   "regions": []
+  },
+  {
+   "title": "功能齐全的截图软件（仅1MB），截图、OCR、录屏、二维码",
+   "link": "https://www.oschina.net/news/501942",
+   "source": "开源中国",
+   "time": "2026-08-15T04:36:13.000Z",
+   "summary": "这段时间更新的内容： 基于自研的 GUI 框架重写（感兴趣可以去看：Ling）。 增加 文字识别插件 OCR（插件地址：ImageReader）。 增加 二维码识别 功能。 解决：部分用户录屏异常的问题（录制MP4时）。 增加框选截图区域后…",
+   "regions": []
+  },
+  {
+   "title": "智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道",
+   "link": "http://www.geekpark.net/news/368849",
+   "source": "极客公园",
+   "time": "2026-08-15T00:52:38.000Z",
+   "summary": "智谱正式发布 GLM-5.3，拥有更强编程能力 8 月 14 日，据介绍，与 GLM-5.2 相比，GLM-5.3 基座模型未变，但通过极致的后训练 Scaling 大大提高了模型的智能上界。 GLM-5.3 拥有更强的编程能力，在内部自建…",
+   "regions": []
+  }
+ ],
+ "world": [
+  {
+   "title": "【专题报道┃前方视野】阿富汗：营养不良危机正在失控",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142639",
+   "source": "联合国新闻",
+   "time": "2026-08-15T12:00:00.000Z",
+   "summary": "现在，在阿富汗，一个装满淡茶的奶瓶，可能就是一个婴儿一天的饮料。自然灾害的频发、地缘局势的动荡，加上全球援助资金的剧烈缩减，正将这个国家数以百万计的儿童推向饥饿的深渊。阿富汗的营养不良危机正在走向失控。",
+   "regions": []
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.5 million in MMI V.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558363",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-15T11:14:59.000Z",
+   "summary": "On 8/15/2026 10:54:52 AM, an earthquake occurred in Indonesia potentially affecting 10.5 million in MMI V. The earthquak…",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Japan's war memory: Remembering pain, forgetting responsibility",
+   "link": "https://news.cgtn.com/news/2026-08-15/Japan-s-war-memory-Remembering-pain-forgetting-responsibility-1PCwfpucsUw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-15T02:36:57.000Z",
+   "summary": "The divergence within Japanese society regarding the nature of the war and historical responsibility appears on the surf…",
+   "regions": []
+  },
+  {
+   "title": "Hong Kong strives to publish first five-year plan in September",
+   "link": "https://news.cgtn.com/news/2026-08-15/Hong-Kong-strives-to-publish-first-five-year-plan-in-September-1PCtYD6yHDO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-15T01:07:32.000Z",
+   "summary": "Janice Tse Siu-wa, secretary for constitutional and mainland affairs of the Hong Kong Special Administrative Region (HKS…",
+   "regions": []
+  },
+  {
+   "title": "Namibia calls for complete lifting of US embargo on Cuba",
+   "link": "https://news.cgtn.com/news/2026-08-15/Namibia-calls-for-complete-lifting-of-US-embargo-on-Cuba-1PCutDoolAk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-15T01:03:32.000Z",
+   "summary": "Namibian President Netumbo Nandi-Ndaitwah has called for the complete and unconditional lifting of the US economic embar…",
+   "regions": []
+  },
+  {
+   "title": "Brazil delays US ambassador approval until October election",
+   "link": "https://news.cgtn.com/news/2026-08-15/Brazil-delays-US-ambassador-approval-until-October-election-1PCtuKkb8sM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-15T00:27:33.000Z",
+   "summary": "Brazilian President Luiz Inacio Lula da Silva said Friday he will decide whether to approve the new US ambassador-design…",
+   "regions": []
+  },
+  {
+   "title": "Japanese PM makes offering to Yasukuni Shrine on WWII surrender anniv.",
+   "link": "https://news.cgtn.com/news/2026-08-15/Japanese-PM-makes-offering-to-war-linked-Yasukuni-Shrine-1PCspqtxmBG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-15T00:14:28.000Z",
+   "summary": "Japanese Prime Minister Sanae Takaichi made a monetary offering to Yasukuni Shrine on Saturday, a symbol of Japanese mil…",
+   "regions": []
+  },
+  {
+   "title": "At least 20 dead after M7.7 quake hits off Indonesia's Flores Island",
+   "link": "https://news.cgtn.com/news/2026-08-15/news-1PCqyFYgP3q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-14T23:05:44.000Z",
+   "summary": "The death toll from a magnitude-7.7 earthquake and over 100 aftershocks off Flores Island in eastern Indonesia has risen…",
+   "regions": []
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558069",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-14T22:55:53.000Z",
+   "summary": "On 8/14/2026 10:37:17 PM, an earthquake occurred in Indonesia potentially affecting 8 thousand in MMI V. The earthquake …",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558064",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-14T22:52:53.000Z",
+   "summary": "On 8/14/2026 10:28:37 PM, an earthquake occurred in Indonesia potentially affecting 20 thousand in MMI VI. The earthquak…",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI>=VII).",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558062",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-14T22:43:38.000Z",
+   "summary": "On 8/14/2026 10:13:50 PM, an earthquake occurred in Indonesia potentially affecting 2 thousand (in MMI>=VII). The earthq…",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 70 thousand in MMI V.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558065",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-14T22:43:31.000Z",
+   "summary": "On 8/14/2026 10:18:06 PM, an earthquake occurred in Indonesia potentially affecting 70 thousand in MMI V. The earthquake…",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【灾害警报】Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.2 million (in MMI>=VII).",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558059",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-14T22:21:19.000Z",
+   "summary": "On 8/14/2026 9:58:21 PM, an earthquake occurred in Indonesia potentially affecting 1.2 million (in MMI>=VII). The earthq…",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Colombian earthquake victims continue to shelter outside",
+   "link": "https://newsus.cgtn.com/news/2026-08-15/Colombian-earthquake-victims-continue-to-shelter-outside-1PChx2bZ1AY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-14T21:06:31.000Z",
+   "summary": "Colombian earthquake victims continue to shelter outside",
+   "regions": []
+  },
+  {
+   "title": "Google shows off new Pixel that helps users spend less time on phone",
+   "link": "https://newsus.cgtn.com/news/2026-08-15/Google-shows-off-new-Pixel-that-helps-users-spend-less-time-on-phone-1PChzFaRh2E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-14T21:06:25.000Z",
+   "summary": "Google shows off new Pixel that helps users spend less time on phone",
+   "regions": []
+  },
+  {
+   "title": "Machinery aiding Colombia earthquake rescue and recovery efforts",
+   "link": "https://newsus.cgtn.com/news/2026-08-15/Machinery-aiding-Colombia-earthquake-rescue-and-recovery-efforts-1PChE4Hmi88/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-14T21:06:11.000Z",
+   "summary": "Machinery aiding Colombia earthquake rescue and recovery efforts",
+   "regions": []
+  }
+ ],
+ "updatedAt": "2026-08-17T14:23:32.978Z"
+}

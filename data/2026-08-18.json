@@ -1,0 +1,260 @@
+{
+ "date": "2026-08-18",
+ "tech": [
+  {
+   "title": "苹果 visionOS 26.6.1 正式版发布",
+   "link": "https://www.ithome.com/0/990/865.htm",
+   "source": "IT之家",
+   "time": "2026-08-17T17:49:18.000Z",
+   "summary": "IT之家 8 月 18 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6.1 更新（内部版本号：23O780），本次更新距离上次发布正式版间隔 21 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可…",
+   "regions": []
+  },
+  {
+   "title": "苹果 watchOS 27.0 开发者预览版 Beta 6 发布",
+   "link": "https://www.ithome.com/0/990/864.htm",
+   "source": "IT之家",
+   "time": "2026-08-17T17:49:17.000Z",
+   "summary": "【 点此直达升级教程 】 IT之家 8 月 18 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24R5353a），本次更新距离上次发布 Beta/RC 间隔…",
+   "regions": []
+  },
+  {
+   "title": "苹果 visionOS 27.0 开发者预览版 Beta 6 发布",
+   "link": "https://www.ithome.com/0/990/863.htm",
+   "source": "IT之家",
+   "time": "2026-08-17T17:49:17.000Z",
+   "summary": "IT之家 8 月 18 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24M5355a），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，…",
+   "regions": []
+  },
+  {
+   "title": "苹果 macOS 27.0 开发者预览版 Beta 6 发布",
+   "link": "https://www.ithome.com/0/990/862.htm",
+   "source": "IT之家",
+   "time": "2026-08-17T17:49:17.000Z",
+   "summary": "IT之家 8 月 18 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 6 更新（内部版本号：26A5416b），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPad…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 6 发布",
+   "link": "https://www.ithome.com/0/990/861.htm",
+   "source": "IT之家",
+   "time": "2026-08-17T17:49:16.000Z",
+   "summary": "【 点此直达升级教程 】 IT之家 8 月 18 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24A5418b），本次更新距离上次发布 Beta/…",
+   "regions": []
+  },
+  {
+   "title": "1 亿目标更近一步！曝华为鸿蒙 HarmonyOS 系统装机量突破 8000 万台",
+   "link": "https://www.ithome.com/0/990/860.htm",
+   "source": "IT之家",
+   "time": "2026-08-17T16:24:23.000Z",
+   "summary": "IT之家 8 月 18 日消息，奇妙工具箱数据显示， 华为鸿蒙 HarmonyOS 装机量突破 8000 万台 ，目前已达 8010.91 万台。 据IT之家此前报道，在今年 3 月的直播中，华为常务董事、产品投资评审委员会主任、终端 BG…",
+   "regions": []
+  }
+ ],
+ "world": [
+  {
+   "title": "莫斯科市长：俄防空系统击落四架飞往莫斯科的无人机",
+   "link": "https://sputniknews.cn/20260818/1072820001.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T20:11:08.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯莫斯科市市长索比亚宁表示，俄军防空系统击落了4架飞往莫斯科的无人机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄国防部：俄防空系统12小时击落316架乌克兰无人机",
+   "link": "https://sputniknews.cn/20260818/1072819884.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T20:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 据俄罗斯国防部消息，莫斯科时间8月17日8时至20时，俄军防空系统摧毁了316架乌克兰无人机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】219 km WSW of Longyearbyen, Svalbard and Jan Mayen",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015efp",
+   "source": "USGS地震台网",
+   "time": "2026-08-17T19:51:23.274Z",
+   "summary": "美国地质调查局官方监测：219 km WSW of Longyearbyen, Svalbard and Jan Mayen发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】16 km SSE of Honaunau-Napoopoo, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75019812",
+   "source": "USGS地震台网",
+   "time": "2026-08-17T19:24:08.290Z",
+   "summary": "美国地质调查局官方监测：16 km SSE of Honaunau-Napoopoo, Hawaii发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】28 km SE of Bodie, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420197",
+   "source": "USGS地震台网",
+   "time": "2026-08-17T18:52:05.180Z",
+   "summary": "美国地质调查局官方监测：28 km SE of Bodie, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】28 km NE of Colonia, Micronesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015efc",
+   "source": "USGS地震台网",
+   "time": "2026-08-17T18:51:11.299Z",
+   "summary": "美国地质调查局官方监测：28 km NE of Colonia, Micronesia发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄前驻华大使：反俄限制促进俄中贸易额的增长",
+   "link": "https://sputniknews.cn/20260818/1072819654.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T18:51:00.000Z",
+   "summary": "俄罗斯卫星通讯社喀山8月17日电 俄罗斯联邦委员会议员、前驻华大使安德烈·杰尼索夫对俄罗斯卫星通讯社表示，全球市场上的各种反俄限制措施，加上双方的共同兴趣，正促进俄中贸易额增长。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "特朗普称金正恩已就举行美朝谈判的呼吁作出回应",
+   "link": "https://sputniknews.cn/20260818/1072819785.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T18:46:37.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿8月17日电 美国总统特朗普在白宫表示，朝鲜最高领导人金正恩已就举行美朝谈判的呼吁作出回应。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】2 km NNW of Diamond Ridge, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgodma",
+   "source": "USGS地震台网",
+   "time": "2026-08-17T18:33:58.989Z",
+   "summary": "美国地质调查局官方监测：2 km NNW of Diamond Ridge, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄罗斯对韩小麦出口创2018年8月以来新高",
+   "link": "https://sputniknews.cn/20260818/1072819553.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T18:22:00.000Z",
+   "summary": "根据韩国海关数据，俄罗斯7月份对韩国的小麦出口额创下2018年8月以来的最高纪录，达到1440万美元。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】155 km N of Pototano, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ef3",
+   "source": "USGS地震台网",
+   "time": "2026-08-17T18:10:05.545Z",
+   "summary": "美国地质调查局官方监测：155 km N of Pototano, Indonesia发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】6 km WSW of Guánica, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528818",
+   "source": "USGS地震台网",
+   "time": "2026-08-17T18:03:07.160Z",
+   "summary": "美国地质调查局官方监测：6 km WSW of Guánica, Puerto Rico发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "德媒：北约已制定战略应对与俄罗斯可能爆发的冲突",
+   "link": "https://sputniknews.cn/20260818/1072819419.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T17:54:00.000Z",
+   "summary": "俄罗斯卫星通讯社柏林8月17日电 据德国《图片报》报道，北约已制定了应对与俄罗斯冲突的战略，北约计划中包括对俄罗斯领土实施打击。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "媒体：美国海军或因特朗普偏好改动新航母设计",
+   "link": "https://sputniknews.cn/20260818/1072819299.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T17:25:00.000Z",
+   "summary": "据《国会山报》（The Hill）援引美国前官员的话报道，美国海军正考虑按总统特朗普审美偏好修改“福特”级新航母设计。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外长：如果日本试图逃避其历史责任那么这令人担忧",
+   "link": "https://sputniknews.cn/20260818/1072819094.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T17:05:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月17日电 俄罗斯外交部长拉夫罗夫表示，如果日本试图为了自身利益而重塑国际法并逃避其历史责任，那么这令人担忧。",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "普京祝贺俄罗斯国家队在艺术体操世锦赛上夺冠",
+   "link": "https://sputniknews.cn/20260818/1072819197.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T16:57:33.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月17日电 克宫表示，俄罗斯国家队在德国美因河畔法兰克福举行的艺术体操世界锦标赛团体项目中夺冠，俄罗斯总统表示祝贺。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "伊拉克经叙利亚绕过霍尔木兹海峡的输油管道建设估价150亿美元",
+   "link": "https://sputniknews.cn/20260818/1072818977.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T16:45:00.000Z",
+   "summary": "据伊拉克新闻门户苏美尔新闻网（Alsumaria News）周一援引知情消息人士的话报道，为减少对霍尔木兹海峡的依赖，建设一条从伊拉克经叙利亚通往地中海的新输油管道项目至少需要4年时间和150亿美元。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "阿盟秘书长指责以色列总理内塔尼亚胡试图破坏加沙地带调解进程",
+   "link": "https://sputniknews.cn/20260818/1072818866.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T16:20:16.000Z",
+   "summary": "阿拉伯国家联盟（阿盟）秘书长纳比勒·法赫米表示，如果调解加沙局势的斡旋努力遭遇失败，责任应当由以色列承担。以色列总理本雅明·内塔尼亚胡意图维持现状并保留以色列在加沙地带的军事存在。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "俄国防部：俄军对向乌军运输军用物资的干货船实施打击",
+   "link": "https://sputniknews.cn/20260818/1072818766.html",
+   "source": "卫星社中文",
+   "time": "2026-08-17T16:02:05.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月17日电 俄罗斯国防部发布消息表示，俄军对敖德萨和尼古拉耶夫港口向乌军运输军事物资的干货船实施打击。",
+   "regions": [
+    "俄乌"
+   ]
+  }
+ ],
+ "updatedAt": "2026-08-18T00:15:33.241Z",
+ "tw": [],
+ "cn": []
+}

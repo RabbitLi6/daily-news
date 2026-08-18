@@ -193,9 +193,8 @@ footer a{color:var(--accent);text-decoration:none}
       <div class="empty"><div class="spinner"></div>正在抓取最新新闻…</div>
     </div></div>
     <footer>
-      <p>📅 每天自动存档，可回看历史 · 每 20 分钟自动检查更新 · 内容全部来自官方新闻网站</p>
-      __URL_LINE__
-      __PUBLIC_URL_LINE__
+      <p>📅 每天自动存档，可回看历史 · 内容全部来自官方新闻网站 · 自动更新中</p>
+      <p id="footerUrl"></p>
     </footer>
   </main>
 </div>
@@ -212,7 +211,7 @@ const TAB_DESC = {
   tw: '🇭🇰 香港、澳门、台湾最新热门新闻（来源：中新网中国频道、中新网滚动）',
   cn: '🏙️ 国内城市热门新闻与民生动态（来源：中新网社会频道、中新网中国频道、中新网滚动）',
 };
-const state = { dates: [], current: null, today: null, yesterday: null, data: null, tab: 'all', regions: new Set(), loading: false, error: null, search: { q: '', items: null, loading: false }, modal: null };
+const state = { dates: [], current: null, today: null, yesterday: null, data: null, tab: 'all', regions: new Set(), loading: false, error: null, search: { q: '', items: null, loading: false }, modal: null, mode: 'api', staticIndex: null };
 let currentItems = [];
 
 const $ = s => document.querySelector(s);
@@ -239,6 +238,40 @@ async function api(path, opts) {
   if (!r.ok) { const e = new Error(j.error || `HTTP ${r.status}`); e.code = r.status; throw e; }
   return j;
 }
+async function getJson(path) {
+  const r = await fetch(path);
+  if (!r.ok) { const e = new Error(`HTTP ${r.status}`); e.code = r.status; throw e; }
+  return r.json();
+}
+// 优先走本地 API，失败自动切换到静态数据（GitHub Pages 模式）
+async function fetchSmart(apiPath, staticPath) {
+  if (state.mode === 'static') return getJson(staticPath);
+  try { return await getJson(apiPath); }
+  catch (e) { state.mode = 'static'; return getJson(staticPath); }
+}
+async function loadStaticIndex() {
+  if (!state.staticIndex) {
+    const idx = await getJson('data/search-index.json');
+    state.staticIndex = idx.map(x => ({ title: x.t, link: x.l, source: x.s, date: x.d, cat: x.c, regions: x.r, time: x.m, summary: x.u }));
+  }
+  return state.staticIndex;
+}
+// 静态模式下的中文二元组相似度（与服务端算法一致）
+const jsTerms = s => {
+  const t = String(s).toLowerCase();
+  const words = new Set();
+  for (const w of t.matchAll(/[a-z0-9]{2,}/g)) words.add(w[0]);
+  const zh = t.replace(/[^\u4e00-\u9fff]/g, '');
+  for (let i = 0; i < zh.length - 1; i++) words.add(zh.slice(i, i + 2));
+  return words;
+};
+const jsSimilarity = (a, b) => {
+  const A = jsTerms(a), B = jsTerms(b);
+  if (!A.size || !B.size) return 0;
+  let shared = 0;
+  for (const w of A) if (B.has(w)) shared++;
+  return shared / Math.sqrt(A.size * B.size);
+};
 
 const fmtTime = (iso, selected) => {
   const d = new Date(iso); if (Number.isNaN(d.getTime())) return '';
@@ -340,7 +373,7 @@ function renderStatus() {
   $('#statusDot').className = 'dot ' + (state.data ? 'ok' : 'err');
   if (state.data?.updatedAt) {
     const t = new Date(state.data.updatedAt);
-    $('#statusText').textContent = `更新于 ${pad2(t.getHours())}:${pad2(t.getMinutes())} · 每天自动更新`;
+    $('#statusText').textContent = `更新于 ${pad2(t.getHours())}:${pad2(t.getMinutes())}` + (state.mode === 'static' ? ' · 云端自动更新' : ' · 每天自动更新');
   } else {
     $('#statusText').textContent = state.error || '无法连接服务';
   }
@@ -379,7 +412,7 @@ function renderDateChips() {
 }
 
 async function loadDates() {
-  const res = await api('/api/dates');
+  const res = await fetchSmart('/api/dates', 'data/dates.json');
   state.today = res.today;
   const y = new Date(); y.setDate(y.getDate() - 1);
   state.yesterday = localDateOf(y);
@@ -395,7 +428,7 @@ async function selectDate(d) {
   $('#dateInput').value = d;
   if (!state.data) { state.loading = true; renderList(); }
   try {
-    state.data = await api(`/api/news?date=${encodeURIComponent(d)}`);
+    state.data = await fetchSmart(`/api/news?date=${encodeURIComponent(d)}`, `data/${d}.json`);
   } catch (e) {
     state.data = null;
     const earliest = state.dates[state.dates.length - 1];
@@ -411,9 +444,14 @@ async function refreshToday() {
   const btn = $('#refreshBtn');
   btn.disabled = true; btn.textContent = '⏳ 更新中…';
   try {
-    await api('/api/refresh', { method: 'POST' });
-    await loadDates();
-    await selectDate(state.today);
+    if (state.mode === 'static') {
+      await loadDates();
+      await selectDate(state.today);
+    } else {
+      await api('/api/refresh', { method: 'POST' });
+      await loadDates();
+      await selectDate(state.today);
+    }
   } catch (e) { alert('刷新失败：' + e.message); }
   finally { btn.disabled = false; btn.textContent = '🔄 刷新'; }
 }
@@ -448,9 +486,17 @@ async function runSearch() {
   const q = state.search.q.trim();
   if (!q) return;
   try {
-    const res = await api(`/api/search?q=${encodeURIComponent(q)}`);
+    let results;
+    if (state.mode === 'static') {
+      const idx = await loadStaticIndex();
+      results = idx.filter(x => `${x.title} ${x.summary||''} ${x.source||''}`.toLowerCase().includes(q.toLowerCase()))
+        .sort((a, b) => (b.time||'').localeCompare(a.time||'')).slice(0, 80);
+    } else {
+      const res = await api(`/api/search?q=${encodeURIComponent(q)}`);
+      results = res.results.map(x => ({ ...x, cat: (x.cat === 'tw' || x.cat === 'cn') ? x.cat : catOf(x) }));
+    }
     if (state.search.q === q) {
-      state.search.items = res.results.map(x => ({ ...x, cat: (x.cat === 'tw' || x.cat === 'cn') ? x.cat : catOf(x) }));
+      state.search.items = results;
       state.search.loading = false;
       render();
     }
@@ -474,7 +520,19 @@ $('#search').addEventListener('keydown', e => { if (e.key === 'Enter') { clearTi
 function openDetail(item) {
   state.modal = { item, related: null, loading: true };
   renderModal();
-  api(`/api/related?link=${encodeURIComponent(item.link)}&title=${encodeURIComponent(item.title)}`)
+  const loadRelated = state.mode === 'static'
+    ? loadStaticIndex().then(idx => {
+        const scored = [];
+        for (const x of idx) {
+          if (x.link === item.link) continue;
+          const s = jsSimilarity(item.title, x.title);
+          if (s >= 0.12) scored.push({ ...x, score: s });
+        }
+        scored.sort((a, b) => b.score - a.score || (b.time||'').localeCompare(a.time||''));
+        return { results: scored.slice(0, 5) };
+      })
+    : api(`/api/related?link=${encodeURIComponent(item.link)}&title=${encodeURIComponent(item.title)}`);
+  loadRelated
     .then(res => {
       if (state.modal) { state.modal.related = res.results.map(x => ({ ...x, cat: (x.cat === 'tw' || x.cat === 'cn') ? x.cat : catOf(x) })); state.modal.loading = false; renderModal(); }
     })
@@ -533,10 +591,17 @@ $('#refreshBtn').onclick = refreshToday;
 setInterval(async () => {
   if (state.current !== state.today) return;
   try {
-    const d = await api(`/api/news?date=${state.today}`);
+    const d = await fetchSmart(`/api/news?date=${state.today}`, `data/${state.today}.json`);
     if (d.updatedAt !== state.data?.updatedAt) { state.data = d; render(); }
   } catch {}
 }, 2 * 60 * 1000);
+
+// 页脚显示当前访问地址
+const host = location.host;
+const isLocalHost = /^(127\.|localhost|192\.168\.|10\.|172\.(1[6-9]|2\d|3[01])\.)/.test(host.split(':')[0]);
+$('#footerUrl').innerHTML = isLocalHost
+  ? `💻 电脑 <a href="${location.origin}/">${location.origin}</a>　📱 手机（同一 WiFi）同样打开此地址`
+  : `🌐 公网访问：<a href="${location.origin}/">${location.origin}</a>（微信内直接点开即可浏览）`;
 
 init();
 </script>
