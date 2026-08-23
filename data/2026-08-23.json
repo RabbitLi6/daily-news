@@ -1,0 +1,2093 @@
+{
+ "date": "2026-08-23",
+ "tech": [
+  {
+   "title": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路",
+   "link": "https://www.ithome.com/0/993/317.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T15:24:10.000Z",
+   "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果零售店布局即将迎来调整，为一系列新的家庭设备做准备。 古尔曼披露，苹果今年秋季将准备重新调整零售店， 为新的家庭设备腾出空…",
+   "regions": []
+  },
+  {
+   "title": "揭秘苹果摄像头版 AirPods 为何泄露：可能是测试新功能时合并错误",
+   "link": "https://www.ithome.com/0/993/316.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T15:22:40.000Z",
+   "summary": "IT之家 8 月 23 日消息，苹果在 8 月 17 日发布 macOS Tahoe 26.7 RC 时，意外泄露了摄像头版 AirPods 的演示视频。除了耳机惨遭曝光以外，这个系统还包含了 Home Hub 家庭中枢等大量未公布产品信息…",
+   "regions": []
+  },
+  {
+   "title": "联影医疗、天津大学发布全球首个磁共振脑机接口全栈式解决方案 uMR 神观",
+   "link": "https://www.ithome.com/0/993/315.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T15:18:31.000Z",
+   "summary": "IT之家 8 月 23 日消息，由天津大学、脑机交互与人机共融海河实验室、联影医疗共同主办的全国首届磁共振脑机接口大会今日在天津市举办。 上海联影医疗科技股份有限公司与天津大学共同发布了 全球首个磁共振脑机接口全栈式解决方案“uMR 神观”…",
+   "regions": []
+  },
+  {
+   "title": "前 R 星技术总监谈《GTA 6》画面泄露：实则“没什么大不了”",
+   "link": "https://www.ithome.com/0/993/314.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T15:14:52.000Z",
+   "summary": "IT之家 8 月 23 日消息，Rockstar Games 资深开发者奥贝 · 维尔梅伊回应了近期接连出现的《GTA 6》游戏画面泄露，认为对 R 星来说，这些泄露其实“没什么大不了”。 近日，黑客组织 Cyberleek 不知如何获得了…",
+   "regions": []
+  },
+  {
+   "title": "获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心",
+   "link": "https://www.ithome.com/0/993/313.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T15:09:37.000Z",
+   "summary": "IT之家 8 月 23 日消息，据外媒 Interesting Engineering 今天报道，美国初创公司 Starcloud 已完成 2.5 亿美元 （IT之家注：现汇率约合 16.86 亿元人民币） A 轮扩展融资，估值达到 23 …",
+   "regions": []
+  },
+  {
+   "title": "古尔曼：iPhone 18 系列计划涨价，苹果将自行消化一部分成本",
+   "link": "https://www.ithome.com/0/993/312.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T15:00:38.000Z",
+   "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果即将用首款折叠屏 iPhone 重新找回久违的产品新鲜感。同时，公司正在考虑上调下个月发布的新款 iPhone 18 系列…",
+   "regions": []
+  },
+  {
+   "title": "消息称苹果外部已有人体验过折叠屏 iPhone：屏幕铰链评价积极，但缺少长焦镜头",
+   "link": "https://www.ithome.com/0/993/311.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T14:55:30.000Z",
+   "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，他已经与多位体验过苹果折叠屏 iPhone 手机的外部人士交流。 这款手机预计将于下个月和大众见面 ，外界普遍认为其名为 iPhone Ul…",
+   "regions": []
+  },
+  {
+   "title": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军",
+   "link": "https://www.ithome.com/0/993/310.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T14:38:51.000Z",
+   "summary": "IT之家 8 月 23 日消息，据央视新闻报道，第二届世界人形机器人运动会昨天（8 月 22 日）在国家速滑馆开幕。今天（8 月 23 日），1500 米决赛鸣枪开跑，共 34 支队伍参赛。 “天卓队”以 2 分 21 秒 63 夺冠，大幅…",
+   "regions": []
+  },
+  {
+   "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
+   "link": "http://www.geekpark.net/news/369223",
+   "source": "极客公园",
+   "time": "2026-08-23T14:35:51.000Z",
+   "summary": "如果物理 AI 也能 scaling，意味着什么？ 作者｜Li Yuan 编辑｜靖宇 研究人员先教机器人拿起刷子，把桌上的积木扫进碗里。 然后，他们把刷子拿走，换成一根香蕉。 机器人抓起香蕉，将它横过来贴住桌面，把积木一点点扫进碗中。 随后…",
+   "regions": []
+  },
+  {
+   "title": "加州伯克利数学教授撰文批评学生基础差，却被抓包“用 AI 写的”",
+   "link": "https://www.ithome.com/0/993/309.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T14:33:38.000Z",
+   "summary": "IT之家 8 月 23 日消息，据英国《卫报》20 日报道，加州大学伯克利分校数学教授兹韦兹德利娜 · 斯坦科娃日前在《旧金山标准报》撰文批评部分学生存在“严重”的数学基础缺失，却又承认文章本身曾借助 AI 编辑，由此引发争议。 《旧金山标…",
+   "regions": []
+  },
+  {
+   "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
+   "link": "http://www.geekpark.net/news/369221",
+   "source": "极客公园",
+   "time": "2026-08-23T14:33:26.000Z",
+   "summary": "从人形、轮式到重载，从家庭、零售到工业，银河星脑正在走进更多身体和真实场景。 作者｜Li Yuan 编辑｜ 靖宇 每年走进世界机器人大会，人们最先看到的都是身体。 有的机器人长出双腿，有的装上轮子；有的把手指做得越来越像人，有的用钢铁手臂扛…",
+   "regions": []
+  },
+  {
+   "title": "国补后立减 5000 元：华为 Mate X6 折叠屏手机京东 8999 元再降价",
+   "link": "https://www.ithome.com/0/993/308.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T14:32:02.000Z",
+   "summary": "华为 Mate X6 折叠屏手机 2024 年 12 月开售，12+512G 上市价 13999 元。 今日京东直降至 9999 元，叠加国补 500~1000 元，实付仅需 8999 元起 +12 期免息： 京东 HUAWEI Mate …",
+   "regions": []
+  },
+  {
+   "title": "宫崎英高确认《黄昏血族》游戏将包含匹配机制，保护新手免受高手虐菜",
+   "link": "https://www.ithome.com/0/993/307.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T14:27:56.000Z",
+   "summary": "IT之家 8 月 23 日消息，FromSoftware 社长、《黄昏血族》（The Duskbloods）游戏总监接受 IGN 采访时确认，本作将采用基于玩家技术水平的匹配机制（SBMM），避免新手玩家遇到高手虐菜。 宫崎英高表示：“我们…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+   "link": "https://www.ithome.com/0/993/305.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T14:13:31.000Z",
+   "summary": "IT之家 8 月 23 日消息，据英国《卫报》今天（23 日）报道，OpenAI 首席全球事务官克里斯 · 勒汉恩警告，前沿 AI 模型已经开始具备 规划和发动复杂网络攻击 的能力，公众和企业需要为 AI“持续不断”的网络攻击做好防御准备。…",
+   "regions": []
+  },
+  {
+   "title": "三星 Galaxy S27 Ultra 手机后盖工程图流出，可能存在两个版本",
+   "link": "https://www.ithome.com/0/993/303.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T14:07:20.000Z",
+   "summary": "IT之家 8 月 23 日消息，微博博主 @i冰宇宙 今日放出了三星 Galaxy S27 Ultra 手机的后盖工程图，显示该机目前存在两个版本：一个和后摄模组对齐，一个靠下。 X 平台消息人士 Sonny Dickson 随后表示， G…",
+   "regions": []
+  },
+  {
+   "title": "DOTA2 TI 史上首支三冠队伍：Team Spirit 获得 2026 年国际邀请赛冠军",
+   "link": "https://www.ithome.com/0/993/302.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T13:58:38.000Z",
+   "summary": "IT之家 8 月 23 日消息，TI2026 主赛事总决赛，Team Spirit 在第五局中取胜，总比分 3-2 战胜 TEAM VISION，获得 2026 年国际邀请赛冠军！ 这是 Team Spirit 第三次获得国际邀请赛冠军， …",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
+   "link": "https://www.ithome.com/0/993/301.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T13:53:40.000Z",
+   "summary": "IT之家 8 月 23 日消息，OpenAI 本周推出了 ChatGPT 青少年版，专门面向年轻用户，并通过年龄识别机制限制部分功能。 对此，外媒 Engadget 采访了多名儿童安全专家，他们对 ChatGPT 青少年版的评价并不一致。但…",
+   "regions": []
+  },
+  {
+   "title": "三星 Galaxy Store 应用商店付款功能将停止支持安卓 4.x 系统",
+   "link": "https://www.ithome.com/0/993/299.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T13:44:57.000Z",
+   "summary": "IT之家 8 月 23 日消息，据科技媒体 SammyGuru 今天报道，三星近日宣布，Galaxy Store 应用商店的付款系统将从 8 月 25 日起， 不再支持安卓 4.x 或更旧版本的操作系统 。 IT之家从原报道了解到，8 月 …",
+   "regions": []
+  },
+  {
+   "title": "杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留",
+   "link": "https://www.ithome.com/0/993/298.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T13:44:03.000Z",
+   "summary": "IT之家 8 月 23 日消息，据法治天地今日报道，今年 7 月 8 日，某互联网企业向上海黄浦警方报案，称某自媒体账号发布内容为“知名企业上市失败”的不实贴文，对公司声誉造成负面影响。 黄浦公安分局网安部门接报后迅速开展调查，锁定了该账号…",
+   "regions": []
+  },
+  {
+   "title": "荣耀晒“闪电”机器人最新战报：打破半马、峰值速度等 5 项人类世界纪录",
+   "link": "https://www.ithome.com/0/993/297.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T13:32:27.000Z",
+   "summary": "IT之家 8 月 23 日消息，今天（23 日）晚间，荣耀通过官微宣布：旗下自研人形机器人“闪电”打破五项人类世界纪录。 半马成绩 50 分 26 秒，打破人类半马世界纪录。 1500 米成绩 2 分 30 秒，打破人类 1500 米世界纪…",
+   "regions": []
+  },
+  {
+   "title": "众擎 CEO 赵同阳：通用人形机器人单台成本已降至十万元以下",
+   "link": "https://www.ithome.com/0/993/296.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T13:30:33.000Z",
+   "summary": "IT之家 8 月 23 日消息，据蓝鲸科技报道，众擎创始人兼 CEO 赵同阳在 2026 年世界机器人大会接受媒体采访时谈及了人形机器人成本相关话题。 赵同阳表示，通用人形机器人单台成本已降至十万元以下。 三年前，通用人形机器人单台成本超百…",
+   "regions": []
+  },
+  {
+   "title": "奇瑞捷途旅行者 7 & 旅行者 7C-DM 开启小订",
+   "link": "https://www.ithome.com/0/993/295.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T13:25:21.000Z",
+   "summary": "IT之家 8 月 23 日消息，奇瑞捷途旅行者 7 &amp; 旅行者 7C-DM 汽车现已开启小订， 现在支付 777 元意向金可享受 6 折选购 5000 元高定车漆 、 免费赠送 5000 元高定新色内饰 、赠送价值 999 元智能车…",
+   "regions": []
+  },
+  {
+   "title": "安世中国 CEO 张秋明：过去 11 个月已交付超 400 亿颗芯片",
+   "link": "https://www.ithome.com/0/993/294.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T13:02:18.000Z",
+   "summary": "8 月 23 日晚间消息，在安世中国新品全球发布会上，安世中国首席执行官张秋明发表演讲。张秋明透露， 过去 11 个月以来，安世中国已经向全球上千家客户交付超过 400 亿颗芯片 。 张秋明表示，作为全球功率半导体龙头之一，我们的核心业务和…",
+   "regions": []
+  },
+  {
+   "title": "第二届世界人形机器人运动会：智元精灵 G2 成功摘取“消防应急场景”“图书场景”两枚金牌",
+   "link": "https://www.ithome.com/0/993/292.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T12:59:19.000Z",
+   "summary": "IT之家 8 月 23 日消息，今日，第二届世界人形机器人运动会正式开赛，智元核心产品精灵 G2、灵犀 X2、远征 A3 悉数参加。在已经完赛的“场景赛”部分项目中，智元精灵 G2 取得了两金三银两铜的好成绩。截至目前， 智元位于奖牌榜首位…",
+   "regions": []
+  },
+  {
+   "title": "能像“骑马”一样操控，大咖机器人 DaxAI 展示骐骥系列四足机器马",
+   "link": "https://www.ithome.com/0/993/291.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T12:54:06.000Z",
+   "summary": "IT之家 8 月 23 日消息，搭载机器骑手的四足机器人，成为 2026 北京世界机器人大会上的热门展品之一。 大咖机器人（DaxAI Robotics）在此次大会上展出了骐骥 X1，将四足机器人平台与鞍座、车把结合，让用户能够像骑马一样操…",
+   "regions": []
+  },
+  {
+   "title": "百度：没有增发配售计划",
+   "link": "https://www.ithome.com/0/993/289.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T12:49:38.000Z",
+   "summary": "IT之家 8 月 23 日消息，据科创板日报消息，百度相关负责人回应称， 百度没有增发配售计划 ，现有资金及经营现金流足以支持既定业务发展。 截至二季度末，百度现金及投资总额达 2,831 亿元，经营现金流连续四个季度为正。与此同时，百度 …",
+   "regions": []
+  },
+  {
+   "title": "2027 北京亦庄人形机器人半程马拉松大赛开启全球邀请，赛事规格再升级",
+   "link": "https://www.ithome.com/0/993/288.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T12:49:37.000Z",
+   "summary": "IT之家 8 月 23 日消息，北京亦庄今日宣布，2027 北京亦庄半程马拉松暨人形机器人半程马拉松正式开启全球邀请。 据官方介绍，本届赛事将搭建更广阔的竞技舞台，加码更丰厚的赛事激励，打造更出彩的赛事标杆，面向全球，邀约顶尖科研创新团队齐…",
+   "regions": []
+  },
+  {
+   "title": "第二届世界人形机器人运动会 400 米小型组田径决赛：天工 Omni 以 45.66 秒夺冠",
+   "link": "https://www.ithome.com/0/993/286.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T12:35:44.000Z",
+   "summary": "IT之家 8 月 23 日消息，第二届世界人形 机器人 运动会今日进行，在 400 米田径小型组决赛中，天工机器人再次夺冠，现场显示成绩为 45.66 秒。 据悉，在 400 米田径小型组赛上，天工队所派出的机器人型号为天工 Omni。 天…",
+   "regions": []
+  },
+  {
+   "title": "美国专家示警：学生依赖“AI 代写”会削弱思考能力",
+   "link": "https://www.ithome.com/0/993/274.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T12:28:38.000Z",
+   "summary": "IT之家 8 月 23 日消息，美国学生使用 AI 完成作业、甚至代写整篇论文的现象已经十分普遍，也有不少学校允许学生在一定范围内借助 AI 工具。 据《纽约时报》当地时间 17 日报道，越来越多专家担心，问题可能不只是学生会不会写文章，而…",
+   "regions": []
+  },
+  {
+   "title": "长城欧拉 5 运动款、欧拉 5 GT 亮相，8 月 28 日上市",
+   "link": "https://www.ithome.com/0/993/268.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T12:25:44.000Z",
+   "summary": "IT之家 8 月 23 日消息，长城欧拉 5 运动款和欧拉 5 GT 现已在 2026 成都车展亮相，新车将于 8 月 28 日正式上市。 IT之家了解到，欧拉 5 运动款基于欧拉 5 普通版打造，最大的亮点便是采用了双色车身设计，搭载专属…",
+   "regions": []
+  },
+  {
+   "title": "嫦娥七号任务不满足发射条件，不能在今年预定窗口实施",
+   "link": "https://www.ithome.com/0/993/265.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T12:10:03.000Z",
+   "summary": "IT之家 8 月 23 日消息，据央视新闻报道，记者 23 日从中国载人航天工程办公室了解到，本着稳妥可靠、万无一失的原则，经综合研判， 嫦娥七号任务不满足发射条件，不能在今年预定窗口实施 。 据IT之家此前报道， 嫦娥七号探测器 、 长征…",
+   "regions": []
+  },
+  {
+   "title": "美国多地官员因 AI 数据中心项目遭死亡威胁与枪击",
+   "link": "https://www.ithome.com/0/993/263.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T11:53:41.000Z",
+   "summary": "IT之家 8 月 23 日消息，据科技媒体 Tom's Hardware 今天报道，美国密歇根州马歇尔市官员于 8 月 3 日下发 AI 数据中心建设暂停令，为期一年。然而仅仅过了 10 天，该市议员就收到了死亡威胁。 马歇尔市长斯科特 ·…",
+   "regions": []
+  },
+  {
+   "title": "2 分 30 秒完赛，荣耀机器人“闪电”打破 1500 米人类世界纪录",
+   "link": "https://www.ithome.com/0/993/262.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T11:44:22.000Z",
+   "summary": "IT之家 8 月 23 日消息，今天（23 日）晚间，荣耀手机官微宣布，在第二届世界人形机器人运动会 1500 米大型组项目决赛中，荣耀机器人“闪电” 以 2 分 30 秒的成绩完赛 ，打破 1500 米人类世界纪录。 值得一提的是，在本届…",
+   "regions": []
+  },
+  {
+   "title": "开学网课走起：百度网盘超级会员 + 百度文库年卡 199 元半价预售",
+   "link": "https://www.ithome.com/0/993/261.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T11:37:20.000Z",
+   "summary": "百度网盘 SVIP 会员年卡官方定价 298 元，百度文库 VIP 会员年卡官方定价 129 元，合计 427 元。 今日开学狂促预售 联合年卡仅需 199 元 ，立打 4.66 折： 天猫 百度文库 + 百度网盘 联合年卡 全款预售 8 …",
+   "regions": []
+  },
+  {
+   "title": "挪威呼吁校园内禁止使用 AI 眼镜",
+   "link": "https://www.ithome.com/0/993/260.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T11:28:01.000Z",
+   "summary": "IT之家 8 月 23 日消息，据 CCTV 国际时讯援引挪威广播公司报道，挪威负责中小学教育及幼教事务的大臣卡丽 · 内萨 · 诺尔敦当地时间 8 月 22 日呼吁，挪威各地方政府和学校应通过学校规章制度， 禁止在校园内使用 AI 眼镜 …",
+   "regions": []
+  },
+  {
+   "title": "诺亦腾机器人发布 HiPHI，开源 617.5 小时高精度人体运动数据",
+   "link": "https://www.ithome.com/0/993/258.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T11:18:50.000Z",
+   "summary": "IT之家 8 月 23 日消息，诺亦腾机器人在 2026 世界机器人大会期间发布 HiPHI，这是一套面向人形机器人学习、数字人，以及计算机图形学领域研究人员和工程师的高精度光学动作捕捉数据集。 据报道， 该数据集总长 617.5 小时 ，…",
+   "regions": []
+  },
+  {
+   "title": "因预约人数远超预期，《莱莎的炼金工房》衍生 AI 聊天游戏延期上线",
+   "link": "https://www.ithome.com/0/993/257.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T10:56:46.000Z",
+   "summary": "IT之家 8 月 23 日消息，据日媒 4Gamers 报道，由光荣特库摩游戏授权、SpiralAI 开发的 AI 聊天游戏《RyzaChat:AI 与莱莎共同创造只属于你的盛夏梦幻故事》将延期上线。 据报道，本作原定 8 月 18 日上线…",
+   "regions": []
+  },
+  {
+   "title": "Xbox 技术总监：我们支持保护知识产权，正与 Take-Two 和 R 星密切合作",
+   "link": "https://www.ithome.com/0/993/256.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T10:54:49.000Z",
+   "summary": "IT之家 8 月 23 日消息，《侠盗猎车手 6》开发商 Rockstar 和发行商 Take-Two Interactive 最近都遇上了麻烦：本周早些时候开始，大批游戏实机内容突遭泄露，不仅曝光完整的莱昂尼达地图，还出现了疑似已经接近最…",
+   "regions": []
+  },
+  {
+   "title": "广汽埃安 N60 曜夜型格运动套装上市：价值 6666 元，限时购车免费送",
+   "link": "https://www.ithome.com/0/993/255.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T10:47:21.000Z",
+   "summary": "IT之家 8 月 23 日消息，广汽埃安 N60 曜夜型格运动套装现已上市，价值 6666 元，8 月购车限时免费送。 据介绍，曜夜型格运动套装包含曜夜前唇、驭风后扰流、边锋侧裙、掠风尾翼；全套黑化风格，优化车身姿态。 据IT之家此前报道，…",
+   "regions": []
+  },
+  {
+   "title": "致敬怀旧存储介质：麦克赛尔重新推出 UD-60U 磁带",
+   "link": "https://www.ithome.com/0/993/253.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T10:26:46.000Z",
+   "summary": "IT之家 8 月 23 日消息，麦克赛尔（Maxell）现已联合日本唱片零售商 Disk Union 重新推出 UD-60U 磁带，致敬 20 世纪怀旧存储介质。 据介绍，麦克赛尔最初于 20 世纪 70 年代，面向大众市场推出 UD 系列…",
+   "regions": []
+  },
+  {
+   "title": "科隆游戏展总监：《GTA 6》就像是行业的北极星",
+   "link": "https://www.ithome.com/0/993/252.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T10:26:31.000Z",
+   "summary": "IT之家 8 月 23 日消息，当地时间 22 日，科隆游戏展品牌总监斯特凡 · 海克豪斯在接受 GamesRadar+ 采访时指出：“《侠盗猎车手》这样的游戏，以及过去几年推出的其他大型作品，对行业都极其重要。它们 就像游戏行业的北极星 …",
+   "regions": []
+  },
+  {
+   "title": "顺丰升级“城市迷你仓 2.0”：可远程完成物品存取、寄递，并在广州启动移动仓试点",
+   "link": "https://www.ithome.com/0/993/251.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T10:22:14.000Z",
+   "summary": "IT之家 8 月 23 日消息，今年 4 月， 顺丰在广州推出“城市迷你仓”服务 ，主要面向个人和企业提供自助仓储选择。仓型覆盖 0.7 立方米到 45 立方米，最小单位支持 15 天起租，支持全天 24 小时自助存取，同时可无缝对接客户的…",
+   "regions": []
+  },
+  {
+   "title": "全球首款电容式全身电子皮肤发布，为仿生机器人提供类人全身触觉感知与智能交互能力",
+   "link": "https://www.ithome.com/0/993/250.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T10:01:35.000Z",
+   "summary": "IT之家 8 月 23 日消息，在 2026 世界机器人大会期间，汉威科技与卓益得联合发布全球首款电容式全身电子皮肤，为仿生机器人提供类人全身触觉感知与智能交互能力。 官方表示，目前机器人触觉感知方案主要集中在灵巧手的指尖、指腹、手掌等部位…",
+   "regions": []
+  },
+  {
+   "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+   "link": "https://www.ithome.com/0/993/248.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T10:01:14.000Z",
+   "summary": "IT之家 8 月 23 日消息，据新华网报道，橡鹿机器人今日在 2026 世界机器人大会全球首发三款新品：多模态烹饪 AI 基座 CookingMuse 厨启、3K 视觉 AI 炒菜机器人和具身烹饪机器人“现炒方舟”。 IT之家从原报道获悉…",
+   "regions": []
+  },
+  {
+   "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
+   "link": "https://www.ithome.com/0/993/242.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T09:49:59.000Z",
+   "summary": "IT之家 8 月 23 日消息，据外媒 Neowin 当地时间 21 日报道，微软计划在英国利兹斯凯尔顿农庄建设一座超大规模 AI 数据中心园区。其规模包括 3 栋建筑，总建筑面积达到 4.65 万平方米。这项计划遭到当地居民反对，社区发起…",
+   "regions": []
+  },
+  {
+   "title": "招 300 人超 8000 人报名：格力技工学校报名已结束，董明珠亲自当校长",
+   "link": "https://www.ithome.com/0/993/240.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T09:45:58.000Z",
+   "summary": "IT之家 8 月 23 日消息，8 月 21 日，珠海市格力技工学校正式关闭 2026 年招生报名通道。据蓝鲸新闻从学校方面了解到，截至到最终报名， 初步统计报名人数超 8000 人。 学校工作人员表示报名结束后，还会安排线下或线上的面试环…",
+   "regions": []
+  },
+  {
+   "title": "小米新款超旗舰充电宝曝光：97.36Wh、多口输出 250W MAX，自带伸缩线",
+   "link": "https://www.ithome.com/0/993/239.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T09:34:09.000Z",
+   "summary": "IT之家 8 月 23 日消息，一款型号为 P25 的小米移动电源前天通过 3C 认证，博主 @体验more 称该产品为超旗舰充电宝品类。 IT之家从该条微博获悉， 这款充电宝采用自带伸缩线设计 ， 支持 140W 高速自充 ， 多口输出功…",
+   "regions": []
+  },
+  {
+   "title": "消息称追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁",
+   "link": "https://www.ithome.com/0/993/238.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T09:19:21.000Z",
+   "summary": "IT之家 8 月 23 日消息，据第一财经消息，追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁，办公区域大量工位闲置。 该媒体在 8 月下旬一个工作日进行了实地探访，在 9 楼的办公区域中，至少有三分之二以上的工位处于闲置状态，…",
+   "regions": []
+  },
+  {
+   "title": "美国造车新势力 Rivian CEO 斯卡林格：我们将直接影响大众下一代电车",
+   "link": "https://www.ithome.com/0/993/236.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T09:16:43.000Z",
+   "summary": "IT之家 8 月 23 日消息，美国造车新势力 Rivian 创始人兼 CEO RJ· 斯卡林格日前接受英媒《Auto Express》采访，披露了 Rivian 与大众汽车集团总额 45 亿英镑 （IT之家注：现汇率约合 413.34 亿…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI Codex 明天重置额度，并修复近期出现的用量消耗快问题",
+   "link": "https://www.ithome.com/0/993/235.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T09:11:30.000Z",
+   "summary": "IT之家 8 月 23 日消息，OpenAI Codex &amp; ChatGPT 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发文，回应近期网友提出的用量消耗过快问题，并将在明天为所有 Codex 订…",
+   "regions": []
+  },
+  {
+   "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹",
+   "link": "https://www.ithome.com/0/993/234.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T09:02:48.000Z",
+   "summary": "IT之家 8 月 23 日消息，据外媒 TechCrunch 报道，当地时间 20 日，皮尤研究中心发布的一项研究显示，自 2022 年 11 月 ChatGPT 问世后发布的网页中，超过三分之一可能带有 AI 生成痕迹。这一结果与其他研究…",
+   "regions": []
+  },
+  {
+   "title": "消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进",
+   "link": "https://www.ithome.com/0/993/233.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T08:50:16.000Z",
+   "summary": "IT之家 8 月 23 日消息，据博主 @智慧皮卡丘 消息，华为 Mate 90 系列手机风驰版继续迭代（预计为华为 Mate 90 Pro Max 风驰版），而且友商也会跟。 博主在评论区进一步表示，友商跟进的方式为“ 旗舰机上主动散热 …",
+   "regions": []
+  },
+  {
+   "title": "北汽株洲工厂技改完成：产能提升 33%，极狐贝塔 T1、S3 交付提速",
+   "link": "https://www.ithome.com/0/993/232.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T08:34:33.000Z",
+   "summary": "IT之家 8 月 23 日消息，极狐官方昨日宣布，北汽株洲工厂技改完成， 产能提升 33% ，极狐贝塔 T1、贝塔 S3 开启加速交付模式，全力排产，加快发运。 据介绍，2009 年，北汽株洲工厂落户株洲国家高新区，是北汽集团第一个自主品牌…",
+   "regions": []
+  },
+  {
+   "title": "传音推出 Infinix Xpad 30 Pro 平板，联发科 Helio G200 芯片、11 寸 2.5K 屏幕",
+   "link": "https://www.ithome.com/0/993/230.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T08:31:04.000Z",
+   "summary": "IT之家 8 月 23 日消息，传音现已在海外市场推出 Infinix Xpad 30 Pro 平板，新品搭载 11 英寸 2.5K 屏幕，定位中低端，定价约为 227 美元 （IT之家注：现汇率约合 1,531 元人民币） 。 据介绍， …",
+   "regions": []
+  },
+  {
+   "title": "总台中国之声解读车辆应急机械拉手安全隐患：与内饰颜色接近、不易识别",
+   "link": "https://www.ithome.com/0/993/229.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T08:25:20.000Z",
+   "summary": "IT之家 8 月 23 日消息，据中央广播电视总台中国之声今天（23 日）报道，日前，国家市场监督管理总局集中发布汽车召回公告，特斯拉、小米、小鹏、零跑等 9 家车企同步启动召回，覆盖数百万辆新能源汽车。本次召回的核心原因高度统一： 车内应…",
+   "regions": []
+  },
+  {
+   "title": "38.15s 跑完 400 米再次刷新人类纪录：北京人形天工 Ultra 夺得本届人形机器人运动会首金",
+   "link": "https://www.ithome.com/0/993/228.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T08:16:01.000Z",
+   "summary": "IT之家 8 月 23 日消息，在第二届世界人形机器人运动会“冰丝带”比赛现场，400 米大型组决赛开赛。经过角逐，天工队以 38.15 秒 的成绩夺得本届世界人形机器人运动会 首金 。 据IT之家此前报道，北京人形天工 Ultra 昨晚打…",
+   "regions": []
+  },
+  {
+   "title": "吉利汽车测试固态电池：500Wh/kg 电芯能量密度，目标续航破千公里",
+   "link": "https://www.ithome.com/0/993/227.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T08:06:54.000Z",
+   "summary": "IT之家 8 月 23 日消息，据外媒 insideevs 当地时间 20 日报道，吉利正在为 固态电池技术的实际应用 做准备，计划从 2027 年开始在旗下多个品牌中开展固态电池试点部署，作为子公司的沃尔沃也有望成为其中之一。 吉利公布的…",
+   "regions": []
+  },
+  {
+   "title": "英伟达砸 60 亿美元投资 Poolside，意图打造中国开源 AI 竞争对手",
+   "link": "https://www.ithome.com/0/993/226.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T08:05:55.000Z",
+   "summary": "IT之家 8 月 23 日消息，据《华尔街日报》今天报道，英伟达同意向人工智能初创企业 Poolside 支付 60 亿美元 （IT之家注：现汇率约合 404.58 亿元人民币） ，换取该公司的 AI 模型软件授权，同时将向该公司 109 …",
+   "regions": []
+  },
+  {
+   "title": "中国卫通推出“卫星移动数据业务”，合约机套餐售价 27999 元起",
+   "link": "https://www.ithome.com/0/993/224.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T07:59:38.000Z",
+   "summary": "IT之家 8 月 23 日消息，中国卫通 8 月 21 日宣布，推出“卫星移动数据业务”，首批适配三款官方认证终端。 中国卫通表示，即日起，面向消费级市场推出的“卫星移动数据业务”正式全面上线开售，推出三款移动数据业务适配的合约机产品，并由…",
+   "regions": []
+  },
+  {
+   "title": "联想推出 LOQ 15IPH11 游戏本：酷睿 Ultra 7 356H 处理器、RTX5050/5060 显卡",
+   "link": "https://www.ithome.com/0/993/223.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T07:45:42.000Z",
+   "summary": "IT之家 8 月 23 日消息，联想现已在海外市场推出 LOQ 15IPH11 游戏本，新品搭载英特尔 Panther Lake 平台，最高可选 32GB 内存和 15 英寸 180Hz 屏幕。 据介绍，这款笔记本搭载英特尔酷睿 Ultra…",
+   "regions": []
+  },
+  {
+   "title": "LG 新能源：固态电池在装进汽车之前，可能会先进入手机、无人机",
+   "link": "https://www.ithome.com/0/993/222.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T07:44:54.000Z",
+   "summary": "IT之家 8 月 23 日消息，据外媒 insideevs 当地时间 22 日报道，LG 新能源（LGES）认为，固态电池在大规模进入汽车市场前，可能会先在智能手机、无人机等非汽车领域实现商业化。 LGES 指出，虽然当前人们认为固态电池能…",
+   "regions": []
+  },
+  {
+   "title": "上纬新材董事长彭志辉：机器人的终点不是站在舞台上跳舞，而是真正进入每一个人的生活",
+   "link": "https://www.ithome.com/0/993/221.htm",
+   "source": "IT之家",
+   "time": "2026-08-23T07:43:32.000Z",
+   "summary": "IT之家 8 月 23 日消息，上纬新材消费级机器人启元 Q1、启元 T1 双产品开启预订，预计首批发货时间为今年 9 月。 智元机器人联合创始人兼 CTO、上纬新材董事长彭志辉（IT之家注：网名“稚晖君”）今日发文称，创业以来一直相信： …",
+   "regions": []
+  },
+  {
+   "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+   "link": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+   "source": "少数派",
+   "time": "2026-08-23T07:25:29.000Z",
+   "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ... 查看全文 本文为会员文章，出自…",
+   "regions": []
+  },
+  {
+   "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+   "link": "https://sspai.com/post/113002",
+   "source": "少数派",
+   "time": "2026-08-23T03:00:00.000Z",
+   "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。 查看全文",
+   "regions": []
+  },
+  {
+   "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
+   "link": "http://www.geekpark.net/news/369215",
+   "source": "极客公园",
+   "time": "2026-08-23T00:20:39.000Z",
+   "summary": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚「冰丝带」，666 支队伍竞技 51 赛项 8 月 22 日晚间，第二届世界人形机器人运动会在国家速滑馆「冰丝带」开幕。 本届赛事由北京市人民政府、中央广播电视总台、世界机器人合作组织、…",
+   "regions": []
+  }
+ ],
+ "world": [
+  {
+   "title": "专家认为以色列可能正在为在黎巴嫩南部发动地面行动做准备",
+   "link": "https://sputniknews.cn/20260823/1072894174.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T15:20:00.000Z",
+   "summary": "黎巴嫩军事专家阿里·伊泽丁对俄罗斯卫星通讯社表示，以色列持续空袭黎巴嫩南部阿里·塔赫尔高地可能是在为有限的地面行动或是为了在谈判期间增加对黎巴嫩和真主党的压力在准备条件。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green notification for tropical cyclone ISELLE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001309",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-23T15:12:58.000Z",
+   "summary": "From 23/08/2026 to 23/08/2026, a Tropical Storm (maximum wind speed of 120 km/h) ISELLE-26 was active in EastPacific. Th…",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】74 km ESE of Akutan, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qrjkdx",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T15:08:28.100Z",
+   "summary": "美国地质调查局官方监测：74 km ESE of Akutan, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "广西南宁市郁江防洪四级应急响应提升为三级应急响应",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682865.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T14:58:45.000Z",
+   "summary": "8月23日，记者从广西南宁市应急管理委员会了解到，8月23日20时，邕江南宁水文站水位已达71.41米，预计8月24日上午郁江南宁城区河段将出现超警戒水位(73.0米)的洪水。",
+   "regions": []
+  },
+  {
+   "title": "韩国从俄罗斯进口煤炭的数量增长 创三年新高",
+   "link": "https://sputniknews.cn/20260823/1072894064.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T14:50:00.000Z",
+   "summary": "俄罗斯卫星通讯社分析的韩国统计厅数据显示，今年7月韩国从俄罗斯进口的煤炭数量增长了四分之一以上，达到2023年年中以来的最高水平。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "武契奇：塞尔维亚计划采购2架俄制Ka-32消防直升机 从欧洲购买10架H125",
+   "link": "https://sputniknews.cn/20260823/1072893844.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T14:25:00.000Z",
+   "summary": "俄罗斯卫星通讯社贝尔格莱德 塞尔维亚总统武契奇表示，塞尔维亚计划从俄罗斯购买2架Ka-32消防直升机，从欧洲购买10架空客H125直升机。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 1.9 million in MMI>=IV.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1561344",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-23T14:10:24.000Z",
+   "summary": "On 8/23/2026 1:44:53 PM, an earthquake occurred in Japan potentially affecting 1.9 million in MMI>=IV. The earthquake ha…",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "伊朗石油部长：伊朗已发现储量超过2000亿立方米的天然气田",
+   "link": "https://sputniknews.cn/20260823/1072893948.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T14:00:00.000Z",
+   "summary": "伊朗石油部部长穆赫辛·帕克内贾德表示，伊朗发现了一个储量超过2000亿立方米的天然气田。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "日本浦河附近海域发生6.0级地震",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682850.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T13:56:45.000Z",
+   "summary": "据日本气象厅消息，当地时间23日22时00分左右，日本浦河附近海域发生6.0级地震，最大震感为震度4，震源深度40公里。(总台记者 刘耀鸿）",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "现场直击：见到赛考斯，殷玉珍练了很久的英文，一句也没能说出口",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682849.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T13:53:59.000Z",
+   "summary": "8月23日下午，中国“治沙劳模”殷玉珍早早来到内蒙古鄂尔多斯伊金霍洛国际机场，等待迎接一位阔别26年的美国故人。",
+   "regions": []
+  },
+  {
+   "title": "【地震 M6.0】33 km SSW of Honchō, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T13:44:53.514Z",
+   "summary": "美国地质调查局官方监测：33 km SSW of Honchō, Japan发生 6.0 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】48 km SSW of Nanwalek, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qrgjis",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T13:37:34.239Z",
+   "summary": "美国地质调查局官方监测：48 km SSW of Nanwalek, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "云南凤庆泥石流和滑坡灾害：已致2人遇难4人失联",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682846.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T13:37:08.000Z",
+   "summary": "中新网昆明8月23日电 (记者 缪超)记者23日晚从云南省临沧市凤庆县政府新闻办公室获悉，8月23日凌晨1时至8时，凤庆县凤山镇遭遇持续性强降雨天气，安石村诱发泥石流灾害，造成2名群众失联；水箐村诱发滑坡灾害，造成4名群众失联。",
+   "regions": []
+  },
+  {
+   "title": "俄企布局中国海南 能源、农工产业、科技、旅游服务潜力巨大",
+   "link": "https://sputniknews.cn/20260823/1072892979.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T13:35:00.000Z",
+   "summary": "俄罗斯卫星通讯社海口（中国）8月23日电 中国海口复兴城互联网信息产业园产业总经理吴清吉向卫星通讯社表示，俄罗斯企业可以通过海南省拓展其在中国市场的业务，最有前景的领域包括能源、农工产业、科技和旅游服务。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "泰国前总理：中华文化传承促进不同群体之间的理解与友谊",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682830.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T13:22:50.000Z",
+   "summary": "中新网曼谷8月23日电(记者 李映民)泰国前总理川立派22日晚在泰国莆仙总会首届理事会就职典礼上致辞表示，中华文化传承促进不同群体之间的理解与友谊。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "媒体：西方可能因泽连斯基与费多罗夫的冲突停止援助乌克兰",
+   "link": "https://sputniknews.cn/20260823/1072892760.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T13:10:00.000Z",
+   "summary": "外国媒体写道，弗拉基米尔·泽连斯基与乌克兰前国防部长米哈伊洛·费多罗夫之间的冲突可能会妨碍乌克兰的西方盟友继续向乌克兰提供军事和财政援助。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "台湾球迷跨海观赛“以球会友”：体育是两岸交流最好的桥梁",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682832.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T13:08:01.000Z",
+   "summary": "中新网南宁8月23日电 题：台湾球迷跨海观赛“以球会友”：体育是两岸交流最好的桥梁",
+   "regions": []
+  },
+  {
+   "title": "云南凤庆发生泥石流和滑坡灾害致2人遇难4人失联",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682836.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T13:06:17.000Z",
+   "summary": "8月23日晚，记者从云南省凤庆县人民政府新闻办公室获悉，8月23日凌晨01时至08时，凤庆县凤山镇遭遇持续性强降雨天气，安石村诱发泥石流灾害，造成2名群众失联；水箐村诱发滑坡灾害，造成4名群众失联。截至8月23日17时，已搜寻到水箐村2名失…",
+   "regions": []
+  },
+  {
+   "title": "台风“紫檀”致广西上思河水暴涨 数千人转移",
+   "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-23/1201862.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T13:03:11.000Z",
+   "summary": "",
+   "regions": []
+  },
+  {
+   "title": "【地震 M2.9】45 km N of Petersville, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qrevbe",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T12:50:29.363Z",
+   "summary": "美国地质调查局官方监测：45 km N of Petersville, Alaska发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "媒体：泽连斯基再次拒绝举行乌克兰总统大选",
+   "link": "https://sputniknews.cn/20260823/1072892650.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T12:45:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 据乌克兰“公共”电视台报道，虽说任期早已届满，但泽连斯基在与乌克兰记者会面时再一次地表示反对在乌克兰举行总统大选。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "伊朗总统：伊朗已处于“全面战争”之中",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682819.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T12:40:51.000Z",
+   "summary": "中新网8月23日电 据美国有线电视新闻网(CNN)报道，当地时间23日，伊朗总统佩泽希齐扬表示，伊朗正处于“全面战争”之中，并承认随着美国准备加大对伊朗的制裁力度，伊朗面临经济困难。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "携俄罗斯月球尘埃探测器的中国嫦娥七号任务推迟发射",
+   "link": "https://sputniknews.cn/20260823/1072893251.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T12:32:32.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 据新华社报道，由于任务不满足发射条件，携嫦娥七号探测器的中国长征五号遥十四运载火箭（Y14）的发射已被推迟，嫦娥七号上安装了俄罗斯科学仪器。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "国际锐评丨“超级买家+超级卖家”让全球共享中国红利",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682809.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T12:27:26.000Z",
+   "summary": "商超货架上琳琅满目的“全球好物”、港口码头上运往各国的“中国制造”……一进一出、一来一往，成为当前中国外贸的生动缩影。今年前7个月，中国货物贸易进出口同比增长17.3%，其中进口增长22%，增速连续5个月大于出口。如今的中国，不仅是全球“超…",
+   "regions": []
+  },
+  {
+   "title": "【地震 M3.2】18 km N of Pāhala, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022847",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T12:25:17.290Z",
+   "summary": "美国地质调查局官方监测：18 km N of Pāhala, Hawaii发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊朗外长：美国唯一的选择是与伊朗人民进行正当的对话",
+   "link": "https://sputniknews.cn/20260823/1072893097.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T12:20:00.000Z",
+   "summary": "伊朗外长阿巴斯·阿拉格奇表示，美国唯一的选择是与伊朗人民进行正当的对话。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】43 km NE of Fox River, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qrdhim",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T12:04:41.317Z",
+   "summary": "美国地质调查局官方监测：43 km NE of Fox River, Alaska发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "挪威政府计划2027年向基辅拨款约90亿美元",
+   "link": "https://sputniknews.cn/20260823/1072892134.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T11:55:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 挪威政府宣布，计划2027年向乌克兰拨款约90亿美元，包括用于军事目的。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "普京：“北溪”管道第二条支线原可经波兰，最终选择海底线路以降低风险",
+   "link": "https://sputniknews.cn/20260823/1072892867.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T11:34:39.000Z",
+   "summary": "俄罗斯总统普京表示，“北溪”天然气管道的第二支线最初曾考虑过境波兰，但俄方最终选择波罗的海海底线路，以最大限度降低风险。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄国防部：俄防空系统一天击落乌军1120架无人机和4枚海马斯火箭炮系统",
+   "link": "https://sputniknews.cn/20260823/1072892035.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T11:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 据俄罗斯国防部消息，过去一昼夜内，俄防空系统击落乌军1120架无人机和4枚“海马斯”多管火箭炮系统炮弹。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M5.3】southern Mid-Atlantic Ridge",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmyk",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T11:22:41.913Z",
+   "summary": "美国地质调查局官方监测：southern Mid-Atlantic Ridge发生 5.3 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "匈牙利总理：帕克斯核电站已恢复半数发电，到周三将全面恢复运行",
+   "link": "https://sputniknews.cn/20260823/1072891938.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T11:05:00.000Z",
+   "summary": "匈牙利总理马扎尔·彼得表示，帕克斯核电站已恢复半数发电，预计将比原计划提前，到周三将全面恢复发电。",
+   "regions": []
+  },
+  {
+   "title": "【地震 M4.3】60 km NNW of Lae, Papua New Guinea",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmyf",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T10:44:51.354Z",
+   "summary": "美国地质调查局官方监测：60 km NNW of Lae, Papua New Guinea发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "巴布亚新几内亚",
+    "亚太"
+   ]
+  },
+  {
+   "title": "普京：乌克兰将新纳粹主义作为国家意识形态基础，俄不会容忍",
+   "link": "https://sputniknews.cn/20260823/1072892241.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T10:43:32.000Z",
+   "summary": "俄罗斯总统普京在接受俄罗斯记者帕维尔·扎鲁宾采访时表示，当今乌克兰当局将新纳粹主义作为国家意识形态的基础，俄罗斯不会也不能容忍这一点，这正是特别军事行动的原因之一。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "中国海南省希望俄罗斯企业在该地区的业务增长",
+   "link": "https://sputniknews.cn/20260823/1072891725.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T10:40:00.000Z",
+   "summary": "俄罗斯卫星通讯社海口（中国）8月23日电 海口复兴城互联网信息产业园产业总经理吴清吉向卫星通讯社表示，中国海南省商业机构期待越来越多的俄罗斯企业利用海南岛进入中国和东南亚市场。",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】7 km SSW of Pāhala, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75022812",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T10:35:29.110Z",
+   "summary": "美国地质调查局官方监测：7 km SSW of Pāhala, Hawaii发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】52 km N of Beauséjour, Guadeloupe",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmy7",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T10:16:38.297Z",
+   "summary": "美国地质调查局官方监测：52 km N of Beauséjour, Guadeloupe发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄外长：西方对乌克兰的援助不应被视为北约行动",
+   "link": "https://sputniknews.cn/20260823/1072891830.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T10:10:00.000Z",
+   "summary": "俄罗斯外长谢尔盖·拉夫罗夫表示，西方对乌克兰的援助不应被视为北约行动。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】52 km NNW of Barishal, Pakistan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmy3",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T10:04:42.433Z",
+   "summary": "美国地质调查局官方监测：52 km NNW of Barishal, Pakistan发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "巴基斯坦",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄总统助理：如果普京与特朗普出席在中国举行的亚太经合组织峰会那么他们必将会面",
+   "link": "https://sputniknews.cn/20260823/1072891351.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T09:45:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 俄罗斯总统助理尤里·乌沙科夫表示，如果俄罗斯总统弗拉基米尔·普京和美国总统唐纳德·特朗普出席在中国举行的亚太经合组织（APEC）峰会，那么他们必将会面并进行会谈。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】10 km N of Lake Pillsbury, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423527",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T09:37:08.200Z",
+   "summary": "美国地质调查局官方监测：10 km N of Lake Pillsbury, CA发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄空天军摧毁乌军在哈尔科夫州和顿涅茨克人民共和国的临时部署点",
+   "link": "https://sputniknews.cn/20260823/1072891240.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T09:20:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 俄罗斯国防部称，俄罗斯空天军使用FAB-500和FAB-1500炸弹摧毁了乌克兰军队在顿涅茨克人民共和国和哈尔科夫州两个旅的临时部署点。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】10 km ENE of Coso Junction, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533752",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T09:16:58.730Z",
+   "summary": "美国地质调查局官方监测：10 km ENE of Coso Junction, CA发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】43 km NW of San Antonio, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529488",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T08:57:13.730Z",
+   "summary": "美国地质调查局官方监测：43 km NW of San Antonio, Puerto Rico发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "媒体：柬埔寨重启与美联合军演并非为疏远中国",
+   "link": "https://sputniknews.cn/20260823/1072891052.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T08:48:05.000Z",
+   "summary": "据《南华早报》报道，柬埔寨正准备明年重启与美国的联合军事演习。分析人士称，此举是对自2017年以来两国紧张防务关系进行的一次务实调整，但并非意味着疏远中国。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄总统助理：若普京和特朗普出席在中国举行的APEC峰会，必会会面",
+   "link": "https://sputniknews.cn/20260823/1072890972.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T08:47:06.000Z",
+   "summary": "俄罗斯总统助理尤里·乌沙科夫表示，如果俄罗斯总统普京和美国总统特朗普出席在中国举行的亚太经合组织（APEC）峰会，势必会会面和交谈。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】10 km E of Coso Junction, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533512",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T08:15:17.860Z",
+   "summary": "美国地质调查局官方监测：10 km E of Coso Junction, CA发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】124 km ESE of Kirakira, Solomon Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmxn",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T08:12:38.133Z",
+   "summary": "美国地质调查局官方监测：124 km ESE of Kirakira, Solomon Islands发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "所罗门群岛",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄国防部：俄军袭击敖德萨州尤日尼港五个燃料和润滑油储罐",
+   "link": "https://sputniknews.cn/20260823/1072890866.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T08:06:43.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 俄罗斯国防部称，俄军使用无人机袭击了敖德萨州尤日尼港五个燃料和润滑油储罐以及卸载军用物资的港口设施。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】11 km ENE of Coso Junction, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533424",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T08:01:15.780Z",
+   "summary": "美国地质调查局官方监测：11 km ENE of Coso Junction, CA发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】15 km ESE of Walker, California",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923737",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T08:00:43.014Z",
+   "summary": "美国地质调查局官方监测：15 km ESE of Walker, California发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国加州",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.0】10 km ENE of Coso Junction, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41533416",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T07:59:55.870Z",
+   "summary": "美国地质调查局官方监测：10 km ENE of Coso Junction, CA发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M3.8】33 km W of Aleneva, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qqunxm",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T07:42:22.479Z",
+   "summary": "美国地质调查局官方监测：33 km W of Aleneva, Alaska发生 3.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】120 km NNE of Vieques, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529478",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T07:21:55.960Z",
+   "summary": "美国地质调查局官方监测：120 km NNE of Vieques, Puerto Rico发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "普京：车臣战士在特别军事行动中英勇作战",
+   "link": "https://sputniknews.cn/20260823/1072890758.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T07:18:54.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 俄罗斯总统弗拉基米尔·普京表示，受车臣共和国首任总统、俄罗斯英雄阿赫马特-哈吉·卡德罗夫的鼓舞，车臣战士在特别军事行动中英勇作战，捍卫俄罗斯主权。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "特朗普指责加拿大“既想享受州级特权，又不愿成为美国一州”",
+   "link": "https://sputniknews.cn/20260823/1072890654.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T07:09:03.000Z",
+   "summary": "8月22日，美国总统特朗普再次就美加贸易关系发表强硬言论，指责加拿大试图在不加入美国的情况下，享受类似美国各州所拥有的特权，同时批评加方多年来对美国农民征收高额关税。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄国防部：俄防空系统夜间在俄上空击落328架乌克兰无人机",
+   "link": "https://sputniknews.cn/20260823/1072890550.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T06:42:37.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 据俄罗斯国防部消息，俄防空系统夜间在俄罗斯上空拦截并摧毁328架乌克兰无人机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "伊朗总统驳斥美国预期：绝不会如委内瑞拉般崩溃",
+   "link": "https://sputniknews.cn/20260823/1072890446.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T06:15:31.000Z",
+   "summary": "伊朗总统马苏德·佩泽希齐扬公开表示，美国在挑起中东冲突时曾预计伊朗会像委内瑞拉一样迅速崩溃，但由于伊朗的坚韧顽强，这一图谋并未得逞。",
+   "regions": [
+    "中东",
+    "美洲",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】117 km N of Yakutat, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmx1",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T06:03:52.921Z",
+   "summary": "美国地质调查局官方监测：117 km N of Yakutat, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "日本茨城县5.9级地震已致37人受伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682657.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T05:59:25.000Z",
+   "summary": "中新网东京8月23日电 (记者 朱晨曦)据日本总务省消防厅消息，截至当地时间23日10时，当天凌晨在茨城县南部发生的5.9级地震已造成37人受伤。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "美国共和党议员批评特朗普的牛肉进口计划",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682665.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T05:58:55.000Z",
+   "summary": "中新网8月23日电 据美国全国广播公司(NBC)报道，当地时间21日，众议院和参议院的共和党人批评了美国总统特朗普暂停对牛肉进口征收关税的决定，来自农业州的议员们谴责特朗普的决定将对农民造成影响。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.0】60 km N of Boca de Uchire, Venezuela",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmx3",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T05:47:51.452Z",
+   "summary": "美国地质调查局官方监测：60 km N of Boca de Uchire, Venezuela发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "委内瑞拉",
+    "拉美"
+   ]
+  },
+  {
+   "title": "媒体：特朗普对加拿大贸易战失利",
+   "link": "https://sputniknews.cn/20260823/1072890343.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T05:41:56.000Z",
+   "summary": "西方媒体近日刊文指出，美国总统特朗普在对加拿大的贸易冲突中正遭遇挫折，其对加方施加的威胁与施压策略未能取得预期效果。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】273 km E of Levuka, Fiji",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmww",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T05:39:21.468Z",
+   "summary": "美国地质调查局官方监测：273 km E of Levuka, Fiji发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "斐济",
+    "亚太"
+   ]
+  },
+  {
+   "title": "韩媒：青瓦台被游客破坏，李在明入住日期仍未定",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682649.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T05:36:56.000Z",
+   "summary": "中新网8月23日电 据韩媒22日报道，自2025年6月就任以来，韩国李在明已在首尔龙山区汉南洞的总统官邸居住近一年零三个月，需要每天前往青瓦台办公。青瓦台官员在2025年12月底总统办公室从龙山迁至青瓦台时曾表示：“总统官邸最迟将于今年上半…",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】21 km NE of Sterling, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qqpiix",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T05:06:04.524Z",
+   "summary": "美国地质调查局官方监测：21 km NE of Sterling, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】12 km E of Susitna, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qqpfaq",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T05:02:35.308Z",
+   "summary": "美国地质调查局官方监测：12 km E of Susitna, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：波罗的海国家向俄罗斯人施压以干扰俄国家杜马选举",
+   "link": "https://sputniknews.cn/20260823/1072890224.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T04:48:04.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 俄罗斯外交部无任所大使、外交部选举委员会副主席马克西姆·赖德尔在接受卫星通讯社采访时表示，波罗的海国家试图向俄罗斯人施压，以干扰俄国家杜马选举当天的投票。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "美国前国务卿基辛格的妻子去世，享年92岁",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682622.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T04:27:58.000Z",
+   "summary": "中新网8月23日电 据美国广播公司(ABC)22日报道，美国慈善家南希·基辛格去世，享年92岁。她曾是外交政策研究员，也是前美国国务卿亨利·基辛格的妻子。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "美国内华达州山火过火面积超3000万平米，数百户家庭被疏散",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682621.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T04:26:34.000Z",
+   "summary": "中新网8月23日电 据美国广播公司(ABC)报道，当地时间22日晚，内华达州北部里诺市郊的火灾迅速蔓延至超过8000英亩(约3200万平方米)，威胁到数百户居民的房屋。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "土耳其商船“乌拉尔”号在黑海遇袭致1死",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682609.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T04:08:21.000Z",
+   "summary": "中新网北京8月23日电 综合消息：土耳其商船“乌拉尔”号当地时间22日在俄罗斯黑海港口新罗西斯克附近海域遇袭，造成1人死亡。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】26 km E of Letpandan, Burma (Myanmar)",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T03:44:57.056Z",
+   "summary": "美国地质调查局官方监测：26 km E of Letpandan, Burma (Myanmar)发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "缅甸",
+    "亚太"
+   ]
+  },
+  {
+   "title": "加拿大将对美国征收等额报复性关税",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682583.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T03:24:12.000Z",
+   "summary": "中新社北京8月23日电 渥太华消息：加拿大总理卡尼当地时间22日宣布，加拿大将自9月8日起对多种美国商品征收等额报复性关税，以回应美国对加拿大商品征收的50%关税。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊朗大使：美军士气低落",
+   "link": "https://sputniknews.cn/20260823/1072890102.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T03:19:01.000Z",
+   "summary": "伊朗驻俄罗斯大使贾拉利在接受俄罗斯卫星通讯社采访时称，美军士气低落。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "Türkiye-Israel tensions deepen over Syria, Netanyahu Interpol request",
+   "link": "https://news.cgtn.com/news/2026-08-23/T-rkiye-Israel-tensions-deepen-over-Syria-Netanyahu-Interpol-request-1PPOBoerg2Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-23T02:58:42.000Z",
+   "summary": "Tensions between Türkiye and Israel have intensified following Ankara's request for an Interpol Red Notice against Israe…",
+   "regions": []
+  },
+  {
+   "title": "英伟达达成60亿美元交易，打造竞品对抗中国AI模型",
+   "link": "https://sputniknews.cn/20260823/1072889993.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T02:54:29.000Z",
+   "summary": "西方媒体援引知情人士的话成，美国科技巨头英伟达与AI初创公司Poolside达成一项价值60亿美元的战略协议，共同研发大模型，直接对标中国热门AI模型DeepSeek与Kimi K3。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "塞尔维亚前副总理：欧盟在俄罗斯伊尔-76抵达后才提出援助",
+   "link": "https://sputniknews.cn/20260823/1072889869.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T02:53:14.000Z",
+   "summary": "俄罗斯卫星通讯社贝尔格莱德8月23日电 塞尔维亚前副总理、社会主义者运动党主席亚历山大·武林表示，塞尔维亚东北部德利布拉托沙地自然保护区的大火早在8月5日就已起火，而欧盟直到俄罗斯伊尔-76飞机抵达后才提出援助。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "US AI companies cut prices as competition in large models intensifies",
+   "link": "https://news.cgtn.com/news/2026-08-23/US-AI-companies-cut-prices-as-competition-in-large-models-intensifies-1PPQ417frIk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-23T02:47:11.000Z",
+   "summary": "US AI companies cut prices as competition in large models intensifies",
+   "regions": []
+  },
+  {
+   "title": "美国法官推翻特朗普政府停发75国移民签证的政策",
+   "link": "https://sputniknews.cn/20260823/1072889742.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T02:25:16.000Z",
+   "summary": "当地时间8月21日，一名美国联邦地区法官推翻了特朗普政府暂停向75个国家申请人发放移民签证的政策，称该政策超出了国务卿鲁比奥的法定权限。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】45 km ENE of Stony River, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qqjxri",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T02:23:48.132Z",
+   "summary": "美国地质调查局官方监测：45 km ENE of Stony River, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.3】82 km NW of San Antonio, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529443",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T01:33:32.650Z",
+   "summary": "美国地质调查局官方监测：82 km NW of San Antonio, Puerto Rico发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "Canada to impose 'dollar-for-dollar' tariffs on US goods, Carney says",
+   "link": "https://news.cgtn.com/news/2026-08-23/Canada-to-impose-dollar-for-dollar-tariffs-on-US-goods-Carney-says-1PPJvozu46Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-23T01:04:25.000Z",
+   "summary": "Canadian Prime Minister Mark Carney on Saturday delivered a nationally televised address to outline Canada's position fo…",
+   "regions": []
+  },
+  {
+   "title": "印度外长：印中两国都希望保持稳定关系",
+   "link": "https://sputniknews.cn/20260823/1072889623.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T01:03:36.000Z",
+   "summary": "印度外长苏杰生在新德里举行的世界领袖论坛上表示，印度希望与中国保持稳定关系，并愿发展两国关系，但前提是坚定捍卫自身立场和利益。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "美国政府暂停向75国发放签证的政策被推翻",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682515.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T00:48:00.000Z",
+   "summary": "中新网8月23日电 据美国广播公司(ABC)报道，当地时间21日，一名美国联邦法官推翻了美国政府暂停向75个国家的国民发放移民签证的政策，要求领事官员根据正常的移民法重新考虑这些移民申请。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】4 km NW of Parkfield, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423267",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T00:47:53.980Z",
+   "summary": "美国地质调查局官方监测：4 km NW of Parkfield, CA发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "加美贸易谈判破裂，卡尼宣布对美征收报复性关税",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682513.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-23T00:35:19.000Z",
+   "summary": "中新网8月23日电 据英国广播公司(BBC)报道，当地时间8月22日，加拿大总理卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
+   "regions": [
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】90 km ESE of Tomioka, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmw4",
+   "source": "USGS地震台网",
+   "time": "2026-08-23T00:32:24.675Z",
+   "summary": "美国地质调查局官方监测：90 km ESE of Tomioka, Japan发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "印度外长称正就签证问题与中国磋商",
+   "link": "https://sputniknews.cn/20260823/1072889430.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T00:04:30.000Z",
+   "summary": "印度外交部长苏杰生8月22日表示，印方正就本国企业赴华商务签证延误一事，与中国进行磋商。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄常驻维也纳国际组织代表：建立波斯湾安全体系是一项紧迫任务",
+   "link": "https://sputniknews.cn/20260823/1072888917.html",
+   "source": "卫星社中文",
+   "time": "2026-08-23T00:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月23日电 俄罗斯常驻维也纳国际组织代表米哈伊尔·乌里扬诺夫认为，建立波斯湾集体安全体系是一项极为紧迫的任务。",
+   "regions": [
+    "俄乌"
+   ]
+  }
+ ],
+ "tw": [
+  {
+   "title": "桂台两地青少年以球为媒叙情谊",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682857.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T14:44:12.000Z",
+   "summary": "中新社南宁8月23日电 (俞靖)2026“桂花杯”暨第九届“海花杯”桂台青少年足球友谊赛(南宁站)23日在南宁市开赛。来自台湾的足球少年与广西球员齐聚绿茵场，以球会友、增进情谊。",
+   "regions": [
+    "台海",
+    "南宁",
+    "广西"
+   ]
+  },
+  {
+   "title": "沪港澳台侨青年相聚上海：玩转低空经济 迸发科创巧思",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682838.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T13:15:17.000Z",
+   "summary": "中新社上海8月23日电 (范宇斌)“相聚上海 共谋发展”2026沪港澳台侨青年“低空创意之星”交流活动23日在上海理工大学举行。",
+   "regions": [
+    "上海"
+   ]
+  },
+  {
+   "title": "台湾南部强降雨致271件淹水灾情 多地24日停班停课",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682814.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T12:34:00.000Z",
+   "summary": "中新社台北8月23日电 (记者 朱贺)受西南风偏强及低压带影响，台湾南部迎来持续降雨，截至23日17时，全台累计发生271件淹水灾情。高雄市、台南市、屏东县宣布24日停止上班上课。",
+   "regions": [
+    "台海"
+   ]
+  },
+  {
+   "title": "侧记：一张跨越海峡的青年创业“名片”",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682811.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T12:31:26.000Z",
+   "summary": "中新网8月23日电 (记者 李柏涛 徐峻杰 实习生 胡叶羽)“我把这次的参赛经历，看作自己的一张‘名片’。”21日，第十一届京台青年创新创业大赛决赛暨颁奖典礼在北京圆满落幕。上届大赛斩获冠军的台青连唯证在分享自己的参赛经历时感慨道，“它不仅…",
+   "regions": [
+    "北京"
+   ]
+  }
+ ],
+ "cn": [
+  {
+   "title": "广西南宁市郁江防洪四级应急响应提升为三级应急响应",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682865.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T14:58:45.000Z",
+   "summary": "8月23日，记者从广西南宁市应急管理委员会了解到，8月23日20时，邕江南宁水文站水位已达71.41米，预计8月24日上午郁江南宁城区河段将出现超警戒水位(73.0米)的洪水。",
+   "regions": [
+    "南宁",
+    "广西"
+   ]
+  },
+  {
+   "title": "二十五载汉语为桥 五洲青年厦门逐冠",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682855.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T14:39:02.000Z",
+   "summary": "中新社厦门8月23日电 (吴冠标)第25届“汉语桥”世界大学生中文比赛全球总决赛23日在厦门举行，德国选手黎维获全球总冠军。",
+   "regions": [
+    "欧洲",
+    "厦门"
+   ]
+  },
+  {
+   "title": "“赛考斯”与殷玉珍重逢：时隔26年的拥抱",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682854.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T14:38:10.000Z",
+   "summary": "中新社内蒙古鄂尔多斯8月23日电 题：“赛考斯”与殷玉珍重逢：时隔26年的拥抱",
+   "regions": [
+    "内蒙古"
+   ]
+  },
+  {
+   "title": "现场直击：见到赛考斯，殷玉珍练了很久的英文，一句也没能说出口",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682849.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T13:53:59.000Z",
+   "summary": "8月23日下午，中国“治沙劳模”殷玉珍早早来到内蒙古鄂尔多斯伊金霍洛国际机场，等待迎接一位阔别26年的美国故人。",
+   "regions": [
+    "美洲",
+    "内蒙古"
+   ]
+  },
+  {
+   "title": "云南凤庆泥石流和滑坡灾害：已致2人遇难4人失联",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682846.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T13:37:08.000Z",
+   "summary": "中新网昆明8月23日电 (记者 缪超)记者23日晚从云南省临沧市凤庆县政府新闻办公室获悉，8月23日凌晨1时至8时，凤庆县凤山镇遭遇持续性强降雨天气，安石村诱发泥石流灾害，造成2名群众失联；水箐村诱发滑坡灾害，造成4名群众失联。",
+   "regions": [
+    "昆明",
+    "临沧"
+   ]
+  },
+  {
+   "title": "嫦娥七号任务不满足发射条件 不能在今年预定窗口实施",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682844.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T13:33:38.000Z",
+   "summary": "中新社海南文昌8月23日电 据中国载人航天工程办公室23日消息，本着稳妥可靠、万无一失的原则，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。(完)",
+   "regions": [
+    "海南"
+   ]
+  },
+  {
+   "title": "从凭经验到“慧”种田 广西蔗田里算出产业“甜账本”",
+   "link": "https://www.chinanews.com.cn/cj/2026/08-23/10682843.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T13:29:26.000Z",
+   "summary": "中新网广西崇左8月23日电(涂丽莎 陈沿佑)秋日时节，广西崇左市扶绥县渠黎镇甜蜜之光现代甘蔗产业园满目青绿。桂糖44号、云蔗081609、桂糖76号、中糖3号、中辐1号等甘蔗品种长势喜人，大多数蔗株高度超3米。园区采用的多品种轮作、分区种植…",
+   "regions": [
+    "崇左",
+    "广西"
+   ]
+  },
+  {
+   "title": "江西学子庐山诗会“人机共赋”：探求科技与人文交融边界",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682842.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T13:28:26.000Z",
+   "summary": "中新网江西庐山8月23日电 (记者 姜涛)“吾是浔阳千载客，鄱湖庐岳古今通。”23日在江西庐山举行的2026中国庐山诗会总决赛“人机共赋”创作环节，九江参赛选手与人工智能协同完成的诗词，获得评委们一致打出最高分。",
+   "regions": [
+    "江西"
+   ]
+  },
+  {
+   "title": "光伏板下奶牛“享清凉” 中国多地竞逐“光伏+”新赛道",
+   "link": "https://www.chinanews.com.cn/cj/2026/08-23/10682841.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T13:27:34.000Z",
+   "summary": "中新网合肥8月23日电(江婉琪 赵强)在安徽省蚌埠市五河县朱顶镇，一些牛舍屋顶上铺满了深蓝色光伏板，正静静地把阳光转化为电流。与此同时，舍内奶牛正埋头啃食饲料。",
+   "regions": [
+    "合肥",
+    "安徽"
+   ]
+  },
+  {
+   "title": "乡村舞台音乐飞扬 浙江金华民建助力唱响“光南之声”",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682840.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T13:26:48.000Z",
+   "summary": "中新网金华8月23日电(蓝伊旎)8月21日至23日，“光南故里 声动金东”系列音乐活动在浙江金华金东区源东乡的东叶村举行。在人民音乐家施光南诞辰86周年之际，这场音乐盛会把舞台搭在村口，让旋律漫过田间，持续擦亮“光南之声”乡村文化品牌。",
+   "regions": [
+    "浙江"
+   ]
+  },
+  {
+   "title": "东西问丨殷玉珍：大洋隔不断真诚的心",
+   "link": "https://www.chinanews.com.cn/dxw/2026/08-23/10682839.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T13:25:40.000Z",
+   "summary": "中新社内蒙古鄂尔多斯8月23日电 题：殷玉珍：大洋隔不断真诚的心",
+   "regions": [
+    "内蒙古"
+   ]
+  },
+  {
+   "title": "沪港澳台侨青年相聚上海：玩转低空经济 迸发科创巧思",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682838.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T13:15:17.000Z",
+   "summary": "中新社上海8月23日电 (范宇斌)“相聚上海 共谋发展”2026沪港澳台侨青年“低空创意之星”交流活动23日在上海理工大学举行。",
+   "regions": [
+    "上海"
+   ]
+  },
+  {
+   "title": "破题具身智能“数据荒” 北京中关村机器人“训练基地”揭秘",
+   "link": "https://www.chinanews.com.cn/cj/2026/08-23/10682837.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T13:13:47.000Z",
+   "summary": "中新网北京8月23日电 题：破题具身智能“数据荒” 北京中关村机器人“训练基地”揭秘",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "中国多部门指导地方快速处置“白菜收购环节蘸取甲醛溶液”问题",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682835.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T13:11:29.000Z",
+   "summary": "中新社北京8月23日电 (记者 刘亮)中国国家市场监管总局23日公布，针对舆论关注的河北省张家口市康保县“白菜收购环节蘸取甲醛溶液”问题，中国国务院食安办、农业农村部、国家市场监管总局高度重视，第一时间指导属地调查核实，依法从严从快处置，对…",
+   "regions": [
+    "北京",
+    "河北"
+   ]
+  },
+  {
+   "title": "台湾球迷跨海观赛“以球会友”：体育是两岸交流最好的桥梁",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682832.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T13:08:01.000Z",
+   "summary": "中新网南宁8月23日电 题：台湾球迷跨海观赛“以球会友”：体育是两岸交流最好的桥梁",
+   "regions": [
+    "台海",
+    "南宁"
+   ]
+  },
+  {
+   "title": "云南凤庆发生泥石流和滑坡灾害致2人遇难4人失联",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682836.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T13:06:17.000Z",
+   "summary": "8月23日晚，记者从云南省凤庆县人民政府新闻办公室获悉，8月23日凌晨01时至08时，凤庆县凤山镇遭遇持续性强降雨天气，安石村诱发泥石流灾害，造成2名群众失联；水箐村诱发滑坡灾害，造成4名群众失联。截至8月23日17时，已搜寻到水箐村2名失…",
+   "regions": [
+    "云南"
+   ]
+  },
+  {
+   "title": "中华文化大乐园落地柬埔寨华校 以文化为桥厚植中柬友谊",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682828.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T12:59:46.000Z",
+   "summary": "中新网海口8月23日电 (符宇群 秦若曦)记者23日从海南师范大学获悉，2026年“中华文化大乐园——柬埔寨西港园”开营仪式近日在柬埔寨西哈努克港港华学校举办。",
+   "regions": [
+    "海口",
+    "海南"
+   ]
+  },
+  {
+   "title": "2026年“奔跑吧·少年”陕西省青少年体育夏令营结营",
+   "link": "https://www.chinanews.com.cn/ty/2026/08-23/10682827.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T12:59:34.000Z",
+   "summary": "中新网西安8月23日电 (记者 阿琳娜)为期40天的2026年“奔跑吧·少年”陕西省青少年体育夏令营22日在关中、陕南、陕北三大集训片区及全省12个市(区)同步结营。本次活动由陕西省体育局主办，全省200余家青少年体育俱乐部共同参与，累计吸…",
+   "regions": [
+    "西安",
+    "陕西"
+   ]
+  },
+  {
+   "title": "园区治理难题何解？专家建言规则更加清晰可预期",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682826.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T12:59:00.000Z",
+   "summary": "中新网北京8月23日电 题：园区治理难题何解？专家建言规则更加清晰可预期",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "“王阳明与九华山——2026中华优秀传统文化浸润佛教”学术研讨会在九华山举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682829.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T12:58:56.000Z",
+   "summary": "中新网安徽池州8月23日电 “王阳明与九华山——2026中华优秀传统文化浸润佛教”学术研讨会21日在安徽池州九华山举行，相关领域专家学者与佛教界代表人士共百余人出席。安徽省民宗委和池州市委统战部负责同志出席开幕式并致辞。",
+   "regions": [
+    "安徽"
+   ]
+  },
+  {
+   "title": "云南抚仙湖游人如织",
+   "link": "https://www.chinanews.com.cn/tp/2026/08-23/10682824.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T12:57:58.000Z",
+   "summary": "8月23日，游客乘船游览抚仙湖。位于云南省玉溪市的抚仙湖，是该省第一深水湖泊，亦是知名旅游胜地，暑期游客纷至沓来观光避暑。中新社记者 黄兴鸿 摄 8月23日，游客湖畔戏水赏景。位于云南省玉溪市的抚仙湖，是该省第一深水湖泊，亦是知名旅游胜地，…",
+   "regions": [
+    "玉溪",
+    "云南"
+   ]
+  },
+  {
+   "title": "三部门指导地方快速处置“白菜收购环节蘸取甲醛溶液”问题",
+   "link": "https://www.chinanews.com.cn/cj/2026/08-23/10682818.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-23T12:49:15.000Z",
+   "summary": "中新网8月23日电 据“市说新语”微信公众号消息，针对舆论关注的河北省张家口市康保县“白菜收购环节蘸取甲醛溶液”问题，国务院食安办、农业农村部、市场监管总局高度重视，第一时间指导属地调查核实，依法从严从快处置，对涉事白菜流向进行追查，严防问…",
+   "regions": [
+    "河北"
+   ]
+  },
+  {
+   "title": "覃卫国任合肥市委书记",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682820.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T12:44:45.000Z",
+   "summary": "中新网合肥8月23日电(记者 赵强)据安徽省委组织部23日消息称，日前安徽省委决定：覃卫国同志任合肥市委书记。",
+   "regions": [
+    "合肥",
+    "安徽"
+   ]
+  },
+  {
+   "title": "覃卫国任合肥市委书记",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682815.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T12:32:28.000Z",
+   "summary": "日前省委决定：覃卫国同志任合肥市委书记。",
+   "regions": [
+    "合肥"
+   ]
+  },
+  {
+   "title": "微视频｜此情寄山水",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682807.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T12:19:40.000Z",
+   "summary": "视频：微视频｜此情寄山水来源：央视网",
+   "regions": []
+  },
+  {
+   "title": "防汛关键期叠加暑期出游高峰 如何保障游客游玩安全？",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682803.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T12:15:51.000Z",
+   "summary": "焦点访谈｜防汛关键期叠加暑期出游高峰 如何保障游客游玩安全？",
+   "regions": []
+  },
+  {
+   "title": "中国动物学会第27届学术年会暨理事会扩大会议在成都开幕",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682800.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T12:08:41.000Z",
+   "summary": "中新网成都8月23日电 (王利文 罗梅歌)中国动物学会第27届学术年会暨理事会扩大会议23日在成都开幕。该活动由中国动物学会主办，中国科学院成都生物研究所、西华师范大学共同承办，来自全国高校、科研院所及相关单位的1000余名动物学领域专家学…",
+   "regions": [
+    "成都"
+   ]
+  },
+  {
+   "title": "2026湖南旅博会闭幕 数融文旅绘就潇湘发展新图景",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682798.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T12:08:07.000Z",
+   "summary": "中新网长沙8月23日电(向一鹏)23日，为期3天的第五届马栏山数字文化产业嘉年华与2026湖南文化旅游产业博览会(简称“旅博会”)在长沙闭幕。",
+   "regions": [
+    "长沙",
+    "湖南"
+   ]
+  },
+  {
+   "title": "嫦娥七号任务不满足发射条件 不能在今年预定窗口实施",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682799.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T12:03:01.000Z",
+   "summary": "新华社海南文昌8月23日电(李国利、邓孟)记者23日从中国载人航天工程办公室了解到，本着稳妥可靠、万无一失的原则，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。(完)",
+   "regions": [
+    "海南"
+   ]
+  },
+  {
+   "title": "三部门指导地方快速处置“白菜收购环节蘸取甲醛溶液”问题",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682797.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T12:01:33.000Z",
+   "summary": "记者今天了解到，针对舆论关注的河北省张家口市康保县“白菜收购环节蘸取甲醛溶液”问题，国务院食安办、农业农村部、市场监管总局高度重视，第一时间指导属地调查核实，依法从严从快处置，对涉事白菜流向进行追查，严防问题产品流入市场。同时举一反三，组织…",
+   "regions": [
+    "河北"
+   ]
+  },
+  {
+   "title": "学习手记｜“走技能成才、技能报国之路”",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682776.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T11:14:26.000Z",
+   "summary": "",
+   "regions": []
+  },
+  {
+   "title": "探访西吉龙王坝：苦瘠旱塬升腾乡村新烟火",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682775.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T11:14:08.000Z",
+   "summary": "中新网宁夏西吉8月23日电 题：探访西吉龙王坝：苦瘠旱塬升腾乡村新烟火",
+   "regions": [
+    "宁夏"
+   ]
+  },
+  {
+   "title": "一渠活水润大湖 话剧《海阔天高》诉说引松奋斗史诗",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682770.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T11:11:05.000Z",
+   "summary": "中新网松原8月23日电 (高龙安 李彦国)大幕拉开，漫天风雪、土地龟裂的舞台布景，瞬间将观众带回上世纪70年代的吉林西部原野。",
+   "regions": [
+    "吉林"
+   ]
+  },
+  {
+   "title": "西藏洛隆：高原秋收季 热巴薪火代代传",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682769.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T11:09:59.000Z",
+   "summary": "中新网昌都8月23日电 (贡嘎来松)22日，记者走进西藏自治区昌都市洛隆县康沙镇，高原田野里青稞收割正忙，空气中弥漫着丰收的气息。在这片烟火升腾的藏东乡土之上，一项古老的民间舞蹈依旧生生不息，这便是康沙热巴。",
+   "regions": [
+    "西藏"
+   ]
+  },
+  {
+   "title": "珠江防总将防汛防台风Ⅳ级应急响应提升至Ⅲ级",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682767.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T11:09:15.000Z",
+   "summary": "中新网广州8月23日电 (记者 王坚)据水利部珠江水利委员会(下称“珠江委”)23日消息，珠江防总于23日10时将防汛防台风Ⅳ级应急响应提升至Ⅲ级。",
+   "regions": [
+    "广州"
+   ]
+  },
+  {
+   "title": "（活力中国调研行）从机构享老到居家安养 厦门织密养老服务网",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682768.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T11:03:25.000Z",
+   "summary": "中新网厦门8月23日电 (记者 孙虹 陈小愿)随着人口老龄化程度加深，如何让老年人安享晚年，成为城市民生答卷上的重要考题。在厦门，机构养老提质升级，居家养老服务持续下沉，一套兼顾健康保障与精神文化需求的养老服务体系正在逐步成型。",
+   "regions": [
+    "厦门"
+   ]
+  },
+  {
+   "title": "中国气象局：今年西北太平洋已生成20个台风",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682766.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T10:50:46.000Z",
+   "summary": "中新网8月23日电 (记者 邵萌)当前，西北太平洋和南海海域正上演着“三台共舞”——今年第18号台风“沙德尔”、第19号台风“紫檀”和第20号台风“简拉维”同时活跃。与此同时，又一个新的热带低压正在发展，或将成为今年第21号台风。记者23日…",
+   "regions": [
+    "南海"
+   ]
+  },
+  {
+   "title": "台风“沙德尔”有两种可能路径 将正面影响我国华东沿海",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682765.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T10:47:52.000Z",
+   "summary": "中新网8月23日电 (记者 邵萌)今年第18号台风“沙德尔”已于8月23日凌晨2时加强为超强台风级，中心附近最大风力16级(52米/秒)。中央气象台首席预报员张玲介绍，“沙德尔”25日之前对我国近海海域没有影响，预计将于26日移入东海，27…",
+   "regions": []
+  },
+  {
+   "title": "郭华东院士：科学智能将助力揭示全球可持续发展演化规律",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682753.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T10:46:10.000Z",
+   "summary": "中新网北京8月23日电 (记者 孙自法)备受关注的人工智能赋能科学研究(AI for Science，简称AI4S，也称科学智能)，将如何推动全球实现可持续发展？",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "国家防总办公室派出工作组赴广西协助指导防汛防台风工作",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682754.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T10:41:15.000Z",
+   "summary": "中新网8月23日电 据应急管理部微信公众号消息，8月23日，国家防总办公室、应急管理部组织中国气象局、水利部、自然资源部、工业和信息化部、住房和城乡建设部、交通运输部等部门以及广西、广东、福建、辽宁等重点省份联合会商，研判第18号台风“沙德…",
+   "regions": [
+    "辽宁",
+    "福建"
+   ]
+  },
+  {
+   "title": "应急管理部针对云南启动国家地质灾害四级应急响应",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682755.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T10:38:45.000Z",
+   "summary": "中新网8月23日电 据应急管理部微信公众号消息，8月23日凌晨，云南临沧市凤庆县普降大到暴雨，凤庆县发生多处山洪和地质灾害。经与自然资源部联合会商研判，未来3天，云南西部局部发生地质灾害的风险高。根据《国家突发地质灾害应急预案》及有关规定，…",
+   "regions": [
+    "临沧",
+    "云南"
+   ]
+  },
+  {
+   "title": "台风“紫檀”致广西多地内涝 爱店口岸暂停通关服务",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682751.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T10:26:30.000Z",
+   "summary": "中新社南宁8月23日电 (俞靖 韦佳秀)受台风“紫檀”影响，广西沿海及南部23日持续遭遇强降雨，崇左、防城港等地内涝严重。地处中越边境德天跨国瀑布景区、友谊关景区等临时关停，当地已转移安置数千民众。",
+   "regions": [
+    "南宁",
+    "崇左"
+   ]
+  },
+  {
+   "title": "广西推动生态文明建设与艺术美育深度融合",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682745.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T10:26:02.000Z",
+   "summary": "中新网南宁8月23日电(林浩)广西壮族自治区生态环境厅二级巡视员邹锐表示，广西正推动生态文明建设与艺术美育深度融合，拓展环境教育辐射的深度与广度，用好本土生态资源，创新教学形式，让生态文明课堂更加生动鲜活，构建全社会共同参与生态文明建设的良…",
+   "regions": [
+    "南宁",
+    "广西"
+   ]
+  },
+  {
+   "title": "应急管理部针对云南启动国家地质灾害四级应急响应",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682750.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T10:17:32.000Z",
+   "summary": "8月23日凌晨，云南临沧市凤庆县普降大到暴雨，凤庆县发生多处山洪和地质灾害。经与自然资源部联合会商研判，未来3天，云南西部局部发生地质灾害的风险高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月23日针对云南启动国家地质灾害四…",
+   "regions": [
+    "临沧",
+    "云南"
+   ]
+  },
+  {
+   "title": "特写：疲惫与兴奋相互交替的殷玉珍",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682740.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T10:01:17.000Z",
+   "summary": "中新网鄂尔多斯8月23日电 题：疲惫与兴奋相互交替的殷玉珍",
+   "regions": []
+  },
+  {
+   "title": "中国非遗馆“可以观”非遗社教演艺活动探索传承体验新场景",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682732.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T09:47:00.000Z",
+   "summary": "中新网北京8月23日电 (记者 应妮)中国非物质文化遗产馆日前推出“可以观”非遗社教演艺活动，探索构建“观演启蒙、情感共鸣、社群聚合、在地践行”的非遗传承体验新场景路径。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "台风“紫檀”致广西防城港上思河水暴涨 已转移民众三千多人",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682729.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T09:45:08.000Z",
+   "summary": "中新网防城港8月23日电(翟李强 韦世仙 黎小明)8月23日，受今年第19号台风“紫檀”强降雨与上游来水叠加影响，广西防城港市上思县明江河水位暴涨，在妙镇、平福乡多个沿河区域部分街道房屋被洪水浸泡。",
+   "regions": [
+    "防城港",
+    "广西"
+   ]
+  },
+  {
+   "title": "自然资源部对云南启动地质灾害防御Ⅳ级响应",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682735.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T09:41:53.000Z",
+   "summary": "中新网8月23日电 据自然资源部官方微博消息，8月23日，云南省临沧市凤庆县凤山镇发生2起边坡垮塌，造成4人失联。自然资源部于23日14时对云南启动地质灾害防御Ⅳ级响应，并派工作组赴现场指导开展抢险救援等工作。",
+   "regions": [
+    "临沧",
+    "云南"
+   ]
+  },
+  {
+   "title": "全球首个磁共振脑机接口全栈式解决方案在天津发布",
+   "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682728.shtml",
+   "source": "中新网社会",
+   "time": "2026-08-23T09:39:01.000Z",
+   "summary": "中新社天津8月23日电 (记者 周亚强)全球首个磁共振脑机接口全栈式解决方案“uMR神观”23日在天津正式发布，磁共振脑机接口创新联盟同步成立。",
+   "regions": [
+    "天津"
+   ]
+  },
+  {
+   "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682727.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T09:13:08.000Z",
+   "summary": "2026年8月17日，外交部副部长苗得雨在北京会见来访的伊朗外交部副部长加里布阿巴迪。",
+   "regions": [
+    "中东",
+    "北京"
+   ]
+  },
+  {
+   "title": "2026年黄河流域找矿突破与生态修复技术发展大会在济南举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682722.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T08:48:52.000Z",
+   "summary": "中新网济南8月23日电 (周艺伟)以“科技创新赋能找矿突破，绿色发展守护黄河生态”为主题的2026年黄河流域找矿突破与生态修复技术发展大会(下称“大会”)8月22日在济南举行，吸引来自海内外的知名专家学者、行业代表等参会。",
+   "regions": []
+  },
+  {
+   "title": "国家卫健委通报7位存在严重不良行为的项目评审专家被处理",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682717.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T08:43:22.000Z",
+   "summary": "中新网8月23日电 国家卫健委医药卫生科技科技发展研究中心近日在官网发布关于项目评审专家不良行为处理结果的通报(2026年第二批次)，7位存在严重不良行为的项目评审专家被处理。",
+   "regions": []
+  },
+  {
+   "title": "彭勇任湖北襄阳市委书记",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682713.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T07:57:57.000Z",
+   "summary": "关志鸥在襄阳市领导干部会议上强调 发挥优势 抢抓机遇 鼓足干劲 在全省发展大局中挑大梁担重任走在前",
+   "regions": [
+    "襄阳",
+    "湖北"
+   ]
+  },
+  {
+   "title": "三部门调拨2万件中央救灾物资支持广西做好台风“紫檀”救灾救助工作",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682707.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T07:55:39.000Z",
+   "summary": "中新网8月23日电 据应急管理部微信公众号消息，8月23日，国家防灾减灾救灾委员会办公室、应急管理部针对台风“紫檀”影响，根据广西防汛防台风救灾工作需要，会同国家粮食和物资储备局向广西调拨折叠床、夏凉被、毛巾被、毛毯、雨衣雨靴等2万件中央救…",
+   "regions": [
+    "广西"
+   ]
+  },
+  {
+   "title": "广东开展森林消防“以水灭火”实战拉练",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682677.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T07:51:45.000Z",
+   "summary": "中新网广州8月23日电 (记者 王坚)据广东省应急管理厅23日消息，由广东省森防办统筹部署的广东省2026年度森林消防专业队伍业务骨干“以水灭火”实战拉练近日收官。该拉练旨在有效应对复杂林区火情，补齐山地灭火实战短板，全面提升全省森林防灭火…",
+   "regions": [
+    "广州",
+    "广东"
+   ]
+  },
+  {
+   "title": "2026年宋庆龄少年儿童未来科学日活动在北京启动",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682683.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T07:49:54.000Z",
+   "summary": "中新网北京8月23日电 (记者 刘大炜)由中国宋庆龄基金会、中国科学技术协会共同主办的2026年宋庆龄少年儿童未来科学日活动22日在北京启动，第二十一届宋庆龄少年儿童发明奖颁奖活动同期举办。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "三部门调拨2万件中央救灾物资支持广西做好台风“紫檀”救灾救助工作",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682702.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T07:32:47.000Z",
+   "summary": "8月23日，国家防灾减灾救灾委员会办公室、应急管理部针对台风“紫檀”影响，根据广西防汛防台风救灾工作需要，会同国家粮食和物资储备局向广西调拨折叠床、夏凉被、毛巾被、毛毯、雨衣雨靴等2万件中央救灾物资，并启动应急物资政社协同保障机制，协调腾讯…",
+   "regions": [
+    "广西"
+   ]
+  },
+  {
+   "title": "第48届世界技能大赛中国代表团成立",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682674.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T07:31:43.000Z",
+   "summary": "中新网北京8月23日电 (记者 谢雁冰)记者23日从人力资源和社会保障部获悉，近日，经人社部批准，第48届世界技能大赛中国代表团正式成立。中国代表团共220人，由71名参赛选手和64名专家、64名翻译及工作人员组成，将参加全部64个项目的比…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "双台风影响中国 多地现强降雨",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682670.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T06:09:34.000Z",
+   "summary": "中新社北京8月23日电 (记者 陈溯)记者23日从中国气象局获悉，受台风“紫檀”“简拉维”及西南季风影响，中国多地有强降雨。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "13条河流19个水文站超警 广西升级发布洪水红色预警",
+   "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682626.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-23T04:48:11.000Z",
+   "summary": "中新网南宁8月23日电 (陈秋霞 周也茹) 广西壮族自治区水文中心23日提供的信息显示，8月22日8时至23日8时，受强降雨影响，左江及支流明江、黑水河等江河出现4至11米的涨水过程，其中明江及支流公安河、派连河、思州河，左江及上游平而河、…",
+   "regions": [
+    "南宁",
+    "广西"
+   ]
+  }
+ ],
+ "updatedAt": "2026-08-23T15:35:39.853Z"
+}

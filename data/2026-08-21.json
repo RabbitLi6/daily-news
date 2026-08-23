@@ -1,0 +1,353 @@
+{
+ "date": "2026-08-21",
+ "tech": [
+  {
+   "title": ":fire: SolonCode 的两个\"后悔药\"：重新运行 vs 继续运行",
+   "link": "https://www.oschina.net/news/502070",
+   "source": "开源中国",
+   "time": "2026-08-21T23:40:39.000Z",
+   "summary": "在 SolonCode Web 聊天界面底部，工具栏有三个按钮（从左到右）： Cop — 复制上一条回复内容 Re-run（重新运行） — 删除旧回答，重新跑一轮 Continue（继续运行） — 保留旧回答，继续追加内容 这两个按钮看起来…",
+   "regions": []
+  },
+  {
+   "title": "2026科学智能大会在京开幕 聚力推动科学智能向科研实践深入",
+   "link": "https://www.oschina.net/news/502069",
+   "source": "开源中国",
+   "time": "2026-08-21T23:34:41.000Z",
+   "summary": "2026科学智能大会在京开幕 聚力推动人工智能赋能科学研究 8月21日，2026科学智能大会在北京海淀中关村国际创新中心开幕。大会由“学术科协”科学智能专家委员会提供学术指导，以“人工智能变革科研范式”为主题，汇聚近50位院士、80余位青年…",
+   "regions": []
+  },
+  {
+   "title": "开源连接器网关 OpenConnector：让 AI Agent 安全调用 1000+ SaaS 服务",
+   "link": "https://www.oschina.net/news/502067/oomol-lab-open-connector",
+   "source": "开源中国",
+   "time": "2026-08-21T11:02:29.000Z",
+   "summary": "Open-Connector 是一个面向 AI Agent 和应用开发者的开源连接器网关。项目旨在解决 AI Agent 接入外部 SaaS 服务时普遍存在的认证管理、权限控制、接口适配和运行审计等问题。 OpenConnector 可以将…",
+   "regions": []
+  },
+  {
+   "title": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了",
+   "link": "http://www.geekpark.net/news/369201",
+   "source": "极客公园",
+   "time": "2026-08-21T10:58:09.000Z",
+   "summary": "作者｜Cynthia 编辑｜靖宇 7 月 31 日，MiniMax H3 发布当天，我们就做了实测。 屏幕上的进度指示走到尽头，一段最高 2K 分辨率的视频出现在屏幕：画面、运动、声音被协调地装在同一个结果里。无论流畅度、画面精细程度，还是…",
+   "regions": []
+  },
+  {
+   "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
+   "link": "http://www.geekpark.net/news/369200",
+   "source": "极客公园",
+   "time": "2026-08-21T10:15:12.000Z",
+   "summary": "作者｜李苏 编辑｜靖宇 8 月 20 日晚，阿里巴巴发布新季度业绩。 阿里云外部商业化收入同比增长 45%，创 22 个季度以来的新高。AI 云及算力服务收入达到 484.37 亿元，经调整 EBITA 为 56.28 亿元，同比增长 13…",
+   "regions": []
+  },
+  {
+   "title": "本周看什么 | 最近值得一看的 10 部作品",
+   "link": "https://sspai.com/post/113693",
+   "source": "少数派",
+   "time": "2026-08-21T10:08:59.000Z",
+   "summary": "📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ... 查看全文",
+   "regions": []
+  },
+  {
+   "title": ":fire: SolonCode 是不是国产化替代 ClaudeCode 的优选？",
+   "link": "https://www.oschina.net/news/502066",
+   "source": "开源中国",
+   "time": "2026-08-21T09:58:12.000Z",
+   "summary": "安全审计、代码脱敏、数据本地化，是国内企业换掉 ClaudeCode（或任何海外 AI 编码助手）的三条真实理由。但「能换」和「换得舒服」之间，还隔着很多具体细节——安装、配置、模型选择、代码理解能力、与既有工程线的兼容性，一项项都比较清楚…",
+   "regions": []
+  },
+  {
+   "title": "DeepSeek V4-Flash 补上视觉能力，多模态 Agent 接近 Opus 4.8",
+   "link": "https://www.oschina.net/news/502065",
+   "source": "开源中国",
+   "time": "2026-08-21T09:49:00.000Z",
+   "summary": "DeepSeek 今天给 V4-Flash 补上了视觉能力。 新模型叫 DeepSeek-V4-Flash-Vision-Exp，一个实验性质的版本，已通过 deepseek-v4-flash-vision-exp 这个 model id …",
+   "regions": []
+  },
+  {
+   "title": "Hikyuu 2.8.2 发布，超高速开源量化交易框架",
+   "link": "https://www.oschina.net/news/502063",
+   "source": "开源中国",
+   "time": "2026-08-21T09:04:18.000Z",
+   "summary": "Hikyuu Quant Framework 基于 C++/Python 的超高速量化交易框架，同时可基于策略部件进行资产重用，快速累积策略资产 2.8.2 版本主要更新 :rocket: 新增特性 新增指标：RSRS_BETA、RSRS_…",
+   "regions": []
+  },
+  {
+   "title": "百万奖金怎么拿？这有一份上海开源大赛攻略",
+   "link": "https://www.oschina.net/news/502061",
+   "source": "开源中国",
+   "time": "2026-08-21T08:20:04.000Z",
+   "summary": "由开源中国主办的 2026 上海开源软件应用创新大赛已正式启动报名，作为上海市的年度重磅技术赛事，本次大赛总奖池累计 100 万元，面向全国征集开源项目，无论是企业团队、高校学生还是个人开发者，都可以报名参赛。 这篇攻略把大赛从报名到总决赛…",
+   "regions": []
+  },
+  {
+   "title": "Java Web 服务器 wastnet 上传和下载实战",
+   "link": "https://www.oschina.net/news/502060",
+   "source": "开源中国",
+   "time": "2026-08-21T08:04:15.000Z",
+   "summary": "文件上传与下载是 Web 服务最基础也最高频的能力，从网盘、CMS 到 OSS 网关几乎无处不在。实现逻辑无非两件事：把 multipart/form-data 里的文件流式存到磁盘；再把磁盘上的文件送回客户端。 本文用同一个\"上传文件到服…",
+   "regions": []
+  },
+  {
+   "title": "中美 AI 差距正在消失。不是预测，是正在发生的事。",
+   "link": "https://www.oschina.net/news/502059/2026-us-china-ai-race",
+   "source": "开源中国",
+   "time": "2026-08-21T07:12:49.000Z",
+   "summary": "Bloomberg Businessweek 8 月 20 日发了一篇数据量极大的专题报道，标题直白：US Lead in the AI Race With China Is Rapidly Narrowing。文章拉了十几张图表，从模型能…",
+   "regions": []
+  },
+  {
+   "title": "开源语义切片利器 Pragmatic Chunker 发布：一条命令打通 RAG 检索全链路",
+   "link": "https://www.oschina.net/news/502058",
+   "source": "开源中国",
+   "time": "2026-08-21T07:08:59.000Z",
+   "summary": "面向 RAG 场景的语义化文件切片与向量入库工具，Java 17 构建，从切片到检索一气呵成。 一、背景：RAG 落地的第一道门槛 检索增强生成（RAG，Retrieval-Augmented Generation）已经成为企业把私有文档、…",
+   "regions": []
+  },
+  {
+   "title": "iForge V0.0.1 首个版本正式发布｜自托管一体化研发协作平台",
+   "link": "https://www.oschina.net/news/502056",
+   "source": "开源中国",
+   "time": "2026-08-21T06:48:36.000Z",
+   "summary": "历经迭代打磨，iForge V0.0.1 首个正式版本现已全新发布！这是项目对外公开的第一个可用版本，聚焦团队研发流程痛点，打造任务、代码、评审、CI/CD、交付全链路一体化的自托管研发协作平台，彻底打通需求到上线的研发闭环，适配中小团队私…",
+   "regions": []
+  },
+  {
+   "title": "前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资",
+   "link": "http://www.geekpark.net/news/369162",
+   "source": "极客公园",
+   "time": "2026-08-21T06:15:33.000Z",
+   "summary": "头图来源：Wapoo 官网 极客公园获悉，面向 Gen Alpha 的视频共创社交平台 Wapoo 已完成近千万美元天使轮融资。本轮融资由某互联网集团旗下战略投资方投资，其在全球化产品运营、年轻用户生态及新兴市场拓展方面已具备一定积累，探奇…",
+   "regions": []
+  },
+  {
+   "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座",
+   "link": "http://www.geekpark.net/news/369161",
+   "source": "极客公园",
+   "time": "2026-08-21T06:12:45.000Z",
+   "summary": "头图来源：chatgpt 生成 前几天，我们注意小红书在海外发布了一款大模型 dots3-note preview。 这款模型采用 MoE 架构，总参数 280B、激活参数 16B，支持 512K 上下文，并具备文本、视觉、语音的多模态理解…",
+   "regions": []
+  },
+  {
+   "title": "禅道开源版 22.5 发布，编辑器中@人员后增加消息通知，完善多处用户体验",
+   "link": "https://www.oschina.net/news/502055",
+   "source": "开源中国",
+   "time": "2026-08-21T06:03:07.000Z",
+   "summary": "大家好， 禅道开源版22.5发布！本次发布 在编辑器中@人员后增加了消息通知功能，便于干系人第一时间收到消息提醒。 优化了测试用例与用例库用例版本同步时的操作提示，提升操作指引的清晰度，降低误操作风险。 放开外部人员设置为成员的限制，开启列…",
+   "regions": []
+  },
+  {
+   "title": "FydeOS v23 发布，全新的开源安卓子系统，远程桌面与VNC能力一起升级",
+   "link": "https://www.oschina.net/news/502052/fydeos-release-note-v23",
+   "source": "开源中国",
+   "time": "2026-08-21T04:49:11.000Z",
+   "summary": "FydeOS v23: Chromatic Cadence 正式发布了，大家久等了 🎉。 本次更新将 ChromiumOS 底座从 r144 升级至 r150，并带来了全新的开源安卓子系统、焕新的系统应用，以及面向企业设备的远程桌面增强。…",
+   "regions": []
+  },
+  {
+   "title": "美团高管反思「全员养虾」，8 万人日耗千万算力没带来生产力提升",
+   "link": "https://www.oschina.net/news/502051",
+   "source": "开源中国",
+   "time": "2026-08-21T03:10:26.000Z",
+   "summary": "美团核心本地商业 CEO 王莆中最近做了一次公开复盘，话题是内部那场轰轰烈烈的 AI 运动——「全员养虾」。 「养虾」是美团内部的戏称。今年 2 到 3 月，美团十万员工中约八万人放开使用 AI Agent，token 不设上限。公司希望用…",
+   "regions": []
+  },
+  {
+   "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
+   "link": "https://sspai.com/post/113586",
+   "source": "少数派",
+   "time": "2026-08-21T03:05:01.000Z",
+   "summary": "Nothing Ear (3a) 保持了它作为 Nothing 产品的精良做工和标志性的外观设计，在操作等方面也做得不错，单元素质也在水平线之上，降噪等方面也并不差，至少在中价位产品中绝对不能算落后。 查看全文",
+   "regions": []
+  },
+  {
+   "title": "演出前一晚机器人集体拖拍，宇树团队通宵重写代码保住王力宏演唱会",
+   "link": "https://www.oschina.net/news/502049",
+   "source": "开源中国",
+   "time": "2026-08-21T02:59:39.000Z",
+   "summary": "宇树科技上市答谢午宴上，王力宏讲了一段往事。 2025 年 12 月，他的成都演唱会，6 台宇树 G1 人形机器人要上台伴舞《火力全开》。这是全球首次机器人群体舞蹈演出。准备期几个月。编舞老师绑上动作捕捉器，几千个动作逐帧输入到机器人关节里…",
+   "regions": []
+  },
+  {
+   "title": "AIGCPanel v2.2.0 一句话让图片动起来，AIGCPanel 把视频生成装进了桌面",
+   "link": "https://www.oschina.net/news/502048",
+   "source": "开源中国",
+   "time": "2026-08-21T02:55:20.000Z",
+   "summary": "以前做一条 AI 视频，要凑齐画面、声音、动作三样东西。现在，你只需要一句话，或一张图。 AIGCPanel 是一款一站式 AI 数字人桌面应用，Windows / macOS / Linux 都能跑。v2.2.0 在工具页直接加入了「文生…",
+   "regions": []
+  },
+  {
+   "title": "AI 正吞噬一切，开源基础软件如何求生？",
+   "link": "https://my.oschina.net/u/4487475/blog/19745346",
+   "source": "开源中国",
+   "time": "2026-08-21T02:45:51.000Z",
+   "summary": "“大模型时代 SaaS 可以没有了，但数据不能没有。”",
+   "regions": []
+  },
+  {
+   "title": "GitHub 8 月 17 日宕机复盘，负载均衡配置错误引爆重试风暴",
+   "link": "https://www.oschina.net/news/502045/github-the-august-17-outage-and-the-work-ahead",
+   "source": "开源中国",
+   "time": "2026-08-21T02:15:26.000Z",
+   "summary": "8 月 17 日，GitHub 宕机了 7 小时 47 分钟。影响范围不只是 github.com 打不开。认证系统瘫痪、Actions 中断、Pull Request 和 Issue 不可用、Copilot 也挂了。 官方事后分析了故障原…",
+   "regions": []
+  },
+  {
+   "title": "DeepSeek Harness 公测一周迎来多模态大招，纯文本模型也能“看图”了",
+   "link": "https://www.oschina.net/news/502044/deepseek-harness-0-1-0-rc8",
+   "source": "开源中国",
+   "time": "2026-08-21T01:44:46.000Z",
+   "summary": "公测刚满一周，DeepSeek Harness 发布了 v0.1.0-rc.8。 14 项更新，多模态是重头戏。新版支持原生图片请求和图文混合输入，/goal、/plan 等命令可以直接接收图片；Claude Code 和 Codex 进一…",
+   "regions": []
+  },
+  {
+   "title": "曝周杰伦将代言 vivo 手机；华为「阔直板」手机曝光；柯洁透露战胜 AI 秘诀：装弱智｜极客早知道",
+   "link": "http://www.geekpark.net/news/369114",
+   "source": "极客公园",
+   "time": "2026-08-21T00:05:46.000Z",
+   "summary": "《黑神话：钟馗》全新 15 分钟游戏实机演示公布，首次展示主角战斗与部分剧情片段 8 月 20 日消息，由游戏科学开发的黑神话系列第二部作品《黑神话：钟馗》，今日带来全新 15 分钟游戏实机演示，首次展示主角战斗与部分剧情片段。 官方称，本…",
+   "regions": []
+  }
+ ],
+ "world": [
+  {
+   "title": "中国印尼首次全面战略对话，深化矿物能源、人工智能等领域合作",
+   "link": "https://sputniknews.cn/20260822/1072878496.html",
+   "source": "卫星社中文",
+   "time": "2026-08-21T23:50:08.000Z",
+   "summary": "中国—印尼全面战略对话机制首次会议8月21日在雅加达举行。中共中央政治局委员、外交部长王毅同印尼外长苏吉约诺共同主持。双方宣布启动制定《中印尼五年行动计划（2027—2031）》，在矿物能源、渔业捕捞、人工智能、粮农技术、海上合作等多领域达…",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄央行：俄罗斯人自9月1日起可向国外转账加密货币",
+   "link": "https://sputniknews.cn/20260822/1072878218.html",
+   "source": "卫星社中文",
+   "time": "2026-08-21T23:39:18.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月21日电 俄罗斯中央银行对卫星通讯社表示，自9月1日起，俄罗斯人可以向国外转账加密货币，既可以转至自己在境外的钱包，也可以转至外国商户账户，用于支付商品和服务。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1561010",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-21T18:00:16.000Z",
+   "summary": "On 8/21/2026 5:41:44 PM, an earthquake occurred in Indonesia potentially affecting 420 thousand in MMI III. The earthqua…",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【世界进行时】2026年8月21日",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142672",
+   "source": "联合国新闻",
+   "time": "2026-08-21T12:00:00.000Z",
+   "summary": "本期要点：刚果（金）埃博拉疫情呈指数级蔓延；国际刑事法院强烈反对美国新的制裁指令；哥伦比亚地震灾区120万人亟需援助，部分社区仍无法抵达；加沙94%的居民需要住所；几内亚比绍半数疑似猴痘病例为儿童；索马里儿童危机加剧，205家卫生和营养机构…",
+   "regions": [
+    "中东",
+    "美洲",
+    "非洲"
+   ]
+  },
+  {
+   "title": "世卫组织与北京大学加强合作，共同推进卫生应急准备工作",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142670",
+   "source": "联合国新闻",
+   "time": "2026-08-21T12:00:00.000Z",
+   "summary": "世界卫生组织与北京大学签署一项为期两年的项目合作协议，旨在通过研究、培训和创新分析方法，加强全球卫生应急准备工作。",
+   "regions": []
+  },
+  {
+   "title": "古特雷斯：纪念恐怖主义受害者必须保护其尊严和权利",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142669",
+   "source": "联合国新闻",
+   "time": "2026-08-21T12:00:00.000Z",
+   "summary": "8月21日是纪念和悼念恐怖主义受害者国际日。联合国秘书长古特雷斯当天表示，今年的主题“缅怀与治愈”提醒人们，铭记是通向康复与重振之路。",
+   "regions": []
+  },
+  {
+   "title": "索马里儿童危机加剧，205家卫生和营养机构关闭",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142668",
+   "source": "联合国新闻",
+   "time": "2026-08-21T12:00:00.000Z",
+   "summary": "联合国儿童基金会周五表示，援助削减正导致索马里卫生和营养机构关闭，饮用水、教育和儿童保护服务也受到影响。",
+   "regions": []
+  },
+  {
+   "title": "救援人员警告：刚果（金）埃博拉疫情呈指数级蔓延",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142667",
+   "source": "联合国新闻",
+   "time": "2026-08-21T12:00:00.000Z",
+   "summary": "随着刚果（金）历史上最致命的埃博拉疫情于周五持续蔓延，联合国救援人员再次发出紧急呼吁，要求国际社会立即提供支持，因为目前用于救生工作的资金已严重短缺。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "【子午播报】2026年8月21日",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142551",
+   "source": "联合国新闻",
+   "time": "2026-08-21T12:00:00.000Z",
+   "summary": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，从救灾物资到太阳能光伏板，怎么把货卖到联合国？",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "US announces economic warfare against Iran, oil prices surge",
+   "link": "https://news.cgtn.com/news/2026-08-21/US-announces-economic-warfare-against-Iran-oil-prices-surge-1PMwr5Njztm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-21T02:37:53.000Z",
+   "summary": "US Treasury Secretary Scott Bessent said on Thursday that the US will impose \"the toughest sanctions in history\" on Iran…",
+   "regions": []
+  },
+  {
+   "title": "Bulgaria to curb nuclear output due to low Danube levels",
+   "link": "https://news.cgtn.com/news/2026-08-21/Bulgaria-to-curb-nuclear-output-due-to-low-Danube-levels-1PMA1ShM3Zu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-21T02:33:04.000Z",
+   "summary": "Bulgaria will become the latest European country to reduce its nuclear power output on Friday due to a record drought sc…",
+   "regions": []
+  },
+  {
+   "title": "The Iran war shifts to economic battle: A growing quagmire for the US",
+   "link": "https://news.cgtn.com/news/2026-08-21/The-Iran-war-shifts-to-economic-battle-A-growing-quagmire-for-the-US-1PMsDk8NPFe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-21T02:22:15.000Z",
+   "summary": "The United States' economic pressure on Iran reflects its growing recognition that military means alone are unlikely to …",
+   "regions": []
+  },
+  {
+   "title": "Six European leaders condemn Israeli settlement plan in West Bank",
+   "link": "https://news.cgtn.com/news/2026-08-21/Six-European-leaders-condemn-Israeli-settlement-plan-in-West-Bank-1PMrvcUELWU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-21T01:04:41.000Z",
+   "summary": "Leaders of six European nations on Thursday condemned the Israeli government's decision to publish construction tenders …",
+   "regions": []
+  },
+  {
+   "title": "Russia urges Japan to fully recognize WWII outcomes",
+   "link": "https://news.cgtn.com/news/2026-08-21/Russia-urges-Japan-to-fully-recognize-WWII-outcomes-1PMqRvc9CfK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-21T00:58:37.000Z",
+   "summary": "Russian Foreign Ministry spokesperson Maria Zakharova on Thursday urged Japan to fully recognize the outcomes of World W…",
+   "regions": []
+  },
+  {
+   "title": "China, Switzerland complete free trade agreement upgrade negotiations",
+   "link": "https://news.cgtn.com/news/2026-08-21/China-Switzerland-reach-agreement-on-an-upgraded-free-trade-deal-1PMqpQQly0w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-21T00:00:44.000Z",
+   "summary": "China and Switzerland have completed negotiations on an upgraded free trade agreement (FTA) and signed a memorandum of u…",
+   "regions": []
+  }
+ ],
+ "tw": [],
+ "cn": [],
+ "updatedAt": "2026-08-23T15:35:39.854Z"
+}
