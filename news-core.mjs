@@ -416,5 +416,12 @@ export async function refreshWindow(dir, { force = false } = {}) {
       if (d === todayStr()) todayArchive = arch;
     }
   }
+  // 只保留最近 5 天（含当天）的存档，更早的自动清理
+  const KEEP_DAYS = 5;
+  for (const d of listDates(dir)) {
+    if (new Date(d).getTime() < Date.now() - KEEP_DAYS * 24 * 3600_000) {
+      try { fs.rmSync(path.join(dir, `${d}.json`), { force: true }); log(`清理过期存档 ${d}`); } catch {}
+    }
+  }
   return todayArchive || readArchive(dir, todayStr()) || { date: todayStr(), tech: [], world: [], tw: [], cn: [], econ: [] };
 }

@@ -11,7 +11,7 @@ import { log, todayStr, refreshWindow, listDates, readArchive, iterAllItems, key
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, 'data');
-const KEEP_DAYS = 14;
+const KEEP_DAYS = 5;
 
 const main = async () => {
   fs.mkdirSync(DATA_DIR, { recursive: true });
