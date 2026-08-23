@@ -1,7 +1,7 @@
 // 每日时事 离线缓存 v2：
 // 网络优先、失败回退缓存 —— 保证网页/App 永远拿到最新版本，断网时才用缓存兜底
-const CACHE = 'daily-news-v2';
-const SHELL = ['/', '/manifest.webmanifest', '/icons/icon-192.png', '/icons/icon-512.png', '/icons/apple-touch-icon.png'];
+const CACHE = 'daily-news-v3';
+const SHELL = ['./', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
