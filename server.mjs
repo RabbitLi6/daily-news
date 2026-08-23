@@ -47,7 +47,7 @@ async function ensureData(force = false) {
   fs.mkdirSync(DATA_DIR, { recursive: true });
   const today = readArchive(DATA_DIR, todayStr());
   if (today && !force) {
-    const total = (today.tech || []).length + (today.world || []).length + (today.tw || []).length + (today.cn || []).length;
+    const total = (today.tech || []).length + (today.world || []).length + (today.tw || []).length + (today.cn || []).length + (today.econ || []).length;
     const age = Date.now() - new Date(today.updatedAt).getTime();
     const stale = age > REFRESH_HOURS * 3600_000;
     const tooFew = total < 20 && age > 30 * 60_000;
@@ -142,7 +142,7 @@ fs.mkdirSync(DATA_DIR, { recursive: true });
 server.listen(PORT, HOST, () => {
   log(`每日时事服务已启动  http://127.0.0.1:${PORT}  （局域网: http://${lanIP() || '?'}:${PORT}${publicUrl() ? `，公网: ${publicUrl()}` : ''}）`);
   ensureData(false)
-    .then(a => log(`初始化完成：科技 ${a.tech.length} 条 / 国际 ${a.world.length} 条`))
+    .then(a => log(`初始化完成：科技 ${a.tech.length} 条 / 国际 ${a.world.length} 条 / 经济 ${(a.econ || []).length} 条`))
     .catch(e => log('初始化失败：', e.message));
 });
 setInterval(() => { ensureData(false).catch(e => log('定时刷新失败：', e.message)); }, CHECK_MINUTES * 60 * 1000);

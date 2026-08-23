@@ -384,6 +384,17 @@
    ]
   },
   {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.5M, Depth:147.71km) in Papua New Guinea 16/08/2026 10:59 UTC, 2.1 million in MMI>=III.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558930",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-16T11:18:40.000Z",
+   "summary": "On 8/16/2026 10:59:11 AM, an earthquake occurred in Papua New Guinea potentially affecting 2.1 million in MMI>=III. The …",
+   "regions": [
+    "巴布亚新几内亚",
+    "亚太"
+   ]
+  },
+  {
    "title": "日本千叶县暴雨死亡人数升至10人",
    "link": "https://sputniknews.cn/20260816/1072802710.html",
    "source": "卫星社中文",
@@ -795,6 +806,14 @@
    ]
   },
   {
+   "title": "Qatar denies claims of detaining Iranian pilots",
+   "link": "https://news.cgtn.com/news/2026-08-16/Qatar-denies-claims-of-detaining-Iranian-pilots-1PEdu4avbzO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-16T02:56:56.000Z",
+   "summary": "Qatar on Saturday denied claims that it had detained Iranian pilots, describing them as misleading amid ongoing diplomat…",
+   "regions": []
+  },
+  {
    "title": "法国救援人员在北部拦截80余名试图穿越拉芒什海峡的移民",
    "link": "https://sputniknews.cn/20260816/1072800292.html",
    "source": "卫星社中文",
@@ -825,6 +844,22 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Death toll from the M7.7 earthquake rises to 48",
+   "link": "https://news.cgtn.com/news/2026-08-16/news-1PEjgf3xIs0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-16T02:18:50.000Z",
+   "summary": "Death toll from the M7.7 earthquake rises to 48",
+   "regions": []
+  },
+  {
+   "title": "Chinese embassy condemns Japanese politicians' Yasukuni Shrine moves",
+   "link": "https://news.cgtn.com/news/2026-08-16/Chinese-embassy-condemns-Japanese-politicians-Yasukuni-Shrine-moves-1PEdjSky2u4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-16T02:10:01.000Z",
+   "summary": "A spokesperson for the Chinese Embassy in Japan said Saturday that Japanese political leaders' latest moves involving th…",
+   "regions": []
   },
   {
    "title": "集安组织秘书长：应在合理期限内就亚美尼亚在该组织中的未来做出决定",
@@ -879,6 +914,14 @@
    ]
   },
   {
+   "title": "China-Europe Arctic shipping route begins regular weekly operations",
+   "link": "https://news.cgtn.com/news/2026-08-16/China-Europe-Arctic-shipping-route-begins-regular-weekly-operations-1PE8B5zXYgU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-16T00:18:20.000Z",
+   "summary": "The China-Europe Arctic container express route entered regular weekly operations for the summer season on Saturday, ope…",
+   "regions": []
+  },
+  {
    "title": "媒体：伊朗与阿曼就霍尔木兹海峡航运图达成协议",
    "link": "https://sputniknews.cn/20260816/1072799370.html",
    "source": "卫星社中文",
@@ -888,6 +931,22 @@
     "中东",
     "俄乌"
    ]
+  },
+  {
+   "title": "Ecuadorian president arrives in Beijing for first China state visit",
+   "link": "https://news.cgtn.com/news/2026-08-16/Ecuadorian-president-arrives-in-Beijing-for-first-China-state-visit-1PE7L3H1RUk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-16T00:11:49.000Z",
+   "summary": "Ecuadorian President Daniel Roy-Gilchrist Noboa Azin arrived in Beijing Sunday for his first eight-day state visit to Ch…",
+   "regions": []
+  },
+  {
+   "title": "1 killed, 4 injured in shooting at Kentucky park",
+   "link": "https://news.cgtn.com/news/2026-08-16/news-1PE9MutAsmc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-16T00:06:10.000Z",
+   "summary": "1 killed, 4 injured in shooting at Kentucky park",
+   "regions": []
   },
   {
    "title": "伊朗外交部：污染致伊朗沿海水域损失或达数万亿美元",
@@ -932,6 +991,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Earthquakes strike Indonesia",
+   "link": "https://newsus.cgtn.com/news/2026-08-16/Earthquakes-strike-Indonesia--1PDWuYHMWAM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-15T21:32:29.000Z",
+   "summary": "See the moment a 7.7 magnitude earthquake struck off the coast of Indonesia’s Flores Island on Saturday, Aug 15, sending…",
+   "regions": []
   },
   {
    "title": "【灾害警报】Green earthquake (Magnitude 5.5M, Depth:39.954km) in Japan 15/08/2026 19:32 UTC, 2 thousand in MMI III.",
@@ -1072,7 +1139,7 @@
    ]
   }
  ],
- "updatedAt": "2026-08-17T20:13:48.402Z",
+ "updatedAt": "2026-08-18T12:46:50.872Z",
  "tw": [
   {
    "title": "Taiwan groups warn of security risks due to Japan's neo-militarism",

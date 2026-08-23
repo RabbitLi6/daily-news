@@ -85,6 +85,7 @@ a{color:inherit}
 .badge.disaster{background:#ea580c}
 .badge.tw{background:#0d9488}
 .badge.cn{background:#16a34a}
+.badge.econ{background:#d97706}
 .tab-desc{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 14px;font-size:12.5px;color:var(--muted);margin-bottom:12px;box-shadow:var(--shadow)}
 .card h3{margin:7px 0 5px;font-size:15px;line-height:1.5;font-weight:600}
 .card h3 a{text-decoration:none}
@@ -166,6 +167,7 @@ footer a{color:var(--accent);text-decoration:none}
       <button data-tab="world"><span class="ic">🌍</span>国际 <i id="cnt-world">0</i></button>
       <button data-tab="tw"><span class="ic">🇭🇰</span>港澳台 <i id="cnt-tw">0</i></button>
       <button data-tab="cn"><span class="ic">🏙️</span>国内热点 <i id="cnt-cn">0</i></button>
+      <button data-tab="econ"><span class="ic">🏦</span>经济 <i id="cnt-econ">0</i></button>
       <button data-tab="war"><span class="ic">⚔️</span>战争冲突 <i id="cnt-war">0</i></button>
       <button data-tab="disaster"><span class="ic">🌪️</span>自然灾害 <i id="cnt-disaster">0</i></button>
       <button data-tab="regions"><span class="ic">🔥</span>地区热点 <i id="cnt-regions">0</i></button>
@@ -204,12 +206,13 @@ const REGION_ORDER = ['中东','俄乌','台海','南海','朝鲜半岛','欧洲
 const POLITICS_HINT = /政治|外交|会谈|峰会|峰会|选举|总统|总理|首相|国会|议会|政府|内政|内阁|制裁|谈判|冲突|战争|停火|军演|导弹|核武|核弹|军事|国防|军队|士兵|袭击|空袭|无人机|坦克|战舰|航母|战机|大使|出访|访问|声明|抗议|示威|政变|危机|协议|条约|安全|情报|间谍|恐怖|武装|反恐|维和|撤军|驻军|基地|盟友|紧张|边界|领土|主权|封锁|斡旋|调停|G7|G20|王毅|普京|特朗普|拜登|泽连斯基|内塔尼亚胡|阿萨德|哈梅内伊|政权|过渡政府|反对派|停火|和谈|谈判|冲突|局势/;
 const WAR_HINT = /战争|战事|战况|开战|宣战|交火|停火|空袭|袭击|轰炸|炮击|导弹|巡航导弹|弹道导弹|无人机|战机|坦克|战舰|航母|核武|核弹|核武器|军演|军事行动|军事打击|进攻|反攻|占领|阵地|前线|战场|士兵|阵亡|伤亡|军队|军方|武装|武装分子|雇佣兵|游击队|封锁|反击|拦截|击落|摧毁|巷战|围困|对峙|紧张局势|战争罪|人道主义|停战|和谈|斡旋|战俘|征兵|动员|威慑|集安组织|防务|国防|军营|空域|领空|领海|边境冲突|越境|入侵/;
 const DISASTER_HINT = /地震|震中|震级|余震|海啸|台风|飓风|风暴|气旋|火山|喷发|洪水|洪灾|山洪|泥石流|滑坡|塌方|干旱|森林大火|山火|林火|火灾|暴雪|雪灾|寒潮|热浪|极端天气|暴雨|冰雹|龙卷风|雷暴|自然灾害|灾害|遇难|失踪|疏散|受灾|警报|earthquake|tsunami|typhoon|hurricane|cyclone|volcano|flood|landslide|wildfire|drought|storm|eruption/;
-const TAB_TITLES = { all:'全部新闻', tech:'科技热点', politics:'政治时事', world:'国际形势', tw:'港澳台动态', cn:'国内热点', war:'战争冲突', disaster:'自然灾害', regions:'地区热点' };
+const TAB_TITLES = { all:'全部新闻', tech:'科技热点', politics:'政治时事', world:'国际形势', tw:'港澳台动态', cn:'国内热点', econ:'经济财经', war:'战争冲突', disaster:'自然灾害', regions:'地区热点' };
 const TAB_DESC = {
   war: '⚔️ 全球战争与军事冲突动态：中东（美以伊、叙利亚、黎巴嫩）、俄乌战场等紧张局势实时汇总',
   disaster: '🌪️ 全球自然灾害速览：按发生时间排列，标注地点与震级/强度，出行前可快速查看（来源：GDACS 联合国/欧盟联合监测、USGS 美国官方地震台网、各国官方媒体）',
   tw: '🇭🇰 香港、澳门、台湾最新热门新闻（来源：中新网中国频道、中新网滚动）',
   cn: '🏙️ 国内城市热门新闻与民生动态（来源：中新网社会频道、中新网中国频道、中新网滚动）',
+  econ: '🏦 经济与财经动态：股市、楼市、油价、贸易、企业动态（来源：中新网财经频道及各官方媒体财经新闻自动分类）',
 };
 const state = { dates: [], current: null, today: null, yesterday: null, data: null, tab: 'all', regions: new Set(), loading: false, error: null, search: { q: '', items: null, loading: false }, modal: null, mode: 'api', staticIndex: null };
 let currentItems = [];
@@ -218,7 +221,7 @@ const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const pad2 = n => String(n).padStart(2, '0');
 const localDateOf = d => `${d.getFullYear()}-${pad2(d.getMonth()+1)}-${pad2(d.getDate())}`;
-const badgeLabel = c => c === 'tech' ? '科技' : c === 'war' ? '战争' : c === 'disaster' ? '灾害' : c === 'politics' ? '政治' : c === 'tw' ? '港澳台' : c === 'cn' ? '国内' : '国际';
+const badgeLabel = c => c === 'tech' ? '科技' : c === 'war' ? '战争' : c === 'disaster' ? '灾害' : c === 'politics' ? '政治' : c === 'tw' ? '港澳台' : c === 'cn' ? '国内' : c === 'econ' ? '经济' : '国际';
 const cardHTML = (it, idx, fullDate) => `
   <article class="card" data-i="${idx}">
     <div class="meta">
@@ -294,12 +297,13 @@ const catOf = x => {
 };
 
 function filtered() {
-  if (!state.data) return { tech: [], world: [], tw: [], cn: [], all: [], war: [], disaster: [] };
+  if (!state.data) return { tech: [], world: [], tw: [], cn: [], econ: [], all: [], war: [], disaster: [] };
   const matchR = x => state.regions.size === 0 || (x.regions||[]).some(r => state.regions.has(r));
   const tech = (state.data.tech||[]).filter(matchR);
   const world = (state.data.world||[]).filter(matchR);
   const tw = (state.data.tw||[]).filter(matchR);
   const cn = (state.data.cn||[]).filter(matchR);
+  const econ = (state.data.econ||[]).filter(matchR);
   const war = world.filter(x => WAR_HINT.test(x.title + ' ' + (x.summary||'')));
   const disaster = world.filter(x => DISASTER_HINT.test(x.title + ' ' + (x.summary||'')));
   const all = [
@@ -307,8 +311,9 @@ function filtered() {
     ...world.map(x => ({ ...x, cat: catOf(x) })),
     ...tw.map(x => ({ ...x, cat: 'tw' })),
     ...cn.map(x => ({ ...x, cat: 'cn' })),
+    ...econ.map(x => ({ ...x, cat: 'econ' })),
   ].sort((a,b) => (b.time||'').localeCompare(a.time||''));
-  return { tech, world, tw, cn, war, disaster, all };
+  return { tech, world, tw, cn, econ, war, disaster, all };
 }
 
 function renderList() {
@@ -334,7 +339,7 @@ function renderList() {
     el.innerHTML = `<div class="empty">⚠️ ${esc(state.error||'连接失败')}<br><button class="primary" onclick="init()">重试</button></div>`;
     return;
   }
-  const { tech, world, tw, cn, war, disaster, all } = filtered();
+  const { tech, world, tw, cn, econ, war, disaster, all } = filtered();
   const lists = {
     all,
     tech: tech.map(x => ({ ...x, cat: 'tech' })),
@@ -342,6 +347,7 @@ function renderList() {
     world: world.map(x => ({ ...x, cat: 'world' })),
     tw: tw.map(x => ({ ...x, cat: 'tw' })),
     cn: cn.map(x => ({ ...x, cat: 'cn' })),
+    econ: econ.map(x => ({ ...x, cat: 'econ' })),
     war: war.map(x => ({ ...x, cat: 'war' })),
     disaster: disaster.map(x => ({ ...x, cat: 'disaster' })),
     regions: world.filter(x => (x.regions||[]).length).map(x => ({ ...x, cat: catOf(x) })),
@@ -380,7 +386,7 @@ function renderStatus() {
 }
 
 function render() {
-  const { tech, world, tw, cn, war, disaster, all } = filtered();
+  const { tech, world, tw, cn, econ, war, disaster, all } = filtered();
   const politics = world.filter(x => POLITICS_HINT.test(x.title + ' ' + (x.summary||'')));
   const regionsTab = world.filter(x => (x.regions||[]).length);
   $('#cnt-all').textContent = all.length;
@@ -389,6 +395,7 @@ function render() {
   $('#cnt-world').textContent = world.length;
   $('#cnt-tw').textContent = tw.length;
   $('#cnt-cn').textContent = cn.length;
+  $('#cnt-econ').textContent = econ.length;
   $('#cnt-war').textContent = war.length;
   $('#cnt-disaster').textContent = disaster.length;
   $('#cnt-regions').textContent = regionsTab.length;
@@ -493,7 +500,7 @@ async function runSearch() {
         .sort((a, b) => (b.time||'').localeCompare(a.time||'')).slice(0, 80);
     } else {
       const res = await api(`/api/search?q=${encodeURIComponent(q)}`);
-      results = res.results.map(x => ({ ...x, cat: (x.cat === 'tw' || x.cat === 'cn') ? x.cat : catOf(x) }));
+      results = res.results.map(x => ({ ...x, cat: (x.cat === 'tw' || x.cat === 'cn' || x.cat === 'econ') ? x.cat : catOf(x) }));
     }
     if (state.search.q === q) {
       state.search.items = results;
@@ -534,7 +541,7 @@ function openDetail(item) {
     : api(`/api/related?link=${encodeURIComponent(item.link)}&title=${encodeURIComponent(item.title)}`);
   loadRelated
     .then(res => {
-      if (state.modal) { state.modal.related = res.results.map(x => ({ ...x, cat: (x.cat === 'tw' || x.cat === 'cn') ? x.cat : catOf(x) })); state.modal.loading = false; renderModal(); }
+      if (state.modal) { state.modal.related = res.results.map(x => ({ ...x, cat: (x.cat === 'tw' || x.cat === 'cn' || x.cat === 'econ') ? x.cat : catOf(x) })); state.modal.loading = false; renderModal(); }
     })
     .catch(() => { if (state.modal) { state.modal.related = []; state.modal.loading = false; renderModal(); } });
 }

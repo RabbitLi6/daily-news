@@ -81,6 +81,8 @@ export const matchRegions = text => REGIONS.filter(([, re]) => re.test(text)).ma
 export const DISASTER_HINT = /地震|震中|震级|余震|海啸|台风|飓风|风暴|气旋|火山|喷发|洪水|洪灾|山洪|泥石流|滑坡|塌方|干旱|森林大火|山火|林火|火灾|暴雪|雪灾|寒潮|热浪|极端天气|暴雨|冰雹|龙卷风|雷暴|自然灾害|灾害|遇难|失踪|疏散|受灾|警报|earthquake|tsunami|typhoon|hurricane|cyclone|volcano|flood|landslide|wildfire|drought|storm|eruption/;
 export const HKMO_TW_HINT = /香港|澳门|台湾|台北|高雄|台中|新北|台南|基隆|桃园|新竹|嘉义|花莲|台东|澎湖|金门|马祖|两岸|海峡|一国两制|港澳|大湾区|粤港澳|港珠澳|维港|中环|旺角|尖沙咀|荃湾|沙田|元朗|屯门|大埔|西贡|氹仔|路环|横琴|赖清德|蔡英文|台胞|台商|港人|特区/;
 const HKMO_TW_EN = /Taiwan|Hong Kong|Macau|Macao|Taipei|Kaohsiung|Taiwan Strait/;
+export const ECON_HINT = /经济|财经|金融|股市|股票|港股|美股|A股|基金|债券|期货|黄金|原油|油价|楼市|房价|央行|美联储|加息|降息|利率|汇率|通胀|CPI|GDP|关税|贸易|出口|进口|融资|上市|IPO|市值|股价|营收|利润|财报|银行|保险|证券|理财|存款|贷款|财政|税收|补贴|地产|房地产|开发商|土地|茅台|特斯拉|苹果|微软|英伟达|华为|小米|比亚迪|宁德时代|石油|天然气|煤炭|电力|稀土|粮食|猪价|物价|工资|就业|失业|招商|签约|自贸区|自贸港|跨境电商|新能源|光伏|半导体|芯片/;
+const ECON_EN = /econom|finance|GDP|stocks?|market|trade|tariff|bank|inflation|investment|fund|currency|oil|gas|chip|semiconductor|electric vehicle|revenue|profit|IPO|monetary|fiscal|consumer|export|import|debt|yuan|renminbi/;
 export const DOMESTIC_HINT = /^(?!.*(美国|俄罗斯|乌克兰|日本|韩国|朝鲜|印度|欧盟|英国|法国|德国|联合国|北约|中东|伊朗|以色列)).*(中国|北京|上海|深圳|广州|天津|重庆|河北|河南|山东|山西|陕西|四川|云南|贵州|广西|广东|福建|浙江|江苏|安徽|江西|湖南|湖北|辽宁|吉林|黑龙江|内蒙古|新疆|西藏|甘肃|宁夏|青海|海南|全国|国内|国务院|发改委|央行|证监会|财政部|教育部|文旅|纪委|法院|卫健委|医保|社保|景区|铁路|民航|地铁|台风|天气|暴雨|地震|高考|中考|水利部|气象台|应急管理|防总)/;
 export const INTERNATIONAL_HINT = /国际|外交|会谈|峰会|制裁|谈判|冲突|选举|总统|总理|首相|国会|议会|维和|大使|出访|军演|航母|导弹|战争|停火|难民|G7|G20|联合国|世界|全球|海外|境外|俄罗斯|乌克兰|美国|日本|韩国|朝鲜|印度|英国|法国|德国|伊朗|以色列|土耳其|波兰|加拿大|澳大利亚|巴西|菲律宾|越南|泰国|印尼|马来西亚|新加坡|埃及|南非|尼日利亚|中东|非洲|拉美|东盟|北约|欧盟|台海|台湾|南海|叙利亚|也门|加沙|黎巴嫩|沙特|阿联酋|墨西哥|阿根廷|智利|古巴|秘鲁|希腊|荷兰|比利时|瑞士|瑞典|挪威|丹麦|芬兰|缅甸|柬埔寨|老挝|尼泊尔|巴基斯坦|孟加拉|斯里兰卡|新西兰|利比亚|突尼斯|摩洛哥|埃塞俄比亚|肯尼亚|索马里/;
 export const ENTERTAINMENT_HINT = /彩票|开奖|预测|股市|港股|美股|基金|债券|期货|黄金|外汇|楼市|房价|综艺|明星|娱乐圈|电影|电视剧|足球|篮球|比赛|赛事|夺冠|进球|联赛|欧冠|NBA|CBA|演唱会|票房|相亲|养生|星座/;
@@ -107,6 +109,9 @@ const WORLD_FEEDS = [
   { name: '联合国新闻', url: 'https://news.un.org/feed/subscribe/zh/news/all/rss.xml' },
   { name: '卫星社中文', url: 'https://sputniknews.cn/export/rss2/archive/index.xml' },
   { name: 'CGTN国际', url: 'https://www.cgtn.com/subscribe/rss/section/world.xml' },
+];
+const ECON_FEEDS = [
+  { name: '中新网财经', url: 'https://www.chinanews.com.cn/rss/finance.xml' },
 ];
 
 export function parseRss(xml) {
@@ -145,7 +150,7 @@ export async function fetchFeeds(feedList) {
 }
 
 export async function fetchDomestic() {
-  const out = { tw: [], cn: [], worldExtra: [] };
+  const out = { tw: [], cn: [], econ: [], worldExtra: [] };
   const mk = (it, src) => ({ title: it.title, link: it.link, source: src, time: it.time, summary: it.summary, regions: [] });
   const tag = it => {
     const regions = matchRegions(it.title + ' ' + it.summary);
@@ -155,50 +160,56 @@ export async function fetchDomestic() {
   };
   try {
     const items = parseRss(await fetchText('https://www.chinanews.com.cn/rss/china.xml')).slice(0, 60);
-    let t = 0, c = 0;
+    let t = 0, c = 0, e = 0;
     for (const it of items) {
       const text = it.title + ' ' + it.summary;
       const item = mk(it, '中新网中国'); item.regions = tag(it);
-      if (HKMO_TW_HINT.test(text)) { out.tw.push(item); t++; } else { out.cn.push(item); c++; }
+      if (HKMO_TW_HINT.test(text)) { out.tw.push(item); t++; }
+      else if (ECON_HINT.test(text)) { out.econ.push(item); e++; }
+      else { out.cn.push(item); c++; }
     }
-    log(`✓ 中新网中国: ${items.length} 条（港澳台 ${t} / 国内 ${c}）`);
+    log(`✓ 中新网中国: ${items.length} 条（港澳台 ${t} / 经济 ${e} / 国内 ${c}）`);
   } catch (e) { log(`✗ 中新网中国: ${e.message}`); }
   try {
     const items = parseRss(await fetchText('https://www.chinanews.com.cn/rss/society.xml')).slice(0, 60);
-    let kept = 0;
+    let kept = 0, e = 0;
     for (const it of items) {
       if (ENTERTAINMENT_HINT.test(it.title + ' ' + it.summary)) continue;
       const item = mk(it, '中新网社会'); item.regions = tag(it);
-      out.cn.push(item); kept++;
+      if (ECON_HINT.test(it.title + ' ' + it.summary)) { out.econ.push(item); e++; }
+      else { out.cn.push(item); kept++; }
     }
-    log(`✓ 中新网社会: ${kept} 条`);
+    log(`✓ 中新网社会: ${kept} 条（经济 ${e}）`);
   } catch (e) { log(`✗ 中新网社会: ${e.message}`); }
   try {
     const items = parseRss(await fetchText('https://www.chinanews.com.cn/rss/scroll-news.xml')).slice(0, 120);
-    let w = 0, t = 0, c = 0;
+    let w = 0, t = 0, c = 0, e = 0;
     for (const it of items) {
       const text = it.title + ' ' + it.summary;
+      if (ENTERTAINMENT_HINT.test(text)) continue;
       const regions = matchRegions(text);
       const disaster = DISASTER_HINT.test(text);
-      const isIntl = (regions.length > 0 || INTERNATIONAL_HINT.test(text) || disaster)
-        && !ENTERTAINMENT_HINT.test(text) && (disaster || !DOMESTIC_HINT.test(text));
-      if (isIntl) { out.worldExtra.push(mk(it, '中新网滚动')); w++; continue; }
-      if (ENTERTAINMENT_HINT.test(text)) continue;
       const item = mk(it, '中新网滚动'); item.regions = tag(it);
+      if (disaster) { out.worldExtra.push(item); w++; continue; }
       if (HKMO_TW_HINT.test(text)) { out.tw.push(item); t++; continue; }
+      if (ECON_HINT.test(text)) { out.econ.push(item); e++; continue; }
+      const isIntl = regions.length > 0 || INTERNATIONAL_HINT.test(text);
+      if (isIntl && !DOMESTIC_HINT.test(text)) { out.worldExtra.push(item); w++; continue; }
       if (CITY_HINT_ANY.test(text) || DOMESTIC_HINT.test(text)) { out.cn.push(item); c++; }
     }
-    log(`✓ 中新网滚动: 国际 ${w} / 港澳台 ${t} / 国内 ${c} 条`);
+    log(`✓ 中新网滚动: 国际 ${w} / 港澳台 ${t} / 经济 ${e} / 国内 ${c} 条`);
   } catch (e) { log(`✗ 中新网滚动: ${e.message}`); }
   try {
     const items = parseRss(await fetchText('https://www.cgtn.com/subscribe/rss/section/china.xml')).slice(0, 50);
-    let t = 0, c = 0;
+    let t = 0, c = 0, e = 0;
     for (const it of items) {
       const text = it.title + ' ' + it.summary;
       const item = mk(it, 'CGTN中国'); item.regions = matchEnPlaces(text);
-      if (HKMO_TW_EN.test(text) || HKMO_TW_HINT.test(text)) { out.tw.push(item); t++; } else { out.cn.push(item); c++; }
+      if (HKMO_TW_EN.test(text) || HKMO_TW_HINT.test(text)) { out.tw.push(item); t++; }
+      else if (ECON_EN.test(text) || ECON_HINT.test(text)) { out.econ.push(item); e++; }
+      else { out.cn.push(item); c++; }
     }
-    log(`✓ CGTN中国: ${items.length} 条（港澳台 ${t} / 国内 ${c}）`);
+    log(`✓ CGTN中国: ${items.length} 条（港澳台 ${t} / 经济 ${e} / 国内 ${c}）`);
   } catch (e) { log(`✗ CGTN中国: ${e.message}`); }
   return out;
 }
@@ -298,11 +309,12 @@ export const bucket = items => {
   return by;
 };
 
-export function mergeInto(arch, techItems, worldItems, twItems, cnItems) {
+export function mergeInto(arch, techItems, worldItems, twItems, cnItems, econItems) {
   arch.tech = arch.tech || [];
   arch.world = arch.world || [];
   arch.tw = arch.tw || [];
   arch.cn = arch.cn || [];
+  arch.econ = arch.econ || [];
   const add = (list, items) => {
     const seen = new Set(list.map(keyOf));
     for (const it of items) if (!seen.has(keyOf(it))) { seen.add(keyOf(it)); list.push(it); }
@@ -313,6 +325,7 @@ export function mergeInto(arch, techItems, worldItems, twItems, cnItems) {
   add(arch.world, worldItems);
   add(arch.tw, twItems);
   add(arch.cn, cnItems);
+  add(arch.econ, econItems);
   arch.updatedAt = new Date().toISOString();
   return arch;
 }
@@ -352,6 +365,7 @@ export function* iterAllItems(dir) {
     for (const it of arch.world || []) yield { ...it, date: d, cat: 'world' };
     for (const it of arch.tw || []) yield { ...it, date: d, cat: 'tw' };
     for (const it of arch.cn || []) yield { ...it, date: d, cat: 'cn' };
+    for (const it of arch.econ || []) yield { ...it, date: d, cat: 'econ' };
   }
 }
 
@@ -360,7 +374,7 @@ export async function refreshWindow(dir, { force = false } = {}) {
   const todayFile = readArchive(dir, todayStr());
   const now = Date.now();
   if (todayFile && !force) {
-    const total = (todayFile.tech || []).length + (todayFile.world || []).length + (todayFile.tw || []).length + (todayFile.cn || []).length;
+    const total = (todayFile.tech || []).length + (todayFile.world || []).length + (todayFile.tw || []).length + (todayFile.cn || []).length + (todayFile.econ || []).length;
     const age = now - new Date(todayFile.updatedAt).getTime();
     if (total >= 20 && age <= 4 * 3600_000) { log(`快照仍新鲜（${total} 条），跳过抓取`); return todayFile; }
   }
@@ -371,8 +385,9 @@ export async function refreshWindow(dir, { force = false } = {}) {
     fetchFeeds(WORLD_FEEDS),
     fetchDomestic(),
     fetchDisasterFeeds(),
-  ].map(p => p.catch(e => { log('源抓取失败：', e.message); return { tw: [], cn: [], worldExtra: [] }; }));
-  const [tech, worldRaw, dom, disasters] = await Promise.all(feedJobs);
+    fetchFeeds(ECON_FEEDS),
+  ].map(p => p.catch(e => { log('源抓取失败：', e.message); return { tw: [], cn: [], econ: [], worldExtra: [] }; }));
+  const [tech, worldRaw, dom, disasters, econRaw] = await Promise.all(feedJobs);
   const worldItems = [
     ...worldRaw.map(it => {
       const regions = matchRegions(it.title + ' ' + it.summary);
@@ -384,18 +399,22 @@ export async function refreshWindow(dir, { force = false } = {}) {
   ];
   const twItems = dom.tw;
   const cnItems = dom.cn;
-  log(`抓取完成（${((Date.now() - started) / 1000).toFixed(1)}s）：科技 ${tech.length} / 国际 ${worldItems.length} / 港澳台 ${twItems.length} / 国内 ${cnItems.length}`);
-  const techBy = bucket(tech), worldBy = bucket(worldItems), twBy = bucket(twItems), cnBy = bucket(cnItems);
+  const econItems = [
+    ...dom.econ,
+    ...econRaw.map(it => ({ ...it, regions: matchRegions(it.title + ' ' + it.summary) })),
+  ];
+  log(`抓取完成（${((Date.now() - started) / 1000).toFixed(1)}s）：科技 ${tech.length} / 国际 ${worldItems.length} / 港澳台 ${twItems.length} / 国内 ${cnItems.length} / 经济 ${econItems.length}`);
+  const techBy = bucket(tech), worldBy = bucket(worldItems), twBy = bucket(twItems), cnBy = bucket(cnItems), econBy = bucket(econItems);
   let todayArchive = null;
   for (const d of [todayStr(), daysAgo(1), daysAgo(2)]) {
-    const hasItems = (techBy[d] || []).length + (worldBy[d] || []).length + (twBy[d] || []).length + (cnBy[d] || []).length > 0;
+    const hasItems = (techBy[d] || []).length + (worldBy[d] || []).length + (twBy[d] || []).length + (cnBy[d] || []).length + (econBy[d] || []).length > 0;
     if (d === todayStr() || hasItems) {
-      let arch = readArchive(dir, d) || { date: d, tech: [], world: [], tw: [], cn: [] };
-      arch = mergeInto(arch, techBy[d] || [], worldBy[d] || [], twBy[d] || [], cnBy[d] || []);
-      const total = arch.tech.length + arch.world.length + arch.tw.length + arch.cn.length;
+      let arch = readArchive(dir, d) || { date: d, tech: [], world: [], tw: [], cn: [], econ: [] };
+      arch = mergeInto(arch, techBy[d] || [], worldBy[d] || [], twBy[d] || [], cnBy[d] || [], econBy[d] || []);
+      const total = arch.tech.length + arch.world.length + arch.tw.length + arch.cn.length + arch.econ.length;
       if (total > 0) writeArchive(dir, arch);
       if (d === todayStr()) todayArchive = arch;
     }
   }
-  return todayArchive || readArchive(dir, todayStr()) || { date: todayStr(), tech: [], world: [], tw: [], cn: [] };
+  return todayArchive || readArchive(dir, todayStr()) || { date: todayStr(), tech: [], world: [], tw: [], cn: [], econ: [] };
 }

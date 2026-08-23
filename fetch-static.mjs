@@ -15,7 +15,7 @@ const KEEP_DAYS = 14;
 
 const main = async () => {
   fs.mkdirSync(DATA_DIR, { recursive: true });
-  const today = await refreshWindow(DATA_DIR, { force: false });
+  const today = await refreshWindow(DATA_DIR, { force: process.argv.includes('--force') });
 
   // 清理超过 14 天的旧存档
   for (const d of listDates(DATA_DIR)) {
@@ -56,7 +56,7 @@ const main = async () => {
 
   const total = index.length;
   log(`✅ 静态站点已更新：${dates.length} 天存档，共 ${total} 条新闻索引`);
-  log(`今日：科技 ${today.tech.length} / 国际 ${today.world.length} / 港澳台 ${today.tw.length} / 国内 ${today.cn.length}`);
+  log(`今日：科技 ${today.tech.length} / 国际 ${today.world.length} / 港澳台 ${today.tw.length} / 国内 ${today.cn.length} / 经济 ${today.econ.length}`);
 };
 
 main().then(() => process.exit(0)).catch(e => { console.error(e); process.exit(1); });
