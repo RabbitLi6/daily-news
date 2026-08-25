@@ -2,6 +2,30 @@
  "date": "2026-08-24",
  "tech": [
   {
+   "title": "特斯拉公布新专利，从源头解决前置摄像头起雾问题",
+   "link": "https://www.ithome.com/0/993/794.htm",
+   "source": "IT之家",
+   "time": "2026-08-24T23:55:27.000Z",
+   "summary": "IT之家 8 月 25 日消息，特斯拉公布了一项专利申请，希望借此改善前置摄像头外壳的挥发性有机化合物（VOC）逸散问题。该专利提出，将能够吸收 VOC 的材料直接融入包围车辆前置摄像头的摄像头外壳中。 这项技术的目标，是吸收塑料摄像头外壳…",
+   "regions": []
+  },
+  {
+   "title": "消息称智能戒指厂商 Oura 拟下月赴美 IPO，目标估值超 160 亿美元",
+   "link": "https://www.ithome.com/0/993/793.htm",
+   "source": "IT之家",
+   "time": "2026-08-24T23:49:28.000Z",
+   "summary": "IT之家 8 月 25 日消息，据彭博社报道，芬兰智能戒指制造商 Oura 正计划最早于下个月在美国进行 IPO，拟募集最多 30 亿美元 （IT之家注：现汇率约合 201.87 亿元人民币） ，并寻求超过 160 亿美元 （现汇率约合 1…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 0825：2026 胡润中国品牌榜发布；成都减灾所就预警偏差致歉；小米明确二手手机等产品不属三包范围；小米玄戒 O3、O100、D100 三款自研芯片发布...",
+   "link": "https://www.ithome.com/0/993/792.htm",
+   "source": "IT之家",
+   "time": "2026-08-24T23:49:08.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 25 日星期二，今天的重要科技资讯有： 1. 2026 胡润中国品牌榜发布：苹果蝉联第一，抖音与微信并列，华为重返前十，AIGC 品牌首次入榜 胡润研究院发布《2026 胡润中国品牌榜…",
+   "regions": []
+  },
+  {
    "title": "联想承认 BIOS 更新导致 Legion Go 掌机变砖，受影响设备可免费维修",
    "link": "https://www.ithome.com/0/993/791.htm",
    "source": "IT之家",
@@ -490,6 +514,14 @@
    "regions": []
   },
   {
+   "title": "全能型 Agent covo-agent v0.0.7 发布：TUI 新增 LLM 内联自动补全",
+   "link": "https://www.oschina.net/news/502100",
+   "source": "开源中国",
+   "time": "2026-08-24T12:45:30.000Z",
+   "summary": "covo-agent 是一个运行在终端里的通用型 AI Agent，提供 general 与 code 两种工作模式，面向日常知识工作、软件开发、自动化与外部系统协作等场景。项目使用 Go 编写，采用 AGPL-3.0 开源协议。 项目简介…",
+   "regions": []
+  },
+  {
    "title": "消息称原 OPPO 海外营销服总裁张洲川已入职大疆",
    "link": "https://www.ithome.com/0/993/724.htm",
    "source": "IT之家",
@@ -503,6 +535,14 @@
    "source": "IT之家",
    "time": "2026-08-24T12:41:38.000Z",
    "summary": "IT之家 8 月 24 日消息，韩国外设品牌 Pulsar（派世）本月 20 日宣布推出 eS 电竞鼠标垫收纳包 (Carrying Bag All-in-one)，国行定价 899 元。 这一收纳设备不仅 可容纳 500mm × 500m…",
+   "regions": []
+  },
+  {
+   "title": "WePush 5.1.3 发布，专注批量推送的小而美的工具",
+   "link": "https://www.oschina.net/news/502097",
+   "source": "开源中国",
+   "time": "2026-08-24T12:28:43.000Z",
+   "summary": "WePush 5.1.3 已发布，这是一个专注批量推送的小而美的工具。 更新内容: 新增运营商短信协议支持 消息：新增支持CMPP、SMGP、SGIP和SMPP运营商短信 消息：完善运营商短信发送链路与验收 下载地址： https://gi…",
    "regions": []
   },
   {
@@ -1988,6 +2028,16 @@
  ],
  "world": [
   {
+   "title": "日本跨党派国会议员团访问中国",
+   "link": "https://sputniknews.cn/20260825/1072909772.html",
+   "source": "卫星社中文",
+   "time": "2026-08-24T23:53:23.000Z",
+   "summary": "据共同社报道，日本跨党派国会议员代表团24日访问中国。目前正协调在北京与中共中央对外联络部干部举行会谈。成员包括在野党中道改革联合的广报委员长伊佐进一、执政党自民党的前厚生劳动副大臣桥本岳等。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
    "title": "四个台风接续而来，如何应对？",
    "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683516.shtml",
    "source": "中新网滚动",
@@ -2075,6 +2125,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Canada to unveil retaliatory measures against US after talks collapse",
+   "link": "https://news.cgtn.com/news/2026-08-25/news-1PT1ILk5gGs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T23:07:28.000Z",
+   "summary": "Canada to unveil retaliatory measures against US after talks collapse",
+   "regions": []
   },
   {
    "title": "美军再次在东太平洋打击“贩毒船” 致2人死亡",
@@ -2196,6 +2254,22 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Venezuela earthquake amputees begin long road to recovery",
+   "link": "https://newsus.cgtn.com/news/2026-08-25/Venezuela-earthquake-amputees-begin-long-road-to-recovery-1PSVbuDW1S8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T21:51:31.000Z",
+   "summary": "Venezuela earthquake amputees begin long road to recovery",
+   "regions": []
+  },
+  {
+   "title": "Colombia faces years of rebuilding after earthquake devastation",
+   "link": "https://newsus.cgtn.com/news/2026-08-25/Colombia-faces-years-of-rebuilding-after-earthquake-devastation-1PSUlo2D5w4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T21:51:20.000Z",
+   "summary": "Colombia faces years of rebuilding after earthquake devastation",
+   "regions": []
   },
   {
    "title": "俄铁公司：2026年前七个月俄中铁路货运量创下新高",
@@ -2386,6 +2460,14 @@
    ]
   },
   {
+   "title": "Kenya plans maize imports as drought hits key growing areas",
+   "link": "https://newsaf.cgtn.com/news/2026-08-25/Kenya-plans-maize-imports-as-drought-hits-key-growing-areas-1PSm2KqL93W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T17:03:01.000Z",
+   "summary": "A poor harvest there could have consequences far beyond farming communities, potentially putting pressure on maize suppl…",
+   "regions": []
+  },
+  {
    "title": "中国驻俄大使：对熊猫“喀秋莎”的照料可促进俄中关系发展",
    "link": "https://sputniknews.cn/20260825/1072906256.html",
    "source": "卫星社中文",
@@ -2394,6 +2476,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "UN launches $22m education initiative for Sudan's children",
+   "link": "https://newsaf.cgtn.com/news/2026-08-25/UN-launches-22m-education-initiative-for-Sudan-s-children-1PShzk8UrcI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T16:57:42.000Z",
+   "summary": "The support will benefit children in three Sudanese states; West Darfur, South Kordofan and Gedaref with the aim of rest…",
+   "regions": []
   },
   {
    "title": "俄国防部：俄军在敖德萨港击中为乌军运送军用物资干货船",
@@ -2519,6 +2609,22 @@
    ]
   },
   {
+   "title": "Ebola deaths in DR Congo near 2,700 mark",
+   "link": "https://newsaf.cgtn.com/news/2026-08-24/Ebola-deaths-in-DR-Congo-near-2-700-mark-1PRVM8Qhcpa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T15:05:03.000Z",
+   "summary": "With 5,514 confirmed cases and 2,642 deaths, the World Health Organization warns this is now the nation's fastest-growin…",
+   "regions": []
+  },
+  {
+   "title": "Ethiopia's Kejelcha retakes world half marathon record",
+   "link": "https://newsaf.cgtn.com/news/2026-08-24/Ethiopia-s-Kejelcha-retakes-world-half-marathon-record--1PRXg2zBa8w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T15:01:53.000Z",
+   "summary": "The performance came months after Kejelcha made headlines with a 1:59:40 marathon debut in London, the fastest marathon …",
+   "regions": []
+  },
+  {
    "title": "澳大利亚计划2030年代初建成美国核潜艇维修船坞",
    "link": "https://sputniknews.cn/20260824/1072905217.html",
    "source": "卫星社中文",
@@ -2560,6 +2666,14 @@
     "印尼",
     "亚太"
    ]
+  },
+  {
+   "title": "Xi puts forward four principles on Palestinian question",
+   "link": "https://news.cgtn.com/news/2026-08-24/Xi-puts-forward-four-principles-on-Palestinian-question-1PSm5awSav6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T14:18:36.000Z",
+   "summary": "Chinese President Xi Jinping stressed on Monday that four principles should be followed to push for the resolution of th…",
+   "regions": []
   },
   {
    "title": "俄乌双方在白俄罗斯进行战俘交换",
@@ -2615,6 +2729,14 @@
    ]
   },
   {
+   "title": "2026 APEC SME ministerial meeting to focus on innovation, cooperation",
+   "link": "https://news.cgtn.com/news/2026-08-24/2026-APEC-SME-ministerial-meeting-to-focus-on-innovation-cooperation-1PSkCyrJME8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T13:51:29.000Z",
+   "summary": "The 32nd Asia-Pacific Economic Cooperation (APEC) Small and Medium Enterprises (SME) Ministerial Meeting will be held on…",
+   "regions": []
+  },
+  {
    "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
    "link": "https://www.chinanews.com.cn/gj/2026/08-24/10683477.shtml",
    "source": "中新网国际",
@@ -2663,6 +2785,30 @@
    "regions": [
     "福州"
    ]
+  },
+  {
+   "title": "US to raise tariffs on Canadian cars, trucks, auto parts and steel",
+   "link": "https://news.cgtn.com/news/2026-08-24/news-1PSn7o9Xico/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T13:39:17.000Z",
+   "summary": "US to raise tariffs on Canadian cars, trucks, auto parts and steel",
+   "regions": []
+  },
+  {
+   "title": "China-donated smart rehabilitation device put into use in Kyrgyzstan",
+   "link": "https://news.cgtn.com/news/2026-08-24/China-donated-smart-rehabilitation-device-put-into-use-in-Kyrgyzstan-1PSjg6WbX1e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T13:34:50.000Z",
+   "summary": "A China-donated smart rehabilitation device was officially handed over and put into use at the Clinical Emergency Hospit…",
+   "regions": []
+  },
+  {
+   "title": "Why more people feel safe in China: The role of law and governance",
+   "link": "https://news.cgtn.com/news/2026-08-24/Why-more-people-feel-safe-in-China-The-role-of-law-and-governance-1PSjt8qJ1Cg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T13:29:48.000Z",
+   "summary": "From combating organized crime to improving legislation and expanding access to legal services, China's approach to the …",
+   "regions": []
   },
   {
    "title": "欧洲理事会主席呼吁欧盟在乌克兰问题上拒绝中立立场",
@@ -2716,6 +2862,14 @@
     "中东",
     "俄乌"
    ]
+  },
+  {
+   "title": "Five parties win seats in Kazakhstan's first unicameral election",
+   "link": "https://news.cgtn.com/news/2026-08-24/Five-parties-win-seats-in-Kazakhstan-s-first-unicameral-election-1PShj7wf7SE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T12:32:19.000Z",
+   "summary": "Five political parties have won seats in Kazakhstan's first election to the country's new unicameral parliament, the Kur…",
+   "regions": []
   },
   {
    "title": "【地震 M5.0】southern Mid-Atlantic Ridge",
@@ -2844,6 +2998,14 @@
    ]
   },
   {
+   "title": "Xi congratulates Alamgir on assuming Bangladeshi presidency",
+   "link": "https://news.cgtn.com/news/2026-08-24/Xi-congratulates-Alamgir-on-assuming-Bangladeshi-presidency-1PScsfcJONy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T11:32:03.000Z",
+   "summary": "Chinese President Xi Jinping on Monday extended congratulations to Mirza Fakhrul Islam Alamgir on assuming the office as…",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.6】19 km N of Pilot Point, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qsyeyt",
    "source": "USGS地震台网",
@@ -2917,6 +3079,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Xi, Jordan's king attend signing ceremony of cooperation documents",
+   "link": "https://news.cgtn.com/news/2026-08-24/Xi-Jordan-s-king-attend-signing-ceremony-of-cooperation-documents-1PS4mX6Wp3O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T10:50:04.000Z",
+   "summary": "Chinese President Xi Jinping and King of the Hashemite Kingdom of Jordan Abdullah II ibn Al Hussein attended a signing c…",
+   "regions": []
   },
   {
    "title": "欧盟理事会：2022年以来欧盟及其成员国已向乌克兰提供2203亿欧元各类援助",
@@ -3043,6 +3213,14 @@
    ]
   },
   {
+   "title": "European leaders pledge new support as Ukraine marks Independence Day",
+   "link": "https://news.cgtn.com/news/2026-08-24/European-leaders-pledge-new-support-as-Ukraine-marks-Independence-Day-1PS4arW7LB6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T09:34:42.000Z",
+   "summary": "Ukraine marks its Independence Day on Monday as European leaders gathered in Kyiv and announced new military and financi…",
+   "regions": []
+  },
+  {
    "title": "英国海上贸易行动办公室：不明炮弹袭击红海一艘油轮引发火灾",
    "link": "https://sputniknews.cn/20260824/1072902235.html",
    "source": "卫星社中文",
@@ -3055,6 +3233,30 @@
    ]
   },
   {
+   "title": "Chinese FM calls on Middle East, Gulf parties to resume dialogue",
+   "link": "https://news.cgtn.com/news/2026-08-24/Chinese-FM-calls-on-Middle-East-Gulf-parties-to-resume-dialogue-1PS4zYvvTVu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T09:31:21.000Z",
+   "summary": "Chinese Foreign Minister Wang Yi said on Monday that the current situation in the Middle East and the Gulf region is onc…",
+   "regions": []
+  },
+  {
+   "title": "Top political advisor urges contributions to China's modernization",
+   "link": "https://news.cgtn.com/news/2026-08-24/Top-political-advisor-urges-contributions-to-China-s-modernization-1PRYJEGWgow/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T09:27:03.000Z",
+   "summary": "China's top political advisor Wang Huning on Monday urged members of the Chinese People's Political Consultative Confere…",
+   "regions": []
+  },
+  {
+   "title": "Poll shows over 75% of Canadians back government ending US trade talks",
+   "link": "https://news.cgtn.com/news/2026-08-24/Poll-shows-over-75-of-Canadians-back-government-ending-US-trade-talks-1PRXoa7qIfe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T09:21:49.000Z",
+   "summary": "A vast majority of Canadians support the federal government's decision to walk away from trade negotiations with the Uni…",
+   "regions": []
+  },
+  {
    "title": "菲律宾南部海域发生5.0级地震",
    "link": "https://www.chinanews.com.cn/gj/2026/08-24/10683284.shtml",
    "source": "中新网国际",
@@ -3063,6 +3265,14 @@
    "regions": [
     "南海"
    ]
+  },
+  {
+   "title": "Xi urges China, Jordan to deepen alignment of development strategies",
+   "link": "https://news.cgtn.com/news/2026-08-24/Xi-holds-talks-with-Jordan-s-king-in-Beijing-1PRVAtbWgNy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T09:15:08.000Z",
+   "summary": "Chinese President Xi Jinping held talks with visiting King of the Hashemite Kingdom of Jordan Abdullah II ibn Al Hussein…",
+   "regions": []
   },
   {
    "title": "墨尔本一汽车撞向购物中心 致1人死亡",
@@ -3075,6 +3285,14 @@
    ]
   },
   {
+   "title": "Xi holds welcome ceremony for Jordan's king",
+   "link": "https://news.cgtn.com/news/2026-08-24/Xi-holds-welcome-ceremony-for-Jordan-s-king-1PS0WbHWUdW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T09:12:07.000Z",
+   "summary": "Chinese President Xi Jinping on Monday afternoon held a welcome ceremony for King of the Hashemite Kingdom of Jordan Abd…",
+   "regions": []
+  },
+  {
    "title": "菲律宾一艘拖船在吕宋岛附近沉没",
    "link": "https://www.chinanews.com.cn/gj/2026/08-24/10683250.shtml",
    "source": "中新网国际",
@@ -3083,6 +3301,14 @@
    "regions": [
     "南海"
    ]
+  },
+  {
+   "title": "Chinese vice president meets Kuwaiti FM",
+   "link": "https://news.cgtn.com/news/2026-08-24/Chinese-vice-president-meets-Kuwaiti-FM-1PRXHf4a5Uc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T09:05:14.000Z",
+   "summary": "Chinese Vice President Han Zheng met with Kuwaiti Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah on Monday in Be…",
+   "regions": []
   },
   {
    "title": "顿涅茨克人民共和国领导人：俄军距离多布罗皮利亚郊区仅五公里",
@@ -3293,6 +3519,22 @@
    ]
   },
   {
+   "title": "China, India to hold 25th round of talks on boundary question",
+   "link": "https://news.cgtn.com/news/2026-08-24/China-India-to-hold-25th-round-of-talks-on-boundary-question-1PRVNw7SZmU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T07:55:33.000Z",
+   "summary": "China and India will hold the 25th round of talks between their special representatives on the boundary question in Beij…",
+   "regions": []
+  },
+  {
+   "title": "Fukushima nuclear wastewater discharge marks three years amid concerns",
+   "link": "https://news.cgtn.com/news/2026-08-24/Fukushima-nuclear-wastewater-discharge-marks-three-years-amid-concerns-1PRSQuRVAru/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T07:55:19.000Z",
+   "summary": "It has now been three years since the Japanese government began to discharge contaminated wastewater from the Fukushima …",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.7】10 km ENE of Coso Junction, CA",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41534880",
    "source": "USGS地震台网",
@@ -3325,6 +3567,22 @@
    ]
   },
   {
+   "title": "Meet the Chinese woman who battled the desert with an American's help",
+   "link": "https://news.cgtn.com/news/2026-08-24/Meet-the-Chinese-woman-who-battled-the-desert-with-an-American-s-help-1PRFssLFGfe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T07:26:52.000Z",
+   "summary": "Yin Yuzhen, a Chinese environmentalist, spent 26 years looking for an American teacher. They finally met each other agai…",
+   "regions": []
+  },
+  {
+   "title": "What you need to know about the upcoming SCO summit as it turns 25",
+   "link": "https://news.cgtn.com/news/2026-08-24/What-you-need-to-know-about-the-upcoming-SCO-summit-as-it-turns-25-1PRP0xHWqGI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T07:25:16.000Z",
+   "summary": "Founded in 2001 to address regional security concerns, the SCO has evolved into a broad-based organization covering secu…",
+   "regions": []
+  },
+  {
    "title": "俄联邦安全局：在克里米亚被捕的乌情报人员曾受命暗杀黑海舰队军人",
    "link": "https://sputniknews.cn/20260824/1072900619.html",
    "source": "卫星社中文",
@@ -3333,6 +3591,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Liang, Wang win China's only gold, France makes history at BWF Worlds",
+   "link": "https://news.cgtn.com/news/2026-08-24/Liang-Wang-win-China-s-only-gold-France-makes-history-at-BWF-Worlds-1PRzXg0gL6g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T07:21:04.000Z",
+   "summary": "Liang, Wang win China's only gold, France makes history at BWF Worlds",
+   "regions": []
   },
   {
    "title": "澳大利亚允许为美国潜艇建立永久基地",
@@ -3417,6 +3683,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Chinese team wins Esports World Cup 2026 in Paris",
+   "link": "https://news.cgtn.com/news/2026-08-24/Chinese-team-wins-Esports-World-Cup-2026-in-Paris-1PRQfjjQiAg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T06:21:24.000Z",
+   "summary": "A Chinese team, All Gamers, on Sunday beat double-champions Team Falcons from Saudi Arabia to win the video-gaming Espor…",
+   "regions": []
   },
   {
    "title": "如何学好华语？新加坡总理以中文作答：听周杰伦的歌、看电视剧《逐玉》",
@@ -3561,6 +3835,14 @@
    ]
   },
   {
+   "title": "The Shanghai Spirit at 25: A new model for multilateral cooperation",
+   "link": "https://news.cgtn.com/news/2026-08-24/The-Shanghai-Spirit-at-25-A-new-model-for-multilateral-cooperation-1POwS6wOlHi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T04:28:59.000Z",
+   "summary": "The Shanghai Spirit at 25: A new model for multilateral cooperation",
+   "regions": []
+  },
+  {
    "title": "泽连斯基前新闻秘书：降低乌克兰征兵年龄对基辅来说将是一场灾难",
    "link": "https://sputniknews.cn/20260824/1072899357.html",
    "source": "卫星社中文",
@@ -3579,6 +3861,14 @@
    "regions": []
   },
   {
+   "title": "US vows 'economic D-Day' as Iran threatens to halt Gulf oil exports",
+   "link": "https://news.cgtn.com/news/2026-08-24/US-vows-economic-D-Day-as-Iran-threatens-to-halt-Gulf-oil-exports-1PRAVYAsym4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T03:59:52.000Z",
+   "summary": "The US threatened Iran with what it called \"the greatest financial offensive ever marshalled\" as it prepared to ​roll ou…",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.8】27 km WSW of Sarangani, Philippines",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn25",
    "source": "USGS地震台网",
@@ -3588,6 +3878,14 @@
     "菲律宾",
     "南海"
    ]
+  },
+  {
+   "title": "Graphics: China-SCO trade volume increases over 40-fold in 25 years",
+   "link": "https://news.cgtn.com/news/2026-08-24/Graphics-China-SCO-trade-volume-increases-over-40-fold-in-25-years-1PRFZbWTN84/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-24T03:52:23.000Z",
+   "summary": "Graphics: China-SCO trade volume increases over 40-fold in 25 years",
+   "regions": []
   },
   {
    "title": "伊朗波斯湾海峡管理局：违反霍尔木兹海峡规定的船舶将受到限制",
@@ -5934,6 +6232,22 @@
  ],
  "econ": [
   {
+   "title": "扩大银发产品有效供给 “养老刚需”也是产业蓝海",
+   "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683527.shtml",
+   "source": "中新网财经",
+   "time": "2026-08-24T23:51:19.000Z",
+   "summary": "扩大银发产品有效供给——",
+   "regions": []
+  },
+  {
+   "title": "上半年服务出口同比增长17.6% “中国服务”加速走向海外",
+   "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683526.shtml",
+   "source": "中新网财经",
+   "time": "2026-08-24T23:46:11.000Z",
+   "summary": "上半年，服务出口同比增长17.6%",
+   "regions": []
+  },
+  {
    "title": "订单排到2027年！中国“降温节水”神器在欧洲热卖",
    "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683521.shtml",
    "source": "中新网财经",
@@ -6705,5 +7019,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-08-24T23:48:02.210Z"
+ "updatedAt": "2026-08-25T03:15:58.492Z"
 }
