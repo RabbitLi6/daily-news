@@ -2314,6 +2314,17 @@
    ]
   },
   {
+   "title": "【地震 M4.6】236 km ESE of Kimbe, Papua New Guinea",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn8w",
+   "source": "USGS地震台网",
+   "time": "2026-08-24T21:02:14.533Z",
+   "summary": "美国地质调查局官方监测：236 km ESE of Kimbe, Papua New Guinea发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "巴布亚新几内亚",
+    "亚太"
+   ]
+  },
+  {
    "title": "【灾害警报】Green notification for tropical cyclone TEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
    "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001310",
    "source": "GDACS灾害监测",
@@ -7019,5 +7030,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-08-25T03:15:58.492Z"
+ "updatedAt": "2026-08-25T08:00:50.959Z"
 }
