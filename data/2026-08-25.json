@@ -2,6 +2,46 @@
  "date": "2026-08-25",
  "tech": [
   {
+   "title": "英伟达 GeForce Now 云游戏服务将支持 Steam 手柄和 Steam Machine",
+   "link": "https://www.ithome.com/0/994/317.htm",
+   "source": "IT之家",
+   "time": "2026-08-25T23:57:10.000Z",
+   "summary": "IT之家 8 月 26 日消息，英伟达 GeForce Now 云游戏服务将于今年晚些时候正式支持 Valve 的 Steam 手柄和 Steam Machine。加入 Steam 手柄支持后，用户在 Steam Deck 或 Steam …",
+   "regions": []
+  },
+  {
+   "title": "HMD Salo 手机曝光：面向 B 端市场，搭骁龙 4 Gen 2 处理器",
+   "link": "https://www.ithome.com/0/994/316.htm",
+   "source": "IT之家",
+   "time": "2026-08-25T23:55:07.000Z",
+   "summary": "IT之家 8 月 26 日消息，综合消息源 smashx_60 和 cosmo_bjoern，HMD Global 将于近期推出一款专门面向 B 端市场的 HMD Salo 手机，该机仅向企业开放销售，本质上是 2024 年被砍的 HMD …",
+   "regions": []
+  },
+  {
+   "title": "超高 NPC 密度，CyberLeek 泄露《GTA 6》海滩视频",
+   "link": "https://www.ithome.com/0/994/315.htm",
+   "source": "IT之家",
+   "time": "2026-08-25T23:53:32.000Z",
+   "summary": "IT之家 8 月 26 日消息，《GTA 6》泄露似乎仍没有停止的迹象，目前已经出现了 14 起相关泄露。就在一些玩家还在分析最新一段展示杰森走进商店的视频时，另一部分玩家则对此前的“海滩”泄露内容更加兴奋，因为这段视频让大家得以一窥游戏中…",
+   "regions": []
+  },
+  {
+   "title": "微软 PowerToys 新增 Window Hopper：在 Win10/Win11 中可切换同一应用窗口",
+   "link": "https://www.ithome.com/0/994/314.htm",
+   "source": "IT之家",
+   "time": "2026-08-25T23:51:10.000Z",
+   "summary": "IT之家 8 月 26 日消息，科技媒体 Windows Latest 昨日（8 月 25 日）发布博文，报道称微软计划为 PowerToys 新增名为 Window Hopper 的模组， 帮助 Windows 10、Windows 11…",
+   "regions": []
+  },
+  {
+   "title": "微软回应必应搜索推广工具争议：不会自动安装，更改设置需用户同意",
+   "link": "https://www.ithome.com/0/994/313.htm",
+   "source": "IT之家",
+   "time": "2026-08-25T23:47:25.000Z",
+   "summary": "IT之家 8 月 26 日消息，针对近期推出的一款会将必应搜索和必应主页设置到电脑上所有浏览器中的新应用引发的争议，微软作出了回应。 微软向 Windows Latest 表示，这款工具“不会通过 Windows 或 Edge 进行分发”，…",
+   "regions": []
+  },
+  {
    "title": "吃鸡 + Roguelite 多人游戏《PUBG: DED.NET》亮相 2026 科隆游戏展",
    "link": "https://www.ithome.com/0/994/277.htm",
    "source": "IT之家",
@@ -338,6 +378,14 @@
    "regions": []
   },
   {
+   "title": "告别背命令：Pragmatic AI Shell 把自然语言带进日常终端操作",
+   "link": "https://www.oschina.net/news/502123",
+   "source": "开源中国",
+   "time": "2026-08-25T13:53:04.000Z",
+   "summary": "用自然语言驱动终端，Pragmatic AI Shell 让运维排障\"说话就行\" 还在为记不住 lsof、awk、find 的参数写法头疼？还在 ps + netstat + 文档之间来回切换？Pragmatic AI Shell（smar…",
+   "regions": []
+  },
+  {
    "title": "华硕 ROG 公布 Gladius IV Ace、Spatha X 65K 鼠标，搭载 65000dpi 传感器",
    "link": "https://www.ithome.com/0/994/222.htm",
    "source": "IT之家",
@@ -402,6 +450,14 @@
    "regions": []
   },
   {
+   "title": "让经典回归：极点五笔在 openKylin 3.0的新生",
+   "link": "https://www.oschina.net/news/502122",
+   "source": "开源中国",
+   "time": "2026-08-25T13:30:14.000Z",
+   "summary": "很多使用五笔输入的小伙伴都绕不开一个名字：极点五笔。它曾是中文输入的效率神器，也是一代人的共同记忆。 现在，这份记忆有了新去处——极点五笔输入法 4.0 完成全新重构，已上架 OpenAtom openKylin（简称“openKylin”…",
+   "regions": []
+  },
+  {
    "title": "7580 元起：佳明发布 fēnix 9 系列智能手表，Pro 首次采用 NMT 纳米成型技术全钛金属表身",
    "link": "https://www.ithome.com/0/994/213.htm",
    "source": "IT之家",
@@ -423,6 +479,14 @@
    "source": "IT之家",
    "time": "2026-08-25T13:27:24.000Z",
    "summary": "IT之家 8 月 25 日消息，苹果今日正式发布全新 Mac mini 便携式主机，搭载全新 M6 芯片与此前已经推出的 M5 Pro 芯片，通过其标志性的超小型台式机设计带来性能的显著升级及更广泛的适用性。 根据苹果介绍，配备 M6 芯片…",
+   "regions": []
+  },
+  {
+   "title": "MemOS Skill 上线｜一句话即可接入 MemOS Cloud",
+   "link": "https://www.oschina.net/news/502121",
+   "source": "开源中国",
+   "time": "2026-08-25T13:16:55.000Z",
+   "summary": "Agent 已经不只是聊天窗口了，它们在 IDE 里改代码，在终端里跑命令，在办公流里处理文档，也开始替大家连接插件、调用工具、串起自动化流程。 为了帮助开发者在 Claude Code、Cursor 等 Agent 开发工具中更快接入 M…",
    "regions": []
   },
   {
@@ -1266,6 +1330,14 @@
    "regions": []
   },
   {
+   "title": "从 Memory 到 Skill：长周期 AI Agent 如何实现持续进化",
+   "link": "https://www.oschina.net/news/502108",
+   "source": "开源中国",
+   "time": "2026-08-25T03:43:28.000Z",
+   "summary": "历史记录能帮 Agent 想起过去，却不能保证它下一次真的会按正确方法做。MSCE 想补上的，正是“记得”和“会做”之间的这段空白。 01 Agent 能记住，不等于下次会做 Agent 已经不只是在对话框里给出一个答案，它们会进代码库找文…",
+   "regions": []
+  },
+  {
    "title": "工信部通报 26 款存在侵害用户权益行为的 App 及 SDK",
    "link": "https://www.ithome.com/0/993/931.htm",
    "source": "IT之家",
@@ -1724,6 +1796,27 @@
  ],
  "world": [
   {
+   "title": "伊朗称霍尔木兹海峡临时航线谅解达成 仅限商船通行",
+   "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684239.shtml",
+   "source": "中新网国际",
+   "time": "2026-08-25T23:59:55.000Z",
+   "summary": "据伊朗方面25日消息，伊朗外交部副部长加里巴巴迪表示，根据伊朗与阿曼就霍尔木兹海峡航线新达成的谅解，进入波斯湾的航线将途经伊朗水域，离开波斯湾的航线将途经阿曼和伊朗水域，任何军舰不得通过该海峡，只允许商船通行。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】11 km WSW of Pāhala, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75023942",
+   "source": "USGS地震台网",
+   "time": "2026-08-25T23:58:02.870Z",
+   "summary": "美国地质调查局官方监测：11 km WSW of Pāhala, Hawaii发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
    "title": "台风橙色预警！“沙德尔”向浙闽沿海靠近 “紫檀”减弱为热带低压",
    "link": "https://www.chinanews.com.cn/sh/2026/08-26/10684230.shtml",
    "source": "中新网滚动",
@@ -1904,6 +1997,14 @@
    ]
   },
   {
+   "title": "El Nino brings floods and landslides to Chile",
+   "link": "https://newsus.cgtn.com/news/2026-08-26/El-Nino-brings-floods-and-landslides-to-Chile-1PUD3phslm8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T22:22:09.000Z",
+   "summary": "El Nino brings floods and landslides to Chile",
+   "regions": []
+  },
+  {
    "title": "英国前大使认为美国将叙利亚从支持恐怖主义国家名单中移除是为了武器供应",
    "link": "https://sputniknews.cn/20260826/1072923052.html",
    "source": "卫星社中文",
@@ -1914,6 +2015,17 @@
     "俄乌",
     "欧洲",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】56 km NNW of Barishal, Pakistan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbv0",
+   "source": "USGS地震台网",
+   "time": "2026-08-25T22:00:24.458Z",
+   "summary": "美国地质调查局官方监测：56 km NNW of Barishal, Pakistan发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "巴基斯坦",
+    "亚太"
    ]
   },
   {
@@ -1997,6 +2109,25 @@
    "regions": [
     "俄乌",
     "美洲"
+   ]
+  },
+  {
+   "title": "Food safety concerns grow amid wave of recalls, illnesses",
+   "link": "https://newsus.cgtn.com/news/2026-08-26/Food-safety-concerns-grow-amid-wave-of-recalls-illnesses-1PUzfgQd17O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T21:26:20.000Z",
+   "summary": "Food safety concerns grow amid wave of recalls, illnesses",
+   "regions": []
+  },
+  {
+   "title": "【地震 M4.9】47 km NE of Ruteng, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbup",
+   "source": "USGS地震台网",
+   "time": "2026-08-25T21:23:59.352Z",
+   "summary": "美国地质调查局官方监测：47 km NE of Ruteng, Indonesia发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
    ]
   },
   {
@@ -2119,6 +2250,17 @@
    ]
   },
   {
+   "title": "【地震 M2.6】15 km N of Kukuihaele, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75023872",
+   "source": "USGS地震台网",
+   "time": "2026-08-25T19:52:38.830Z",
+   "summary": "美国地质调查局官方监测：15 km N of Kukuihaele, Hawaii发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M2.7】24 km SE of Emajagua, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529788",
    "source": "USGS地震台网",
@@ -2199,6 +2341,14 @@
    "source": "中新网国际",
    "time": "2026-08-25T18:10:27.000Z",
    "summary": "中新社金边8月25日电 湄公河水位持续上涨导致柬埔寨多地发生严重洪灾。柬国家灾害管理委员会当地时间25日通报称，截至目前，这轮灾害已导致该国桔井、上丁、特本克蒙和磅湛4省17个市县超过1.8万户家庭受灾，其中1900多户被紧急疏散至安全地带…",
+   "regions": []
+  },
+  {
+   "title": "Africa Mindset Reset: A new path to Africa's economic power",
+   "link": "https://newsaf.cgtn.com/news/2026-08-26/Africa-Mindset-Reset-A-new-path-to-Africa-s-economic-power-1PU3kkme10c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T18:00:57.000Z",
+   "summary": "The forum is centered on the theme \"From Pan-Africanism to Meta-Africanism\", a concept that seeks to build on the politi…",
    "regions": []
   },
   {
@@ -2360,6 +2510,14 @@
    ]
   },
   {
+   "title": "Namibia urges SADC countries to strengthen early-warning systems",
+   "link": "https://newsaf.cgtn.com/news/2026-08-25/Namibia-urges-SADC-countries-to-strengthen-early-warning-systems-1PU20AWCnba/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T15:29:25.000Z",
+   "summary": "Namibia has urged SADC countries to invest more in meteorological services and strengthen early-warning systems as South…",
+   "regions": []
+  },
+  {
    "title": "加拿大宣布对美国商品征收报复性关税",
    "link": "https://www.chinanews.com.cn/gj/2026/08-25/10684208.shtml",
    "source": "中新网国际",
@@ -2380,6 +2538,14 @@
    ]
   },
   {
+   "title": "Kenya steps up preparations for extreme weather",
+   "link": "https://newsaf.cgtn.com/news/2026-08-25/Kenya-steps-up-preparations-for-extreme-weather-1PTZLnXWCf6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T15:21:05.000Z",
+   "summary": "Kenya is stepping up preparations for potentially heavy October-December rains, with authorities warning that up to 1.5 …",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.2】243 km SE of Hihifo, Tonga",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnd7",
    "source": "USGS地震台网",
@@ -2391,6 +2557,22 @@
    ]
   },
   {
+   "title": "MOFA: China opposes US unilateral sanctions on Iran",
+   "link": "https://news.cgtn.com/news/2026-08-25/MOFA-China-opposes-US-unilateral-sanctions-on-Iran-1PTJZeCHNHa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T15:10:17.000Z",
+   "summary": "MOFA: China opposes US unilateral sanctions on Iran",
+   "regions": []
+  },
+  {
+   "title": "What keeps international wakeboarders coming back to China?",
+   "link": "https://news.cgtn.com/news/2026-08-25/What-keeps-international-wakeboarders-coming-back-to-China--1PTN3rvL1rq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T15:07:12.000Z",
+   "summary": "What keeps international wakeboarders coming back to China?",
+   "regions": []
+  },
+  {
    "title": "媒体：印度大学生在抗议中冲破警方警戒线",
    "link": "https://sputniknews.cn/20260825/1072919765.html",
    "source": "卫星社中文",
@@ -2399,6 +2581,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Rift deepens as US-Canada trade dispute escalates",
+   "link": "https://news.cgtn.com/news/2026-08-25/Rift-deepens-as-US-Canada-trade-dispute-escalates-1PTQ3JbHmhi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T15:04:25.000Z",
+   "summary": "Rift deepens as US-Canada trade dispute escalates",
+   "regions": []
   },
   {
    "title": "【地震 M5.0】54 km NNE of Ruteng, Indonesia",
@@ -2462,6 +2652,14 @@
    ]
   },
   {
+   "title": "How can AI help APEC economies strengthen food security?",
+   "link": "https://news.cgtn.com/news/2026-08-25/How-can-AI-help-APEC-economies-strengthen-food-security--1PU0LlEMC9q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T14:40:02.000Z",
+   "summary": "The 11th APEC Food Security Ministerial Meeting in Hangzhou on Tuesday endorsed a new set of principles that place innov…",
+   "regions": []
+  },
+  {
    "title": "白俄罗斯空军和防空部队演习将启用俄罗斯阿舒卢克靶场",
    "link": "https://sputniknews.cn/20260825/1072919420.html",
    "source": "卫星社中文",
@@ -2470,6 +2668,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "4 typhoons at once: Does climate change bring more devastating storms?",
+   "link": "https://news.cgtn.com/news/2026-08-25/4-typhoons-at-once-Does-climate-change-bring-more-devastating-storms--1PU1Nf2FwIw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T14:14:44.000Z",
+   "summary": "Global warming does not simply mean that the world will experience more typhoons. Instead, it is profoundly transforming…",
+   "regions": []
   },
   {
    "title": "南宁海事局使用重载无人机成功救助3艘遇险船舶",
@@ -2559,6 +2765,14 @@
    ]
   },
   {
+   "title": "South Africa steps up the rollout of the new HIV injectable drug",
+   "link": "https://newsaf.cgtn.com/news/2026-08-25/South-Africa-steps-up-the-rollout-of-the-new-HIV-injectable-drug-1PTzYvCibEQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T13:36:47.000Z",
+   "summary": "South Africa is stepping up the rollout of Lenacapavir, a twice-yearly injectable HIV prevention drug, as Gauteng Provin…",
+   "regions": []
+  },
+  {
    "title": "台风“沙德尔”逼近 福建沿海22条客渡运航线停运",
    "link": "https://www.chinanews.com.cn/sh/2026/08-25/10684170.shtml",
    "source": "中新网滚动",
@@ -2568,6 +2782,14 @@
     "福州",
     "浙江"
    ]
+  },
+  {
+   "title": "Namibia clears way for offshore phosphate mining project",
+   "link": "https://newsaf.cgtn.com/news/2026-08-25/Namibia-clears-way-for-offshore-phosphate-mining-project-1PTBzzBPUgE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T13:32:32.000Z",
+   "summary": "Namibia has granted environmental clearance for a controversial offshore phosphate mining project, paving the way for wh…",
+   "regions": []
   },
   {
    "title": "专家：美对伊制裁系“窒息战”形态，但伊朗已学会规避",
@@ -2590,6 +2812,14 @@
    "regions": [
     "内蒙古"
    ]
+  },
+  {
+   "title": "Niger’s leather artisans struggle as insecurity hits sales",
+   "link": "https://newsaf.cgtn.com/news/2026-08-25/Niger-s-leather-artisans-struggle-as-insecurity-hits-sales-1PTMbwI4wrm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T13:21:00.000Z",
+   "summary": "Niger's decades-old leather industry is under growing threat from insecurity, which has disrupted supply chains, limited…",
+   "regions": []
   },
   {
    "title": "天然气出口国论坛：6月全球天然气产量同比下降5.2%至3230亿立方米",
@@ -2664,6 +2894,14 @@
    ]
   },
   {
+   "title": "Ceasefire verification team arrives in eastern DR Congo",
+   "link": "https://newsaf.cgtn.com/news/2026-08-25/Ceasefire-verification-team-arrives-in-eastern-DR-Congo-1PTztchDeBW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T12:23:32.000Z",
+   "summary": "A ceasefire verification team has arrived in the Democratic Republic of the Congo's eastern South Kivu province to inves…",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.5】south of the Fiji Islands",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnci",
    "source": "USGS地震台网",
@@ -2732,6 +2970,14 @@
    "regions": []
   },
   {
+   "title": "US sanctions, global costs",
+   "link": "https://news.cgtn.com/news/2026-08-25/US-sanctions-global-costs-1PTDeXoMsc8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T11:55:46.000Z",
+   "summary": "After six months of military threats and conflict, the United States launches a large-scale campaign of economic pressur…",
+   "regions": []
+  },
+  {
    "title": "俄国防部：俄军打击两艘船舶以削弱乌军武器运输能力",
    "link": "https://sputniknews.cn/20260825/1072918383.html",
    "source": "卫星社中文",
@@ -2750,6 +2996,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "CGTN poll: Win-win logic of China's role as 'super buyer & seller'",
+   "link": "https://news.cgtn.com/news/2026-08-25/CGTN-poll-Win-win-logic-of-China-s-role-as-super-buyer-seller--1PTQuJeKyuA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T11:35:30.000Z",
+   "summary": "CGTN poll: Win-win logic of China's role as 'super buyer & seller'",
+   "regions": []
   },
   {
    "title": "【地震 M4.9】94 km W of Ambon, Indonesia",
@@ -2792,6 +3046,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "US Analyst: Global South is turning toward China",
+   "link": "https://news.cgtn.com/news/2026-08-25/US-Analyst-Global-South-is-turning-toward-China-1PTOUM0FTzO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T11:01:50.000Z",
+   "summary": "US Analyst: Global South is turning toward China",
+   "regions": []
   },
   {
    "title": "报告：特朗普对拉美政策旨在遏制中俄",
@@ -2901,6 +3163,14 @@
    ]
   },
   {
+   "title": "China opposes US's illegal unilateral sanctions on Iran",
+   "link": "https://news.cgtn.com/news/2026-08-25/China-opposes-US-s-illegal-unilateral-sanctions-on-Iran-1PTF1MBg8eI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T09:40:00.000Z",
+   "summary": "China opposes US's illegal unilateral sanctions on Iran",
+   "regions": []
+  },
+  {
    "title": "亚美尼亚反腐委员会逮捕亚美尼亚前总统科恰良",
    "link": "https://sputniknews.cn/20260825/1072916708.html",
    "source": "卫星社中文",
@@ -2909,6 +3179,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Chinese vice president meets Indian national security advisor",
+   "link": "https://news.cgtn.com/news/2026-08-25/Chinese-vice-president-meets-Indian-national-security-advisor-1PTFpVyjL1u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T09:27:28.000Z",
+   "summary": "Chinese Vice President Han Zheng met with Ajit Doval, India's national security advisor and special representative on th…",
+   "regions": []
   },
   {
    "title": "中国在人工智能领域如何与非洲找到共同语言",
@@ -2920,6 +3198,14 @@
     "美洲",
     "非洲"
    ]
+  },
+  {
+   "title": "China, India hold 25th round of talks on boundary question in Beijing",
+   "link": "https://news.cgtn.com/news/2026-08-25/China-India-hold-25th-round-of-talks-on-boundary-question-in-Beijing-1PTGpvyvbY4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T09:19:46.000Z",
+   "summary": "China, India hold 25th round of talks on boundary question in Beijing",
+   "regions": []
   },
   {
    "title": "【地震 M2.6】54 km S of Whites City, New Mexico",
@@ -3007,6 +3293,14 @@
    ]
   },
   {
+   "title": "Wildfires intensify in Colombia amid El Nino conditions",
+   "link": "https://news.cgtn.com/news/2026-08-25/Wildfires-intensify-in-Colombia-amid-El-Nino-conditions-1PTCUcBpR5K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T08:31:06.000Z",
+   "summary": "Wildfires intensify in Colombia amid El Nino conditions",
+   "regions": []
+  },
+  {
    "title": "中国外交部：中方愿同世界各国一道开展人工智能等前沿领域对话合作",
    "link": "https://sputniknews.cn/20260825/1072915687.html",
    "source": "卫星社中文",
@@ -3034,6 +3328,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "Japanese civic group holds exhibition on wartime poison gas use",
+   "link": "https://news.cgtn.com/news/2026-08-25/Japanese-civic-group-holds-exhibition-on-wartime-poison-gas-use-1PTz8H0wOqc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T08:01:07.000Z",
+   "summary": "An exhibition on the Japanese military's production and use of poison gas during World War II is being held from August …",
+   "regions": []
   },
   {
    "title": "霍尔木兹海峡通行数量降至新低 美国称不排除武力打击",
@@ -3269,6 +3571,14 @@
    ]
   },
   {
+   "title": "SCO deputy secretary general highlights three pillars of progress",
+   "link": "https://news.cgtn.com/news/2026-08-25/SCO-deputy-secretary-general-highlights-three-pillars-of-progress-1PTuViZgLF6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T06:17:15.000Z",
+   "summary": "SCO deputy secretary general highlights three pillars of progress",
+   "regions": []
+  },
+  {
    "title": "中国国家副主席：中印应挖掘合作潜力，妥善管控分歧",
    "link": "https://sputniknews.cn/20260825/1072913914.html",
    "source": "卫星社中文",
@@ -3299,6 +3609,14 @@
     "冰岛",
     "欧洲"
    ]
+  },
+  {
+   "title": "Syrian president hails Syria's removal from US terror list",
+   "link": "https://news.cgtn.com/news/2026-08-25/news-1PTsXL3DE2c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T05:28:41.000Z",
+   "summary": "Syrian president hails Syria's removal from US terror list",
+   "regions": []
   },
   {
    "title": "美国制裁成瘾，外交理性清零｜新漫评",
@@ -3372,6 +3690,22 @@
    "regions": []
   },
   {
+   "title": "Zheng Qinwen beats You Xiaodi to begin qualifying campaign at US Open",
+   "link": "https://news.cgtn.com/news/2026-08-25/Zheng-Qinwen-beats-You-Xiaodi-to-begin-qualifying-campaign-at-US-Open-1PTeeOcsafm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T04:29:29.000Z",
+   "summary": "Zheng Qinwen beats You Xiaodi to begin qualifying campaign at US Open",
+   "regions": []
+  },
+  {
+   "title": "China eases past Iran to seal spot in Asian Championship quarterfinals",
+   "link": "https://news.cgtn.com/news/2026-08-25/China-eases-past-Iran-to-seal-spot-in-Asian-Championship-quarterfinals-1PTfxGqPj8Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T04:25:59.000Z",
+   "summary": "China eases past Iran to seal spot in Asian Championship quarterfinals",
+   "regions": []
+  },
+  {
    "title": "中美1.5轨对话今天在北京举行",
    "link": "https://sputniknews.cn/20260825/1072912214.html",
    "source": "卫星社中文",
@@ -3385,6 +3719,14 @@
    "source": "中新网国际",
    "time": "2026-08-25T04:12:32.000Z",
    "summary": "中新社北京8月25日电 太子港消息：当地时间8月23日晚间至24日凌晨，海地首都太子港近郊的肯斯科夫(Kenscoff)市遭黑帮大规模突袭。据联合国海地综合办事处(BINUH)统计，袭击造成至少47人死亡、22人受伤。",
+   "regions": []
+  },
+  {
+   "title": "How could the economic conflict between the US and Iran play out?",
+   "link": "https://news.cgtn.com/news/2026-08-25/Iran-defiant-as-US-escalates-economic-isolation-measures-1PThT027N5u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T04:11:56.000Z",
+   "summary": "Iran has vowed to retaliate against expanded US economic sanctions that the Americans said would cut off Iran's economic…",
    "regions": []
   },
   {
@@ -3405,6 +3747,14 @@
     "冰岛",
     "欧洲"
    ]
+  },
+  {
+   "title": "Trump administration 'plans to revoke 200,000 business, tourist visas'",
+   "link": "https://news.cgtn.com/news/2026-08-25/Trump-administration-plans-to-revoke-200-000-business-tourist-visas--1PTfspWIxl6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T03:32:28.000Z",
+   "summary": "US President Donald Trump's administration said on ‌Monday it planned to revoke the non-immigrant visas of foreigners wh…",
+   "regions": []
   },
   {
    "title": "【地震 M4.1】36 km NE of Punta Cana, Dominican Republic",
@@ -3813,6 +4163,14 @@
    "source": "CGTN国际",
    "time": "2026-08-25T00:31:29.000Z",
    "summary": "US Treasury Secretary Scott Bessent on Monday threatened Iran with \"an economic D-Day,\" announcing a wave of new sanctio…",
+   "regions": []
+  },
+  {
+   "title": "Venezuela's quake death toll surpasses 6,500",
+   "link": "https://news.cgtn.com/news/2026-08-25/news-1PT6ATF0yw8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-25T00:15:40.000Z",
+   "summary": "Venezuela's quake death toll surpasses 6,500",
    "regions": []
   },
   {
@@ -6621,5 +6979,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-08-26T00:02:03.243Z"
+ "updatedAt": "2026-08-26T03:40:32.595Z"
 }

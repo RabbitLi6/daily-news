@@ -394,6 +394,14 @@
    "regions": []
   },
   {
+   "title": "产品教程｜Memmy 如何接续任务查询，并处理本地检索超时",
+   "link": "https://www.oschina.net/news/502102",
+   "source": "开源中国",
+   "time": "2026-08-24T14:09:48.000Z",
+   "summary": "本文经 AI 创作者 Berryxia.AI 授权，根据其实际测试过程整理与改写。 SalesScout 是 Barry 的本地项目，文中的文件名称、查询条件和返回结果来自他的设备和真实项目案例。 Memmy 是运行在本地的个人 AI Ag…",
+   "regions": []
+  },
+  {
    "title": "成功举起 16 公斤，第二届世界人形机器人运动会首个举重冠军诞生",
    "link": "https://www.ithome.com/0/993/740.htm",
    "source": "IT之家",
@@ -455,6 +463,14 @@
    "source": "IT之家",
    "time": "2026-08-24T13:19:59.000Z",
    "summary": "IT之家 8 月 24 日消息，据“中国一汽”公众号，8 月 24 日，中国一汽与零跑汽车在长春举行深化战略合作协议签署仪式。根据协议，双方将围绕 资本合作、新能源整车、智能驾驶、动力总成、动力电池、智能底盘、车身工艺装备、轻量化部件、具身…",
+   "regions": []
+  },
+  {
+   "title": "产品教程｜用 Memmy 查找本地项目，让不同 AI 接着上次的工作",
+   "link": "https://www.oschina.net/news/502101",
+   "source": "开源中国",
+   "time": "2026-08-24T13:14:27.000Z",
+   "summary": "本文经 AI 创作者 Berryxia.AI 授权，根据其实际测试过程整理与改写。文中的项目数量、目录名称和测试结果来自 Barry 的设备，实际效果会随设备、历史记录和授权范围变化。 如果你同时使用 Cursor、Claude Code、…",
    "regions": []
   },
   {
@@ -535,6 +551,22 @@
    "source": "IT之家",
    "time": "2026-08-24T12:41:38.000Z",
    "summary": "IT之家 8 月 24 日消息，韩国外设品牌 Pulsar（派世）本月 20 日宣布推出 eS 电竞鼠标垫收纳包 (Carrying Bag All-in-one)，国行定价 899 元。 这一收纳设备不仅 可容纳 500mm × 500m…",
+   "regions": []
+  },
+  {
+   "title": "产品更新｜MemOS 现已支持 DeepSeek Harness 长期记忆接入",
+   "link": "https://www.oschina.net/news/502099",
+   "source": "开源中国",
+   "time": "2026-08-24T12:40:58.000Z",
+   "summary": "Memmy 与 MemOS Local/Cloud Plugin 已完成对 DeepSeek Harness 的适配啦！ DeepSeek Harness 将模型、工具、界面和运行能力组织在 profile 中，并通过插件机制扩展运行时能力…",
+   "regions": []
+  },
+  {
+   "title": "Memmy 正式发布：让所有 AI，都记得同一个你",
+   "link": "https://www.oschina.net/news/502098/memmy-agent",
+   "source": "开源中国",
+   "time": "2026-08-24T12:38:53.000Z",
+   "summary": "过去几个月，AI Agent 正在从对话工具变成真正的工作伙伴：理解代码库、调用工具、持续执行任务，并通过 Skills、MCP 和子 Agent 参与越来越复杂的工作流。 但今天的大多数 Agent，仍然不了解你长期积累的知识和偏好，也无…",
    "regions": []
   },
   {
@@ -7078,5 +7110,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-08-26T00:02:03.248Z"
+ "updatedAt": "2026-08-26T03:40:32.599Z"
 }
