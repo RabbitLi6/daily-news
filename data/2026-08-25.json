@@ -1934,6 +1934,17 @@
    ]
   },
   {
+   "title": "【地震 M2.6】143 km W of Ferndale, California",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbv9",
+   "source": "USGS地震台网",
+   "time": "2026-08-25T23:02:50.394Z",
+   "summary": "美国地质调查局官方监测：143 km W of Ferndale, California发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国加州",
+    "美洲"
+   ]
+  },
+  {
    "title": "伊朗外交部：阿曼将关闭霍尔木兹海峡的己方走廊 因该走廊美伊重新爆发冲突",
    "link": "https://sputniknews.cn/20260826/1072923280.html",
    "source": "卫星社中文",
@@ -2015,6 +2026,16 @@
     "俄乌",
     "欧洲",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】204 km W of Bandon, Oregon",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbv1",
+   "source": "USGS地震台网",
+   "time": "2026-08-25T22:01:39.896Z",
+   "summary": "美国地质调查局官方监测：204 km W of Bandon, Oregon发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
    ]
   },
   {
@@ -2232,6 +2253,17 @@
    "source": "USGS地震台网",
    "time": "2026-08-25T20:01:13.329Z",
    "summary": "美国地质调查局官方监测：56 km WNW of Nanwalek, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.9】10 km WSW of Nanwalek, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qvlgrk",
+   "source": "USGS地震台网",
+   "time": "2026-08-25T20:01:13.167Z",
+   "summary": "美国地质调查局官方监测：10 km WSW of Nanwalek, Alaska发生 3.9 级地震，震源深度 未知。",
    "regions": [
     "美国阿拉斯加",
     "美洲"
@@ -6979,5 +7011,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-08-26T03:40:32.595Z"
+ "updatedAt": "2026-08-26T08:09:16.053Z"
 }
