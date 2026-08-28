@@ -2,6 +2,30 @@
  "date": "2026-08-26",
  "tech": [
   {
+   "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
+   "link": "https://sspai.com/post/113873",
+   "source": "少数派",
+   "time": "2026-08-26T23:33:04.000Z",
+   "summary": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。 查看全文",
+   "regions": []
+  },
+  {
+   "title": "WIKI 本地知识库从 v1.0.0 升级 v1.1.0 的迁移指南",
+   "link": "https://www.oschina.net/news/502137",
+   "source": "开源中国",
+   "time": "2026-08-26T14:54:25.000Z",
+   "summary": "项 说明 文档日期 2026-08-25 升级路径 v1.0.0 → v1.1.0 适用对象 已部署 v1.0.0、需升到 v1.1.0 的运维 / 二次开发同学 v1.1.0 相对 v1.0.0 的工程变化 Vue 控制台 fronten…",
+   "regions": []
+  },
+  {
+   "title": "轻量级运维极速引擎 OpsFlash v0.3.0 正式发布",
+   "link": "https://www.oschina.net/news/502136",
+   "source": "开源中国",
+   "time": "2026-08-26T14:36:03.000Z",
+   "summary": "OpsFlash v0.3.0 版本发布： 新增 指令库：命令统一管理（增删改查、环境分组、搜索筛选、排序）；命令归属环境复用环境管理（与脚本库同源）；执行模式覆盖 本地 terminal（cmd / PowerShell / Bash） …",
+   "regions": []
+  },
+  {
    "title": "全新领克 20 汽车白紫内饰官图发布：怀档设计、机械式门把手，新车预计三季度上市",
    "link": "https://www.ithome.com/0/994/766.htm",
    "source": "IT之家",
@@ -1540,6 +1564,65 @@
  ],
  "world": [
   {
+   "title": "China sends 111 rescuers to Gyirong Port",
+   "link": "https://newsus.cgtn.com/news/2026-08-27/China-sends-111-rescuers-to-Gyirong-Port-1PWoIpQJSnu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T23:53:26.000Z",
+   "summary": "China sends 111 rescuers to Gyirong Port",
+   "regions": []
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.6M, Depth:16.05km) in Off East Coast Of Honshu, Japan 26/08/2026 19:21 UTC, No people affected in 100km.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1561972",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-26T19:39:59.000Z",
+   "summary": "On 8/26/2026 7:21:42 PM, an earthquake occurred in Off East Coast Of Honshu, Japan potentially affecting No people affec…",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "157 killed in floods in northern Nepal: police",
+   "link": "https://newsaf.cgtn.com/news/2026-08-27/157-killed-in-floods-in-northern-Nepal-police-1PW1Z4156Eg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T18:35:48.000Z",
+   "summary": "The death toll from flash floods in northern Nepal has reached 157, police said Wednesday night.",
+   "regions": []
+  },
+  {
+   "title": "China-India boundary meeting reaches 8-point consensus",
+   "link": "https://newsaf.cgtn.com/news/2026-08-26/China-India-boundary-meeting-reaches-8-point-consensus-1PVPzNgsIiQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T15:46:34.000Z",
+   "summary": "The 25th round of talks between the special representatives of China and India on the boundary question, which was held …",
+   "regions": []
+  },
+  {
+   "title": "Strait of Hormuz deal gets closer as Trump says waterway free of mines",
+   "link": "https://newseu.cgtn.com/news/2026-08-26/Strait-of-Hormuz-deal-gets-closer-as-Trump-says-waterway-free-of-mines-1PVKbGgP3q0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T15:20:52.000Z",
+   "summary": "A spokesperson for Iran's Islamic Revolutionary Guard Corps said Iran and Oman had reached an agreement on their shares …",
+   "regions": []
+  },
+  {
+   "title": "Cross-Pacific cooperation, shared global gain",
+   "link": "https://news.cgtn.com/news/2026-08-26/Cross-Pacific-cooperation-shared-global-gain-1PVFmfGy2ze/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T14:46:18.000Z",
+   "summary": "Cross-Pacific cooperation, shared global gain",
+   "regions": []
+  },
+  {
+   "title": "Huawei, HP end patent dispute with Wi-Fi licensing agreement",
+   "link": "https://news.cgtn.com/news/2026-08-26/Huawei-HP-end-patent-dispute-with-Wi-Fi-licensing-agreement-1PVF3qiDe7K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T14:21:51.000Z",
+   "summary": "Huawei, HP end patent dispute with Wi-Fi licensing agreement",
+   "regions": []
+  },
+  {
    "title": "尼泊尔外长：地震及山体滑坡引发尼泊尔洪灾",
    "link": "https://sputniknews.cn/20260826/1072933122.html",
    "source": "卫星社中文",
@@ -1599,6 +1682,14 @@
    ]
   },
   {
+   "title": "95 bodies recovered after flash flood in Nepal, police say",
+   "link": "https://news.cgtn.com/news/2026-08-26/news-1PVHtE4fYLC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T13:47:00.000Z",
+   "summary": "95 bodies recovered after flash flood in Nepal, police say",
+   "regions": []
+  },
+  {
    "title": "自然资源部对浙江启动地质灾害防御Ⅳ级响应",
    "link": "https://www.chinanews.com.cn/gn/2026/08-26/10684866.shtml",
    "source": "中新网滚动",
@@ -1644,6 +1735,22 @@
    "regions": []
   },
   {
+   "title": "APEC food security meeting highlights agricultural cooperation",
+   "link": "https://news.cgtn.com/news/2026-08-26/APEC-food-security-meeting-highlights-agricultural-cooperation-1PVAKbFWUmI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T13:31:58.000Z",
+   "summary": "APEC food security meeting highlights agricultural cooperation",
+   "regions": []
+  },
+  {
+   "title": "Kyrgyz audiences to see Chinese heritage, culture on screen",
+   "link": "https://news.cgtn.com/news/2026-08-26/Kyrgyz-audiences-to-see-Chinese-heritage-culture-on-screen-1PVBrc6VDdC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T13:30:49.000Z",
+   "summary": "Kyrgyz audiences to see Chinese heritage, culture on screen",
+   "regions": []
+  },
+  {
    "title": "中非生物多样性保护经验交流活动在肯尼亚举行",
    "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684822.shtml",
    "source": "中新网国际",
@@ -1677,6 +1784,14 @@
    ]
   },
   {
+   "title": "How US sanctions on Iran could spread risks and costs worldwide",
+   "link": "https://news.cgtn.com/news/2026-08-26/How-US-sanctions-on-Iran-could-spread-risks-and-costs-worldwide-1PVCRBr66Iw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T13:21:51.000Z",
+   "summary": "The impact of the new round of US sanctions on Iran has long extended beyond the bilateral relationship between the Unit…",
+   "regions": []
+  },
+  {
    "title": "俄旅行社：7月俄游客在北京创造花销最高纪录",
    "link": "https://sputniknews.cn/20260826/1072932771.html",
    "source": "卫星社中文",
@@ -1685,6 +1800,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "APEC Senior Officials' Meeting brings delegates to China's northeast",
+   "link": "https://news.cgtn.com/news/2026-08-26/APEC-Senior-Officials-Meeting-brings-delegates-to-China-s-northeast-1PVx0bgSUko/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T12:55:59.000Z",
+   "summary": "APEC Senior Officials' Meeting brings delegates to China's northeast",
+   "regions": []
   },
   {
    "title": "俄儿童权利全权代表：乌军袭击克拉斯诺达尔边疆区致四名儿童死亡",
@@ -1719,6 +1842,30 @@
    ]
   },
   {
+   "title": "Cool escapes, cultural encounters fuel China's inbound tourism boom",
+   "link": "https://news.cgtn.com/news/2026-08-26/Cool-escapes-cultural-encounters-fuel-China-s-inbound-tourism-boom-1PVoOnJYSwo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T12:34:51.000Z",
+   "summary": "With its abundant tourism resources and diverse climates, China is becoming an increasingly popular destination for over…",
+   "regions": []
+  },
+  {
+   "title": "UN official hails China's land restoration efforts",
+   "link": "https://news.cgtn.com/news/2026-08-26/UN-official-hails-China-s-land-restoration-efforts-1PVoW7N51eg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T12:30:39.000Z",
+   "summary": "UN official hails China's land restoration efforts",
+   "regions": []
+  },
+  {
+   "title": "China's top legislator meets head of Uzbek presidential administration",
+   "link": "https://news.cgtn.com/news/2026-08-26/China-s-top-legislator-meets-head-of-Uzbek-presidential-administration-1PVtiwmWFby/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T12:28:59.000Z",
+   "summary": "Zhao Leji, chairman of the Standing Committee of the National People's Congress (NPC), met with Saida Mirziyoyeva, head …",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.1】14 km SSE of Esperanza, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529898",
    "source": "USGS地震台网",
@@ -1740,6 +1887,60 @@
    ]
   },
   {
+   "title": "古特雷斯：联合国维和行动必须适应新的现实",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142695",
+   "source": "联合国新闻",
+   "time": "2026-08-26T12:00:00.000Z",
+   "summary": "联合国秘书长古特雷斯周三在联合国大会关于联合国维和行动审查的讲话中表示，联合国维和行动是维护国际和平与安全不可或缺的工具，但面对不断变化的冲突形势，必须适应新的现实。",
+   "regions": []
+  },
+  {
+   "title": "儿基会就巴基斯坦医院火灾导致14名新生儿死亡表示悲痛",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142694",
+   "source": "联合国新闻",
+   "time": "2026-08-26T12:00:00.000Z",
+   "summary": "联合国儿童基金会驻巴基斯坦代表艾恩赛德周三发表声明，对当天伊斯兰堡巴基斯坦医学科学研究所医院发生火灾、造成至少14名新生儿不幸遇难深感悲痛。",
+   "regions": []
+  },
+  {
+   "title": "非洲的新宏伟目标：更多卫生工作者，更强大的卫生体系",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142693",
+   "source": "联合国新闻",
+   "time": "2026-08-26T12:00:00.000Z",
+   "summary": "面对到2035年预计将出现超过600万名卫生专业人员短缺的局面，非洲各国正加紧努力以加强其卫生力量，周三在埃塞俄比亚亚的斯亚贝巴举行的卫生部长会议上，各国宣布了一项为期十年的新计划。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "古特雷斯对尼泊尔和中国严重洪灾造成的人员伤亡和破坏深感悲痛",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142692",
+   "source": "联合国新闻",
+   "time": "2026-08-26T12:00:00.000Z",
+   "summary": "联合国秘书长古特雷斯对周三早些时候尼泊尔和中国发生的严重洪灾深感悲痛。这些灾难夺走了许多人的生命，造成多人失踪，并导致大范围破坏。他向遇难者家属表示哀悼，并祝愿伤者早日康复，向所有受灾民众表达声援。",
+   "regions": [
+    "中国"
+   ]
+  },
+  {
+   "title": "粮农组织呼吁利用科学技术弥合数字鸿沟、城乡差距和性别差距",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142691",
+   "source": "联合国新闻",
+   "time": "2026-08-26T12:00:00.000Z",
+   "summary": "粮农组织总干事屈冬玉周二在第11届亚太经合组织粮食安全部长级会议上表示，亚太地区必须将科学、技术和人工智能置于农业食品系统转型工作的核心位置，同时确保创新有助于弥合而非扩大数字鸿沟、农村鸿沟和性别鸿沟。",
+   "regions": []
+  },
+  {
+   "title": "联合国：加沙停火依然脆弱，必须推进解除武装、恢复治理和重建",
+   "link": "https://news.un.org/feed/view/zh/story/2026/08/1142690",
+   "source": "联合国新闻",
+   "time": "2026-08-26T12:00:00.000Z",
+   "summary": "联合国中东和平进程代理特别协调员阿拉克巴罗夫周三向安理会通报中东局势时表示，尽管关于执行安理会第2803号决议和《结束加沙冲突综合计划》的谈判仍在继续，但加沙停火依然脆弱，以色列对加沙的袭击仍在持续，约旦河西岸局势也在迅速恶化。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
    "title": "俄总统特别代表：北方海路开始替代苏伊士运河",
    "link": "https://sputniknews.cn/20260826/1072932423.html",
    "source": "卫星社中文",
@@ -1748,6 +1949,22 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Northern Nepal flash flood kills 19, police confirm",
+   "link": "https://news.cgtn.com/news/2026-08-26/news-1PVzsn4Tcc0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T11:54:46.000Z",
+   "summary": "Northern Nepal flash flood kills 19, police confirm",
+   "regions": []
+  },
+  {
+   "title": "Chinese vice premier calls on APEC members to bolster food security",
+   "link": "https://news.cgtn.com/news/2026-08-26/Chinese-vice-premier-calls-on-APEC-members-to-bolster-food-security-1PVpasBYsrm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T11:53:45.000Z",
+   "summary": "Chinese vice premier calls on APEC members to bolster food security",
+   "regions": []
   },
   {
    "title": "菲律宾季风与气旋致死亡人数升至31人",
@@ -1863,6 +2080,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Chinese nationals among casualties in Russia gas plant fire",
+   "link": "https://news.cgtn.com/news/2026-08-26/Chinese-nationals-among-casualties-in-Russia-gas-plant-fire-1PVt11lxyEw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T10:24:38.000Z",
+   "summary": "Chinese nationals among casualties in Russia gas plant fire",
+   "regions": []
   },
   {
    "title": "俄国防部：乌军一天在特别军事行动中损失约1405名军人",
@@ -1985,6 +2210,22 @@
    ]
   },
   {
+   "title": "Build a positive narrative for China-India border issues: Wang Yi",
+   "link": "https://news.cgtn.com/news/2026-08-26/Build-a-positive-narrative-for-China-India-border-issues-Wang-Yi-1PUTFAIGO7m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T08:48:25.000Z",
+   "summary": "Build a positive narrative for China-India border issues: Wang Yi",
+   "regions": []
+  },
+  {
+   "title": "When tariffs turn allies against each other",
+   "link": "https://news.cgtn.com/news/2026-08-26/When-tariffs-turn-allies-against-each-other-1PV8f84gPRu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T08:47:51.000Z",
+   "summary": "When tariffs turn allies against each other",
+   "regions": []
+  },
+  {
    "title": "嫦娥七号为啥不能过几天再发？权威解释来了",
    "link": "https://sputniknews.cn/20260826/1072930584.html",
    "source": "卫星社中文",
@@ -2001,6 +2242,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "Trump administration pauses immigrant visa applications worldwide: FT",
+   "link": "https://news.cgtn.com/news/2026-08-26/Trump-administration-pauses-immigrant-visa-applications-worldwide-FT-1PVi8nEfOFy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T08:41:48.000Z",
+   "summary": "The Trump administration has paused immigrant visa applications globally to conduct \"in-depth training\" for consular off…",
+   "regions": []
   },
   {
    "title": "俄罗斯在购买力平价方面跃居全球第四：西方制裁之下的强大经济韧性",
@@ -2033,6 +2282,14 @@
    "regions": [
     "非洲"
    ]
+  },
+  {
+   "title": "Israel's Netanyahu says deal with Iran impossible",
+   "link": "https://news.cgtn.com/news/2026-08-26/news-1PVkMUXik6s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T08:29:30.000Z",
+   "summary": "Israel's Netanyahu says deal with Iran impossible",
+   "regions": []
   },
   {
    "title": "荷兰储气库无法在今年冬季前填满",
@@ -2163,6 +2420,14 @@
    ]
   },
   {
+   "title": "M4.8 earthquake hits Kuril Islands",
+   "link": "https://news.cgtn.com/news/2026-08-26/news-1PVgQmldDpK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T07:34:18.000Z",
+   "summary": "M4.8 earthquake hits Kuril Islands",
+   "regions": []
+  },
+  {
    "title": "俄外交部：俄将继续协助阿布哈兹和南奥塞梯巩固国家体制",
    "link": "https://sputniknews.cn/20260826/1072929005.html",
    "source": "卫星社中文",
@@ -2212,6 +2477,22 @@
    "regions": [
     "广东"
    ]
+  },
+  {
+   "title": "Pakistani politician: China, Global South on the right side of history",
+   "link": "https://news.cgtn.com/news/2026-08-26/Pakistani-politician-China-Global-South-on-the-right-side-of-history-1PVaMDe4MXm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T07:23:03.000Z",
+   "summary": "Pakistani politician: China, Global South on the right side of history",
+   "regions": []
+  },
+  {
+   "title": "Mainland urges DPP to support the construction of Xiamen-Kinmen Bridge",
+   "link": "https://news.cgtn.com/news/2026-08-26/Mainland-urges-DPP-to-support-the-construction-of-Xiamen-Kinmen-Bridge-1PVcVaETCEM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T07:15:21.000Z",
+   "summary": "Taiwan's Democratic Progressive Party (DPP) authorities should take seriously the aspirations of Kinmen residents and st…",
+   "regions": []
   },
   {
    "title": "【地震 M3.0】40 km N of Charlotte Amalie, U.S. Virgin Islands",
@@ -2289,6 +2570,14 @@
    ]
   },
   {
+   "title": "Track 1.5 talks: China, US explore ways to strategic stability in ties",
+   "link": "https://news.cgtn.com/news/2026-08-26/Track-1-5-talks-China-US-explore-ways-to-strategic-stability-in-ties-1PV1tdAEPCw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T06:24:03.000Z",
+   "summary": "Chinese and US representatives met on Tuesday in Beijing to discuss ways to boost political trust, expand economic and t…",
+   "regions": []
+  },
+  {
    "title": "俄总统新闻秘书：普京未与美中情局长会谈",
    "link": "https://sputniknews.cn/20260826/1072928401.html",
    "source": "卫星社中文",
@@ -2350,6 +2639,14 @@
    ]
   },
   {
+   "title": "First Russian-born panda 'Katyusha' celebrates 3rd birthday in Moscow",
+   "link": "https://news.cgtn.com/news/2026-08-26/First-Russian-born-panda-Katyusha-celebrates-3rd-birthday-in-Moscow-1PV7c3G4jcI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T05:56:46.000Z",
+   "summary": "First Russian-born panda 'Katyusha' celebrates 3rd birthday in Moscow",
+   "regions": []
+  },
+  {
    "title": "媒体：澳大利亚过度依赖美国，冲突时或面临“无弹可用”风险",
    "link": "https://sputniknews.cn/20260826/1072928016.html",
    "source": "卫星社中文",
@@ -2359,6 +2656,14 @@
     "美洲",
     "亚太"
    ]
+  },
+  {
+   "title": "PLA conducts routine naval-air patrol in South China Sea",
+   "link": "https://news.cgtn.com/news/2026-08-26/PLA-conducts-routine-naval-air-patrol-in-South-China-Sea-1PV7Orua2Iw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T05:47:40.000Z",
+   "summary": "The Southern Theater Command of the Chinese People's Liberation Army (PLA) said on Wednesday that its naval and air unit…",
+   "regions": []
   },
   {
    "title": "【地震 M4.8】southwest of Africa",
@@ -2399,6 +2704,22 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "Chinese envoy urges cessation of hostilities to ensure food production",
+   "link": "https://news.cgtn.com/news/2026-08-26/Chinese-envoy-urges-cessation-of-hostilities-to-ensure-food-production-1PV31SwO4rS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T04:52:19.000Z",
+   "summary": "Fu Cong, China's permanent representative to the United Nations, on Tuesday called for greater efforts to end hostilitie…",
+   "regions": []
+  },
+  {
+   "title": "French voice actress dubs CGTN's AI-animated short 'Monkey King'",
+   "link": "https://news.cgtn.com/news/2026-08-26/French-voice-actress-dubs-CGTN-s-AI-animated-short-Monkey-King--1PV3G0wl9Ac/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T04:42:53.000Z",
+   "summary": "French voice actress dubs CGTN's AI-animated short 'Monkey King'",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】19 km ENE of Sterling, Alaska",
@@ -2553,6 +2874,14 @@
    "regions": [
     "南海"
    ]
+  },
+  {
+   "title": "SCO voices broad support for Global Governance Initiative",
+   "link": "https://news.cgtn.com/news/2026-08-26/SCO-voices-broad-support-for-Global-Governance-Initiative--1PTTy7ymDp6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-26T02:59:57.000Z",
+   "summary": "SCO voices broad support for Global Governance Initiative",
+   "regions": []
   },
   {
    "title": "【地震 M3.2】53 km ENE of Pedro Bay, Alaska",
@@ -5668,5 +5997,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-08-26T14:26:45.370Z"
+ "updatedAt": "2026-08-28T00:57:20.076Z"
 }
