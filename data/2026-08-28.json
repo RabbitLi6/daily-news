@@ -18,6 +18,14 @@
    "regions": []
   },
   {
+   "title": "小米澎湃 OS 4 Beta 版已推送两次升级，超级小爱 8.2 版本上线",
+   "link": "https://www.ithome.com/0/995/842.htm",
+   "source": "IT之家",
+   "time": "2026-08-28T23:56:26.000Z",
+   "summary": "IT之家 8 月 29 日消息，小米澎湃 OS 公告君今日发布答网友问汇总，针对小米澎湃 OS 4 Beta 版的升级推送、超级小爱 2.0 新功能使用等用户关心的问题进行解答。 自小米澎湃 OS 4 Beta 版开启推送以来，官方通过“澎…",
+   "regions": []
+  },
+  {
    "title": "IT早报 0829：滴滴称绝不存在“大数据杀熟”；小米澎程汽车座椅滑轨拉矿卡挑战成功；网友晒图退回 299 元摩拜单车押金；曝内存成手机 BOM 成本第一大户...",
    "link": "https://www.ithome.com/0/995/841.htm",
    "source": "IT之家",
@@ -1000,6 +1008,17 @@
    "summary": "美国地质调查局官方监测：66 km W of Petrolia, CA发生 2.6 级地震，震源深度 未知。",
    "regions": [
     "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】179 km WSW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcqh",
+   "source": "USGS地震台网",
+   "time": "2026-08-28T21:21:51.475Z",
+   "summary": "美国地质调查局官方监测：179 km WSW of Adak, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -3945,5 +3964,5 @@
    ]
   }
  ],
- "updatedAt": "2026-08-29T00:04:12.213Z"
+ "updatedAt": "2026-08-29T00:34:24.554Z"
 }
