@@ -1130,6 +1130,17 @@
    ]
   },
   {
+   "title": "【地震 M4.5】38 km NNE of Cuya, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcpf",
+   "source": "USGS地震台网",
+   "time": "2026-08-28T20:44:36.759Z",
+   "summary": "美国地质调查局官方监测：38 km NNE of Cuya, Chile发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
    "title": "【地震 M2.5】18 km NE of Gardendale, Texas",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qyhjok",
    "source": "USGS地震台网",
@@ -4203,5 +4214,5 @@
    ]
   }
  ],
- "updatedAt": "2026-08-29T10:04:20.442Z"
+ "updatedAt": "2026-08-29T14:34:22.266Z"
 }
