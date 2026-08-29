@@ -884,6 +884,28 @@
  ],
  "world": [
   {
+   "title": "【地震 M4.5】2 km NNW of Ástros, Greece",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcqr",
+   "source": "USGS地震台网",
+   "time": "2026-08-28T23:55:58.905Z",
+   "summary": "美国地质调查局官方监测：2 km NNW of Ástros, Greece发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "希腊",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】106 km ESE of Antofagasta, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcqp",
+   "source": "USGS地震台网",
+   "time": "2026-08-28T23:48:03.675Z",
+   "summary": "美国地质调查局官方监测：106 km ESE of Antofagasta, Chile发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
    "title": "日本陆上自卫队对强闯中使馆的自卫官作出免职处分",
    "link": "https://sputniknews.cn/20260829/1072970285.html",
    "source": "卫星社中文",
@@ -911,6 +933,17 @@
    "source": "USGS地震台网",
    "time": "2026-08-28T23:28:36.222Z",
    "summary": "美国地质调查局官方监测：215 km SSE of False Pass, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】212 km SSE of False Pass, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcqn",
+   "source": "USGS地震台网",
+   "time": "2026-08-28T23:28:35.281Z",
+   "summary": "美国地质调查局官方监测：212 km SSE of False Pass, Alaska发生 3.5 级地震，震源深度 未知。",
    "regions": [
     "美国阿拉斯加",
     "美洲"
@@ -946,6 +979,49 @@
    "regions": [
     "中国"
    ]
+  },
+  {
+   "title": "【地震 M4.1】20 km SSW of Nueva Sesecapa, Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcqc",
+   "source": "USGS地震台网",
+   "time": "2026-08-28T22:30:32.353Z",
+   "summary": "美国地质调查局官方监测：20 km SSW of Nueva Sesecapa, Mexico发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "Brazil courts more Chinese tourists as visa waiver pays off",
+   "link": "https://newsus.cgtn.com/news/2026-08-29/Brazil-courts-more-Chinese-tourists-as-visa-waiver-pays-off-1PZzm5SRLOg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T22:14:52.000Z",
+   "summary": "Brazil courts more Chinese tourists as visa waiver pays off",
+   "regions": []
+  },
+  {
+   "title": "Thousands rally in US capital to defend voting rights",
+   "link": "https://newsus.cgtn.com/news/2026-08-29/Thousands-rally-in-US-capital-to-defend-voting-rights-1PZy7KYG7E4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T22:14:03.000Z",
+   "summary": "Thousands rally in US capital to defend voting rights",
+   "regions": []
+  },
+  {
+   "title": "Chinese tourism to Brazil surges 55 percent",
+   "link": "https://newsus.cgtn.com/news/2026-08-29/Chinese-tourism-to-Brazil-surges-55-percent-1PZxnDOlG7e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T22:12:18.000Z",
+   "summary": "Chinese tourism to Brazil surges 55 percent",
+   "regions": []
+  },
+  {
+   "title": "Inside America’s immigration detention system",
+   "link": "https://newsus.cgtn.com/news/2026-08-29/Inside-America-s-immigration-detention-system-1PZwGQ15rnq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T22:11:30.000Z",
+   "summary": "Inside America’s immigration detention system",
+   "regions": []
   },
   {
    "title": "【地震 M4.9】124 km N of Aksu, China",
@@ -1147,6 +1223,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "Ebola outbreak sparks concern over school reopening in DR Congo",
+   "link": "https://newsaf.cgtn.com/news/2026-08-29/Ebola-outbreak-sparks-concern-over-school-reopening-in-DR-Congo-1PZ1huCgdCU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T17:49:36.000Z",
+   "summary": "The DRC Ministry of National Education has introduced a three-tier system — green, orange and red — based on the intensi…",
+   "regions": []
   },
   {
    "title": "【地震 M4.4】59 km E of Pondaguitan, Philippines",
@@ -1368,6 +1452,14 @@
    ]
   },
   {
+   "title": "The digital rehab therapist crossing borders",
+   "link": "https://news.cgtn.com/news/2026-08-28/The-digital-rehab-therapist-crossing-borders-1PYUdv3ComI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T15:18:05.000Z",
+   "summary": "On August 22, an unusual \"rehabilitation therapist\" arrived at the Clinical Emergency Hospital in Bishkek, capital of Ky…",
+   "regions": []
+  },
+  {
    "title": "东西问丨“掉线”半年，霍尔木兹早已不是从前的霍尔木兹",
    "link": "https://www.chinanews.com.cn/gj/2026/08-28/10686220.shtml",
    "source": "中新网国际",
@@ -1387,6 +1479,14 @@
     "非洲",
     "中山"
    ]
+  },
+  {
+   "title": "Promoting high-quality SCO development a priority in China's diplomacy",
+   "link": "https://news.cgtn.com/news/2026-08-28/Promoting-high-quality-SCO-development-a-priority-in-China-s-diplomacy-1PYTJmNfrkA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T15:07:42.000Z",
+   "summary": "The SCO has successfully explored a path of multilateral cooperation, with its global influence and appeal continuing to…",
+   "regions": []
   },
   {
    "title": "【地震 M3.5】135 km SW of Adak, Alaska",
@@ -1492,6 +1592,14 @@
    ]
   },
   {
+   "title": "The hidden toll of treating the wounded in South Sudan",
+   "link": "https://newsaf.cgtn.com/news/2026-08-28/The-hidden-toll-of-treating-the-wounded-in-South-Sudan-1PYZHtkYyB2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T14:06:52.000Z",
+   "summary": "At Wau Teaching Hospital in northwestern South Sudan, medical workers treating victims of conflict and inter-communal vi…",
+   "regions": []
+  },
+  {
    "title": "尼泊尔山洪遇难人数升至579人 1924人失联",
    "link": "https://www.chinanews.com.cn/gj/2026/08-28/10686208.shtml",
    "source": "中新网国际",
@@ -1541,6 +1649,14 @@
    ]
   },
   {
+   "title": "Full text of Xi's signed article in Kyrgyz media before his visit",
+   "link": "https://news.cgtn.com/news/2026-08-28/Full-text-of-Xi-s-signed-article-in-Kyrgyz-media-before-his-visit-1PYGHoTPh8Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T13:31:02.000Z",
+   "summary": "A signed article by Chinese President Xi Jinping was published in the Slovo Kyrgyzstana newspaper and Kabar National New…",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.6】225 km W of Adak, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ramfkc",
    "source": "USGS地震台网",
@@ -1560,6 +1676,14 @@
    "regions": []
   },
   {
+   "title": "IDF says it conducted strike against 'terrorists' in Jenin area",
+   "link": "https://news.cgtn.com/news/2026-08-28/news-1PYZ44YBqRG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T13:15:56.000Z",
+   "summary": "IDF says it conducted strike against 'terrorists' in Jenin area",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.6】176 km WSW of Adak, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ralsaz",
    "source": "USGS地震台网",
@@ -1569,6 +1693,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "Xi's special envoy to attend inauguration of president of Zambia",
+   "link": "https://news.cgtn.com/news/2026-08-28/Xi-s-special-envoy-to-attend-inauguration-of-president-of-Zambia-1PYJAxLf6cE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T13:10:19.000Z",
+   "summary": "At the invitation of the government of Zambia, Chinese President Xi Jinping's Special Envoy and Vice Chairperson of the …",
+   "regions": []
   },
   {
    "title": "180天，伊朗没跪，打不垮的秘密藏在历史里",
@@ -1675,6 +1807,14 @@
    ]
   },
   {
+   "title": "How do newly released 3D images explain the Gyirong mudslide?",
+   "link": "https://news.cgtn.com/news/2026-08-28/3D-imagery-reveals-path-and-causes-of-Xizang-s-Gyirong-mudslide-1PYNEvSLMUE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T12:24:55.000Z",
+   "summary": "China's Ministry of Natural Resources has released three-dimensional imagery showing the area around Gyirong Port on the…",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.5】109 km S of Vanimo, Papua New Guinea",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcjf",
    "source": "USGS地震台网",
@@ -1704,6 +1844,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "Nigeria police warn rushed rescue could endanger kidnap victims",
+   "link": "https://newsaf.cgtn.com/news/2026-08-28/Nigeria-police-warn-rushed-rescue-could-endanger-kidnap-victims-1PYGbaBbyDe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T12:09:59.000Z",
+   "summary": "Nigerian police have warned that rushing a rescue operation for people abducted in Niger State could put the victims' li…",
+   "regions": []
   },
   {
    "title": "俄专家：上合组织正成为世界上大多数国家发声最响亮的平台",
@@ -1820,6 +1968,14 @@
    ]
   },
   {
+   "title": "Nigeria targets lower transport fares as CNG use expands",
+   "link": "https://newsaf.cgtn.com/news/2026-08-28/Nigeria-targets-lower-transport-fares-as-CNG-use-expands-1PYDa6Ih65W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T11:38:35.000Z",
+   "summary": "Nigerian President Bola Ahmed Tinubu says the federal government and state governors are working to reduce transport far…",
+   "regions": []
+  },
+  {
    "title": "民调：逾60%韩国人支持韩国拥有核武器",
    "link": "https://sputniknews.cn/20260828/1072965271.html",
    "source": "卫星社中文",
@@ -1828,6 +1984,14 @@
    "regions": [
     "朝鲜半岛"
    ]
+  },
+  {
+   "title": "President Tshisekedi rules out M23 from DR Congo national dialogue",
+   "link": "https://newsaf.cgtn.com/news/2026-08-28/President-Tshisekedi-rules-out-M23-from-DR-Congo-national-dialogue-1PYAPPI8HqE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T11:31:04.000Z",
+   "summary": "Congolese President Felix Tshisekedi has ruled out the participation of the Rwanda-backed M23 armed group in a planned n…",
+   "regions": []
   },
   {
    "title": "俄军过去一周在特别军事行动中解放7个居民点",
@@ -1988,6 +2152,14 @@
    ]
   },
   {
+   "title": "President Xi extends condolences over mudslide disaster in Nepal",
+   "link": "https://news.cgtn.com/news/2026-08-28/President-Xi-extends-condolences-over-mudslide-disaster-in-Nepal-1PYCo1w8jyo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T09:54:40.000Z",
+   "summary": "President Xi extends condolences over mudslide disaster in Nepal",
+   "regions": []
+  },
+  {
    "title": "克宫：普京将在上合组织峰会期间进行许多重要双边接触",
    "link": "https://sputniknews.cn/20260828/1072964145.html",
    "source": "卫星社中文",
@@ -2066,6 +2238,14 @@
    "source": "中新网国际",
    "time": "2026-08-28T09:05:47.000Z",
    "summary": "中新社比什凯克8月28日电 (记者 单璐)《2026年中国在中亚国际形象调研报告》发布会暨文明对话交流会28日在吉尔吉斯斯坦首都比什凯克举行。会上，《中国共产党的“十万个为什么”》俄文版正式发布。",
+   "regions": []
+  },
+  {
+   "title": "China urges Japan to accelerate disposal of abandoned chemical weapons",
+   "link": "https://news.cgtn.com/news/2026-08-28/China-urges-Japan-to-accelerate-disposal-of-abandoned-chemical-weapons-1PYEifJpjFu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T09:02:32.000Z",
+   "summary": "China on Friday urged the Japanese government to speed up the disposal of abandoned chemical weapons left in China from …",
    "regions": []
   },
   {
@@ -2314,6 +2494,14 @@
    "regions": []
   },
   {
+   "title": "Norway's King Harald V dies at 89",
+   "link": "https://news.cgtn.com/news/2026-08-28/news-1PYwtb5EBHi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T06:35:47.000Z",
+   "summary": "Norway's King Harald V dies at 89",
+   "regions": []
+  },
+  {
    "title": "俄外交部发言人：西方媒体用谎言当武器，炮制伊朗假新闻",
    "link": "https://sputniknews.cn/20260828/1072961371.html",
    "source": "卫星社中文",
@@ -2500,6 +2688,22 @@
    ]
   },
   {
+   "title": "US sanctions Iran: Will 'maximum pressure' work?",
+   "link": "https://news.cgtn.com/news/2026-08-28/US-sanctions-Iran-Will-maximum-pressure-work--1PXkDzIomLC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T04:28:35.000Z",
+   "summary": "US sanctions Iran: Will 'maximum pressure' work?",
+   "regions": []
+  },
+  {
+   "title": "MAZU: China-Pakistan cooperation to see the storm before it hits",
+   "link": "https://news.cgtn.com/news/2026-08-28/MAZU-China-Pakistan-cooperation-to-see-the-storm-before-it-hits-1PVXrXc9uWA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T04:26:08.000Z",
+   "summary": "MAZU: China-Pakistan cooperation to see the storm before it hits",
+   "regions": []
+  },
+  {
    "title": "五角大楼称有5万名美军人参与中东地区军事行动",
    "link": "https://sputniknews.cn/20260828/1072959904.html",
    "source": "卫星社中文",
@@ -2510,6 +2714,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "IFRC speaks to CGTN about Nepal-China cross-border mudslide",
+   "link": "https://news.cgtn.com/news/2026-08-28/IFRC-speaks-to-CGTN-about-Nepal-China-cross-border-mudslide-1PYgqzy57oY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T04:22:24.000Z",
+   "summary": "IFRC speaks to CGTN about Nepal-China cross-border mudslide",
+   "regions": []
   },
   {
    "title": "不止石油天然气：俄对华钯铂出口数倍增长，关键金属贸易加速\"东转\"",
@@ -2530,6 +2742,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "2026 China-South Africa Human Rights Seminar held in Hangzhou",
+   "link": "https://news.cgtn.com/news/2026-08-28/2026-China-South-Africa-Human-Rights-Seminar-held-in-Hangzhou-1PYfRwpXgLC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T03:47:00.000Z",
+   "summary": "The 2026 China-South Africa Human Rights Seminar was held in Hangzhou, east China's Zhejiang Province, on Thursday, with…",
+   "regions": []
   },
   {
    "title": "日本东京都23区8月核心CPI同比上涨1.8%",
@@ -2649,6 +2869,14 @@
    "regions": [
     "非洲"
    ]
+  },
+  {
+   "title": "Death toll from Nepal's flood rises to 469, police say",
+   "link": "https://news.cgtn.com/news/2026-08-28/news-1PYfwI42lHi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-28T02:38:41.000Z",
+   "summary": "Death toll from Nepal's flood rises to 469, police say",
+   "regions": []
   },
   {
    "title": "日本跨党派议员访华，中方重申台湾问题原则立场",
@@ -3975,5 +4203,5 @@
    ]
   }
  ],
- "updatedAt": "2026-08-29T01:05:11.899Z"
+ "updatedAt": "2026-08-29T05:34:11.685Z"
 }
