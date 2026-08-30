@@ -2,6 +2,30 @@
  "date": "2026-08-29",
  "tech": [
   {
+   "title": "IT早报 0830：常州为星宇离职学生办专场招聘会；长鑫 LPDDR6 内存量产小米 18 Fold 首发；余承东晒华为 Mate XT 2 三折叠真机；交通部回应 ETC 改扫车牌支付...",
+   "link": "https://www.ithome.com/0/996/063.htm",
+   "source": "IT之家",
+   "time": "2026-08-29T23:47:58.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 30 日星期日，今天的重要科技资讯有： 1. 常州为星宇离职学生办专场招聘会，最高年薪 24 万 星宇股份“羞辱式劝退”应届生引发热议，常州为离职学生举办专场招聘会，超千家岗位可选，最…",
+   "regions": []
+  },
+  {
+   "title": "少 1 个展开步骤：部分谷歌搜索测试默认进入 AI 模式，下移传统蓝链搜索结果",
+   "link": "https://www.ithome.com/0/996/062.htm",
+   "source": "IT之家",
+   "time": "2026-08-29T23:45:10.000Z",
+   "summary": "IT之家 8 月 30 日消息，搜索行业媒体 Search Engine Roundtable 于 8 月 28 日报道， 谷歌搜索正测试将 AI 概览直接扩展为更接近 AI Mode 的回答界面。 与此前仅展示简短摘要、由用户点击“展开”…",
+   "regions": []
+  },
+  {
+   "title": "提前布局“G”型内折方案，华为 Mate XT 2 三折叠手机 11 年前早期手稿曝光",
+   "link": "https://www.ithome.com/0/996/061.htm",
+   "source": "IT之家",
+   "time": "2026-08-29T23:41:51.000Z",
+   "summary": "IT之家 8 月 30 日消息，博主 @Welber 昨日分享了华为 Mate XT 2 三折叠手机 11 年前的早期手稿。 博主分享的图片显示， 这张手稿由华为终端 BG CTO 李小龙于 2015 年 7 月 25 日绘制，展示了华为三…",
+   "regions": []
+  },
+  {
    "title": "向预装 Win11 说不：欧洲掀起 Refund4Freedom，最高单笔返还 150 欧元",
    "link": "https://www.ithome.com/0/996/060.htm",
    "source": "IT之家",
@@ -1092,6 +1116,17 @@
  ],
  "world": [
   {
+   "title": "朝中社：朝鲜国防相努光铁被免职，金成基接任",
+   "link": "https://sputniknews.cn/20260830/1072978360.html",
+   "source": "卫星社中文",
+   "time": "2026-08-29T23:35:03.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月30日电 据朝中社30日报道，朝鲜国防相努光铁已被免去职务，接任者为曾任朝鲜人民军总政治局局长金成基。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛"
+   ]
+  },
+  {
    "title": "日本外务省重启大学生赴俄短期交流项目",
    "link": "https://sputniknews.cn/20260830/1072978267.html",
    "source": "卫星社中文",
@@ -1100,6 +1135,17 @@
    "regions": [
     "俄乌",
     "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】36 km WSW of Stella, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530283",
+   "source": "USGS地震台网",
+   "time": "2026-08-29T23:11:08.200Z",
+   "summary": "美国地质调查局官方监测：36 km WSW of Stella, Puerto Rico发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
    ]
   },
   {
@@ -4319,5 +4365,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-08-29T23:34:10.231Z"
+ "updatedAt": "2026-08-30T00:05:33.875Z"
 }
