@@ -2,6 +2,14 @@
  "date": "2026-08-31",
  "tech": [
   {
+   "title": "2017/2018 款 MacBook Pro 与 2018 款 MacBook Air 正式进入苹果过时名单",
+   "link": "https://www.ithome.com/0/996/699.htm",
+   "source": "IT之家",
+   "time": "2026-08-31T22:29:09.000Z",
+   "summary": "IT之家 9 月 1 日消息，苹果今日更新了过时产品名单，新增的设备包括： 2018 款 13 英寸视网膜显示屏 MacBook Air； 配备四个雷雳 3 端口的 2018 款 13 英寸 MacBook Pro； 配备两个雷雳 3 端口…",
+   "regions": []
+  },
+  {
    "title": "华为、小米、荣耀手机今日集体调价",
    "link": "https://www.ithome.com/0/996/694.htm",
    "source": "IT之家",
@@ -1772,6 +1780,242 @@
  ],
  "world": [
   {
+   "title": "法国总统马克龙访问瑞典 推进法瑞军事合作",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687582.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-31T22:29:39.000Z",
+   "summary": "中新社巴黎8月31日电 法国总统马克龙当地时间8月31日对瑞典进行访问，推进法国与瑞典的军事合作。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "普京向俄罗斯中小学生、大学生和教师祝贺“知识日”",
+   "link": "https://sputniknews.cn/20260901/1073001307.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T21:53:50.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月1日电 俄罗斯总统弗拉基米尔·普京向俄罗斯中小学生、大学生和教师祝贺“知识日”，祝愿未来一代相信自己、勇往直前。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】South Sandwich Islands region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td7p",
+   "source": "USGS地震台网",
+   "time": "2026-08-31T21:46:03.374Z",
+   "summary": "美国地质调查局官方监测：South Sandwich Islands region发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "英国海上贸易行动办公室报告了一起在印度洋的涉及油轮和武装力量的事件",
+   "link": "https://sputniknews.cn/20260901/1073001030.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T21:42:53.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月1日电 英国海上贸易行动办公室（UKMTO）报告了一起涉及油轮和武装力量在印度洋的事件。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "媒体：印度一烟花厂爆炸致11死7伤",
+   "link": "https://sputniknews.cn/20260901/1073000929.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T21:35:50.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 据《印度教徒报》援引当地政府报道，印度北部北方邦一家烟花厂发生爆炸，造成至少11人死亡，7人受伤。",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "习近平在埃及媒体发表署名文章",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687580.shtml",
+   "source": "中新网滚动",
+   "time": "2026-08-31T21:30:26.000Z",
+   "summary": "新华社开罗9月1日电#8195;9月1日，在赴开罗对埃及进行国事访问之际，国家主席习近平在埃及《金字塔报》、《消息报》、《共和国报》发表题为《风雨同舟七十载，踔厉奋发新征程》的署名文章。文章全文如下：",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】50 km SW of Taltal, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td7k",
+   "source": "USGS地震台网",
+   "time": "2026-08-31T21:30:16.486Z",
+   "summary": "美国地质调查局官方监测：50 km SW of Taltal, Chile发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
+   "title": "特朗普称他在帮助乌克兰，但欧洲为此付费",
+   "link": "https://sputniknews.cn/20260901/1073000814.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T21:28:28.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国总统特朗普8月31日表示，他在帮助乌克兰，但帮助的费用由欧洲支付。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普称没有任何一方会袭击美国",
+   "link": "https://sputniknews.cn/20260901/1073000485.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T21:18:52.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国总统特朗普8月31日表示，他相信没有任何一方将袭击美国。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green notification for tropical cyclone FIVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001316",
+   "source": "GDACS灾害监测",
+   "time": "2026-08-31T21:18:21.000Z",
+   "summary": "From 31/08/2026 to 31/08/2026, a Tropical Depression (maximum wind speed of 93 km/h) FIVE-26 was active in Atlantic. The…",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "特朗普不排除美国再次打击并“惩罚”伊朗的可能性",
+   "link": "https://sputniknews.cn/20260901/1073000216.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T21:07:26.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国总统特朗普不排除美国对伊朗发起新一轮打击的可能性，他表示，美国准备“惩罚”伊朗。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊朗武装力量：在与伊朗的战争中美方有数百人死亡、数千人受伤",
+   "link": "https://sputniknews.cn/20260901/1072999925.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T20:59:07.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰电 伊朗武装部队高级代表谢卡尔希表示，在与伊朗的冲突中，美方有数百人死亡、数千人受伤。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄国防部：俄防空系统在俄上空击落180架乌克兰无人机",
+   "link": "https://sputniknews.cn/20260901/1072999819.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T20:43:24.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 据俄罗斯国防部消息，俄执勤防空系统过去12个小时在俄罗斯多个地区和黑海水域上空拦截并摧毁180架乌克兰无人机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】31 km WSW of Stella, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530473",
+   "source": "USGS地震台网",
+   "time": "2026-08-31T20:37:30.430Z",
+   "summary": "美国地质调查局官方监测：31 km WSW of Stella, Puerto Rico发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "媒体：乌克兰缺少拦截俄“天竺葵”无人机的无人机",
+   "link": "https://sputniknews.cn/20260901/1072999711.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T20:31:08.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 美国《华尔街日报》援引未透露姓名乌克兰官员的话报道，乌克兰缺少用于拦截最新型俄罗斯“天竺葵”无人机的无人机，拦截行动需要“数千架”无人机。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普称非常期待习近平访问美国",
+   "link": "https://sputniknews.cn/20260901/1072999612.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T20:22:47.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国总统特朗普表示，他非常期待中国国家主席习近平9月访问美国。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】176 km SE of Gizo, Solomon Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td6k",
+   "source": "USGS地震台网",
+   "time": "2026-08-31T20:00:29.055Z",
+   "summary": "美国地质调查局官方监测：176 km SE of Gizo, Solomon Islands发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "所罗门群岛",
+    "亚太"
+   ]
+  },
+  {
+   "title": "美国交通部长称不允许中国汽车进入美国",
+   "link": "https://sputniknews.cn/20260901/1072999502.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T20:00:04.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国交通部长达菲表示，中国制造的汽车和中国技术在任何情况下都不得在美国境内生产或销售。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄中双方将在莫斯科国际书展期间签署多项协议",
+   "link": "https://sputniknews.cn/20260901/1072995993.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T19:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月31日电 中宣部进出口管理局二级巡视员钱树人在莫斯科举行的新闻发布会上表示，俄罗斯和中国将在莫斯科国际书展期间签署多项合作协议。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】112 km SSW of Chirilagua, El Salvador",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td5l",
+   "source": "USGS地震台网",
+   "time": "2026-08-31T18:56:28.892Z",
+   "summary": "美国地质调查局官方监测：112 km SSW of Chirilagua, El Salvador发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "萨尔瓦多",
+    "拉美"
+   ]
+  },
+  {
+   "title": "中国将在莫斯科国际书展上展出两千余种中国图书",
+   "link": "https://sputniknews.cn/20260901/1072996444.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T18:40:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科8月31日电 中宣部进出口管理局二级巡视员钱树人在莫斯科举行的记者会上表示，中国将在莫斯科国际书展期间展出两千余种近5000册中国优秀图书。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "专家：中俄合作正在成长为全球南方国家的共同力量",
+   "link": "https://sputniknews.cn/20260901/1072999232.html",
+   "source": "卫星社中文",
+   "time": "2026-08-31T18:20:00.000Z",
+   "summary": "华东师范大学俄罗斯研究中心研究员郑润宇对俄罗斯卫星通讯社表示，中俄合作正在成长为全球南方国家的共同力量。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
    "title": "专家：北极争夺已彻底进入世界体系激烈博弈阶段",
    "link": "https://sputniknews.cn/20260901/1072999338.html",
    "source": "卫星社中文",
@@ -3270,6 +3514,16 @@
   }
  ],
  "cn": [
+  {
+   "title": "习近平在埃及媒体发表署名文章",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687580.shtml",
+   "source": "中新网中国",
+   "time": "2026-08-31T21:30:26.000Z",
+   "summary": "新华社开罗9月1日电#8195;9月1日，在赴开罗对埃及进行国事访问之际，国家主席习近平在埃及《金字塔报》、《消息报》、《共和国报》发表题为《风雨同舟七十载，踔厉奋发新征程》的署名文章。文章全文如下：",
+   "regions": [
+    "非洲"
+   ]
+  },
   {
    "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687579.shtml",
@@ -6301,5 +6555,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-08-31T18:04:26.210Z"
+ "updatedAt": "2026-08-31T22:34:20.064Z"
 }
