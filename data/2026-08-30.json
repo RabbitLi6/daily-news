@@ -210,6 +210,14 @@
    "regions": []
   },
   {
+   "title": "Termexo V0.6.0 发布：新增任务看板，OpenCode 升级为一等 Agent",
+   "link": "https://www.oschina.net/news/502204",
+   "source": "开源中国",
+   "time": "2026-08-30T15:02:13.000Z",
+   "summary": "Termexo 是一个 MIT 开源、仅在本地运行的 Windows AI 编程工作台，通过真实 PTY 统一管理 Claude Code、Codex、OpenCode 以及多个并行终端。V0.6.0 已发布。 本次更新 OpenCode …",
+   "regions": []
+  },
+  {
    "title": "R 星谈《GTA6》游戏驾驶手感：保留《GTA4》最优秀部分，兼顾 5 代易上手",
    "link": "https://www.ithome.com/0/996/248.htm",
    "source": "IT之家",
@@ -271,6 +279,14 @@
    "source": "IT之家",
    "time": "2026-08-30T14:05:56.000Z",
    "summary": "IT之家 8 月 30 日消息，据游戏媒体 EuroGamer 今天报道，V社 12TB 游戏开发数据近日泄露。这些文件时间跨度从 2003 年至 2013 年，不少玩家希望从中找到早已被砍的《半衰期 2：第三章》。 X 平台用户 Gabe…",
+   "regions": []
+  },
+  {
+   "title": "Go Agent 框架 Covonaut v1.1.0 发布：Markdown 与代码高亮全面升级",
+   "link": "https://www.oschina.net/news/502203",
+   "source": "开源中国",
+   "time": "2026-08-30T14:02:09.000Z",
+   "summary": "关于 Covonaut Covonaut 是面向生产环境的 Go Agent 框架，纯 Go 实现、MIT 协议开源。覆盖 Agent 开发的完整链路：Agent Loop（含上下文自动压缩、指数退避重试）、工具系统、多 Agent 交接、…",
    "regions": []
   },
   {
@@ -378,11 +394,27 @@
    "regions": []
   },
   {
+   "title": "QFO v1.0.1：面向量化新手的本地 A 股研究与回测平台",
+   "link": "https://www.oschina.net/news/502202",
+   "source": "开源中国",
+   "time": "2026-08-30T11:44:35.000Z",
+   "summary": "QFO v1.0.1 已发布。 QFO 是一个免费开源、本地运行的 A 股量化研究与回测平台，面向希望系统学习量化投资的新手。项目以 Windows 本地环境为主，将数据同步、资产筛选、因子研究、策略回测、组合优化、风险分析和可视化整合为一…",
+   "regions": []
+  },
+  {
    "title": "消息称小米 14 Pro 手机官方电池升级为 5140mAh，提升 260mAh",
    "link": "https://www.ithome.com/0/996/223.htm",
    "source": "IT之家",
    "time": "2026-08-30T11:42:17.000Z",
    "summary": "IT之家 8 月 30 日消息，博主 @体验more 今日透露，小米 14 Pro 官方电池升级为 5140mAh（额定 5000mAh）， 提升了 260mAh 。 小米官方此前表示，普通换新是更换同规格新电池， 电池升级是在原有基础上再…",
+   "regions": []
+  },
+  {
+   "title": "AI 开发的一个安全优先的编程工具",
+   "link": "https://www.oschina.net/news/502201",
+   "source": "开源中国",
+   "time": "2026-08-30T11:37:16.000Z",
+   "summary": "一个被忽视的安全隐患 2024 年，AI 编程工具已经从\"尝鲜玩具\"变成了开发者的日常生产力引擎。Cursor、Copilot、Windsurf……越来越多的开发者把整段代码、配置文件、甚至 .env 丢给 AI 来分析和修改。 但你有没有…",
    "regions": []
   },
   {
@@ -4881,5 +4913,5 @@
    ]
   }
  ],
- "updatedAt": "2026-08-31T00:05:15.024Z"
+ "updatedAt": "2026-08-31T00:34:17.519Z"
 }
