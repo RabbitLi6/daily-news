@@ -290,6 +290,14 @@
    "regions": []
   },
   {
+   "title": "轻量级运维极速引擎 OpsFlash v0.4.0 正式发布",
+   "link": "https://www.oschina.net/news/502230",
+   "source": "开源中国",
+   "time": "2026-08-31T14:35:55.000Z",
+   "summary": "OpsFlash v0.4.0 版本发布： 新增 Redis / MySQL / TDengine 数据库执行能力： 连接管理：新增三种数据库类型（默认端口 6379 / 3306 / 6041），创建/编辑弹窗可一键测试连通性，指令库目标…",
+   "regions": []
+  },
+  {
    "title": "腾讯 QQ 鸿蒙版 App 获 9.2.60 正式版升级，好友聊天支持发送闪照",
    "link": "https://www.ithome.com/0/996/666.htm",
    "source": "IT之家",
@@ -343,6 +351,14 @@
    "source": "IT之家",
    "time": "2026-08-31T13:50:22.000Z",
    "summary": "IT之家 8 月 31 日消息，华硕现已在海外市场推出新款 Zenbook A14（UX3480QA）笔记本。新品搭载高通骁龙 X 处理器，配备 OLED 屏幕和 50Wh 电池， 最长续航可达 30 小时 。 据介绍，这款笔记本搭载 14…",
+   "regions": []
+  },
+  {
+   "title": "全能型 covo-agent v0.1.0 发布：流式输出与 TUI 使用同一套渲染引擎",
+   "link": "https://www.oschina.net/news/502228",
+   "source": "开源中国",
+   "time": "2026-08-31T13:38:54.000Z",
+   "summary": "关于 covo-agent covo-agent 是基于 covonaut 框架开发的运行在终端里的通用型 AI Agent，提供 general 与 code 两种工作模式，覆盖日常知识工作、软件开发、自动化、持久上下文管理与外部系统协作…",
    "regions": []
   },
   {
@@ -1940,6 +1956,14 @@
    ]
   },
   {
+   "title": "Nepal mudslide death toll rises to 974",
+   "link": "https://news.cgtn.com/news/2026-09-01/news-1Q4Hc6QZSBq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T23:51:29.000Z",
+   "summary": "Nepal mudslide death toll rises to 974",
+   "regions": []
+  },
+  {
    "title": "德国8月通胀率升至2.9%",
    "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687589.shtml",
    "source": "中新网国际",
@@ -2168,6 +2192,14 @@
    ]
   },
   {
+   "title": "Trump renames Lake Ontario to ‘Lake America’",
+   "link": "https://newsus.cgtn.com/news/2026-09-01/Trump-renames-Lake-Ontario-to-Lake-America--1Q4ywGEAIms/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T21:53:56.000Z",
+   "summary": "Trump renames Lake Ontario to ‘Lake America’",
+   "regions": []
+  },
+  {
    "title": "普京向俄罗斯中小学生、大学生和教师祝贺“知识日”",
    "link": "https://sputniknews.cn/20260901/1073001307.html",
    "source": "卫星社中文",
@@ -2176,6 +2208,38 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "E-Football booms in Latin America",
+   "link": "https://newsus.cgtn.com/news/2026-09-01/E-Football-booms-in-Latin-America-1Q4wqiMTnl6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T21:53:36.000Z",
+   "summary": "E-Football booms in Latin America",
+   "regions": []
+  },
+  {
+   "title": "US and Venezuela reach oil deal",
+   "link": "https://newsus.cgtn.com/news/2026-09-01/US-and-Venezuela-reach-oil-deal-1Q4wj7LgBKU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T21:53:15.000Z",
+   "summary": "US and Venezuela reach oil deal",
+   "regions": []
+  },
+  {
+   "title": "Jeffrey Sachs retraces Marco Polo's journey around the world",
+   "link": "https://newsus.cgtn.com/news/2026-09-01/Jeffrey-Sachs-retraces-Marco-Polo-s-journey-around-the-world--1Q4r7lwXKuY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T21:52:49.000Z",
+   "summary": "Jeffrey Sachs retraces Marco Polo's journey around the world",
+   "regions": []
+  },
+  {
+   "title": "Five years since the US withdrawal from Afghanistan",
+   "link": "https://newsus.cgtn.com/news/2026-09-01/Five-years-since-the-US-withdrawal-from-Afghanistan-1Q4up8MEEzC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T21:52:22.000Z",
+   "summary": "Five years since the US withdrawal from Afghanistan",
+   "regions": []
   },
   {
    "title": "【地震 M4.4】South Sandwich Islands region",
@@ -2482,6 +2546,14 @@
    ]
   },
   {
+   "title": "Chinese premier chairs State Council executive meeting",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-premier-chairs-State-Council-executive-meeting-1Q44VUDGwh2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T15:37:58.000Z",
+   "summary": "Chinese Premier Li Qiang chaired a State Council executive meeting in Beijing on Monday.",
+   "regions": []
+  },
+  {
    "title": "普京：俄罗斯正在为结束乌克兰冲突付出努力",
    "link": "https://sputniknews.cn/20260831/1072998991.html",
    "source": "卫星社中文",
@@ -2522,6 +2594,14 @@
    ]
   },
   {
+   "title": "After heartwarming China trip, Ronald Sakolsky has message for America",
+   "link": "https://news.cgtn.com/news/2026-08-31/After-heartwarming-China-trip-Ronald-Sakolsky-has-message-for-America-1Q3XuV7YntK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T14:53:13.000Z",
+   "summary": "After heartwarming China trip, Ronald Sakolsky has message for America",
+   "regions": []
+  },
+  {
    "title": "习近平会见俄罗斯总统普京",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687564.shtml",
    "source": "中新网滚动",
@@ -2531,6 +2611,22 @@
     "俄乌",
     "上海"
    ]
+  },
+  {
+   "title": "China deepens trade and investment ties with SCO members",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-deepens-trade-and-investment-ties-with-SCO-members-1Q3Hqjjv6xi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T14:46:54.000Z",
+   "summary": "China deepens trade and investment ties with SCO members",
+   "regions": []
+  },
+  {
+   "title": "China sends 50 tonnes of relief supplies to Kathmandu",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-sends-50-tonnes-of-relief-supplies-to-Kathmandu-1Q3RjJJVOo0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T14:45:03.000Z",
+   "summary": "China sends 50 tonnes of relief supplies to Kathmandu",
+   "regions": []
   },
   {
    "title": "普京向中国西藏自治区泥石流遇难者家属表示慰问",
@@ -2560,6 +2656,14 @@
     "俄乌",
     "上海"
    ]
+  },
+  {
+   "title": "Peng Liyuan calls for deeper China-Kyrgyzstan cultural exchanges",
+   "link": "https://news.cgtn.com/news/2026-08-31/Peng-Liyuan-calls-for-deeper-China-Kyrgyzstan-cultural-exchanges-1Q3X1kQDQSk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T14:27:39.000Z",
+   "summary": "Over the years, China-Kyrgyzstan people-to-people exchanges have become an important pillar of bilateral relations. The …",
+   "regions": []
   },
   {
    "title": "“友谊之桥”培训项目助力柬埔寨新能源汽车技术人才培养",
@@ -2613,6 +2717,14 @@
    ]
   },
   {
+   "title": "APEC China Year gains momentum as 3rd SOM concludes in Dalian",
+   "link": "https://news.cgtn.com/news/2026-08-31/APEC-China-Year-gains-momentum-as-3rd-SOM-concludes-in-Dalian-1Q3YScSyWgE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T14:05:02.000Z",
+   "summary": "The third Senior Officials' Meeting of the Asia-Pacific Economic Cooperation (APEC) China concluded in Dalian, northeast…",
+   "regions": []
+  },
+  {
    "title": "普京：俄中伙伴关系是国家间关系的典范",
    "link": "https://sputniknews.cn/20260831/1072998042.html",
    "source": "卫星社中文",
@@ -2641,6 +2753,22 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "How China-Kyrgyzstan 'golden' ties deliver for both nations and beyond",
+   "link": "https://news.cgtn.com/news/2026-08-31/How-China-Kyrgyzstan-golden-ties-deliver-for-both-nations-and-beyond-1Q3Uaj6u7Yc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T13:37:23.000Z",
+   "summary": "Chinese President Xi Jinping said Monday that China stands ready to work with Kyrgyzstan to better align development str…",
+   "regions": []
+  },
+  {
+   "title": "Nepal says about 590 foreign nationals still missing after landslide",
+   "link": "https://news.cgtn.com/news/2026-08-31/Nepal-says-about-590-foreign-nationals-still-missing-after-landslide-1Q3UuqXGjKM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T13:35:09.000Z",
+   "summary": "About 590 foreign nationals from 39 countries and regions are still missing after the deadly mudslide in Nepal as per th…",
+   "regions": []
   },
   {
    "title": "特朗普宣布将“狠狠打击”伊朗，并称“一定会有回应”",
@@ -2672,6 +2800,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "China's top political advisor meets Austrian parliament president",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-s-top-political-advisor-meets-Austrian-parliament-president-1Q3VZAvEjnO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T13:13:17.000Z",
+   "summary": "Wang Huning, chairman of the National Committee of the Chinese People's Political Consultative Conference (CPPCC), met w…",
+   "regions": []
   },
   {
    "title": "“沙德尔”残涡加强为热带低压 海南拉响多个警报",
@@ -2717,6 +2853,14 @@
    ]
   },
   {
+   "title": "Egypt and China: 70 years of trust and partnership shaping the future",
+   "link": "https://news.cgtn.com/news/2026-08-31/Egypt-and-China-70-years-of-trust-and-partnership-shaping-the-future-1Q3NyBK1m6Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T12:40:10.000Z",
+   "summary": "Chinese President Xi Jinping's upcoming visit to Cairo represents far more than another milestone in Egyptian-Chinese re…",
+   "regions": []
+  },
+  {
    "title": "以色列将在希腊打造价值30亿欧元的多层导弹防御系统",
    "link": "https://sputniknews.cn/20260831/1072996676.html",
    "source": "卫星社中文",
@@ -2758,6 +2902,14 @@
    ]
   },
   {
+   "title": "China urges Japan to severely punish intruder into Chinese embassy",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-urges-Japan-to-severely-punish-intruder-into-Chinese-embassy-1Q3QFCNoS2s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T12:06:12.000Z",
+   "summary": "China on Monday urged Japan to severely punish a member of the Japanese Self-Defense Forces who broke into the Chinese E…",
+   "regions": []
+  },
+  {
    "title": "普京与习近平在比什凯克举行会晤",
    "link": "https://sputniknews.cn/20260831/1072996871.html",
    "source": "卫星社中文",
@@ -2766,6 +2918,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Chinese President Xi Jinping meets Russian president",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-President-Xi-Jinping-meets-Russian-president-1Q3REKppHoY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T12:03:06.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that, under his and Russian President Vladimir Putin's strategic guidance an…",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】4 km SSW of Añasco, Puerto Rico",
@@ -2795,6 +2955,14 @@
    "regions": []
   },
   {
+   "title": "What the world can learn from China's 'whole-system' approach",
+   "link": "https://news.cgtn.com/news/2026-08-31/What-the-world-can-learn-from-China-s-whole-system-approach-1Q3FQNEdEEU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T11:54:23.000Z",
+   "summary": "What the world can learn from China's 'whole-system' approach",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.7】3 km NW of Yanacancha, Peru",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y",
    "source": "USGS地震台网",
@@ -2814,6 +2982,22 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Peng Liyuan visits Kyrgyz national historical museum",
+   "link": "https://news.cgtn.com/news/2026-08-31/Peng-Liyuan-visits-Kyrgyz-national-historical-museum-1Q3MOlIr5Ti/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T11:48:53.000Z",
+   "summary": "Peng Liyuan, wife of Chinese President Xi Jinping, and Aigul Japarova, wife of Kyrgyz President Sadyr Japarov, visited t…",
+   "regions": []
+  },
+  {
+   "title": "Xi: China 'hand in hand' along path of modernization with Mongolia",
+   "link": "https://news.cgtn.com/news/2026-08-31/Xi-meets-Mongolian-president-1Q3OuoFv6kU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T11:47:22.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that China is ready to work with Mongolia to foster more areas of growth for…",
+   "regions": []
   },
   {
    "title": "阿联酋：必须找到伊朗危机的可持续解决方案",
@@ -2844,6 +3028,22 @@
    ]
   },
   {
+   "title": "Before-and-after images reveal Gyirong Port reduced to rubble",
+   "link": "https://news.cgtn.com/news/2026-08-31/Before-and-after-images-reveal-Gyirong-Port-reduced-to-rubble-1Q3BheCBxDi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T11:22:46.000Z",
+   "summary": "Before-and-after images reveal Gyirong Port reduced to rubble",
+   "regions": []
+  },
+  {
+   "title": "Afghans navigate economic hardship and educational losses",
+   "link": "https://news.cgtn.com/news/2026-08-31/Afghans-navigate-economic-hardship-and-educational-losses-1Q2hq7PgSeQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T11:17:12.000Z",
+   "summary": "Afghans navigate economic hardship and educational losses",
+   "regions": []
+  },
+  {
    "title": "俄对外情报局：欧盟在俄选举之前实施扰乱局势的策略",
    "link": "https://sputniknews.cn/20260831/1072995886.html",
    "source": "卫星社中文",
@@ -2855,6 +3055,14 @@
    ]
   },
   {
+   "title": "Chinese culture finds new fans in Kyrgyzstan",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-culture-finds-new-fans-in-Kyrgyzstan-1Q3M1B0jJWU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T11:13:32.000Z",
+   "summary": "Chinese culture finds new fans in Kyrgyzstan",
+   "regions": []
+  },
+  {
    "title": "韩警方决定公开中国留学生遇害案嫌疑人身份",
    "link": "https://www.chinanews.com.cn/gj/2026/08-31/10687394.shtml",
    "source": "中新网国际",
@@ -2863,6 +3071,14 @@
    "regions": [
     "朝鲜半岛"
    ]
+  },
+  {
+   "title": "Afghanistan sees signs of economic recovery amid challenges",
+   "link": "https://news.cgtn.com/news/2026-08-31/Afghanistan-sees-signs-of-economic-recovery-amid-challenges-1Q2b6Bfw7ra/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T11:10:41.000Z",
+   "summary": "Afghanistan sees signs of economic recovery amid challenges",
+   "regions": []
   },
   {
    "title": "俄罗斯总统普京抵达比什凯克，参加上合组织峰会",
@@ -2893,6 +3109,22 @@
    "regions": [
     "中东"
    ]
+  },
+  {
+   "title": "Afghanistan struggles with massive returnee influx",
+   "link": "https://news.cgtn.com/news/2026-08-31/Afghanistan-struggles-with-massive-returnee-influx-1Q1ZkuJ18aI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T11:07:46.000Z",
+   "summary": "Afghanistan struggles with massive returnee influx",
+   "regions": []
+  },
+  {
+   "title": "Chinese President Xi Jinping meets Uzbek president in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-President-Xi-Jinping-meets-Uzbek-president-in-Bishkek-1Q3MiXd1pUA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T11:06:13.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that China stands ready to work with Uzbekistan to usher in a new \"golden de…",
+   "regions": []
   },
   {
    "title": "【地震 M3.0】22 km SSW of La Quinta, CA",
@@ -2937,6 +3169,14 @@
    ]
   },
   {
+   "title": "590 foreign nationals missing, 390 rescued in Nepal mudslide",
+   "link": "https://news.cgtn.com/news/2026-08-31/news-1Q3LZVnARSE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T10:31:06.000Z",
+   "summary": "590 foreign nationals missing, 390 rescued in Nepal mudslide",
+   "regions": []
+  },
+  {
    "title": "耶路撒冷牧首希望作为调解人与普京和泽连斯基会面",
    "link": "https://sputniknews.cn/20260831/1072995482.html",
    "source": "卫星社中文",
@@ -2979,6 +3219,22 @@
    ]
   },
   {
+   "title": "Chinese Foreign Ministry rebukes false remarks about cause of mudslide",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-Foreign-Ministry-rebukes-false-remarks-about-cause-of-mudslide-1Q3Bck8YybK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T09:44:15.000Z",
+   "summary": "A spokesperson for the Chinese Foreign Ministry said on Monday that experts and official agencies from China and Nepal h…",
+   "regions": []
+  },
+  {
+   "title": "China expresses condolences over passing of Norway's King Harald V",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-expresses-condolences-over-passing-of-Norway-s-King-Harald-V-1Q3Hmtxk51u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T09:40:32.000Z",
+   "summary": "China expresses deep condolences over the passing of Norway's King Harald V and extends its sincere sympathies to the No…",
+   "regions": []
+  },
+  {
    "title": "俄国防部：乌军一天在特别军事行动中损失约1375名军人",
    "link": "https://sputniknews.cn/20260831/1072994998.html",
    "source": "卫星社中文",
@@ -2987,6 +3243,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "32 Kenyan families to receive $87.3 million from Boeing",
+   "link": "https://newsaf.cgtn.com/news/2026-08-31/32-Kenyan-families-to-receive-87-3-million-from-Boeing-1Q3wVDuDjG0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T09:27:23.000Z",
+   "summary": "The law firm said the 32 Kenyan families would collectively receive $87,343,352.60, an average of about $2.73 million pe…",
+   "regions": []
   },
   {
    "title": "【地震 M4.6】28 km ESE of Kuril’sk, Russia",
@@ -2998,6 +3262,14 @@
     "俄罗斯",
     "俄乌"
    ]
+  },
+  {
+   "title": "Why is the SCO solution for global governance drawing wide attention?",
+   "link": "https://news.cgtn.com/news/2026-08-31/Why-is-the-SCO-solution-for-global-governance-drawing-wide-attention--1Q3DZ0GAALe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T09:17:56.000Z",
+   "summary": "Why is the SCO solution for global governance drawing wide attention?",
+   "regions": []
   },
   {
    "title": "【地震 M3.3】48 km W of Mentone, Texas",
@@ -3113,11 +3385,27 @@
    ]
   },
   {
+   "title": "How China-Kyrgyzstan ties have grown by leaps and bounds",
+   "link": "https://news.cgtn.com/news/2026-08-31/How-China-Kyrgyzstan-ties-have-grown-by-leaps-and-bounds-1Q3B20UBdYI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T08:43:27.000Z",
+   "summary": "How China-Kyrgyzstan ties have grown by leaps and bounds",
+   "regions": []
+  },
+  {
    "title": "吉尔吉斯斯坦外长：中吉乌铁路项目将成为吉方经济发展引擎之一",
    "link": "https://sputniknews.cn/20260831/1072994438.html",
    "source": "卫星社中文",
    "time": "2026-08-31T08:42:38.000Z",
    "summary": "8月31日，在吉尔吉斯斯坦总统萨德尔·扎帕罗夫与中国国家主席习近平会晤后，吉尔吉斯斯坦外交部长热恩别克·库鲁巴耶夫向记者表示，该国希望中吉乌铁路项目将成为数十年内该国经济的引擎之一。",
+   "regions": []
+  },
+  {
+   "title": "Progress in restoring road access to Gyirong Port",
+   "link": "https://news.cgtn.com/news/2026-08-31/Progress-in-restoring-road-access-to-Gyirong-Port-1Q1FwKUvfTG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T08:40:09.000Z",
+   "summary": "Progress in restoring road access to Gyirong Port",
    "regions": []
   },
   {
@@ -3151,6 +3439,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "Death toll from Nepal's mudslide rises to 919",
+   "link": "https://news.cgtn.com/news/2026-08-31/news-1Q3D3SY4in6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T08:26:03.000Z",
+   "summary": "The death toll from Nepal's mudslide has risen to 919 as of 1 p.m. local time, according to Nepal's police on Monday.",
+   "regions": []
   },
   {
    "title": "朝中社：美国更加露骨地表现出敌对意图，朝鲜将坚决应对",
@@ -3228,6 +3524,14 @@
    ]
   },
   {
+   "title": "Rescuers push deeper into mudslide-hit area at China-Nepal border",
+   "link": "https://news.cgtn.com/news/2026-08-31/Rescuers-push-deeper-into-mudslide-hit-area-at-China-Nepal-border-1Q3tmFWxoWs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T07:43:05.000Z",
+   "summary": "Rescuers are racing to search for survivors after a devastating mudslide, triggered by an ice-rock avalanche in Nepal, h…",
+   "regions": []
+  },
+  {
    "title": "俄副外长：俄乌战俘交换人道主义渠道已取得实际成果",
    "link": "https://sputniknews.cn/20260831/1072993468.html",
    "source": "卫星社中文",
@@ -3266,6 +3570,22 @@
    ]
   },
   {
+   "title": "Beyond the Scars: Reclaim life beyond disability",
+   "link": "https://newsaf.cgtn.com/news/2026-08-31/Beyond-the-Scars-Reclaim-life-beyond-disability-1Q2kOhB7MZ2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T07:08:30.000Z",
+   "summary": "In Maiduguri, where years of armed conflict have left communities grappling with injury, displacement and disrupted live…",
+   "regions": []
+  },
+  {
+   "title": "Xi says China ready to align development strategies with Kyrgyzstan",
+   "link": "https://news.cgtn.com/news/2026-08-31/Xi-says-China-ready-to-align-development-strategies-with-Kyrgyzstan-1Q3weZbNxvO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T07:02:25.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that China stands ready to work with Kyrgyzstan to better align development …",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.1】2 km SW of Hato Candal, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530423",
    "source": "USGS地震台网",
@@ -3275,6 +3595,14 @@
     "波多黎各",
     "拉美"
    ]
+  },
+  {
+   "title": "Inside a Luban Workshop in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-08-31/Inside-a-Luban-Workshop-in-Bishkek-1Q3tuJvZ8ek/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T06:33:43.000Z",
+   "summary": "Inside a Luban Workshop in Bishkek",
+   "regions": []
   },
   {
    "title": "俄外交部：乌克兰武装分子杀害外国雇佣兵",
@@ -3295,6 +3623,22 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Xi, Japarov sign treaty on good-neighborliness and cooperation",
+   "link": "https://news.cgtn.com/news/2026-08-31/Xi-Japarov-sign-treaty-on-good-neighborliness-and-cooperation-1Q3rdHGCM2Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T06:13:05.000Z",
+   "summary": "Chinese President Xi Jinping and Kyrgyz President Sadyr Japarov on Monday signed a bilateral treaty on permanent good-ne…",
+   "regions": []
+  },
+  {
+   "title": "Chinese, Kyrgyz presidents witness exchange of cooperation documents",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-Kyrgyz-presidents-witness-exchange-of-cooperation-documents-1Q3plpAvMCA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T06:07:56.000Z",
+   "summary": "Chinese, Kyrgyz presidents witness exchange of cooperation documents",
+   "regions": []
   },
   {
    "title": "特朗普发布人工智能生成的攻击伊朗哈尔克岛视频",
@@ -3374,6 +3718,22 @@
     "朝鲜半岛",
     "美洲"
    ]
+  },
+  {
+   "title": "China-Kyrgyzstan solar cooperation boosts green development",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-Kyrgyzstan-solar-cooperation-boosts-green-development-1Q3jP3q8QOk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T05:18:04.000Z",
+   "summary": "China and Kyrgyzstan have shared close cooperation across a range of fields, from trade and investment to infrastructure…",
+   "regions": []
+  },
+  {
+   "title": "Xi: China making every effort to search for people missing in mudslide",
+   "link": "https://news.cgtn.com/news/2026-08-31/Xi-China-making-every-effort-to-search-for-missing-people-in-mudslide-1Q3nmSm5LgI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T05:09:52.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that China is making every effort to search for Chinese and foreign national…",
+   "regions": []
   },
   {
    "title": "“中国始终发挥着积极、建设性作用”",
@@ -3457,6 +3817,14 @@
    "source": "中新网滚动",
    "time": "2026-08-31T04:42:50.000Z",
    "summary": "据尼泊尔国家减少灾害风险管理局公布的数据，截至当地时间8月31日9时，尼泊尔泥石流灾害造成的遇难人数升至903人，失联人数为4247人。(央视新闻客户端 总台记者 石玥)",
+   "regions": []
+  },
+  {
+   "title": "903 dead and 4,247 missing in Nepal mudslide, disaster authority says",
+   "link": "https://news.cgtn.com/news/2026-08-31/news-1Q3mSA0G5Ow/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-08-31T04:40:21.000Z",
+   "summary": "903 dead and 4,247 missing in Nepal mudslide, disaster authority says",
    "regions": []
   },
   {
@@ -4004,6 +4372,14 @@
    ]
   },
   {
+   "title": "Jeffrey Sachs retraces Marco Polo's journey around the world",
+   "link": "https://newsus.cgtn.com/news/2026-09-01/Jeffrey-Sachs-retraces-Marco-Polo-s-journey-around-the-world--1Q4r7lwXKuY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T21:52:49.000Z",
+   "summary": "Jeffrey Sachs retraces Marco Polo's journey around the world",
+   "regions": []
+  },
+  {
    "title": "习近平在埃及媒体发表署名文章",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687580.shtml",
    "source": "中新网中国",
@@ -4019,6 +4395,14 @@
    "source": "中新网中国",
    "time": "2026-08-31T16:11:32.000Z",
    "summary": "新华社比什凯克8月31日电",
+   "regions": []
+  },
+  {
+   "title": "Chinese premier chairs State Council executive meeting",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-premier-chairs-State-Council-executive-meeting-1Q44VUDGwh2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T15:37:58.000Z",
+   "summary": "Chinese Premier Li Qiang chaired a State Council executive meeting in Beijing on Monday.",
    "regions": []
   },
   {
@@ -4058,6 +4442,14 @@
    ]
   },
   {
+   "title": "Helicopter carries rescuers and supplies into heart of mudslide zone",
+   "link": "https://news.cgtn.com/news/2026-08-31/Helicopter-carries-rescuers-and-supplies-into-heart-of-mudslide-zone-1Q40V6DQjzG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T14:54:33.000Z",
+   "summary": "Helicopter carries rescuers and supplies into heart of mudslide zone",
+   "regions": []
+  },
+  {
    "title": "APAI亚太人工智能青少年科技创新大赛开放报名",
    "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687553.shtml",
    "source": "中新网社会",
@@ -4068,6 +4460,25 @@
    ]
   },
   {
+   "title": "After heartwarming China trip, Ronald Sakolsky has message for America",
+   "link": "https://news.cgtn.com/news/2026-08-31/After-heartwarming-China-trip-Ronald-Sakolsky-has-message-for-America-1Q3XuV7YntK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T14:53:13.000Z",
+   "summary": "After heartwarming China trip, Ronald Sakolsky has message for America",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Why reopening the road to Gyirong Port is so difficult",
+   "link": "https://news.cgtn.com/news/2026-08-31/Why-reopening-the-road-to-Gyirong-Port-is-so-difficult-1Q2pG84aG5O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T14:47:41.000Z",
+   "summary": "Why reopening the road to Gyirong Port is so difficult",
+   "regions": []
+  },
+  {
    "title": "习近平会见俄罗斯总统普京",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687564.shtml",
    "source": "中新网中国",
@@ -4076,6 +4487,17 @@
    "regions": [
     "俄乌",
     "上海"
+   ]
+  },
+  {
+   "title": "China sends 50 tonnes of relief supplies to Kathmandu",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-sends-50-tonnes-of-relief-supplies-to-Kathmandu-1Q3RjJJVOo0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T14:45:03.000Z",
+   "summary": "China sends 50 tonnes of relief supplies to Kathmandu",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4097,6 +4519,14 @@
    ]
   },
   {
+   "title": "Zhejiang protects its pomelo crop from extreme weather",
+   "link": "https://news.cgtn.com/news/2026-08-31/Zhejiang-protects-its-pomelo-crop-from-extreme-weather-1Q3NbzM3xjq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T14:40:20.000Z",
+   "summary": "Zhejiang protects its pomelo crop from extreme weather",
+   "regions": []
+  },
+  {
    "title": "习近平会见蒙古国总统呼日勒苏赫",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687560.shtml",
    "source": "中新网中国",
@@ -4112,6 +4542,14 @@
    "source": "中新网中国",
    "time": "2026-08-31T14:36:45.000Z",
    "summary": "8月30日，移民管理抢险救援突击队队员们携带生命探测仪、无人机、卫星电话、急救药品、攀登绳、脱困板等装备联合消防救援队伍搭乘军用直升机抵达吉隆口岸受灾核心区，在口岸联检大楼附近就地开展地毯式搜救。",
+   "regions": []
+  },
+  {
+   "title": "Marching on: From barriers to bridges",
+   "link": "https://news.cgtn.com/news/2026-08-31/Marching-on-From-barriers-to-bridges-1Q41Dwzfu7u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T14:35:59.000Z",
+   "summary": "Marching on: From barriers to bridges",
    "regions": []
   },
   {
@@ -4239,6 +4677,17 @@
    ]
   },
   {
+   "title": "Buddhist ceremony held to pray for people affected by mudslide",
+   "link": "https://news.cgtn.com/news/2026-08-31/Buddhist-ceremony-held-to-pray-for-people-affected-by-mudslide-1Q3QzkTE7Ha/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T14:16:31.000Z",
+   "summary": "Panchen Erdeni Chos-kyi rGyal-po presided over a Buddhist ceremony at Tashilhunpo Monastery in Xigaze, southwest China's…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "成都警方破获一起非法猎捕、收购、运输、出售陆生野生动物案",
    "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687543.shtml",
    "source": "中新网社会",
@@ -4287,6 +4736,18 @@
    "summary": "中新社北京8月31日电 (记者 郭超凯 曾玥)中国外交部发言人郭嘉昆8月31日在例行记者会上表示，泥石流灾害发生后，中方同尼方就人员搜救、信息共享、防止次生灾害等保持顺畅沟通。",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "APEC China Year gains momentum as 3rd SOM concludes in Dalian",
+   "link": "https://news.cgtn.com/news/2026-08-31/APEC-China-Year-gains-momentum-as-3rd-SOM-concludes-in-Dalian-1Q3YScSyWgE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T14:05:02.000Z",
+   "summary": "The third Senior Officials' Meeting of the Asia-Pacific Economic Cooperation (APEC) China concluded in Dalian, northeast…",
+   "regions": [
+    "中国",
+    "亚太",
+    "太平洋"
    ]
   },
   {
@@ -4349,6 +4810,19 @@
    "summary": "中新网上海8月31日电 (记者 陈静)记者31日获悉，暑运期间(7月1日-8月31日)上海浦东国际机场口岸出入境人员总数达670万人次，日均近11万人次，口岸客流持续高位运行。同期，虹桥国际机场亦有62.8万人次出入境。",
    "regions": [
     "上海"
+   ]
+  },
+  {
+   "title": "How China-Kyrgyzstan 'golden' ties deliver for both nations and beyond",
+   "link": "https://news.cgtn.com/news/2026-08-31/How-China-Kyrgyzstan-golden-ties-deliver-for-both-nations-and-beyond-1Q3Uaj6u7Yc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T13:37:23.000Z",
+   "summary": "Chinese President Xi Jinping said Monday that China stands ready to work with Kyrgyzstan to better align development str…",
+   "regions": [
+    "中国",
+    "亚太",
+    "吉尔吉斯斯坦",
+    "欧洲"
    ]
   },
   {
@@ -4509,6 +4983,19 @@
    ]
   },
   {
+   "title": "China's top political advisor meets Austrian parliament president",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-s-top-political-advisor-meets-Austrian-parliament-president-1Q3VZAvEjnO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T13:13:17.000Z",
+   "summary": "Wang Huning, chairman of the National Committee of the Chinese People's Political Consultative Conference (CPPCC), met w…",
+   "regions": [
+    "中国",
+    "亚太",
+    "奥地利",
+    "欧洲"
+   ]
+  },
+  {
    "title": "广西梧州加快推进农业农村现代化：产业活水涌 乡韵入画来",
    "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687443.shtml",
    "source": "中新网社会",
@@ -4593,6 +5080,19 @@
    ]
   },
   {
+   "title": "Egypt and China: 70 years of trust and partnership shaping the future",
+   "link": "https://news.cgtn.com/news/2026-08-31/Egypt-and-China-70-years-of-trust-and-partnership-shaping-the-future-1Q3NyBK1m6Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T12:40:10.000Z",
+   "summary": "Chinese President Xi Jinping's upcoming visit to Cairo represents far more than another milestone in Egyptian-Chinese re…",
+   "regions": [
+    "中国",
+    "亚太",
+    "埃及",
+    "非洲"
+   ]
+  },
+  {
    "title": "陈东任芜湖市代市长",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687452.shtml",
    "source": "中新网中国",
@@ -4654,6 +5154,29 @@
    ]
   },
   {
+   "title": "China urges Japan to severely punish intruder into Chinese embassy",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-urges-Japan-to-severely-punish-intruder-into-Chinese-embassy-1Q3QFCNoS2s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T12:06:12.000Z",
+   "summary": "China on Monday urged Japan to severely punish a member of the Japanese Self-Defense Forces who broke into the Chinese E…",
+   "regions": [
+    "日本",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "Chinese President Xi Jinping meets Russian president",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-President-Xi-Jinping-meets-Russian-president-1Q3REKppHoY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T12:03:06.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that, under his and Russian President Vladimir Putin's strategic guidance an…",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
    "title": "江苏省委常委、组织部部长刘建洋接受审查调查",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687437.shtml",
    "source": "中新网中国",
@@ -4682,6 +5205,17 @@
    "regions": []
   },
   {
+   "title": "What the world can learn from China's 'whole-system' approach",
+   "link": "https://news.cgtn.com/news/2026-08-31/What-the-world-can-learn-from-China-s-whole-system-approach-1Q3FQNEdEEU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T11:54:23.000Z",
+   "summary": "What the world can learn from China's 'whole-system' approach",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "多部门依法查处两起涉中医药网络违规营销宣传问题",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687418.shtml",
    "source": "中新网中国",
@@ -4698,6 +5232,18 @@
    "regions": [
     "广州",
     "广东"
+   ]
+  },
+  {
+   "title": "Xi: China 'hand in hand' along path of modernization with Mongolia",
+   "link": "https://news.cgtn.com/news/2026-08-31/Xi-meets-Mongolian-president-1Q3OuoFv6kU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T11:47:22.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that China is ready to work with Mongolia to foster more areas of growth for…",
+   "regions": [
+    "中国",
+    "亚太",
+    "蒙古"
    ]
   },
   {
@@ -4792,6 +5338,14 @@
    ]
   },
   {
+   "title": "Before-and-after images reveal Gyirong Port reduced to rubble",
+   "link": "https://news.cgtn.com/news/2026-08-31/Before-and-after-images-reveal-Gyirong-Port-reduced-to-rubble-1Q3BheCBxDi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T11:22:46.000Z",
+   "summary": "Before-and-after images reveal Gyirong Port reduced to rubble",
+   "regions": []
+  },
+  {
    "title": "刘海星会见奥地利国民议会议长罗森克兰茨",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687405.shtml",
    "source": "中新网中国",
@@ -4849,6 +5403,19 @@
    "regions": []
   },
   {
+   "title": "Chinese President Xi Jinping meets Uzbek president in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-President-Xi-Jinping-meets-Uzbek-president-in-Bishkek-1Q3MiXd1pUA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T11:06:13.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that China stands ready to work with Uzbekistan to usher in a new \"golden de…",
+   "regions": [
+    "中国",
+    "亚太",
+    "乌兹别克斯坦",
+    "欧洲"
+   ]
+  },
+  {
    "title": "西藏公布多起涉吉隆泥石流灾害网络谣言典型案例",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687371.shtml",
    "source": "中新网中国",
@@ -4900,6 +5467,18 @@
    ]
   },
   {
+   "title": "Chinese Foreign Ministry rebukes false remarks about cause of mudslide",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-Foreign-Ministry-rebukes-false-remarks-about-cause-of-mudslide-1Q3Bck8YybK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T09:44:15.000Z",
+   "summary": "A spokesperson for the Chinese Foreign Ministry said on Monday that experts and official agencies from China and Nepal h…",
+   "regions": [
+    "尼泊尔",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "1300万次海外播放量背后：成都小伙把一段巴蜀夏夜写成了歌",
    "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687344.shtml",
    "source": "中新网社会",
@@ -4920,6 +5499,19 @@
    ]
   },
   {
+   "title": "China expresses condolences over passing of Norway's King Harald V",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-expresses-condolences-over-passing-of-Norway-s-King-Harald-V-1Q3Hmtxk51u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T09:40:32.000Z",
+   "summary": "China expresses deep condolences over the passing of Norway's King Harald V and extends its sincere sympathies to the No…",
+   "regions": [
+    "中国",
+    "亚太",
+    "挪威",
+    "欧洲"
+   ]
+  },
+  {
    "title": "“AI+人力资源服务”创新创意大赛总决赛在苏州举办",
    "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687340.shtml",
    "source": "中新网社会",
@@ -4928,6 +5520,17 @@
    "regions": [
     "苏州",
     "江苏"
+   ]
+  },
+  {
+   "title": "Xi Jinping's article on Party self-governance to be published",
+   "link": "https://news.cgtn.com/news/2026-08-31/Xi-Jinping-s-article-on-Party-self-governance-to-be-published-1Q3z5nQHH2g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T09:30:10.000Z",
+   "summary": "An article by Xi Jinping, general secretary of the Communist Party of China (CPC) Central Committee, on the Party's self…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4954,6 +5557,14 @@
    "source": "中新网中国",
    "time": "2026-08-31T09:23:26.000Z",
    "summary": "",
+   "regions": []
+  },
+  {
+   "title": "Why is the SCO solution for global governance drawing wide attention?",
+   "link": "https://news.cgtn.com/news/2026-08-31/Why-is-the-SCO-solution-for-global-governance-drawing-wide-attention--1Q3DZ0GAALe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T09:17:56.000Z",
+   "summary": "Why is the SCO solution for global governance drawing wide attention?",
    "regions": []
   },
   {
@@ -5017,6 +5628,19 @@
    "regions": [
     "乌鲁木齐",
     "陕西"
+   ]
+  },
+  {
+   "title": "Hussein Fahmy reflects on China's remarkable transformation",
+   "link": "https://news.cgtn.com/news/2026-08-31/Hussein-Fahmy-reflects-on-China-s-remarkable-transformation-1Q3zxARQqf6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T09:01:29.000Z",
+   "summary": "As China and Egypt celebrate 70 years of diplomatic relations in 2026, Hussein Fahmy, president of the Cairo Internation…",
+   "regions": [
+    "中国",
+    "亚太",
+    "埃及",
+    "非洲"
    ]
   },
   {
@@ -5121,6 +5745,19 @@
    ]
   },
   {
+   "title": "How China-Kyrgyzstan ties have grown by leaps and bounds",
+   "link": "https://news.cgtn.com/news/2026-08-31/How-China-Kyrgyzstan-ties-have-grown-by-leaps-and-bounds-1Q3B20UBdYI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T08:43:27.000Z",
+   "summary": "How China-Kyrgyzstan ties have grown by leaps and bounds",
+   "regions": [
+    "中国",
+    "亚太",
+    "吉尔吉斯斯坦",
+    "欧洲"
+   ]
+  },
+  {
    "title": "中国羽毛球协会原副主席兼秘书长王伟接受监察调查",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687299.shtml",
    "source": "中新网中国",
@@ -5141,6 +5778,14 @@
     "南通",
     "江苏"
    ]
+  },
+  {
+   "title": "Tokens: the new fuel powering AI?",
+   "link": "https://news.cgtn.com/news/2026-08-31/Tokens-the-new-fuel-powering-AI--1Q2tKEko9KU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T08:39:18.000Z",
+   "summary": "Tokens: the new fuel powering AI?",
+   "regions": []
   },
   {
    "title": "一图速览《中国新电商发展报告（2026）》",
@@ -5321,6 +5966,18 @@
    ]
   },
   {
+   "title": "Rescuers push deeper into mudslide-hit area at China-Nepal border",
+   "link": "https://news.cgtn.com/news/2026-08-31/Rescuers-push-deeper-into-mudslide-hit-area-at-China-Nepal-border-1Q3tmFWxoWs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T07:43:05.000Z",
+   "summary": "Rescuers are racing to search for survivors after a devastating mudslide, triggered by an ice-rock avalanche in Nepal, h…",
+   "regions": [
+    "尼泊尔",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "擅闯中国使馆的日本自卫队官员村田晃大已被解职 中方回应",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687253.shtml",
    "source": "中新网中国",
@@ -5398,6 +6055,19 @@
    "regions": []
   },
   {
+   "title": "Xi says China ready to align development strategies with Kyrgyzstan",
+   "link": "https://news.cgtn.com/news/2026-08-31/Xi-says-China-ready-to-align-development-strategies-with-Kyrgyzstan-1Q3weZbNxvO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T07:02:25.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that China stands ready to work with Kyrgyzstan to better align development …",
+   "regions": [
+    "中国",
+    "亚太",
+    "吉尔吉斯斯坦",
+    "欧洲"
+   ]
+  },
+  {
    "title": "花200元当主演，横店拯救“竖店”",
    "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687220.shtml",
    "source": "中新网社会",
@@ -5428,6 +6098,22 @@
    ]
   },
   {
+   "title": "Xi, Japarov sign treaty on good-neighborliness and cooperation",
+   "link": "https://news.cgtn.com/news/2026-08-31/Xi-Japarov-sign-treaty-on-good-neighborliness-and-cooperation-1Q3rdHGCM2Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T06:13:05.000Z",
+   "summary": "Chinese President Xi Jinping and Kyrgyz President Sadyr Japarov on Monday signed a bilateral treaty on permanent good-ne…",
+   "regions": []
+  },
+  {
+   "title": "Chinese, Kyrgyz presidents witness exchange of cooperation documents",
+   "link": "https://news.cgtn.com/news/2026-08-31/Chinese-Kyrgyz-presidents-witness-exchange-of-cooperation-documents-1Q3plpAvMCA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T06:07:56.000Z",
+   "summary": "Chinese, Kyrgyz presidents witness exchange of cooperation documents",
+   "regions": []
+  },
+  {
    "title": "平陆运河带来新港口 云南剥隘古渡期待新“船”奇",
    "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687192.shtml",
    "source": "中新网社会",
@@ -5455,6 +6141,14 @@
    "regions": [
     "拉美"
    ]
+  },
+  {
+   "title": "SCO Tianjin Summit one year on: Digital cooperation in numbers",
+   "link": "https://news.cgtn.com/news/2026-08-31/SCO-Tianjin-Summit-one-year-on-Digital-cooperation-in-numbers-1Q3oMq3d32M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T05:17:42.000Z",
+   "summary": "SCO Tianjin Summit one year on: Digital cooperation in numbers",
+   "regions": []
   },
   {
    "title": "因违法占地破坏耕地、非法采矿等，5地被通报",
@@ -5524,6 +6218,27 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "Xi, Japarov chart new course for China-Kyrgyzstan ties",
+   "link": "https://news.cgtn.com/news/2026-08-31/President-Xi-holds-talks-with-Kyrgyz-president-1Q3loYtFE7C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T04:33:27.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that China stands ready to work with Kyrgyzstan to better align development …",
+   "regions": [
+    "中国",
+    "亚太",
+    "吉尔吉斯斯坦",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "President Xi attends welcome ceremony held by Kyrgyz president",
+   "link": "https://news.cgtn.com/news/2026-08-31/President-Xi-attends-welcome-ceremony-held-by-Kyrgyz-president-1Q3kIbq6Ple/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T04:22:27.000Z",
+   "summary": "President Xi attends welcome ceremony held by Kyrgyz president",
+   "regions": []
   },
   {
    "title": "国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈",
@@ -5658,6 +6373,14 @@
     "南通",
     "江苏"
    ]
+  },
+  {
+   "title": "2026 SCO Forum on People-to-People Exchange held in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-08-31/2026-SCO-Forum-on-People-to-People-Exchange-held-in-Bishkek-1Q3bcSLveFy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T03:28:15.000Z",
+   "summary": "The 2026 Shanghai Cooperation Organization (SCO) Forum on People-to-People Exchange was held in Bishkek on Sunday.",
+   "regions": []
   },
   {
    "title": "从“接诉即办”到“未诉先办”——一场12345热线改革背后的民生答卷",
@@ -6057,6 +6780,17 @@
    ]
   },
   {
+   "title": "China deepens trade and investment ties with SCO members",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-deepens-trade-and-investment-ties-with-SCO-members-1Q3Hqjjv6xi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T14:46:54.000Z",
+   "summary": "China deepens trade and investment ties with SCO members",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "长三角持续深化协同创新（活力中国调研行）",
    "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687566.shtml",
    "source": "中新网中国",
@@ -6089,6 +6823,19 @@
    "regions": [
     "海口",
     "海南"
+   ]
+  },
+  {
+   "title": "Peng Liyuan calls for deeper China-Kyrgyzstan cultural exchanges",
+   "link": "https://news.cgtn.com/news/2026-08-31/Peng-Liyuan-calls-for-deeper-China-Kyrgyzstan-cultural-exchanges-1Q3X1kQDQSk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T14:27:39.000Z",
+   "summary": "Over the years, China-Kyrgyzstan people-to-people exchanges have become an important pillar of bilateral relations. The …",
+   "regions": [
+    "中国",
+    "亚太",
+    "吉尔吉斯斯坦",
+    "欧洲"
    ]
   },
   {
@@ -6351,6 +7098,14 @@
    "source": "中新网财经",
    "time": "2026-08-31T11:59:05.000Z",
    "summary": "中新网济南8月31日电 (记者 孙婷婷)山东锚定农业强省建设目标，将观赏鱼产业作为乡村富民特色产业、休闲渔业核心增长极重点培育，探索走出一条“产业规模化、品牌特色化、融合多元化”的创新发展道路。目前，该省观赏鱼年产量超7亿尾，年产值超20亿…",
+   "regions": []
+  },
+  {
+   "title": "Peng Liyuan visits Kyrgyz national historical museum",
+   "link": "https://news.cgtn.com/news/2026-08-31/Peng-Liyuan-visits-Kyrgyz-national-historical-museum-1Q3MOlIr5Ti/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T11:48:53.000Z",
+   "summary": "Peng Liyuan, wife of Chinese President Xi Jinping, and Aigul Japarova, wife of Kyrgyz President Sadyr Japarov, visited t…",
    "regions": []
   },
   {
@@ -6808,6 +7563,19 @@
    "regions": []
   },
   {
+   "title": "China-Kyrgyzstan solar cooperation boosts green development",
+   "link": "https://news.cgtn.com/news/2026-08-31/China-Kyrgyzstan-solar-cooperation-boosts-green-development-1Q3jP3q8QOk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-08-31T05:18:04.000Z",
+   "summary": "China and Kyrgyzstan have shared close cooperation across a range of fields, from trade and investment to infrastructure…",
+   "regions": [
+    "中国",
+    "亚太",
+    "吉尔吉斯斯坦",
+    "欧洲"
+   ]
+  },
+  {
    "title": "科学家与企业家面对面 浙江“一张圆桌”加速医疗器械成果转化",
    "link": "https://www.chinanews.com.cn/txy/2026/08-31/10687156.shtml",
    "source": "中新网滚动",
@@ -7096,5 +7864,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-01T00:44:42.942Z"
+ "updatedAt": "2026-09-01T05:07:04.927Z"
 }
