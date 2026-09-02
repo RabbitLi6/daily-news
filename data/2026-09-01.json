@@ -10,6 +10,14 @@
    "regions": []
   },
   {
+   "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+   "link": "https://sspai.com/post/114093",
+   "source": "少数派",
+   "time": "2026-09-01T23:58:40.000Z",
+   "summary": "索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。 查看全文",
+   "regions": []
+  },
+  {
    "title": "雷蛇灵猫 Razer Prio 可折叠游戏手柄发布：支持 7 英寸内手机，国行 799 元",
    "link": "https://www.ithome.com/0/997/209.htm",
    "source": "IT之家",
@@ -138,6 +146,14 @@
    "regions": []
   },
   {
+   "title": "免费可商用 PHP 管理后台 CatchAdmin V5.4.0 发布，新增短信服务能力",
+   "link": "https://www.oschina.net/news/502261",
+   "source": "开源中国",
+   "time": "2026-09-01T22:22:15.000Z",
+   "summary": "免费可商用 PHP 管理后台 CatchAdmin V5.4.0 发布，新增短信服务能力 介绍 CatchAdmin 是一款基于 Laravel 13.x 和 Vue 3 二次开发的开源 PHP 后台管理系统，采用前后端分离架构，面向企业级…",
+   "regions": []
+  },
+  {
    "title": "戴尔 2027 财年半年报归母净利润 75.71 亿美元，同比增长 256%",
    "link": "https://www.ithome.com/0/997/191.htm",
    "source": "IT之家",
@@ -250,6 +266,14 @@
    "regions": []
   },
   {
+   "title": "轻量级运维极速引擎 OpsFlash v0.4.1 正式发布",
+   "link": "https://www.oschina.net/news/502260",
+   "source": "开源中国",
+   "time": "2026-09-01T14:28:12.000Z",
+   "summary": "OpsFlash v0.4.1 版本发布： 修复 SSH 非交互指令执行后不结束：命令衍生的后台进程持有 PTY 时 sshd 不发 EOF，Wait() 永久阻塞导致一直显示「运行中」；结束判定改为「Wait 返回 或 输出静默 10s」…",
+   "regions": []
+  },
+  {
    "title": "Sonos 一口气推出两款全新硬件：Beam Ultra 回音壁、Ace Ultra 头戴式耳机",
    "link": "https://www.ithome.com/0/997/168.htm",
    "source": "IT之家",
@@ -271,6 +295,14 @@
    "source": "IT之家",
    "time": "2026-09-01T14:11:17.000Z",
    "summary": "IT之家 9 月 1 日消息，英伟达官方今天发布 DLSS 5 技术， 首发支持游戏有《NBA 2K27》 ， 支持所有 RTX 50 系显卡的笔记本和台式电脑 ，以及 GeForce NOW 云游戏平台。 据悉，《NBA 2K27》由 V…",
+   "regions": []
+  },
+  {
+   "title": "WIKI 知识库 v1.1.1 正式发布",
+   "link": "https://www.oschina.net/news/502259",
+   "source": "开源中国",
+   "time": "2026-09-01T14:06:18.000Z",
+   "summary": "这个功能有什么作用 调整了 top_k、更换了 embedding 或修改了分片参数之后，检索到底是变好了还是变差了？本功能把这件事做成可重复、看得见的流程： 命令行跑评测（python -m src.eval.cli）：用固定内容逐题调用…",
    "regions": []
   },
   {
@@ -431,6 +463,14 @@
    "source": "IT之家",
    "time": "2026-09-01T12:32:50.000Z",
    "summary": "IT之家 9 月 1 日消息，群创光电 (InnoLux) 今日首次对外发布 Chip Last 型 FOPLP（扇出型面板级封装）。 该技术平台预计于 2027 年下半年投入量产 ，积极切入 AI / HPC 次世代先进封装供应链。 ▲ …",
+   "regions": []
+  },
+  {
+   "title": "wastnet 反向代理实战：一个端口统一托管前端与后端 API",
+   "link": "https://www.oschina.net/news/502258",
+   "source": "开源中国",
+   "time": "2026-09-01T12:29:57.000Z",
+   "summary": "wastnet 反向代理实战：一个端口统一托管前端与后端 API wastnet 是一款零依赖、自研的 Java Web 服务器，核心基于 JDK 原生 NIO 构建 Reactor 多路复用模型，不依赖 Netty、Tomcat 等任何第…",
    "regions": []
   },
   {
@@ -1974,6 +2014,17 @@
    ]
   },
   {
+   "title": "【地震 M4.6】Mid-Indian Ridge",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhg",
+   "source": "USGS地震台网",
+   "time": "2026-09-01T23:45:23.937Z",
+   "summary": "美国地质调查局官方监测：Mid-Indian Ridge发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "印度",
+    "亚太"
+   ]
+  },
+  {
    "title": "李强：中方愿推动解决美国来华企业的合理诉求，也希望美方相向而行",
    "link": "https://sputniknews.cn/20260902/1073023041.html",
    "source": "卫星社中文",
@@ -2104,6 +2155,17 @@
    ]
   },
   {
+   "title": "【地震 M4.3】25 km ESE of Miyazaki, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhc",
+   "source": "USGS地震台网",
+   "time": "2026-09-01T23:24:38.832Z",
+   "summary": "美国地质调查局官方监测：25 km ESE of Miyazaki, Japan发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
    "title": "普京：上合组织扩员取决于常任成员国的决定",
    "link": "https://sputniknews.cn/20260902/1073022300.html",
    "source": "卫星社中文",
@@ -2123,6 +2185,14 @@
     "中东",
     "美洲"
    ]
+  },
+  {
+   "title": "G20 finance ministers wrap up meeting in US state of North Carolina",
+   "link": "https://newsus.cgtn.com/news/2026-09-02/G20-finance-ministers-wrap-up-meeting-in-US-state-of-North-Carolina-1Q6jasvJImQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T23:11:19.000Z",
+   "summary": "G20 finance ministers wrap up meeting in US state of North Carolina",
+   "regions": []
   },
   {
    "title": "普京：乌克兰问题谈判进程目前处于冻结状态",
@@ -2178,6 +2248,17 @@
    ]
   },
   {
+   "title": "【地震 M4.7】Mid-Indian Ridge",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdh4",
+   "source": "USGS地震台网",
+   "time": "2026-09-01T22:42:09.463Z",
+   "summary": "美国地质调查局官方监测：Mid-Indian Ridge发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "印度",
+    "亚太"
+   ]
+  },
+  {
    "title": "美军再袭伊朗 伊朗称击落一架美军MQ-9无人机",
    "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688362.shtml",
    "source": "中新网国际",
@@ -2197,6 +2278,17 @@
    "regions": [
     "印度",
     "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】93 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rioloi",
+   "source": "USGS地震台网",
+   "time": "2026-09-01T22:33:15.685Z",
+   "summary": "美国地质调查局官方监测：93 km SSW of Nikolski, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -2229,6 +2321,25 @@
    "time": "2026-09-01T22:17:35.000Z",
    "summary": "央视记者获悉，当地时间9月1日，美国国会众议院通过一项联邦政府临时拨款法案，以避免10月1日发生政府“停摆”，并将法案送交美国总统特朗普签署。",
    "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "Over 260,000 Canadians sign petition to remove US Ambassador Hoekstra",
+   "link": "https://newsus.cgtn.com/news/2026-09-02/Over-260-000-Canadians-sign-petition-to-remove-US-Ambassador-Hoekstra-1Q67A0AR74k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T20:52:29.000Z",
+   "summary": "Over 260,000 Canadians sign petition to remove US Ambassador Hoekstra",
+   "regions": []
+  },
+  {
+   "title": "【地震 M4.4】92 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rikxms",
+   "source": "USGS地震台网",
+   "time": "2026-09-01T20:47:15.261Z",
+   "summary": "美国地质调查局官方监测：92 km SSW of Nikolski, Alaska发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
     "美洲"
    ]
   },
@@ -2287,6 +2398,17 @@
    ]
   },
   {
+   "title": "【地震 M3.1】92 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rigtom",
+   "source": "USGS地震台网",
+   "time": "2026-09-01T18:42:50.515Z",
+   "summary": "美国地质调查局官方监测：92 km SSW of Nikolski, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M5.0】118 km SSE of Isangel, Vanuatu",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdey",
    "source": "USGS地震台网",
@@ -2295,6 +2417,17 @@
    "regions": [
     "瓦努阿图",
     "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】88 km E of King Salmon, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rigmiv",
+   "source": "USGS地震台网",
+   "time": "2026-09-01T18:34:25.907Z",
+   "summary": "美国地质调查局官方监测：88 km E of King Salmon, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -2340,6 +2473,30 @@
    ]
   },
   {
+   "title": "Zambia's president Hakainde Hichilema sworn in for second term",
+   "link": "https://newsaf.cgtn.com/news/2026-09-02/Zambia-s-president-Hakainde-Hichilema-sworn-in-for-second-term-1Q5BqsNxxeg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T18:11:32.000Z",
+   "summary": "Hakainde Hichilema has been sworn in for a second five-year term as Zambia's president.",
+   "regions": []
+  },
+  {
+   "title": "Africa Food Systems Forum opens in Rwanda",
+   "link": "https://newsaf.cgtn.com/news/2026-09-02/Africa-Food-Systems-Forum-opens-in-Rwanda-1Q5jvDunAyI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T18:04:53.000Z",
+   "summary": "The Africa Food Systems Forum has opened in Rwanda's capital, Kigali, bringing together policymakers, farmers, investors…",
+   "regions": []
+  },
+  {
+   "title": "Tourists stranded, hikers missing after Grand Canyon flood",
+   "link": "https://newsus.cgtn.com/news/2026-09-02/Tourists-stranded-hikers-missing-after-Grand-Canyon-flood-1Q5VYrKhTnq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T17:56:55.000Z",
+   "summary": "Tourists stranded, hikers missing after Grand Canyon flood",
+   "regions": []
+  },
+  {
    "title": "贝森特称美中在伊朗问题上共识多于分歧",
    "link": "https://sputniknews.cn/20260902/1073021152.html",
    "source": "卫星社中文",
@@ -2371,6 +2528,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Faces of Africa - Kibera Connected",
+   "link": "https://newsaf.cgtn.com/news/2026-09-02/Faces-of-Africa-Kibera-Connected-1Q5PauIpRF6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T17:35:18.000Z",
+   "summary": "Kibera is well known as one of the largest slums in Africa – a unique ecosystem within the Kenyan capital of Nairobi. Ki…",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】2 km WSW of Pāhala, Hawaii",
@@ -2415,6 +2580,14 @@
    ]
   },
   {
+   "title": "Africa in pictures: Grand Egyptian Museum preserves Egypt's heritage",
+   "link": "https://newsaf.cgtn.com/news/2026-09-02/Africa-in-pictures-Grand-Egyptian-Museum-preserves-Egypt-s-heritage-1Q5GJGx3vcA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T17:16:38.000Z",
+   "summary": "The Grand Egyptian Museum near the Giza pyramids houses thousands of ancient Egyptian artefacts spanning thousands of ye…",
+   "regions": []
+  },
+  {
    "title": "习近平抵达开罗对埃及进行国事访问",
    "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688350.shtml",
    "source": "中新网滚动",
@@ -2423,6 +2596,14 @@
    "regions": [
     "非洲"
    ]
+  },
+  {
+   "title": "Canadians react to new US tariffs",
+   "link": "https://newsus.cgtn.com/news/2026-09-02/Canadians-react-to-new-US-tariffs-1Q5T13AuVPi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T17:07:12.000Z",
+   "summary": "Canadians react to new US tariffs",
+   "regions": []
   },
   {
    "title": "新华图讯｜习近平抵达埃及首都开罗",
@@ -2467,6 +2648,17 @@
    ]
   },
   {
+   "title": "【地震 M3.2】113 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ridast",
+   "source": "USGS地震台网",
+   "time": "2026-09-01T16:50:59.475Z",
+   "summary": "美国地质调查局官方监测：113 km SSW of Nikolski, Alaska发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "欧盟外交与安全政策高级代表：欧盟尚未找到可用于移交给乌克兰的过期导弹",
    "link": "https://sputniknews.cn/20260902/1073020814.html",
    "source": "卫星社中文",
@@ -2488,6 +2680,14 @@
    ]
   },
   {
+   "title": "President Xi Jinping arrives in Cairo for state visit to Egypt",
+   "link": "https://news.cgtn.com/news/2026-09-02/President-Xi-Jinping-arrives-in-Cairo-for-state-visit-to-Egypt-1Q5Ou8HRbiM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T16:01:07.000Z",
+   "summary": "Chinese President Xi Jinping arrived in Cairo on Tuesday for a state visit to Egypt.",
+   "regions": []
+  },
+  {
    "title": "“莫斯科技术城”经济特区入驻企业在华展会上展示研发成果",
    "link": "https://sputniknews.cn/20260901/1073020696.html",
    "source": "卫星社中文",
@@ -2496,6 +2696,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "SCO adopts declaration on nuclear safety partnership",
+   "link": "https://news.cgtn.com/news/2026-09-01/SCO-adopts-declaration-on-nuclear-safety-partnership-1Q5M6RRhLAA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T15:57:59.000Z",
+   "summary": "SCO adopts declaration on nuclear safety partnership",
+   "regions": []
   },
   {
    "title": "媒体：美国陆军部长辞职是五角大楼严重机能失调的新标志",
@@ -2635,6 +2843,14 @@
    ]
   },
   {
+   "title": "Xi Jinping's key quotes at the 'SCO Plus' meeting in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-09-01/Xi-Jinping-s-key-quotes-at-the-SCO-Plus-meeting-in-Bishkek-1Q5Fnf9srew/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T14:27:30.000Z",
+   "summary": "Xi Jinping's key quotes at the 'SCO Plus' meeting in Bishkek",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.6】12 km SW of Falls City, Texas",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rfeetf",
    "source": "USGS地震台网",
@@ -2704,6 +2920,22 @@
    ]
   },
   {
+   "title": "Chinese premier meets delegation of US-China Business Council",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-to-work-to-address-reasonable-concerns-of-US-companies-premier-1Q5w3D8v8ek/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T13:55:50.000Z",
+   "summary": "Chinese premier meets delegation of US-China Business Council",
+   "regions": []
+  },
+  {
+   "title": "How SCO opens up opportunities for regional development as it turns 25",
+   "link": "https://news.cgtn.com/news/2026-09-01/How-SCO-opens-up-opportunities-for-regional-development-as-it-turns-25-1Q5x5WHsoyk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T13:49:24.000Z",
+   "summary": "Over the past 25 years, the SCO has evolved into a major regional cooperation platform. Its economic cooperation is shif…",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.6】84 km SSW of Nikolski, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbt",
    "source": "USGS地震台网",
@@ -2725,6 +2957,14 @@
    ]
   },
   {
+   "title": "Full text of Xi Jinping's speech at 'SCO Plus' meeting",
+   "link": "https://news.cgtn.com/news/2026-09-01/Full-text-of-Xi-Jinping-s-speech-at-SCO-Plus-meeting-1Q5wa1QUBiM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T13:40:52.000Z",
+   "summary": "Full text of Xi Jinping's speech at 'SCO Plus' meeting",
+   "regions": []
+  },
+  {
    "title": "普京：俄罗斯与伊朗经贸关系保持着去年发展势头",
    "link": "https://sputniknews.cn/20260901/1073019482.html",
    "source": "卫星社中文",
@@ -2734,6 +2974,14 @@
     "中东",
     "俄乌"
    ]
+  },
+  {
+   "title": "Xi Jinping's key quotes on promoting higher-quality development of SCO",
+   "link": "https://news.cgtn.com/news/2026-09-01/Xi-Jinping-s-key-quotes-on-promoting-higher-quality-development-of-SCO-1Q5nL6gIjvi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T13:29:23.000Z",
+   "summary": "Chinese President Xi Jinping's key quotes from his speech at the 26th Meeting of the Council of Heads of State of the Sh…",
+   "regions": []
   },
   {
    "title": "研究显示近五年来英国已关闭6500家工业企业",
@@ -2766,6 +3014,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "China sends second relief shipment to Nepal, deploys DNA experts",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-sends-second-relief-shipment-to-Nepal-deploys-DNA-experts-1Q5fXijxq5W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T13:13:07.000Z",
+   "summary": "China sends second relief shipment to Nepal, deploys DNA experts",
+   "regions": []
   },
   {
    "title": "俄卫星通讯社关注埃及方面在开罗筹备习近平主席时隔十年再次访埃的相关工作",
@@ -2916,6 +3172,14 @@
    "regions": []
   },
   {
+   "title": "Xi leaves Kyrgyzstan after SCO summit, state visit",
+   "link": "https://news.cgtn.com/news/2026-09-01/Xi-leaves-Kyrgyzstan-after-SCO-summit-state-visit-1Q5uEEiVfXy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T11:49:35.000Z",
+   "summary": "Xi leaves Kyrgyzstan after SCO summit, state visit",
+   "regions": []
+  },
+  {
    "title": "上合声音：凝聚合作共识，共创发展未来",
    "link": "https://www.chinanews.com.cn/gj/2026/09-01/10688119.shtml",
    "source": "中新网国际",
@@ -2998,6 +3262,14 @@
    ]
   },
   {
+   "title": "UN supports call for slavery reparations",
+   "link": "https://newsaf.cgtn.com/news/2026-09-01/UN-supports-call-for-slavery-reparations-1Q5ow36k1Uc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T10:31:35.000Z",
+   "summary": "The UN Committee against Racial Discrimination (CERD) said the legacy of slavery continues to contribute to racial dispa…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.8】90 km SSW of Nikolski, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhqekp",
    "source": "USGS地震台网",
@@ -3009,6 +3281,30 @@
    ]
   },
   {
+   "title": "Peng Liyuan attends event for spouses of leaders during SCO summit",
+   "link": "https://news.cgtn.com/news/2026-09-01/Peng-Liyuan-attends-event-for-spouses-of-leaders-during-SCO-summit-1Q5nfFp7dra/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T10:25:08.000Z",
+   "summary": "Peng Liyuan, wife of Chinese President Xi Jinping, attended on Tuesday morning an event organized by Aigul Japarova, wif…",
+   "regions": []
+  },
+  {
+   "title": "Full text: Xi's speech at 26th SCO Council of Heads of State meeting",
+   "link": "https://news.cgtn.com/news/2026-09-01/Full-text-Xi-s-speech-at-26th-SCO-Council-of-Heads-of-State-meeting-1Q5lwXbx7FK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T10:24:08.000Z",
+   "summary": "Full text: Xi's speech at 26th SCO Council of Heads of State meeting",
+   "regions": []
+  },
+  {
+   "title": "From initiative to action: One year of Global Governance Initiative",
+   "link": "https://news.cgtn.com/news/2026-09-01/From-initiative-to-action-One-year-of-Global-Governance-Initiative-1Q5cABn2wRG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T10:23:40.000Z",
+   "summary": "From initiative to action: One year of Global Governance Initiative",
+   "regions": []
+  },
+  {
    "title": "习近平：一个更加团结、更有活力的上合组织完全能够为推进世界多极化贡献更大力量",
    "link": "https://sputniknews.cn/20260901/1073017931.html",
    "source": "卫星社中文",
@@ -3017,6 +3313,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "UN raises alarm on Sudan violence as 22,000 displaced in a week",
+   "link": "https://newsaf.cgtn.com/news/2026-09-01/UN-raises-alarm-on-Sudan-violence-as-22-000-displaced-in-a-week-1Q5cUc8PFF6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T10:17:58.000Z",
+   "summary": "Local authorities say nearly 22,000 people may have fled Gisan locality over the past week as fighting intensified.",
+   "regions": []
   },
   {
    "title": "普京：联合国的潜力尚未充分释放，关键在于着力提升其效能",
@@ -3090,6 +3394,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "China says its lawful rights, interests in Venezuela must be protected",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-says-its-lawful-rights-interests-in-Venezuela-must-be-protected-1Q5h6ToUfAI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T09:31:49.000Z",
+   "summary": "Chinese Foreign Ministry spokesperson Guo Jiakun said on Tuesday that China's lawful rights and interests in Venezuela m…",
+   "regions": []
   },
   {
    "title": "普京：世界对上合组织事务的关注不断增加",
@@ -3220,6 +3532,14 @@
    ]
   },
   {
+   "title": "Xi calls on SCO to work toward more just, equitable global governance",
+   "link": "https://news.cgtn.com/news/2026-09-01/President-Xi-Jinping-delivers-speech-at-SCO-Plus-meeting-1Q5j1djRrG0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T08:41:09.000Z",
+   "summary": "Chinese President Xi Jinping on Tuesday called on the Shanghai Cooperation Organization (SCO) to shoulder the responsibi…",
+   "regions": []
+  },
+  {
    "title": "【灾害警报】Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.",
    "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1562918",
    "source": "GDACS灾害监测",
@@ -3327,6 +3647,14 @@
    "regions": []
   },
   {
+   "title": "President Xi Jinping attends 'SCO Plus' meeting in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-09-01/President-Xi-Jinping-attends-SCO-Plus-meeting-in-Bishkek-1Q5hGWIBzXi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T08:22:37.000Z",
+   "summary": "President Xi Jinping attends 'SCO Plus' meeting in Bishkek",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.6】82 km SE of Maba, Indonesia",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
    "source": "USGS地震台网",
@@ -3357,6 +3685,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "SCO's ecological partnership: Protecting species, restoring ecosystems",
+   "link": "https://news.cgtn.com/news/2026-09-01/SCO-s-ecological-partnership-Protecting-species-restoring-ecosystems-1Q5cBAwKgnu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T08:16:02.000Z",
+   "summary": "As one of the world's most biodiverse countries and one of the first parties to sign and ratify the Convention on Biolog…",
+   "regions": []
   },
   {
    "title": "中国外交部：中方对尼泊尔第二批援助物资预计今天启运",
@@ -3447,6 +3783,14 @@
     "俄乌",
     "亚太"
    ]
+  },
+  {
+   "title": "Global Governance Initiative gains broad international support",
+   "link": "https://news.cgtn.com/news/2026-09-01/Global-Governance-Initiative-gains-broad-international-support-1Q5bB5UIM8g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T07:47:15.000Z",
+   "summary": "The principles of extensive consultation, joint contribution and shared benefits reflect the aspirations of the internat…",
+   "regions": []
   },
   {
    "title": "【地震 M4.5】90 km SSW of Nikolski, Alaska",
@@ -3620,6 +3964,22 @@
    ]
   },
   {
+   "title": "Nepal expresses gratitude to China for emergency assistance",
+   "link": "https://news.cgtn.com/news/2026-09-01/Nepal-expresses-gratitude-to-China-for-emergency-assistance-1Q4X7mg28yQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T06:58:29.000Z",
+   "summary": "Nepal expresses gratitude to China for emergency assistance",
+   "regions": []
+  },
+  {
+   "title": "Chinese rescuers search mud-filled tunnel in Nepal",
+   "link": "https://news.cgtn.com/news/2026-09-01/Chinese-rescuers-search-mud-filled-tunnel-in-Nepal-1Q4LwExRqvK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T06:56:52.000Z",
+   "summary": "Chinese rescuers search mud-filled tunnel in Nepal",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.2】91 km SSW of Nikolski, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhjffq",
    "source": "USGS地震台网",
@@ -3691,6 +4051,14 @@
    ]
   },
   {
+   "title": "70 years on, China-Egypt ties grow stronger through diverse exchanges",
+   "link": "https://news.cgtn.com/news/2026-09-01/70-years-on-China-Egypt-ties-grow-stronger-through-diverse-exchanges-1Q4G1brFJgA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T06:37:29.000Z",
+   "summary": "China and Egypt are celebrating the 70th anniversary of diplomatic relations this year, with bilateral ties deepening ac…",
+   "regions": []
+  },
+  {
    "title": "普京呼吁上合组织防止军事冲突",
    "link": "https://sputniknews.cn/20260901/1073013976.html",
    "source": "卫星社中文",
@@ -3722,6 +4090,14 @@
    ]
   },
   {
+   "title": "Yang Hansen's layup lifts China past Lebanon in World Cup qualifier",
+   "link": "https://news.cgtn.com/news/2026-09-01/Yang-Hansen-s-layup-lifts-China-past-Lebanon-in-World-Cup-qualifier-1Q4UNHctbWg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T06:05:54.000Z",
+   "summary": "Yang Hansen's layup lifts China past Lebanon in World Cup qualifier",
+   "regions": []
+  },
+  {
    "title": "外媒：尼泊尔泥石流灾害造成的遇难人数升至987人",
    "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687829.shtml",
    "source": "中新网国际",
@@ -3740,6 +4116,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Zheng advances as Shang, Wang bow out in US Open first round",
+   "link": "https://news.cgtn.com/news/2026-09-01/Zheng-advances-as-Shang-Wang-bow-out-in-US-Open-first-round-1Q4TTkgVmNi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T05:44:53.000Z",
+   "summary": "Zheng advances as Shang, Wang bow out in US Open first round",
+   "regions": []
   },
   {
    "title": "俄军夜间打击敖德萨及敖德萨州的港口设施",
@@ -3861,6 +4245,38 @@
    "regions": [
     "非洲"
    ]
+  },
+  {
+   "title": "Road crews hit toughest stretch in Gyirong mudslide rescue",
+   "link": "https://news.cgtn.com/news/2026-09-01/Road-crews-hit-toughest-stretch-in-Gyirong-mudslide-rescue-1Q4Nky5VXzi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T04:21:51.000Z",
+   "summary": "Road clearance crews have pushed to within 1,133 meters of mudslide-hit Gyirong Port in southwest China's Xizang Autonom…",
+   "regions": []
+  },
+  {
+   "title": "Xi puts forward four-point proposal at SCO Bishkek summit",
+   "link": "https://news.cgtn.com/news/2026-09-01/President-Xi-Jinping-delivers-speech-at-SCO-summit-in-Bishkek-1Q4RYNA1jO0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T04:20:05.000Z",
+   "summary": "Chinese President Xi Jinping on Tuesday put forward a four-point proposal at the 26th Meeting of the Council of Heads of…",
+   "regions": []
+  },
+  {
+   "title": "Xi Jinping poses for group photo with SCO leaders in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-09-01/Xi-Jinping-poses-for-group-photo-with-SCO-leaders-in-Bishkek-1Q4TZTzT1M4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T04:13:40.000Z",
+   "summary": "Xi Jinping poses for group photo with SCO leaders in Bishkek",
+   "regions": []
+  },
+  {
+   "title": "President Xi Jinping attends SCO summit in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-09-01/President-Xi-Jinping-attends-SCO-summit-in-Bishkek-1Q4UbHZwcg0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-01T04:06:10.000Z",
+   "summary": "President Xi Jinping attends SCO summit in Bishkek",
+   "regions": []
   },
   {
    "title": "俄总统驻远东联邦区全权代表：我们共同创造全新的远东",
@@ -4661,6 +5077,25 @@
    ]
   },
   {
+   "title": "President Xi Jinping arrives in Cairo for state visit to Egypt",
+   "link": "https://news.cgtn.com/news/2026-09-02/President-Xi-Jinping-arrives-in-Cairo-for-state-visit-to-Egypt-1Q5Ou8HRbiM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T16:01:07.000Z",
+   "summary": "Chinese President Xi Jinping arrived in Cairo on Tuesday for a state visit to Egypt.",
+   "regions": [
+    "埃及",
+    "非洲"
+   ]
+  },
+  {
+   "title": "SCO adopts declaration on nuclear safety partnership",
+   "link": "https://news.cgtn.com/news/2026-09-01/SCO-adopts-declaration-on-nuclear-safety-partnership-1Q5M6RRhLAA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T15:57:59.000Z",
+   "summary": "SCO adopts declaration on nuclear safety partnership",
+   "regions": []
+  },
+  {
    "title": "上海合作组织成员国元首理事会关于加强核安全与核安保多边伙伴关系的宣言",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10688344.shtml",
    "source": "中新网中国",
@@ -4711,6 +5146,17 @@
    ]
   },
   {
+   "title": "Facts and science behind the Nepal mudslide",
+   "link": "https://news.cgtn.com/news/2026-09-01/Facts-and-science-behind-the-Nepal-mudslide-1Q5EL4kWiOI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T15:21:05.000Z",
+   "summary": "Facts and science behind the Nepal mudslide",
+   "regions": [
+    "尼泊尔",
+    "亚太"
+   ]
+  },
+  {
    "title": "河北鸡泽万亩椒田“红”似火 嘉年华里品“热辣”",
    "link": "https://www.chinanews.com.cn/sh/2026/09-01/10688328.shtml",
    "source": "中新网社会",
@@ -4742,6 +5188,22 @@
    ]
   },
   {
+   "title": "CGTN on the Ground: Crews work to reopen key road in Xizang",
+   "link": "https://news.cgtn.com/news/2026-09-01/Excavators-reach-mudslide-hit-border-port-rescue-corridor-nearly-open-1Q5Bun4b3gc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T15:05:46.000Z",
+   "summary": "CGTN on the Ground: Crews work to reopen key road in Xizang",
+   "regions": []
+  },
+  {
+   "title": "How a 3,200-meter elevation drop intensified the devastating mudslide",
+   "link": "https://news.cgtn.com/news/2026-09-01/How-a-3-200-meter-elevation-drop-intensified-the-devastating-mudslide--1Q5Iy9NbeNi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T15:03:10.000Z",
+   "summary": "How a 3,200-meter elevation drop intensified the devastating mudslide",
+   "regions": []
+  },
+  {
    "title": "习言道｜习近平再谈上合“初心”",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10688334.shtml",
    "source": "中新网中国",
@@ -4766,6 +5228,17 @@
    "time": "2026-09-01T14:51:03.000Z",
    "summary": "“大家身体有不舒服的，再让医生检查一下。”",
    "regions": []
+  },
+  {
+   "title": "China's FAST telescope sheds new light on cosmic evolution",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-s-FAST-telescope-sheds-new-light-on-cosmic-evolution-1Q5GTzbnM4M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T14:48:11.000Z",
+   "summary": "China's FAST telescope sheds new light on cosmic evolution",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "全域立体组网 吉隆口岸救援通信实现核心区域全覆盖",
@@ -4860,6 +5333,14 @@
    "regions": []
   },
   {
+   "title": "Xi Jinping's key quotes at the 'SCO Plus' meeting in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-09-01/Xi-Jinping-s-key-quotes-at-the-SCO-Plus-meeting-in-Bishkek-1Q5Fnf9srew/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T14:27:30.000Z",
+   "summary": "Xi Jinping's key quotes at the 'SCO Plus' meeting in Bishkek",
+   "regions": []
+  },
+  {
    "title": "深挖生态禀赋 贵州走出文旅富民新路径",
    "link": "https://www.chinanews.com.cn/sh/2026/09-01/10688313.shtml",
    "source": "中新网社会",
@@ -4867,6 +5348,17 @@
    "summary": "-千年银杏下的避暑“致富经”",
    "regions": [
     "贵州"
+   ]
+  },
+  {
+   "title": "Rocks, gabions transported to restore road to border port in China",
+   "link": "https://news.cgtn.com/news/2026-09-01/Rocks-gabions-transported-to-restore-road-to-border-port-in-China-1Q5BShrrRTy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T14:22:01.000Z",
+   "summary": "Rocks, gabions transported to restore road to border port in China",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4913,6 +5405,14 @@
    ]
   },
   {
+   "title": "Through mud and ruins: The fight to reach mudslide-hit Gyirong Port",
+   "link": "https://news.cgtn.com/news/2026-09-01/Through-mud-and-ruins-The-fight-to-reach-mudslide-hit-Gyirong-Port-1Q5gxHC0VZm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T14:13:44.000Z",
+   "summary": "Through mud and ruins: The fight to reach mudslide-hit Gyirong Port",
+   "regions": []
+  },
+  {
    "title": "第十二届翼装飞行世锦赛9月举行 十国选手决战张家界天门山",
    "link": "https://www.chinanews.com.cn/sh/2026/09-01/10688304.shtml",
    "source": "中新网社会",
@@ -4954,6 +5454,14 @@
     "杭州",
     "浙江"
    ]
+  },
+  {
+   "title": "Why are hundreds of sheep trampling these farmlands?",
+   "link": "https://news.cgtn.com/news/2026-09-01/Why-are-hundreds-of-sheep-trampling-these-farmlands--1Q5BhWStAuQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T14:09:53.000Z",
+   "summary": "Why are hundreds of sheep trampling these farmlands?",
+   "regions": []
   },
   {
    "title": "上海两大国际机场暑运收官 保障进出港旅客2528.1万人次",
@@ -5030,6 +5538,17 @@
    ]
   },
   {
+   "title": "Chinese premier meets delegation of US-China Business Council",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-to-work-to-address-reasonable-concerns-of-US-companies-premier-1Q5w3D8v8ek/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T13:55:50.000Z",
+   "summary": "Chinese premier meets delegation of US-China Business Council",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "上海航天专家解读“风云卫星家族”：下一代更加智能化",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10688289.shtml",
    "source": "中新网中国",
@@ -5060,6 +5579,76 @@
    ]
   },
   {
+   "title": "Full text of Xi Jinping's speech at 'SCO Plus' meeting",
+   "link": "https://news.cgtn.com/news/2026-09-01/Full-text-of-Xi-Jinping-s-speech-at-SCO-Plus-meeting-1Q5wa1QUBiM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T13:40:52.000Z",
+   "summary": "Full text of Xi Jinping's speech at 'SCO Plus' meeting",
+   "regions": []
+  },
+  {
+   "title": "Xi Jinping's key quotes on promoting higher-quality development of SCO",
+   "link": "https://news.cgtn.com/news/2026-09-01/Xi-Jinping-s-key-quotes-on-promoting-higher-quality-development-of-SCO-1Q5nL6gIjvi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T13:29:23.000Z",
+   "summary": "Chinese President Xi Jinping's key quotes from his speech at the 26th Meeting of the Council of Heads of State of the Sh…",
+   "regions": []
+  },
+  {
+   "title": "China sends second relief shipment to Nepal, deploys DNA experts",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-sends-second-relief-shipment-to-Nepal-deploys-DNA-experts-1Q5fXijxq5W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T13:13:07.000Z",
+   "summary": "China sends second relief shipment to Nepal, deploys DNA experts",
+   "regions": [
+    "尼泊尔",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "China sends second batch of aid to Nepal to support mudslide response",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-sends-second-batch-of-aid-to-Nepal-to-support-mudslide-response-1Q5wIRJ07cc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T13:11:51.000Z",
+   "summary": "China sends second batch of aid to Nepal to support mudslide response",
+   "regions": [
+    "尼泊尔",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "Lost in the mountains, found by a drone's heat vision",
+   "link": "https://news.cgtn.com/news/2026-09-01/Lost-in-the-mountains-found-by-a-drone-s-heat-vision--1Q5uDjLCN0s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T13:10:42.000Z",
+   "summary": "Lost in the mountains, found by a drone's heat vision",
+   "regions": []
+  },
+  {
+   "title": "Major copper and gold deposits discovered in eastern China",
+   "link": "https://news.cgtn.com/news/2026-09-01/Major-copper-and-gold-deposits-discovered-in-eastern-China-1Q539r34bTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T13:09:20.000Z",
+   "summary": "Major copper and gold deposits discovered in eastern China",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "How China is making more out of its maps",
+   "link": "https://news.cgtn.com/news/2026-09-01/How-China-is-making-more-out-of-its-maps-1Q2CWjfPJBu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T13:06:03.000Z",
+   "summary": "How China is making more out of its maps",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "国网新源浙江衢江抽水蓄能电站首台机组投产发电",
    "link": "https://www.chinanews.com.cn/cj/2026/09-01/10688129.shtml",
    "source": "中新网滚动",
@@ -5079,6 +5668,14 @@
    "regions": [
     "天津"
    ]
+  },
+  {
+   "title": "SCO digital cooperation: One year in numbers",
+   "link": "https://news.cgtn.com/news/2026-09-01/SCO-digital-cooperation-One-year-in-numbers-1Q5wwM1g0qA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T12:46:01.000Z",
+   "summary": "SCO digital cooperation: One year in numbers",
+   "regions": []
   },
   {
    "title": "距吉隆口岸仅剩700米 中国安能全力抢通G216国道",
@@ -5338,6 +5935,14 @@
    ]
   },
   {
+   "title": "700 meters to go: Rescuers race to reopen highway to mudslide-hit border port in Xizang",
+   "link": "https://news.cgtn.com/news/2026-09-01/700-meters-to-go-Rescuers-race-to-reopen-highway-to-mudslide-hit-border-port-in-Xizang-1Q5uyj3o8iQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T11:57:09.000Z",
+   "summary": "700 meters to go: Rescuers race to reopen highway to mudslide-hit border port in Xizang",
+   "regions": []
+  },
+  {
    "title": "习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10688166.shtml",
    "source": "中新网中国",
@@ -5345,6 +5950,17 @@
    "summary": "中新社比什凯克9月1日电 (记者 郭金超 黄钰钦)当地时间9月1日下午，中国国家主席习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问。",
    "regions": [
     "上海"
+   ]
+  },
+  {
+   "title": "Xi leaves Kyrgyzstan after SCO summit, state visit",
+   "link": "https://news.cgtn.com/news/2026-09-01/Xi-leaves-Kyrgyzstan-after-SCO-summit-state-visit-1Q5uEEiVfXy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T11:49:35.000Z",
+   "summary": "Xi leaves Kyrgyzstan after SCO summit, state visit",
+   "regions": [
+    "吉尔吉斯斯坦",
+    "欧洲"
    ]
   },
   {
@@ -5415,6 +6031,14 @@
    "source": "中新网中国",
    "time": "2026-09-01T11:24:50.000Z",
    "summary": "中新社开罗9月1日电 题：记者手记：在尼罗河畔，感受文明交响",
+   "regions": []
+  },
+  {
+   "title": "Experts: What makes the Gyirong Port rescue so difficult?",
+   "link": "https://news.cgtn.com/news/2026-09-01/Experts-What-makes-the-Gyirong-Port-rescue-so-difficult--1Q5c1GUwWDC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T11:18:19.000Z",
+   "summary": "Experts: What makes the Gyirong Port rescue so difficult?",
    "regions": []
   },
   {
@@ -5591,6 +6215,22 @@
    ]
   },
   {
+   "title": "Full text: Xi's speech at 26th SCO Council of Heads of State meeting",
+   "link": "https://news.cgtn.com/news/2026-09-01/Full-text-Xi-s-speech-at-26th-SCO-Council-of-Heads-of-State-meeting-1Q5lwXbx7FK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T10:24:08.000Z",
+   "summary": "Full text: Xi's speech at 26th SCO Council of Heads of State meeting",
+   "regions": []
+  },
+  {
+   "title": "From initiative to action: One year of Global Governance Initiative",
+   "link": "https://news.cgtn.com/news/2026-09-01/From-initiative-to-action-One-year-of-Global-Governance-Initiative-1Q5cABn2wRG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T10:23:40.000Z",
+   "summary": "From initiative to action: One year of Global Governance Initiative",
+   "regions": []
+  },
+  {
    "title": "恒星形成为何衰减？“中国天眼”联合“国际暗眼”高精度测量宇宙演化",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10688046.shtml",
    "source": "中新网中国",
@@ -5631,6 +6271,19 @@
    ]
   },
   {
+   "title": "China says its lawful rights, interests in Venezuela must be protected",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-says-its-lawful-rights-interests-in-Venezuela-must-be-protected-1Q5h6ToUfAI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T09:31:49.000Z",
+   "summary": "Chinese Foreign Ministry spokesperson Guo Jiakun said on Tuesday that China's lawful rights and interests in Venezuela m…",
+   "regions": [
+    "中国",
+    "亚太",
+    "委内瑞拉",
+    "拉美"
+   ]
+  },
+  {
    "title": "新华图讯丨习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10688038.shtml",
    "source": "中新网中国",
@@ -5656,6 +6309,48 @@
    "source": "中新网社会",
    "time": "2026-09-01T09:01:49.000Z",
    "summary": "中新网9月1日电 人体皮肤合成维生素D，主要依赖太阳紫外线中的UVB。普通窗户玻璃会阻挡大部分UVB，UVA却仍可能穿透部分玻璃。UVA无法帮助合成维生素D，还可能参与皮肤光老化和色素沉着。(来源：@科学辟谣 中国新闻网微博)",
+   "regions": []
+  },
+  {
+   "title": "China's second batch of relief supplies depart for disaster-hit Nepal",
+   "link": "https://news.cgtn.com/news/2026-09-01/In-pic-China-s-second-batch-of-relief-supplies-departs-for-disaster-hit-Nepal-1Q5jYGTVOhO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T08:55:39.000Z",
+   "summary": "China's second batch of relief supplies depart for disaster-hit Nepal",
+   "regions": [
+    "尼泊尔",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "China completes ore carrier with new breakthroughs",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-completes-ore-carrier-with-new-breakthroughs-1Q5a4g60t5S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T08:53:02.000Z",
+   "summary": "China completes ore carrier with new breakthroughs",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China Popcast: China-US international students' hangout",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-Popcast-China-US-international-students-hangout-1Q5hWW7MWI0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T08:51:11.000Z",
+   "summary": "This episode of China Popcast is a hangout where we tap into the life of Chinese people and Americans studying in each o…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "'Qi' chosen as 2026 Belt and Road annual character in Urumqi",
+   "link": "https://news.cgtn.com/news/2026-09-01/-Qi-chosen-as-2026-Belt-and-Road-annual-character-in-Urumqi-1Q5itFvN0uQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T08:48:38.000Z",
+   "summary": "The Chinese character \"Qi\" (齐) has been chosen as the 2026 Belt and Road Annual Character, after emerging from a shortli…",
    "regions": []
   },
   {
@@ -5695,6 +6390,14 @@
    "regions": [
     "西藏"
    ]
+  },
+  {
+   "title": "Xi calls on SCO to work toward more just, equitable global governance",
+   "link": "https://news.cgtn.com/news/2026-09-01/President-Xi-Jinping-delivers-speech-at-SCO-Plus-meeting-1Q5j1djRrG0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T08:41:09.000Z",
+   "summary": "Chinese President Xi Jinping on Tuesday called on the Shanghai Cooperation Organization (SCO) to shoulder the responsibi…",
+   "regions": []
   },
   {
    "title": "重庆忠县成功预警一起危岩垮塌险情 提前转移一户一人",
@@ -5755,6 +6458,14 @@
    "regions": []
   },
   {
+   "title": "President Xi Jinping attends 'SCO Plus' meeting in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-09-01/President-Xi-Jinping-attends-SCO-Plus-meeting-in-Bishkek-1Q5hGWIBzXi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T08:22:37.000Z",
+   "summary": "President Xi Jinping attends 'SCO Plus' meeting in Bishkek",
+   "regions": []
+  },
+  {
    "title": "2026境外媒体看广西采访活动启动",
    "link": "https://www.chinanews.com.cn/sh/2026/09-01/10687979.shtml",
    "source": "中新网社会",
@@ -5795,6 +6506,25 @@
    "summary": "中新网西宁9月1日电 题：全国“辟谣侠”求真之旅走进三江源：揭开高原野生动物救护的网络“迷雾”",
    "regions": [
     "西宁"
+   ]
+  },
+  {
+   "title": "SCO's ecological partnership: Protecting species, restoring ecosystems",
+   "link": "https://news.cgtn.com/news/2026-09-01/SCO-s-ecological-partnership-Protecting-species-restoring-ecosystems-1Q5cBAwKgnu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T08:16:02.000Z",
+   "summary": "As one of the world's most biodiverse countries and one of the first parties to sign and ratify the Convention on Biolog…",
+   "regions": []
+  },
+  {
+   "title": "Barrier lake above mudslide-hit Xizang port fully drained",
+   "link": "https://news.cgtn.com/news/2026-09-01/Barrier-lake-above-mudslide-hit-Xizang-port-fully-drained-1Q5h1f3Vm6I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T08:13:24.000Z",
+   "summary": "The barrier lake formed during the mudslide disaster in Gyirong County of southwest China's Xizang Autonomous Region has…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5895,6 +6625,26 @@
    "summary": "中新网福建连城9月1日电 题：探访福建连城新泉整训纪念馆：追寻长征铁流的“来时路”",
    "regions": [
     "福建"
+   ]
+  },
+  {
+   "title": "Global Governance Initiative gains broad international support",
+   "link": "https://news.cgtn.com/news/2026-09-01/Global-Governance-Initiative-gains-broad-international-support-1Q5bB5UIM8g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T07:47:15.000Z",
+   "summary": "The principles of extensive consultation, joint contribution and shared benefits reflect the aspirations of the internat…",
+   "regions": []
+  },
+  {
+   "title": "China will send second batch of relief supplies to disaster-hit Nepal",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-will-send-second-batch-of-relief-supplies-to-disaster-hit-Nepal-1Q5ds9sOCJO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T07:45:21.000Z",
+   "summary": "China's second batch of relief supplies for Nepal is expected to be shipped today, Chinese Foreign Ministry spokesperson…",
+   "regions": [
+    "尼泊尔",
+    "亚太",
+    "中国"
    ]
   },
   {
@@ -6038,6 +6788,17 @@
    ]
   },
   {
+   "title": "Chinese rescuers search mud-filled tunnel in Nepal",
+   "link": "https://news.cgtn.com/news/2026-09-01/Chinese-rescuers-search-mud-filled-tunnel-in-Nepal-1Q4LwExRqvK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T06:56:52.000Z",
+   "summary": "Chinese rescuers search mud-filled tunnel in Nepal",
+   "regions": [
+    "尼泊尔",
+    "亚太"
+   ]
+  },
+  {
    "title": "（近观中国）从习近平再访“山地之国”，读懂中吉合作之道",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687899.shtml",
    "source": "中新网中国",
@@ -6120,6 +6881,19 @@
    ]
   },
   {
+   "title": "70 years on, China-Egypt ties grow stronger through diverse exchanges",
+   "link": "https://news.cgtn.com/news/2026-09-01/70-years-on-China-Egypt-ties-grow-stronger-through-diverse-exchanges-1Q4G1brFJgA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T06:37:29.000Z",
+   "summary": "China and Egypt are celebrating the 70th anniversary of diplomatic relations this year, with bilateral ties deepening ac…",
+   "regions": [
+    "中国",
+    "亚太",
+    "埃及",
+    "非洲"
+   ]
+  },
+  {
    "title": "中国对尼泊尔第二批援助物资预计今日启运",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687885.shtml",
    "source": "中新网中国",
@@ -6147,6 +6921,19 @@
    "summary": "视频：习近平出席上海合作组织成员国元首理事会第二十六次会议来源：央视新闻客户端",
    "regions": [
     "上海"
+   ]
+  },
+  {
+   "title": "Yang Hansen's layup lifts China past Lebanon in World Cup qualifier",
+   "link": "https://news.cgtn.com/news/2026-09-01/Yang-Hansen-s-layup-lifts-China-past-Lebanon-in-World-Cup-qualifier-1Q4UNHctbWg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T06:05:54.000Z",
+   "summary": "Yang Hansen's layup lifts China past Lebanon in World Cup qualifier",
+   "regions": [
+    "中国",
+    "亚太",
+    "黎巴嫩",
+    "中东"
    ]
   },
   {
@@ -6266,6 +7053,25 @@
    ]
   },
   {
+   "title": "Road crews hit toughest stretch in Gyirong mudslide rescue",
+   "link": "https://news.cgtn.com/news/2026-09-01/Road-crews-hit-toughest-stretch-in-Gyirong-mudslide-rescue-1Q4Nky5VXzi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T04:21:51.000Z",
+   "summary": "Road clearance crews have pushed to within 1,133 meters of mudslide-hit Gyirong Port in southwest China's Xizang Autonom…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Xi puts forward four-point proposal at SCO Bishkek summit",
+   "link": "https://news.cgtn.com/news/2026-09-01/President-Xi-Jinping-delivers-speech-at-SCO-summit-in-Bishkek-1Q4RYNA1jO0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T04:20:05.000Z",
+   "summary": "Chinese President Xi Jinping on Tuesday put forward a four-point proposal at the 26th Meeting of the Council of Heads of…",
+   "regions": []
+  },
+  {
    "title": "时政快讯丨习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687789.shtml",
    "source": "中新网中国",
@@ -6304,6 +7110,22 @@
    "regions": []
   },
   {
+   "title": "Xi Jinping poses for group photo with SCO leaders in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-09-01/Xi-Jinping-poses-for-group-photo-with-SCO-leaders-in-Bishkek-1Q4TZTzT1M4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T04:13:40.000Z",
+   "summary": "Xi Jinping poses for group photo with SCO leaders in Bishkek",
+   "regions": []
+  },
+  {
+   "title": "PALLAS-1 Y1 rocket succeeds in maiden flight",
+   "link": "https://news.cgtn.com/news/2026-09-01/PALLAS-1-Y1-rocket-succeeds-in-maiden-flight-1Q4WZ3wbli8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T04:13:32.000Z",
+   "summary": "PALLAS-1 Y1 rocket succeeds in maiden flight",
+   "regions": []
+  },
+  {
    "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议",
    "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687786.shtml",
    "source": "中新网中国",
@@ -6312,6 +7134,14 @@
    "regions": [
     "上海"
    ]
+  },
+  {
+   "title": "President Xi Jinping attends SCO summit in Bishkek",
+   "link": "https://news.cgtn.com/news/2026-09-01/President-Xi-Jinping-attends-SCO-summit-in-Bishkek-1Q4UbHZwcg0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T04:06:10.000Z",
+   "summary": "President Xi Jinping attends SCO summit in Bishkek",
+   "regions": []
   },
   {
    "title": "今年铁路暑运全国铁路累计发送旅客9.54亿人次",
@@ -6336,6 +7166,17 @@
    "time": "2026-09-01T03:43:03.000Z",
    "summary": "当前正值高校录取通知书陆续送达、新生准备入学的关键时期，一些机构或不法分子趁机利用新生对入学流程不熟悉以及部分考生家长的焦虑心态，通过伪造身份、散布虚假信息等方式精心设局，实施诈骗。为切实维护广大考生和家长切身利益，教育部结合近期典型案例，…",
    "regions": []
+  },
+  {
+   "title": "China implements new national standard for AI customer service",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-implements-new-national-standard-for-AI-customer-service-1Q4QgfRjrck/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T03:40:06.000Z",
+   "summary": "China implements new national standard for AI customer service",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "市场监管总局发布65项国家计量技术规范",
@@ -6634,6 +7475,17 @@
    "regions": [
     "欧洲",
     "北京"
+   ]
+  },
+  {
+   "title": "China's solar power capacity just beat coal for the first time",
+   "link": "https://news.cgtn.com/news/2026-09-01/news-1Q4RUS4svrq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T02:21:32.000Z",
+   "summary": "China's installed solar capacity has overtaken coal-fired power for the first time, making it the country's largest powe…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -7102,6 +7954,14 @@
    "regions": []
   },
   {
+   "title": "How SCO opens up opportunities for regional development as it turns 25",
+   "link": "https://news.cgtn.com/news/2026-09-01/How-SCO-opens-up-opportunities-for-regional-development-as-it-turns-25-1Q5x5WHsoyk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T13:49:24.000Z",
+   "summary": "Over the past 25 years, the SCO has evolved into a major regional cooperation platform. Its economic cooperation is shif…",
+   "regions": []
+  },
+  {
    "title": "瑞斯康达：公司实控人之一李月杰被判处有期徒刑",
    "link": "https://www.chinanews.com.cn/cj/2026/09-01/10688262.shtml",
    "source": "中新网财经",
@@ -7342,6 +8202,14 @@
    "regions": []
   },
   {
+   "title": "Peng Liyuan attends event for spouses of leaders during SCO summit",
+   "link": "https://news.cgtn.com/news/2026-09-01/Peng-Liyuan-attends-event-for-spouses-of-leaders-during-SCO-summit-1Q5nfFp7dra/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T10:25:08.000Z",
+   "summary": "Peng Liyuan, wife of Chinese President Xi Jinping, attended on Tuesday morning an event organized by Aigul Japarova, wif…",
+   "regions": []
+  },
+  {
    "title": "新媒体+AI拓展增长空间 我爱我家上半年业绩实现稳健增长",
    "link": "https://www.chinanews.com.cn/cj/2026/09-01/10688030.shtml",
    "source": "中新网财经",
@@ -7392,6 +8260,19 @@
    "regions": []
   },
   {
+   "title": "Zero-tariff policy allows more Egyptian strawberries to enter China",
+   "link": "https://news.cgtn.com/news/2026-09-01/Zero-tariff-policy-allows-more-Egyptian-strawberries-to-enter-China-1Q58YzF7sAw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T08:51:53.000Z",
+   "summary": "Zero-tariff policy allows more Egyptian strawberries to enter China",
+   "regions": [
+    "中国",
+    "亚太",
+    "埃及",
+    "非洲"
+   ]
+  },
+  {
    "title": "“稳”：看中国经济为世界经济注入宝贵确定性",
    "link": "https://www.chinanews.com.cn/cj/2026/09-01/10688004.shtml",
    "source": "中新网滚动",
@@ -7414,6 +8295,17 @@
    "time": "2026-09-01T08:28:47.000Z",
    "summary": "央视网消息(新闻联播)：记者从商务部了解到，截至8月30日，2026年消费品以旧换新累计带动相关商品销售超1.54万亿元，惠及超2.06亿人次。全国27个地方开展自主品类补贴政策，带动相关商品销售228.6万件。",
    "regions": []
+  },
+  {
+   "title": "China's summer movie season breaks new ground",
+   "link": "https://news.cgtn.com/news/2026-09-01/China-s-summer-movie-season-breaks-new-ground-1Q5cGfu74Vq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-01T08:26:35.000Z",
+   "summary": "China's 2026 summer movie season has ended on a high note, bringing in 12.5 billion yuan ($1.86 billion) and drawing 340…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "宁夏首票“十五五”高校科创进口减免税业务顺利办结",
@@ -7977,5 +8869,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-02T00:42:05.211Z"
+ "updatedAt": "2026-09-02T05:07:00.090Z"
 }
