@@ -2,6 +2,534 @@
  "date": "2026-09-02",
  "tech": [
   {
+   "title": "美光将向中国台湾地区员工发放历年最高绩效奖金",
+   "link": "https://www.ithome.com/0/997/531.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T09:05:40.000Z",
+   "summary": "IT之家 9 月 2 日消息， Micron（美光）今日表示将向中国台湾地区员工发放历年最高的绩效奖金 。美光称具体激励奖金分红方案预计在 10 月公布，公司在此之前将持续通过既有沟通渠道与团队成员保持对话。 ▲ 美光桃园 中国台湾地区是美…",
+   "regions": []
+  },
+  {
+   "title": "ChatGPT 桌面应用里藏着 430MB 的 LibreOffice",
+   "link": "https://www.oschina.net/news/502272/chatgpt-codex-libreoffice",
+   "source": "开源中国",
+   "time": "2026-09-02T09:03:52.000Z",
+   "summary": "Simon Willison 在清理磁盘时发现了一个 1.7GB 的目录。他打开一看，里面装着一整套 LibreOffice。 路径在 ~/.cache/codex-runtimes/codex-primary-runtime/plugin…",
+   "regions": []
+  },
+  {
+   "title": "限电梯楼配送：美的大嵌 750 升冰箱 4233 元新低，身高 2 米超大容量",
+   "link": "https://www.ithome.com/0/997/530.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:58:50.000Z",
+   "summary": "美的大嵌 750 升双开门冰箱 BCD-750WKPZM (E) 官方日常售价 5750 元，今日京东自营叠加国补后，仅需 4233 元近期新低： 下单时需选择“以旧换新” → 厨房小电 → 普通餐具： 京东 美的 大嵌 750 升双开门冰…",
+   "regions": []
+  },
+  {
+   "title": "vivo X500 系列手机支持原子工作台：一块屏幕，五个应用、串行秒切",
+   "link": "https://www.ithome.com/0/997/528.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:54:43.000Z",
+   "summary": "IT之家 9 月 2 日消息，vivo 通信科技有限公司产品经理韩伯啸今日发文，称原子工作台在 vivo 折叠屏上首发，vivo X500 系列也能体验到了， 一块屏幕，五个应用，串行秒切 。 直板机上这样一种全新、更高效的交互方式 —— …",
+   "regions": []
+  },
+  {
+   "title": "不惧涨价压力，CDPR 联合 CEO 称主机平台不可或缺",
+   "link": "https://www.ithome.com/0/997/527.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:50:44.000Z",
+   "summary": "IT之家 9 月 2 日消息，尽管 CD Projekt Red（CDPR）已经在 PC 平台上售出了数百万份游戏，但工作室仍在继续推进《巫师 4》的开发，同时兼顾所有游戏平台。这意味着，对于开发团队而言，主机依然是整个业务版图中不可忽视的…",
+   "regions": []
+  },
+  {
+   "title": "荣耀首款阔折叠手机曝光：2nm 骁龙新芯片，排期 2027Q1",
+   "link": "https://www.ithome.com/0/997/526.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:50:16.000Z",
+   "summary": "IT之家 9 月 2 日消息，今年各大手机厂商陆续入局阔折叠手机品类，博主 @数码闲聊站 今日爆料， 荣耀也有阔折叠，2nm 骁龙新芯片 ，排期 2027Q1，希望能赶到春节前。 根据该博主此前爆料，荣耀阔折叠搭载骁龙 8 Elite Ge…",
+   "regions": []
+  },
+  {
+   "title": "戴尔发布 2026 款 Dell Pro Essential 14 / 15 商务本：减薄 11%、降重 9~16%",
+   "link": "https://www.ithome.com/0/997/525.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:47:27.000Z",
+   "summary": "IT之家 9 月 2 日消息，Dell（戴尔）当地时间今日在日本面向小型企业发布 2026 款 Dell Pro Essential 14 / 15 入门级商务笔记本电脑。 这些机型相较上代产品减薄 11%、降重 9~16% 。 2026 …",
+   "regions": []
+  },
+  {
+   "title": "任天堂《马力欧卡丁车 8 豪华版》游戏 Switch 2 版更新：新增 8 人本地分屏对战",
+   "link": "https://www.ithome.com/0/997/524.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:44:02.000Z",
+   "summary": "IT之家 9 月 2 日消息，任天堂今日为《马力欧卡丁车 8 豪华版》游戏发布 4.0.0 更新。本次更新主要为 Switch 2 游戏机带来专属强化功能，提升画面分辨率。 IT之家了解到， 本次更新将为 Switch 2 掌机模式和 TV…",
+   "regions": []
+  },
+  {
+   "title": "华为李小龙详解 nova 16 Pro 手机内部空间设计，7.1mm 机身放进 7000mAh 巨鲸电池技术原理公布",
+   "link": "https://www.ithome.com/0/997/523.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:37:18.000Z",
+   "summary": "IT之家 9 月 2 日消息，华为终端今日发布视频，华为终端 BG CTO 李小龙详细介绍了 nova 16 Pro 手机的内部空间设计， 并公布了该机 7.1mm 机身放进 7000mAh 巨鲸电池的技术原理 。 据介绍， 华为 nova…",
+   "regions": []
+  },
+  {
+   "title": "长城 H10 上市首月交付 10178 辆，限时换新价 20.18 万元起",
+   "link": "https://www.ithome.com/0/997/522.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:34:12.000Z",
+   "summary": "IT之家 9 月 2 日消息，长城汽车哈弗 SUV 官方今日宣布， 长城 H10 上市首月交付 10,178 台 。 据IT之家此前报道， 长城 H10 于 8 月 5 日晚正式上市 ，提供五座、六座两种版本共 4 种不同配置，建议零售价 …",
+   "regions": []
+  },
+  {
+   "title": "小米：米家品牌正规模化进入欧洲市场",
+   "link": "https://www.ithome.com/0/997/521.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:31:00.000Z",
+   "summary": "IT之家 9 月 2 日消息，小米将于当地时间 9 月 4 日首次参展德国柏林国际电子消费品展览会（IFA 2026），其首款中折叠旗舰手机小米 18 Fold 也将一同发布，小米机器人 CyberOne 也将首次在海外展出。 据小米 X …",
+   "regions": []
+  },
+  {
+   "title": "M.2 硬盘盒 + 扩展坞二合一，闪极推出 Disk Pro 2",
+   "link": "https://www.ithome.com/0/997/520.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:29:04.000Z",
+   "summary": "IT之家 9 月 2 日消息，闪极现已在海外官网上架 Disk Pro 硬盘盒。这款产品主打 M.2 硬盘盒 + 扩展坞二合一设计，适合轻薄本、Win 掌机等用户， 首发售价 73.9 美元起 （IT之家注：现汇率约合 497.9 元人民币…",
+   "regions": []
+  },
+  {
+   "title": "GXTrust 推出 Rovix 拉伸手柄，摇杆与扳机基于霍尔效应传感器",
+   "link": "https://www.ithome.com/0/997/519.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:26:37.000Z",
+   "summary": "IT之家 9 月 2 日消息，Trust 旗下 GXTrust 荷兰当地时间 1 日宣布推出 Rovix 蓝牙无线移动游戏控制器。这款拉伸手柄 支持蓝牙 5.0 连接 ，兼容本地、云端、串流 3 种游戏模式。 Rovix 总重 239g ，…",
+   "regions": []
+  },
+  {
+   "title": "消息称台积电先进封装 CoWoS 明年产能配额已全被预订，部分客户转向英特尔 EMIB-T",
+   "link": "https://www.ithome.com/0/997/518.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:24:48.000Z",
+   "summary": "IT之家 9 月 2 日消息，据韩媒 Chosun 报道，台积电先进封装技术 CoWoS 明年的产能配额已全部预订一空，且难以释放额外产能 。 在此背景下，全球科技巨头与无晶圆厂芯片设计公司（Fabless）已开始评估引入，甚至正式采用英特…",
+   "regions": []
+  },
+  {
+   "title": "把双风扇或打火机装进手机，三防硬件厂商 Oukitel 公布 IFA 2026 参展阵容",
+   "link": "https://www.ithome.com/0/997/516.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:22:27.000Z",
+   "summary": "IT之家 9 月 2 日消息，Oukitel 将在 IFA 2026 带来一整套三防硬件新品，其中既有三防游戏手机和主打超长续航的旗舰，也有一款直接把电点火器塞进机身的户外手机。 IT之家汇总各产品主要信息如下： Oukitel WP70 …",
+   "regions": []
+  },
+  {
+   "title": "20 万美元飞行器开卖两年后，谷歌联合创始人佩奇支持的 Pivotal 公司 CEO 离职",
+   "link": "https://www.ithome.com/0/997/515.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:17:51.000Z",
+   "summary": "IT之家 9 月 2 日消息，Pivotal 是谷歌联合创始人拉里 · 佩奇投资的一家飞行汽车公司，其首席执行官已经离职。 据公司发布的新闻稿显示，肯 · 卡克林（Ken Karklin）担任 Pivotal 首席执行官超过 4 年后，于本…",
+   "regions": []
+  },
+  {
+   "title": "魅族 AI 小方块有望回归，概念机亮相腾讯 WorkBuddy 生态发布会",
+   "link": "https://www.ithome.com/0/997/513.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:15:16.000Z",
+   "summary": "IT之家 9 月 2 日消息，在今日的腾讯 WorkBuddy 生态发布会上， 魅族 AI 小方块概念机亮相 。 魅族 AI 小方块概念机搭载基于原生 AI 的 Flyme AIOS，通过深度融合智能交互与 WorkBuddy 云端 AI …",
+   "regions": []
+  },
+  {
+   "title": "三星 Galaxy Z Fold 8 折叠屏手机大获成功，引发关键零部件供应紧张",
+   "link": "https://www.ithome.com/0/997/511.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:11:27.000Z",
+   "summary": "IT之家 9 月 2 日消息，据韩媒 ZDNet 近日报道，三星 Galaxy Z Fold 8 折叠屏手机销售火爆，该机的全新形态屏幕获得消费者认可。随着这款手机人气不断提升，其机身零部件开始面临供应压力。 据业内消息， 三星 Galax…",
+   "regions": []
+  },
+  {
+   "title": "消息称三星电子计划在韩国等地投放 Exynos 2700 版 Galaxy S27 Ultra 智能手机",
+   "link": "https://www.ithome.com/0/997/510.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:08:42.000Z",
+   "summary": "IT之家 9 月 2 日消息，韩媒 MONEYTODAY 当地时间 1 日报道称， 三星电子计划在韩国等市场投放搭载 Exynos 2700 移动处理器的 Galaxy S27 Ultra 智能手机 。 如果消息成真，这将是 Exynos …",
+   "regions": []
+  },
+  {
+   "title": "路虎纯电揽胜正式发布：双电机 +120 度电池，15.4 万英镑起售",
+   "link": "https://www.ithome.com/0/997/509.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:06:26.000Z",
+   "summary": "IT之家 9 月 2 日消息，北京时间 2 日，捷豹路虎首款纯电揽胜正式发布。新车对揽胜品牌至关重要，不过并非为了彻底改变揽胜而生，而是让外观、豪华质感和驾驶体验都延续传统揽胜的特点。 揽胜纯电版计划明年上市，起售价 154,070 英镑 …",
+   "regions": []
+  },
+  {
+   "title": "字节今年第二次上调期权价格：在职员工 241.35 美元 / 股，涨幅约 5.1%",
+   "link": "https://www.ithome.com/0/997/508.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T08:04:12.000Z",
+   "summary": "IT之家 9 月 2 日消息，据新浪科技今日消息，字节发布通知调整期权价格，在职员工从 229.5 美元 （IT之家注：现汇率约合 1,546 元人民币） / 股调整至 241.35 美元 （现汇率约合 1,626 元人民币） / 股， 涨…",
+   "regions": []
+  },
+  {
+   "title": "豆包工作功能上新：支持多 Agents 并行与 Mac 操作电脑",
+   "link": "https://www.ithome.com/0/997/506.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:52:58.000Z",
+   "summary": "IT之家 9 月 2 日消息，豆包工作新增两项新功能：“多 Agents 并行”和 Mac 系统下的“操作电脑”。 据介绍，多 Agents 并行功能，能让豆包召唤不同的子 Agent，在一个任务下分别执行不同的模块，既成倍节省时间，又能同…",
+   "regions": []
+  },
+  {
+   "title": "戴尔 Alienware 发布 OLED 游戏显示器 AW3226Q、AW2527HX",
+   "link": "https://www.ithome.com/0/997/504.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:51:27.000Z",
+   "summary": "IT之家 9 月 2 日消息，Dell（戴尔）Alienware（外星人）当地时间 8 月 27 日发布了两款 OLED 游戏显示器，型号分别为 AW3226Q 和 AW2527HX。 ▲ AW3226Q AW3226Q 采用 AW3926…",
+   "regions": []
+  },
+  {
+   "title": "HKC 惠科推出 RAY-27 新型裸眼 3D 显示器，支持 2D、3D 同分辨率同屏运行",
+   "link": "https://www.ithome.com/0/997/503.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:51:02.000Z",
+   "summary": "IT之家 9 月 2 日消息，HKC 惠科宣布在 2026 年 DIC 展会上，正式推出 RAY-27 新型裸眼 3D 显示器。 IT之家获悉，这款显示器分辨率在 2D/3D 下均为 2560×1440 ，最佳观看角度为 ±20°，最佳观看…",
+   "regions": []
+  },
+  {
+   "title": "谷歌副总裁 Amin Vahdat 谈 AI 泡沫：技术变革和市场需求确实存在",
+   "link": "https://www.ithome.com/0/997/501.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:44:53.000Z",
+   "summary": "IT之家 9 月 2 日消息，据中国台湾地区媒体《经济日报》今天报道，谷歌 AI 与基础设施高级副总裁、首席技术专家 Amin Vahdat 日前谈到 AI 泡沫时表示，AI 带来的技术变革和市场需求都是确实存在的，因此公司持续投资 AI …",
+   "regions": []
+  },
+  {
+   "title": "Meta 强力打击智能眼镜偷拍行为：你敢破坏指示灯，我就永久禁止摄像头",
+   "link": "https://www.ithome.com/0/997/500.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:41:02.000Z",
+   "summary": "IT之家 9 月 2 日消息，据《商业内幕》今天（2 日）报道，在发现部分用户人为破坏录像指示灯后，Meta 通过软件更新 关闭了数千副 Meta AI 智能眼镜的摄像头 。 Meta 近几周陆续加强了针对 指示灯破坏行为 的限制。此前，一…",
+   "regions": []
+  },
+  {
+   "title": "特斯拉 Cybercab 应急操控方案曝光：无方向盘车型可使用中控屏手动挪车",
+   "link": "https://www.ithome.com/0/997/499.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:36:06.000Z",
+   "summary": "IT之家 9 月 2 日消息，打造一款没有方向盘和实体踏板的专用自动驾驶汽车，会带来一个独特的工程难题：如果车辆需要人工稍微挪动一下，究竟应该怎么操作？近日在美国得克萨斯州拍摄到的新视频，展示了特斯拉计划如何为 Cybercab 无人驾驶出…",
+   "regions": []
+  },
+  {
+   "title": "沃尔沃汽车 2026 年 6-8 月全球销量 148,239 辆，同比下降 7.4%",
+   "link": "https://www.ithome.com/0/997/498.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:35:12.000Z",
+   "summary": "IT之家 9 月 2 日消息，沃尔沃汽车今日公布数据显示，2026 年 6 月至 8 月期间， 其全球销量为 148,239 辆，同比下降 7.4% 。 在此期间，包括纯电动与插电式混合动力在内的 电气化车型（Electrified Mod…",
+   "regions": []
+  },
+  {
+   "title": "宇树机器狗隐秘灰产链曝光，改电池标签“偷渡”上飞机",
+   "link": "https://www.ithome.com/0/997/497.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:33:53.000Z",
+   "summary": "IT之家 9 月 2 日消息，蓝鲸新闻今日曝光了宇树机器狗隐秘灰产链，闲鱼平台上，部分机器人租赁商通过篡改宇树科技机器狗电池标签的方式， 试图将高容量电池伪装成符合航空规定的“合规电池” ，把产品“偷渡”上飞机。 报道称，有些商家撕下原厂印…",
+   "regions": []
+  },
+  {
+   "title": "苹果新任 CEO 约翰 · 特努斯成 Apple 官方 X 账号唯一关注",
+   "link": "https://www.ithome.com/0/997/494.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:31:05.000Z",
+   "summary": "IT之家 9 月 2 日消息，昨晚，苹果官网“领导层”页面更新，约翰 · 特努斯（John Ternus）正式出任苹果首席执行官，同时担任苹果董事会成员。 与此同时，蒂姆 · 库克现已卸任苹果 CEO 一职，转任董事会执行主席，继续负责与全…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 奥尔特曼谈数据中心“费水”：没有数据支撑，人们的担忧被放大了",
+   "link": "https://www.ithome.com/0/997/480.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:26:32.000Z",
+   "summary": "IT之家 9 月 2 日消息，据《商业内幕》今天（2 日）报道，OpenAI CEO 萨姆 · 奥尔特曼认为，外界对 AI 耗水量的担忧已经变成一个流传甚广的“梗”，但真正 拿数据检验后并不成立 。 奥尔特曼指出，数据中心虽然常被视为“耗水…",
+   "regions": []
+  },
+  {
+   "title": "戴尔发布 \"Wildcat Lake\" 款 Dell 14S 轻薄本：四色可选，1.15kg",
+   "link": "https://www.ithome.com/0/997/479.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:24:26.000Z",
+   "summary": "IT之家 9 月 2 日消息，Dell（戴尔）当地时间今日发布了搭载第 3 代英特尔酷睿处理器 \"Wildcat Lake\" 的新款 Dell 14S 轻薄笔记本电脑。 作为戴尔继 Dell XPS 13 后又一款“MacBook Neo …",
+   "regions": []
+  },
+  {
+   "title": "福特解释新款纯电皮卡 Fathom 为何选择苹果地图：这是最佳解决方案",
+   "link": "https://www.ithome.com/0/997/476.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:22:39.000Z",
+   "summary": "IT之家 9 月 2 日消息，苹果今年早些时候宣布与福特达成合作，将原生 Apple Maps 地图引入福特即将推出的 UEV 平台，首款采用该平台的纯电车型名为 Fathom。 福特汽车项目副总裁 Alan Clarke 近期接受媒体采访…",
+   "regions": []
+  },
+  {
+   "title": "美国呼吁 G20 成员国对 AI 监管采取克制态度，避免制定过多新规则",
+   "link": "https://www.ithome.com/0/997/474.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:22:33.000Z",
+   "summary": "IT之家 9 月 2 日消息，据路透社报道，美国当地时间周二呼吁二十国集团（G20）成员国对人工智能监管采取更为谨慎、克制的态度，避免针对 AI 制定过多新规则。这一主张是在美国北卡罗来纳州举行的一场会议上提出的，参加会议的包括多家科技巨头…",
+   "regions": []
+  },
+  {
+   "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
+   "link": "https://sspai.com/post/80562",
+   "source": "少数派",
+   "time": "2026-09-02T07:22:27.000Z",
+   "summary": "Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。 查看全文",
+   "regions": []
+  },
+  {
+   "title": "限 100 辆：保时捷推出 911 GT3 Bergsport 特别版，为山路打造",
+   "link": "https://www.ithome.com/0/997/468.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:21:30.000Z",
+   "summary": "IT之家 9 月 2 日消息，汽车媒体 CarBuzz 昨日（9 月 1 日）发布博文， 报道称保时捷（Porsche）发布 911 GT3 Bergsport 特别版，仅在瑞士、意大利、法国和奥地利 4 个欧洲市场销售，限量 100 辆。…",
+   "regions": []
+  },
+  {
+   "title": "小米 18 Fold“中折叠”手机官图发布：极窄四等边、跑道型 Deco，新色命名「西野红」",
+   "link": "https://www.ithome.com/0/997/446.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:14:56.000Z",
+   "summary": "IT之家 9 月 2 日消息，小米手机官方刚刚放出了小米 18 Fold“中折叠”新机的官图。 据介绍， 小米 18 Fold“中折叠”手机采用极窄四等边 + 超椭圆大 R 角设计 ，主打“线条优雅”； 后置跑道型 Deco + 侧边纯平包…",
+   "regions": []
+  },
+  {
+   "title": "李斌：蔚来成为行业首个通过国家级电池动态监测新国标检测的整车企业，依托换电模式实现了车电寿命的解耦",
+   "link": "https://www.ithome.com/0/997/445.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:08:13.000Z",
+   "summary": "IT之家 9 月 2 日消息，蔚来官方今日宣布，蔚来电池监控运营平台近期取得公安部交通管理科学研究所检测中心签发的《新能源汽车运行安全性能动态监测预警平台（企业平台）软件测试报告（基于 GB/T 45688）》。自 GB/T 45688 国…",
+   "regions": []
+  },
+  {
+   "title": "继谷歌地图后，苹果地图面向美国用户将安大略湖更名为“美国湖”",
+   "link": "https://www.ithome.com/0/997/444.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:04:28.000Z",
+   "summary": "IT之家 9 月 2 日消息，苹果已在其 Maps 地图应用中将“安大略湖”（Lake Ontario）更名为“美国湖”（Lake America），这一调整源于美国总统唐纳德 · 特朗普此前发布的一项行政命令。 此次更名目前仅面向美国用户…",
+   "regions": []
+  },
+  {
+   "title": "曝尊界 S800 / 问界 M9 领世加长版车主可优先购买华为 Mate XT 2 非凡大师三折叠手机",
+   "link": "https://www.ithome.com/0/997/442.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:00:14.000Z",
+   "summary": "IT之家 9 月 2 日消息，据博主 @一针见车 分享， 尊界 S800 和问界 M9 Ultimate 领世加长版车主有新款三折叠的优先购买权 。 参考IT之家此前报道， 华为 Mate XT 2 非凡大师全新展翼三折叠手机已开启预订 ，…",
+   "regions": []
+  },
+  {
+   "title": "BUFFALO 推出其首款轨迹球鼠标 BSTBB700X，整合高速四向金属滚轮",
+   "link": "https://www.ithome.com/0/997/441.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T07:00:04.000Z",
+   "summary": "IT之家 9 月 2 日消息，日本外设制造商 BUFFALO（巴法络）当地时间今日宣布推出其首款轨迹球鼠标 BSTBB700X。这一产品采用右手人体工学模具与拇指操控设计，拥有适度的倾斜。 BSTBB700X 三维 117×95×51 (m…",
+   "regions": []
+  },
+  {
+   "title": "马斯克预测 10 年内全球人形机器人超 10 亿台，每台产出是人类 5 倍",
+   "link": "https://www.ithome.com/0/997/440.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:59:24.000Z",
+   "summary": "IT之家 9 月 2 日消息，昨日（9 月 1 日）在美国北卡罗来纳州教堂山举行的二十国集团（G20）创新部长级会议上， 全球首富埃隆 · 马斯克（Elon Musk）发表视频讲话，预估未来 10 年内人形机器人数量将超过 10 亿台。 I…",
+   "regions": []
+  },
+  {
+   "title": "对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型",
+   "link": "http://www.geekpark.net/news/369724",
+   "source": "极客公园",
+   "time": "2026-09-02T06:59:00.000Z",
+   "summary": "作者｜苏子华 编辑｜靖宇 机器人行业现在最关心的一个问题：它能干完一整件事吗？ 几十秒的抓取物品的视频已经撑不起估值了。把一件事从头干到尾，成了最新的考题，行业里叫它「长程任务」。 8 月 19 日，世界机器人大会，一台机器人首次亮相，用 …",
+   "regions": []
+  },
+  {
+   "title": "鸿蒙智行问界 M9 Ultimate 领世加长版首批展车陆续进店，64.98 万元起",
+   "link": "https://www.ithome.com/0/997/438.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:57:51.000Z",
+   "summary": "IT之家 9 月 2 日消息，鸿蒙智行官方今日宣布，问界 M9 Ultimate 领世加长版 首批展车陆续进店 （全国 145 座城市 308 家门店）。 据IT之家此前报道， 鸿蒙智行全新一代问界 M9 发布于 5 月 27 日 ，其中 …",
+   "regions": []
+  },
+  {
+   "title": "腾讯 WorkBuddy 开放平台上线，将全面开放 Agent 基座能力",
+   "link": "https://www.ithome.com/0/997/435.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:55:47.000Z",
+   "summary": "IT之家 9 月 2 日消息，腾讯 WorkBuddy 开放平台今日上线，首批入驻共创伙伴超百家， 面向智能硬件、行业应用与开发者等开放底层 Agent 基座能力 。 IT之家了解到，开放平台是面向 WorkBuddy 生态业务的一站式工作…",
+   "regions": []
+  },
+  {
+   "title": "从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价",
+   "link": "http://www.geekpark.net/news/369719",
+   "source": "极客公园",
+   "time": "2026-09-02T06:54:16.000Z",
+   "summary": "作者｜苏子华 编辑｜靖宇 极客公园最近发现，婴儿床这个品类正在被 AI，或者说被「具身智能」重新定价。 从一张几百元的价格，直接抬升到一万元。 婴儿床是少有的被技术「忽略」的家居品类。100 年来，它的形态几乎没有变过。四根立柱、一圈围栏、…",
+   "regions": []
+  },
+  {
+   "title": "硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文",
+   "link": "http://www.geekpark.net/news/369718",
+   "source": "极客公园",
+   "time": "2026-09-02T06:49:04.000Z",
+   "summary": "作者｜苏子华 编辑｜靖宇 现场体验过 Violoop 之后，很多关于未来的「AI 助手」该长什么样、能做些什么、能力的极限究竟在哪的困惑，可能都会迎刃而解。 因为 Violoop 已经把它们变成了现实。 Violoop 实物图｜图片来源：V…",
+   "regions": []
+  },
+  {
+   "title": "阿里云企业级 Agent 协作平台“万有无界”开启公测",
+   "link": "https://www.ithome.com/0/997/434.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:45:24.000Z",
+   "summary": "IT之家 9 月 2 日消息，据阿里云官方消息，今日，阿里云旗下企业级人与 Agent 协作平台“万有无界”开启公测。 企业用户和个人用户均可通过官网 ( https://www.qianwenai.com/agents/wanyou ) …",
+   "regions": []
+  },
+  {
+   "title": "台电 T60 Mini 平板海外亮相：紫光展锐 T7300 芯片、8.8 英寸 90Hz 屏幕",
+   "link": "https://www.ithome.com/0/997/433.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:43:05.000Z",
+   "summary": "IT之家 9 月 2 日消息，台电 T60 Mini 平板电脑现已在日本市场亮相，新品采用 8.8 英寸屏幕，支持 4G LTE 移动数据网络。 IT之家了解到，这款平板采用小巧设计， 机身厚度约 8mm ，重约 324g，配备 8.8 英…",
+   "regions": []
+  },
+  {
+   "title": "git.kernel.org 每天接收 600 万个请求，但 98% 不是来自“人类”",
+   "link": "https://www.oschina.net/news/502270/git-kernel-org-creepy-crawlies",
+   "source": "开源中国",
+   "time": "2026-09-02T06:41:06.000Z",
+   "summary": "git.kernel.org 每天接收到 600 万个请求在查看随机的 git 提交，但其中 98% 不是来自“人类”。 Linux 内核维护者 Konstantin Ryabitsev 在 kernel.org 官方博客里写了一篇《Cre…",
+   "regions": []
+  },
+  {
+   "title": "AI 大模型周榜：国产 GLM-5.3-Flash 首秀杀进代码榜前十，千问 3.8-Max 登顶前端榜",
+   "link": "https://www.ithome.com/0/997/432.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:40:31.000Z",
+   "summary": "IT之家 9 月 2 日消息，Arena（ arena.ai ）平台发布 2026 年第 35 周（8 月 24 日 ~8 月 30 日）AI 大模型盲测排行榜，本期有多款国产新模型亮相，且取得亮眼排名。 国产 GLM-5.3-Flash …",
+   "regions": []
+  },
+  {
+   "title": "消息称腾讯在开发全新 AI 输入法助手“ChatterFly”，中文名可能叫元宝输入法",
+   "link": "https://www.ithome.com/0/997/431.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:40:19.000Z",
+   "summary": "IT之家 9 月 2 日消息，据读佳消息， 腾讯在开发全新 AI 输入法助手 App “ChatterFly” （中文名可能叫：元宝输入法），除移动端 App 之外，这款产品或计划推出 Windows、macOS 桌面客户端，打通多端输入场…",
+   "regions": []
+  },
+  {
+   "title": "英伟达官方证实：开启 DLSS 5 将使游戏帧率下降 50%-60%",
+   "link": "https://www.ithome.com/0/997/429.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:39:51.000Z",
+   "summary": "IT之家 9 月 2 日消息，英伟达昨天发布了 DLSS 5 技术，首发支持游戏有《NBA 2K27》，支持所有 RTX 50 系显卡的笔记本和台式电脑，以及 GeForce NOW 云游戏平台。 据 PC Gamer 报道，在真正的游戏开…",
+   "regions": []
+  },
+  {
+   "title": "雷军：小米 18 Fold“中折叠”旗舰手机搭载 Xiaomi MiMo 端侧大模型",
+   "link": "https://www.ithome.com/0/997/426.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:35:36.000Z",
+   "summary": "IT之家 9 月 2 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，正式官宣 Xiaomi 18 Fold “中折叠”手机。他表示： Xiaomi 18 Fold 不仅是数字系列的形态补充，更是整个系列中定位最…",
+   "regions": []
+  },
+  {
+   "title": "泰坦军团带来 P326MV Ultra 显示器：XDR2200，UHD 200Hz 双模",
+   "link": "https://www.ithome.com/0/997/425.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:34:45.000Z",
+   "summary": "IT之家 9 月 2 日消息，泰坦军团 (Titan Army) 八月底在其官网上线了 P326MV Ultra 显示器。这一型号基于 31.5\" QD Mini LED Fast IPS，配备 AGLR、UWV 镀膜， 支持 UHD 20…",
+   "regions": []
+  },
+  {
+   "title": "大众与众 08 猎影版车型 9 月 12 日上市：预售价 23 万元，新增双腔空悬 + DCC 等",
+   "link": "https://www.ithome.com/0/997/424.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:33:02.000Z",
+   "summary": "IT之家 9 月 2 日消息，大众安徽旗下“与众 08 猎影版”宣布将于 9 月 12 日正式上市交付。届时，普通版与众 08 也将同步开启 OTA 升级。 该车已于 8 月 21 日开幕的第二十九届成都国际车展上开启预售，预售价 23 万…",
+   "regions": []
+  },
+  {
+   "title": "阿维塔 9 系新车官宣：家族式前脸造型，预计是此前官宣的与华为“真正意义上”首款全量合作车型",
+   "link": "https://www.ithome.com/0/997/422.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:25:15.000Z",
+   "summary": "IT之家 9 月 2 日消息，阿维塔官方今日宣布， 阿维塔 9 系新车来了 。官方宣称“蓄力已久”。 从首发预热视频来看， 阿维塔 9 系新车是一款大六座 SUV，前脸采用了家族式造型大灯设计 。关于该车更多信息，需待阿维塔官方后续披露。 …",
+   "regions": []
+  },
+  {
+   "title": "华为 FreeBuds Neo 耳机渲染图曝光：短柄设计，满电续航最长 40 小时",
+   "link": "https://www.ithome.com/0/997/421.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:23:01.000Z",
+   "summary": "IT之家 9 月 2 日消息，华为官宣 9 月 2 日（暂未查询到具体时间，预估为北京时间 9 月 3 日）在德国慕尼黑举行全球发布会， 将会推出诸多新产品， 在正式发布前 ，FreeBuds Neo 耳机的渲染图已在网络上流出。 科技媒体…",
+   "regions": []
+  },
+  {
+   "title": "Faker 冠军同款：赛睿寒冰游戏豆 Arctis GameBuds 游戏耳机新增黄绿双色，国行首发 1299 元",
+   "link": "https://www.ithome.com/0/997/420.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:22:33.000Z",
+   "summary": "IT之家 9 月 2 日消息，赛睿寒冰游戏豆 Arctis GameBuds 游戏耳机新增柚子黄、抹茶绿两种新配色，今日正式预约，定价为 1499 元，首发到手价 1299 元，9 月 7 日 10 点开售。 据介绍，这款耳机为《英雄联盟》…",
+   "regions": []
+  },
+  {
+   "title": "LTO 磁带 2025 全年出货下降 9%，2026Q1 同比劲扬 57%",
+   "link": "https://www.ithome.com/0/997/419.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:19:29.000Z",
+   "summary": "IT之家 9 月 2 日消息，LTO（线性开发磁带）项目技术提供商 HPE、IBM、 Quantum 当地时间昨日发布年度磁带介质出货量报告，指出 该类型磁带在去年合计出货 160.3EB ，虽同比下降 9% 仍为历史次高水平。 而在 LT…",
+   "regions": []
+  },
+  {
+   "title": "智界赵长江谈高端 MPV 市场趋势，称消费正在回归产品价值本身",
+   "link": "https://www.ithome.com/0/997/417.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:16:49.000Z",
+   "summary": "IT之家 9 月 2 日消息，鸿蒙智行智界汽车官方昨日宣布，智界 V9 旗舰 MPV 上月（即 8 月）零售交付量 8312 台。 智界汽车执行董事及执行副总裁赵长江今日发文，谈及了高端 MPV 市场的趋势。他认为， 消费正在回归产品价值本…",
+   "regions": []
+  },
+  {
+   "title": "小米 18 Fold 手机外观亮相：新形态命名“中折叠”，卢伟冰预测将成下一代折叠屏主流选择",
+   "link": "https://www.ithome.com/0/997/413.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:11:28.000Z",
+   "summary": "IT之家 9 月 2 日消息，小米秋季旗舰新品发布会定档 9 月 7 日晚 7 点，小米澎程 N70 Pro、N70 Max、N90 Max 正式上市。同场发布的还有两款旗舰新品： 小米 18 Fold 全新折叠屏旗舰手机 、小米平板 9 …",
+   "regions": []
+  },
+  {
+   "title": "努比亚倪飞：豆包手机计划 9 月开售",
+   "link": "https://www.ithome.com/0/997/409.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:04:24.000Z",
+   "summary": "IT之家 9 月 2 日消息，中兴通讯终端事业部总裁、努比亚技术有限公司总裁倪飞今日发文称，从去年 12 月的 M153，到昨天努比亚 NaviX Ultra 正式拿到入网许可， AI 智能体手机从概念到量产的“最后一公里”，努比亚走到了最…",
+   "regions": []
+  },
+  {
+   "title": "谷歌 Pixel 10 等手机推送电池使用概览，AI 直观标出耗电应用",
+   "link": "https://www.ithome.com/0/997/408.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T06:00:24.000Z",
+   "summary": "IT之家 9 月 2 日消息，科技媒体 Android Authority 昨日（9 月 1 日）发布博文，报道称谷歌已开始向 Pixel 10、Pixel 11 系列手机推送“电池使用情况概览”（Battery Usage Summary…",
+   "regions": []
+  },
+  {
+   "title": "三菱汽车发布新一代帕杰罗越野 SUV：3 排 7 座，2.4L 柴油发动机 + 全时四驱",
+   "link": "https://www.ithome.com/0/997/407.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T05:59:08.000Z",
+   "summary": "IT之家 9 月 2 日消息，三菱汽车 (Mitsubishi Motors) 当地时间今日正式发布了全新设计的帕杰罗 (Pajero) 越野 SUV。 新款帕杰罗 定位旗舰车型 ，结合了“信心”“舒适”“尊贵”的产品理念，拥有大胆而霸气的…",
+   "regions": []
+  },
+  {
+   "title": "华为多款新电池通过 3C 认证：最大额定 8560mAh，麒麟 8000 中端新机或首发搭载",
+   "link": "https://www.ithome.com/0/997/405.htm",
+   "source": "IT之家",
+   "time": "2026-09-02T05:51:06.000Z",
+   "summary": "IT之家 9 月 2 日消息，@数码闲聊站 发现，华为有一款额定容量为 8560mAh 的新电池通过备案，并称“K8 中端机够用吧”。此外，他还提到“万级大电池电池也开模了”，但落地机型尚待确定。 IT之家查询国家 3C 质量认证信息发现，…",
+   "regions": []
+  },
+  {
    "title": "国产第二代高温超导带材用铁基合金基带材料研制成功，打破进口依赖、成本仅四分之一",
    "link": "https://www.ithome.com/0/997/392.htm",
    "source": "IT之家",
@@ -596,6 +1124,552 @@
  ],
  "world": [
   {
+   "title": "美国借军演在日本部署“堤丰”导弹，专家：严重挑衅俄方红线，中方可从四层面反制",
+   "link": "https://sputniknews.cn/20260902/1073036384.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T09:04:59.000Z",
+   "summary": "近日，俄罗斯外交部就美国拟借日澳联合军演在日本部署“堤丰”中程导弹系统发出强硬警告，称此举对俄构成直接威胁，俄方将采取必要的反制措施，以确保国家安全“处于应有水平”。中国军事专家秦安在接受俄罗斯卫星通讯社采访时指出，美日澳联合军演是又一次严…",
+   "regions": [
+    "俄乌",
+    "美洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "湖南省气象台发布暴雨蓝色预警",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688851.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:58:19.000Z",
+   "summary": "中新网9月2日电 湖南省气象台2026年9月2日16时发布暴雨蓝色预警：预计2日20时至3日20时，株洲中南部、衡阳、郴州北部、永州北部有暴雨，局地大暴雨(100~150毫米)，并伴有短时强降水(最大小时雨强10~30毫米)、大风(阵风7~…",
+   "regions": [
+    "株洲",
+    "郴州"
+   ]
+  },
+  {
+   "title": "国家安全生产应急救援队伍持续监测现场次生灾害 采集2700组数据",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688861.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:53:59.000Z",
+   "summary": "西藏日喀则市吉隆县泥石流灾害发生后，应急管理部调派国家安全生产应急救援队伍跨区域增援，全力支持地方做好救援工作。",
+   "regions": [
+    "西藏"
+   ]
+  },
+  {
+   "title": "俄出口中心集团致力于与中国建立长期合作伙伴关系",
+   "link": "https://sputniknews.cn/20260902/1073037386.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T08:50:45.000Z",
+   "summary": "俄罗斯进出口银行（隶属俄罗斯出口中心集团）董事长彼得•扎谢尔斯基在2026年东方经济论坛框架内“中国转型：如何在新形势下与中国建立可持续的业务”会议上发表了讲话。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "伊朗伊斯兰革命卫队：两艘油轮在霍尔木兹海峡触雷",
+   "link": "https://sputniknews.cn/20260902/1073037281.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T08:50:39.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰9月2日电 据伊朗伊斯兰革命卫队消息，两艘油轮在霍尔木兹海峡触雷爆炸并起火。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄外交部：取消俄中签证符合社会需求",
+   "link": "https://sputniknews.cn/20260902/1073037071.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T08:39:13.000Z",
+   "summary": "俄罗斯卫星通讯社符拉迪沃斯托克9月2日电 俄罗斯外交部发言人扎哈罗娃在东方经济论坛期间表示，完全取消俄中签证制度的构想切实符合两国社会需求。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.8】60 km WSW of The Bottom, Bonaire, Saint Eustatius and Saba ",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026245000",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T08:33:00.660Z",
+   "summary": "美国地质调查局官方监测：60 km WSW of The Bottom, Bonaire, Saint Eustatius and Saba 发生 3.8 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "德国奥格斯堡中央火车站附近发生爆炸 两人受伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688810.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T08:26:57.000Z",
+   "summary": "中新网柏林9月2日电 综合德国媒体报道，德国巴伐利亚州奥格斯堡中央火车站附近2日发生爆炸，造成两人轻伤。目前火车站已被完全封锁，列车运行暂停。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "洪都拉斯司法部门证实撤销对前总统埃尔南德斯的指控",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688807.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T08:26:25.000Z",
+   "summary": "中新社北京9月2日电 特古西加尔巴消息：当地时间9月1日，洪都拉斯司法部门证实，该国一家法院已经撤销了对前总统胡安·奥兰多·埃尔南德斯(Juan Orlando Hernandez)欺诈和洗钱的指控。",
+   "regions": []
+  },
+  {
+   "title": "全球媒体聚焦 | 埃及媒体：埃中合作迎来崭新发展机遇和广阔前景",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688822.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T08:24:15.000Z",
+   "summary": "当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。这是习近平主席时隔10年再次对埃及进行国事访问，适逢中埃建交70周年，埃及媒体对此访高度关注。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "美媒：欧盟11国希望在制定政治决定中绕过否决权",
+   "link": "https://sputniknews.cn/20260902/1073036655.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T08:21:07.000Z",
+   "summary": "据西方媒体援引一些欧盟成员国的外交部长的联名信报道称，包括法国和德国在内的11个欧盟成员国提议，通过扩大有效多数投票的使用范围，以促进欧盟外交政策决定的通过，绕过个别成员国的否决权。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄能源部长：“西伯利亚力量-2”开工在即",
+   "link": "https://sputniknews.cn/20260902/1073036528.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T08:20:30.000Z",
+   "summary": "俄罗斯卫星通讯社符拉迪沃斯托克9月2日电 俄罗斯能源部长齐维廖夫在东方经济论坛期间表示，“西伯利亚力量-2”天然气管道项目的开工准备工作即将完成。该项目此前由普京总统重新命名为“贝加尔湖力量”。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "两艘悬挂土耳其国旗的货轮相撞 10名船员失联",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688784.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T08:20:21.000Z",
+   "summary": "中新社北京9月2日电 伊斯坦布尔消息：据土耳其伊斯坦布尔省长办公室2日消息，两艘悬挂土耳其国旗的货轮在土耳其马尔马拉海相撞，10名船员失联。",
+   "regions": []
+  },
+  {
+   "title": "【地震 M3.0】4 km WSW of Hamilton City, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75428637",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T08:18:27.530Z",
+   "summary": "美国地质调查局官方监测：4 km WSW of Hamilton City, CA发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄外交部发言人阐述乌克兰如何丧失其独立性和文化",
+   "link": "https://sputniknews.cn/20260902/1073036263.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T08:14:02.000Z",
+   "summary": "俄罗斯外交部发言人玛丽亚·扎哈罗娃在东方经济论坛上表示，乌克兰政客利用乌克兰民族符号来掩盖国家独立性和文化的丧失。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "日本首相寻求在美中峰会前后与特朗普联系",
+   "link": "https://sputniknews.cn/20260902/1073036118.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T08:00:04.000Z",
+   "summary": "据日本经济新闻报道，日本首相高市早苗计划在美中峰会前后与特朗普沟通，以协调日美两国的立场。",
+   "regions": [
+    "美洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "伊朗称打击约旦境内美军基地 造成“大量美军士兵死亡”",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688754.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T07:51:19.000Z",
+   "summary": "中新网9月2日电 据伊朗迈赫尔通讯社9月2日报道，伊朗伊斯兰革命卫队称，为报复美国针对伊朗南部的袭击，伊朗向约旦港口城市亚喀巴附近的一个美国海军陆战队基地发射重型弹道导弹，造成“大量美军士兵死亡”。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄国防部：俄军击中敖德萨无人艇工厂",
+   "link": "https://sputniknews.cn/20260902/1073036006.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T07:48:31.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月2日电 俄罗斯国防部9月2日发布消息称，俄军当天凌晨对敖德萨港实施集群打击，击中一家试制生产无人艇的工厂，以及六个存放乌军燃料的储油罐。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "“俄罗斯之魂”音乐会亮相2026年东方经济论坛",
+   "link": "https://sputniknews.cn/20260902/1073033886.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T07:42:57.000Z",
+   "summary": "9月2日，符拉迪沃斯托克革命战士广场举办“俄罗斯之魂—人人都懂的语言”音乐会。该活动由俄罗斯会展基金会组织，俄罗斯标准银行和A7支付系统提供战略支持，融合学院派音乐与民间音乐、现代流行乐、地方团体及中国艺术家的表演。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄远东联邦大学校长赞赏Z世代对科研的贡献",
+   "link": "https://sputniknews.cn/20260902/1073034124.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T07:31:35.000Z",
+   "summary": "俄罗斯远东联邦大学校长鲍里斯•科罗别茨9月2日在东方经济论坛“寄望青年：企业和政府能从Z世代身上学到什么？”会议上表示，年轻一代在学业上表现优异，随后积极投身科研活动。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "澳大利亚二季度GDP环比增长0.4%",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688734.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T07:29:52.000Z",
+   "summary": "中新社悉尼9月2日电 (记者 薄雯雯)澳大利亚统计局2日发布数据显示，经季节性因素调整，2026年第二季度国内生产总值(GDP)环比增长0.4%，同比增长2.1%。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄副外长：俄罗斯永远不会将南千岛群岛交给日本",
+   "link": "https://sputniknews.cn/20260902/1073034020.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T07:28:13.000Z",
+   "summary": "俄罗斯卫星通讯社符拉迪沃斯托克9月2日电 俄罗斯副外长亚历山大·格鲁什科在东方经济论坛期间对记者表示，俄罗斯将（南）千岛群岛交给日本的可能性为零，这个问题已不存在。",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.8】100 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjfvgz",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T07:15:05.863Z",
+   "summary": "美国地质调查局官方监测：100 km SSW of Nikolski, Alaska发生 3.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.0】94 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdk5",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T07:12:42.871Z",
+   "summary": "美国地质调查局官方监测：94 km SSW of Nikolski, Alaska发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "西藏吉隆口岸救援通道基本打通",
+   "link": "https://sputniknews.cn/20260902/1073033653.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T07:10:34.000Z",
+   "summary": "据中国媒体报道，截至9月2日10时许，通往西藏自治区吉隆口岸的救援通道已基本打通，救援人员、救援物资和部分装备已通过陆路通道进入核心区并开展深入救援工作。",
+   "regions": []
+  },
+  {
+   "title": "巴基斯坦安全部队在俾路支省展开反恐行动 击毙21名恐怖分子",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688688.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T07:07:39.000Z",
+   "summary": "中新社北京9月2日电 伊斯兰堡消息：当地时间9月1日，巴基斯坦三军新闻局发表声明通报称，8月31日至9月1日凌晨，该国俾路支省连发两起恐怖袭击事件并造成人员伤亡。巴基斯坦安全部队随即展开行动，相继击毙21名恐怖分子。",
+   "regions": []
+  },
+  {
+   "title": "“赛考斯”：让我们开始讲述彼此美好的故事",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688701.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T07:06:57.000Z",
+   "summary": "中新社华盛顿9月2日电 (记者 陈孟统)结束为期10天的中国访问行程，美国友人“赛考斯”(本名罗纳德·萨科尔斯基)当地时间9月1日晚返美，抵达华盛顿杜勒斯国际机场。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】70 km NNW of Arthurs Point, New Zealand",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T06:57:12.278Z",
+   "summary": "美国地质调查局官方监测：70 km NNW of Arthurs Point, New Zealand发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "新西兰",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】88 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdje",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T06:42:18.837Z",
+   "summary": "美国地质调查局官方监测：88 km SSW of Nikolski, Alaska发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】95 km SE of Akutan, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjesrd",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T06:41:20.203Z",
+   "summary": "美国地质调查局官方监测：95 km SE of Akutan, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部发言人：西方从部署军事存在转为利用数字技术远程影响他国内政",
+   "link": "https://sputniknews.cn/20260902/1073032156.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T06:36:28.000Z",
+   "summary": "2026年东方经济论坛期间，俄罗斯外交部发言人玛丽亚·扎哈罗娃在俄罗斯卫星通讯社主办的题为“全球南方数字主权：伙伴关系的新机遇”的会议上表示，西方已从部署军事存在转为利用数字技术远程影响主权国家的内政。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄外贸银行行长：远程办公令人“恐惧”",
+   "link": "https://sputniknews.cn/20260902/1073032053.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T06:27:01.000Z",
+   "summary": "俄罗斯外贸银行行长兼董事长安德烈•科斯京在2026年东方经济论坛期间回答了关于远程办公是“正常”还是“令人恐惧”的问题。他认为，远程办公令人“恐惧”。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】159 km SW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjeavt",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T06:20:45.991Z",
+   "summary": "美国地质调查局官方监测：159 km SW of Adak, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "愿同中国持续巩固永久全面战略伙伴关系——访哈萨克斯坦总统托卡耶夫",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688673.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T06:15:31.000Z",
+   "summary": "新华社比什凯克9月1日电 高端访谈｜愿同中国持续巩固永久全面战略伙伴关系——访哈萨克斯坦总统托卡耶夫",
+   "regions": []
+  },
+  {
+   "title": "【地震 M5.3】66 km NNW of Arthurs Point, New Zealand",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T06:13:33.779Z",
+   "summary": "美国地质调查局官方监测：66 km NNW of Arthurs Point, New Zealand发生 5.3 级地震，震源深度 未知。",
+   "regions": [
+    "新西兰",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄联邦渔业署：俄罗斯人每年吃鱼量低于标准",
+   "link": "https://sputniknews.cn/20260902/1073031924.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T06:12:44.000Z",
+   "summary": "俄罗斯联邦渔业署署长伊利亚•舍斯塔科夫在东方经济论坛期间表示，俄罗斯每年人均鱼类消费量较目标值28公斤低约5公斤。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "印度哈里亚纳邦发生交通事故，致6死14伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688662.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T06:07:59.000Z",
+   "summary": "中新网9月2日电 据《印度时报》报道，印度北部哈里亚纳邦1日凌晨发生一起交通事故，一辆载有朝圣者的皮卡车撞上停在高速公路路边的卡车，造成6人死亡、14人重伤。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】43 km NE of Ruteng, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj7",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T06:06:40.935Z",
+   "summary": "美国地质调查局官方监测：43 km NE of Ruteng, Indonesia发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】52 km SW of Puerto Madero, Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj6",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T06:06:30.953Z",
+   "summary": "美国地质调查局官方监测：52 km SW of Puerto Madero, Mexico发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】85 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjdejs",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T05:54:59.999Z",
+   "summary": "美国地质调查局官方监测：85 km SSW of Nikolski, Alaska发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "中国博主“蛋蛋”在东方经济论坛上开启俄罗斯商品直播",
+   "link": "https://sputniknews.cn/20260902/1073031105.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T05:48:50.000Z",
+   "summary": "据俄罗斯卫星通讯社记者报道，中国最具影响力的电商博主之一杨润心（网名“蛋蛋”）在东方经济论坛框架内启动了一场推广俄罗斯商品的直播活动。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "普京：俄美情报部门接触从未中断",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688643.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T05:48:33.000Z",
+   "summary": "中新网9月2日电 综合俄媒报道，俄罗斯总统普京9月1日表示，俄美两国情报部门代表之间的接触从未中断，目前仍在持续。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "查理·柯克谋杀案嫌疑人作无罪答辩，法官允许检方寻求死刑",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688625.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T05:42:35.000Z",
+   "summary": "中新网9月2日电 据英国广播公司(BBC)报道，23岁的美国犹他州男子泰勒·罗宾逊就涉嫌谋杀保守派活动家查理·柯克的指控作出无罪答辩，法官裁定检方可以在正式审判中寻求死刑判决。",
+   "regions": [
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】101 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj0",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T05:40:52.146Z",
+   "summary": "美国地质调查局官方监测：101 km SSW of Nikolski, Alaska发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】79 km S of Kaktovik, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjcsqh",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T05:40:40.688Z",
+   "summary": "美国地质调查局官方监测：79 km S of Kaktovik, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "全球南方数字主权如何构建：卫星通讯社专题讨论在东方经济论坛举行",
+   "link": "https://sputniknews.cn/20260902/1073031353.html",
+   "source": "卫星社中文",
+   "time": "2026-09-02T05:19:49.000Z",
+   "summary": "9月2日，东方经济论坛商业议程举行由俄罗斯卫星通讯社主办的“全球南方数字主权：伙伴关系的新机遇”专题讨论。与会嘉宾将围绕全球南方数字主权、主权媒体和社交平台建设，以及俄罗斯与中国、印度、越南和东盟国家在数字领域的合作前景展开讨论。北京时间1…",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "感染超过6000例，刚果（金）埃博拉疫情或成“史上最致命”",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688630.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-02T05:18:34.000Z",
+   "summary": "感染超过6000例，致死超过2900人，疫情发展仍未到拐点",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.9】101 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbyps",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T05:18:15.110Z",
+   "summary": "美国地质调查局官方监测：101 km SSW of Nikolski, Alaska发生 3.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】85 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbwrf",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T05:16:05.872Z",
+   "summary": "美国地质调查局官方监测：85 km SSW of Nikolski, Alaska发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】95 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdin",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T05:14:00.312Z",
+   "summary": "美国地质调查局官方监测：95 km SSW of Nikolski, Alaska发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】98 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdim",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T05:10:27.023Z",
+   "summary": "美国地质调查局官方监测：98 km SSW of Nikolski, Alaska发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】Kuril Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdk1",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T05:08:38.690Z",
+   "summary": "美国地质调查局官方监测：Kuril Islands发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】160 km SW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbpcn",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T05:07:20.144Z",
+   "summary": "美国地质调查局官方监测：160 km SW of Adak, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "俄外交部发言人：向基辅移交SCALP导弹是伦敦反俄政策的一部分",
    "link": "https://sputniknews.cn/20260902/1073030932.html",
    "source": "卫星社中文",
@@ -634,6 +1708,17 @@
    "summary": "记者从福建省防汛抗旱指挥部了解到，当前，福建省沿海和南部地区迎来新一轮持续性强降雨过程，局部累计雨量大，且降雨落区与前期双台风影响降雨落区重叠，致灾风险大。9月1日6时至2日6时，全省累计雨量有355个乡镇超过50毫米，其中2个乡镇超过25…",
    "regions": [
     "福建"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】0 km S of Indios, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530593",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T04:42:46.470Z",
+   "summary": "美国地质调查局官方监测：0 km S of Indios, Puerto Rico发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
    ]
   },
   {
@@ -1203,6 +2288,60 @@
  ],
  "tw": [
   {
+   "title": "因海象不佳影响 “两马”航线将双向停航",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688868.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T09:05:18.000Z",
+   "summary": "中新网福州9月2日电 (郑江洛)据福州港客运站2日通报，因海象不佳，福州马尾至马祖客运航线3日将双向停航。",
+   "regions": [
+    "福州"
+   ]
+  },
+  {
+   "title": "深圳出海e站通打造企业出海首选地 服务延伸至14省市",
+   "link": "https://www.chinanews.com.cn/dwq/2026/09-02/10688837.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:34:46.000Z",
+   "summary": "前不久在香港会议展览中心，茶香氤氲，人潮涌动。深圳出海e站通以前海“拼船出海”模式，组织内地7家优质茶企组成专属展团，亮相2026香港国际茶展。首日就与东南亚、中国香港及内地数十家采购商建立联络。",
+   "regions": [
+    "亚太",
+    "深圳"
+   ]
+  },
+  {
+   "title": "大熊猫“圆圆”庆生 国台办发言人送上祝福",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688814.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:18:03.000Z",
+   "summary": "中新社北京9月2日电 (记者 黄欣欣 张晓曦)就台北市动物园近日为大陆赠台大熊猫“圆圆”举办22岁生日庆祝活动相关话题，国务院台办发言人张晗2日在北京强调，大熊猫深受两岸民众喜爱，是和平友爱的化身。",
+   "regions": [
+    "台海",
+    "北京"
+   ]
+  },
+  {
+   "title": "台陆委会称赴大陆有风险 国台办指不违法无顾虑",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688783.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T07:59:31.000Z",
+   "summary": "中新社北京9月2日电 (记者 张晓曦 黄欣欣)《国务院关于出境入境管理的规定》将于9月15日施行。国务院台办发言人张晗2日在北京强调，只要不从事违法犯罪活动，台湾同胞来大陆完全不需要有任何顾虑。",
+   "regions": [
+    "台海",
+    "北京"
+   ]
+  },
+  {
+   "title": "汉服团体涉“统战”？国台办指民进党当局用心险恶",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688778.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T07:57:57.000Z",
+   "summary": "中新社北京9月2日电 (记者 黄欣欣 张晓曦)就绿营政客近日宣称台湾民间汉服团体“具统战色彩”并得到官方应和，国务院台办发言人张晗2日在北京指，民进党当局恐吓打压参与两岸交流活动的台湾同胞，用心险恶。",
+   "regions": [
+    "台海",
+    "北京"
+   ]
+  },
+  {
    "title": "特朗普提名下任美国海军部长：高雄，越南裔",
    "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688527.shtml",
    "source": "中新网滚动",
@@ -1330,6 +2469,579 @@
   }
  ],
  "cn": [
+  {
+   "title": "因海象不佳影响 “两马”航线将双向停航",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688868.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T09:05:18.000Z",
+   "summary": "中新网福州9月2日电 (郑江洛)据福州港客运站2日通报，因海象不佳，福州马尾至马祖客运航线3日将双向停航。",
+   "regions": [
+    "福州"
+   ]
+  },
+  {
+   "title": "宁夏回族自治区气象台发布大风蓝色预警信号",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688849.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T09:04:00.000Z",
+   "summary": "中新网9月2日电 据中央气象台网站消息，宁夏回族自治区气象台2026年09月02日16时05分发布大风蓝色预警信号：预计3日白天，贺兰山沿山，大武口区、惠农区、灵武市、原州区、西吉县、彭阳县、吴忠和中卫两市有4级左右偏南风，阵风6～8级，请…",
+   "regions": [
+    "吴忠",
+    "中卫"
+   ]
+  },
+  {
+   "title": "北京动物园：计划9月4日至9日对大熊猫新馆室内展厅门进行改造升级",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688839.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T09:03:54.000Z",
+   "summary": "中新网9月2日电 据北京动物园微博消息，为进一步提升动物福利，北京动物园计划于9月4日至9月9日对大熊猫新馆室内展厅门进行改造升级，增设交流窗。施工期间，每天将有部分大熊猫暂停对外展示。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "追着牧民转场40余年 阿鲁科尔沁草原有一支流动医疗队",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688860.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T09:03:36.000Z",
+   "summary": "中新网赤峰9月2日电 题：追着牧民转场40余年 阿鲁科尔沁草原有一支流动医疗队",
+   "regions": []
+  },
+  {
+   "title": "习近平致电祝贺挪威国王哈康八世即位",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688870.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T09:02:52.000Z",
+   "summary": "新华社北京9月2日电#8195;9月2日，国家主席习近平向挪威新任国王哈康八世致贺电，对其即位表示祝贺。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "越南用工荒打脸“中国挤压论”",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688862.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:59:51.000Z",
+   "summary": "在越南，工人不够用了。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "湖南省气象台发布暴雨蓝色预警",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688851.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:58:19.000Z",
+   "summary": "中新网9月2日电 湖南省气象台2026年9月2日16时发布暴雨蓝色预警：预计2日20时至3日20时，株洲中南部、衡阳、郴州北部、永州北部有暴雨，局地大暴雨(100~150毫米)，并伴有短时强降水(最大小时雨强10~30毫米)、大风(阵风7~…",
+   "regions": [
+    "株洲",
+    "郴州"
+   ]
+  },
+  {
+   "title": "普京将与特朗普在今年APEC峰会期间会晤？外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688865.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:58:11.000Z",
+   "summary": "中新网北京9月2日电(记者 邢翀)中国外交部发言人郭嘉昆9月2日主持例行记者会。",
+   "regions": [
+    "俄乌",
+    "美洲",
+    "北京"
+   ]
+  },
+  {
+   "title": "农民书写自己的村庄生活 湖南益阳山乡长出文学新苗",
+   "link": "https://www.chinanews.com.cn/cul/2026/09-02/10688852.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:56:45.000Z",
+   "summary": "中新网益阳9月2日电 (付敬懿 刘美玲 陈曦)农民邓春生等三人即将出版个人专著；四名村民接到鲁迅文学院的橄榄枝；《中国作家》杂志再次向农民创作者约稿……1955年，周立波回到湖南益阳市清溪村，和社员一起劳动，在鲜活实践中创作《山乡巨变》；7…",
+   "regions": [
+    "益阳",
+    "湖南"
+   ]
+  },
+  {
+   "title": "开学返校，这份身心调适“锦囊”请查收",
+   "link": "https://www.chinanews.com.cn/edu/2026/09-02/10688864.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:56:35.000Z",
+   "summary": "新华社西安9月1日电(记者蔺娟)新学期来临，从假期的自由轻松状态切换到规律的校园生活，有的孩子充满期待和兴奋，有的孩子会出现紧张和焦虑状态。如何帮助孩子调整状态、缓解焦虑，平稳开启校园学习生活？来听听心理专家怎么说。",
+   "regions": [
+    "西安"
+   ]
+  },
+  {
+   "title": "国家安全生产应急救援队伍持续监测现场次生灾害 采集2700组数据",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688861.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:53:59.000Z",
+   "summary": "西藏日喀则市吉隆县泥石流灾害发生后，应急管理部调派国家安全生产应急救援队伍跨区域增援，全力支持地方做好救援工作。",
+   "regions": [
+    "西藏"
+   ]
+  },
+  {
+   "title": "（走进中国乡村）深山灵芝“破壁”：千年“仙草”浙江乡村焕新机",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688857.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:51:19.000Z",
+   "summary": "中新社浙江丽水9月2日电 题：深山灵芝“破壁”：千年“仙草”浙江乡村焕新机",
+   "regions": [
+    "浙江"
+   ]
+  },
+  {
+   "title": "市场监管总局：上半年全国市场监管系统查办案件64.17万件",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688840.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:47:07.000Z",
+   "summary": "中新网9月2日电 据“市说新语”微信公众号消息，近日，全国市场监管执法稽查工作暨查处“幽灵外卖”违法行为座谈会在内蒙古自治区包头市召开。市场监管总局副局长白清元出席会议并讲话。",
+   "regions": [
+    "内蒙古"
+   ]
+  },
+  {
+   "title": "时政微观察丨“无我”之诺 跨越山海",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688858.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:45:50.000Z",
+   "summary": "“钦佩在习近平主席领导下中国取得的辉煌发展成就，愿学习中国治国理政经验，特别是习近平主席‘我将无我、不负人民’的情怀。”",
+   "regions": []
+  },
+  {
+   "title": "兰州陇原竞技队告别足协杯 一支中乙小球队的奇迹之旅",
+   "link": "https://www.chinanews.com.cn/ty/2026/09-02/10688848.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:43:24.000Z",
+   "summary": "本报记者 金亦辰",
+   "regions": [
+    "兰州"
+   ]
+  },
+  {
+   "title": "黑龙江伊春：游客探秘“中国第一龙乡”",
+   "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202938.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:39:30.000Z",
+   "summary": "",
+   "regions": [
+    "黑龙江"
+   ]
+  },
+  {
+   "title": "重庆国际旅行卫生保健中心2026年投射式视野检查仪采购项目比选公告",
+   "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-02/10688841.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:38:58.000Z",
+   "summary": "重庆国际旅行卫生保健中心(重庆海关口岸门诊部)对重庆国际旅行卫生保健中心2026年投射式视野检查仪采购项目进行比选采购。本项目采购活动将严格落实节约能源、保护环境、扶持不发达地区和少数民族地区、促进中小企业发展等政府采购政策。",
+   "regions": [
+    "重庆"
+   ]
+  },
+  {
+   "title": "国务院任免国家工作人员",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688829.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:36:58.000Z",
+   "summary": "中新网9月2日电 据人社部网站消息，国务院任免国家工作人员。",
+   "regions": []
+  },
+  {
+   "title": "江西省纪委监委驻省交通运输厅纪检监察组原一级巡视员蓝丽红接受审查调查",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688833.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:36:48.000Z",
+   "summary": "中新网9月2日电 据江西省纪委监委消息：江西省纪委监委驻省交通运输厅纪检监察组原一级巡视员蓝丽红涉嫌严重违纪违法，目前正接受江西省纪委监委纪律审查和监察调查。",
+   "regions": [
+    "江西"
+   ]
+  },
+  {
+   "title": "时政新闻眼丨推动上合组织实现更高质量发展，习近平为何强调这句话？",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688846.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:36:46.000Z",
+   "summary": "",
+   "regions": []
+  },
+  {
+   "title": "河北高阳警方通报“女子被当街殴打撕扯”：2人被刑拘",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688826.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:35:58.000Z",
+   "summary": "中新网9月2日电 据“高阳公安”微信公众号消息，9月2日，河北高阳县公安局发布警情通报：",
+   "regions": [
+    "河北"
+   ]
+  },
+  {
+   "title": "新疆是个好地方丨文旅活动多点开花 新疆旅游持续升温",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688838.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:35:14.000Z",
+   "summary": "“吐鲁番景色优美，人文历史风情浓厚，还能品尝甘甜的葡萄，在这里真的很‘巴适’。”8月27日，重庆游客李会峰用一句家乡话，道出了他在吐鲁番的旅行感受。当天，他上午漫步葡萄沟、探访坎儿井，下午前往火焰山，亲身体验了一把与山城重庆截然不同的“热”…",
+   "regions": [
+    "重庆",
+    "吐鲁番"
+   ]
+  },
+  {
+   "title": "检察机关依法分别对杨洪、张云洪、毛义强、佘芝云提起公诉",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688806.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:33:16.000Z",
+   "summary": "中新网9月2日电 据最高人民检察院微信公众号消息，日前，检察机关依法分别对杨洪、张云洪、毛义强、佘芝云提起公诉。",
+   "regions": []
+  },
+  {
+   "title": "重庆将系统推进群众身边水体保护治理 重心向县乡延伸",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688831.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:33:10.000Z",
+   "summary": "中新网重庆9月2日电 (梁钦卿)重庆市政府新闻办2日举行新闻发布会，重庆市生态环境局局长余国东在会上回答中新网提问说，群众身边水体是水污染问题的“晴雨表”，也是生态环境治理能力的“真功夫”。“十五五”时期，重庆将系统推进群众身边水体保护治理…",
+   "regions": [
+    "重庆"
+   ]
+  },
+  {
+   "title": "中国专家协同排查尼泊尔泥石流灾区受损隧道",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688830.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:31:40.000Z",
+   "summary": "近日，尼泊尔北部地区突发严重泥石流灾害，导致多处陆路交通阻断，搜救工作面临极大挑战。在尼泊尔政府统一调度下，中国援尼隧道专家与尼泊尔军方及当地救援力量紧密协同，深入受灾核心区域，对多座受损隧道展开排查与搜救。",
+   "regions": []
+  },
+  {
+   "title": "湖南炎陵发布情况通报：极端强降雨已致2人死亡2人失联",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688801.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:21:03.000Z",
+   "summary": "中新网9月2日电 据湖南省株洲市炎陵县人民政府网站消息，9月2日，湖南炎陵县应急和安全生产委员会发布情况通报：8月29日起，湖南炎陵遭遇极端强降雨天气，降雨瞬时雨量大、致灾风险高，部分地区水位超历史极值，个别地方引发山洪泥石流灾害。截至目前…",
+   "regions": [
+    "株洲",
+    "湖南"
+   ]
+  },
+  {
+   "title": "中国研究团队系统揭示吉隆泥石流灾害放大机制：高位冰岩崩+沿程增容",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688791.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:17:19.000Z",
+   "summary": "中新网北京9月2日电 (记者 孙自法)由中国科学院青藏高原研究所牵头的联合研究团队，最近在西藏吉隆“8·26”泥石流灾害成因及放大机制方面取得重要研究进展，他们综合研究发现，高位冰岩崩+沿程增容是造成此次泥石流灾害的主因。",
+   "regions": [
+    "北京",
+    "西藏"
+   ]
+  },
+  {
+   "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688817.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:17:01.000Z",
+   "summary": "9月2日，中国人民解放军南部战区组织海空兵力位中国黄岩岛领海领空及周边海空域开展战备警巡。黄岩岛是中国固有领土。8月份以来，战区部队组织海空兵力持续加强黄岩岛领海周边海空域巡逻警戒，进一步强化有关海空域管控力度，有力有效应对各类侵权挑衅行径…",
+   "regions": [
+    "南海"
+   ]
+  },
+  {
+   "title": "中国外交部介绍习近平主席出席2026年上海合作组织峰会情况",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688815.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:13:37.000Z",
+   "summary": "中新网北京9月2日电 (记者 邢翀 张素)中国外交部发言人郭嘉昆9月2日主持例行记者会。",
+   "regions": [
+    "北京",
+    "上海"
+   ]
+  },
+  {
+   "title": "出版社里响起咏叹调 在音乐会“用耳朵阅读”",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688804.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:12:37.000Z",
+   "summary": "中新网北京9月2日电 (记者 应妮)一场不售票、不设门槛的歌剧之夜，日前在中国大百科全书出版社的舞台上演。主办方以此举表达，阅读不止于纸页——音乐会“用耳朵阅读”，每首咏叹调背后的歌剧故事、作曲家生平与时代风华，本身就是一部立体的“音乐百科…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "中方：将继续大力支持尼方救灾，加强防灾减灾合作",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688811.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:12:15.000Z",
+   "summary": "中新网北京9月2日电(记者 邢翀)中国外交部发言人郭嘉昆9月2日主持例行记者会。有记者就喜马拉雅地区的冰川退缩危机与此次泥石流灾害等相关问题提问。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "广西贺州“粤港澳大湾区菜篮子”上演“丰收接力”",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688803.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:11:21.000Z",
+   "summary": "中新网贺州9月2日电 题：广西贺州“粤港澳大湾区菜篮子”上演“丰收接力”",
+   "regions": [
+    "贺州",
+    "广西"
+   ]
+  },
+  {
+   "title": "福建福耀科技大学牵手意大利青年艺术家共建歌剧院",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688800.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:10:31.000Z",
+   "summary": "中新网福州9月2日电 (叶秋云)福建福耀科技大学德旺·斯特拉迪瓦里歌剧院暨国际音乐艺术中心2日在福建福耀科技大学揭牌成立。",
+   "regions": [
+    "欧洲",
+    "福州",
+    "福建"
+   ]
+  },
+  {
+   "title": "“沙漠里长出的答案”——丝路相连文明相通 中埃七十载共绘发展新图景",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688808.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:09:43.000Z",
+   "summary": "【中国那些事儿】“沙漠里长出的答案”——丝路相连文明相通 中埃七十载共绘发展新图景",
+   "regions": []
+  },
+  {
+   "title": "中方：敦促日本当局切实恪守《日本投降书》所确认的国际义务",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688799.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:04:12.000Z",
+   "summary": "中新网北京9月2日电 (记者 邢翀 张素)中国外交部发言人郭嘉昆9月2日主持例行记者会。",
+   "regions": [
+    "亚太",
+    "北京"
+   ]
+  },
+  {
+   "title": "中方谈美国友人“赛考斯”访华：将一如既往支持两国人民多来往多交流",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688794.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:02:16.000Z",
+   "summary": "中新网北京9月2日电 (记者 邢翀 张素)中国外交部发言人郭嘉昆9月2日主持例行记者会。",
+   "regions": [
+    "美洲",
+    "北京"
+   ]
+  },
+  {
+   "title": "通往吉隆口岸216国道实现畅通 深层次搜救正在进行",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688793.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:01:18.000Z",
+   "summary": "9月2日上午10时，从吉隆镇通往吉隆口岸的陆路救援通道实现畅通。大型车辆、机械设备可通过216国道进入受灾核心区，开展深层次搜救。此前，216国道在吉隆泥石流灾害中部分损毁，在西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部统一部署下，…",
+   "regions": [
+    "西藏"
+   ]
+  },
+  {
+   "title": "中国国家气候中心：气候变暖背景下未来山地冰川灾害或更频繁",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688787.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:01:12.000Z",
+   "summary": "中新社北京9月2日电 (记者 陈溯)中国国家气候中心副主任高荣2日在北京表示，全球气候变暖背景下，预计未来青藏高原冰川灾害或更加频繁。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "外交部：有近百名中国公民在尼泊尔受灾地区失联",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688792.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:00:30.000Z",
+   "summary": "中新网北京9月2日电(记者 邢翀)中国外交部发言人郭嘉昆9月2日主持例行记者会。记者就泥石流灾害失联人员等相关问题提问。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "陕西延安：电网纵横铺就发展高速路",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688786.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:59:19.000Z",
+   "summary": "中新网陕西延安9月2日电 题：陕西延安：电网纵横铺就发展高速路",
+   "regions": [
+    "延安",
+    "陕西"
+   ]
+  },
+  {
+   "title": "中国官方出台文件规范考古文物移交时间表",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688777.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T07:56:15.000Z",
+   "summary": "中新社北京9月2日电 (记者 应妮)中国国家文物局2日对外发布文件，对考古文物移交时间予以明确规范。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "新学期广州206所小学完成加装空调",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688776.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:54:43.000Z",
+   "summary": "中新网广州9月2日电(王华 龚甸)这个暑假，广州全市有206所公办小学完成加装空调。1日，孩子们在凉爽的课室内上起开学第一课。",
+   "regions": [
+    "广州"
+   ]
+  },
+  {
+   "title": "一束慈善微光，照亮千余名“小黄人”的新生路",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688775.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:53:51.000Z",
+   "summary": "中新网杭州9月2日电(张煜欢)在高质量建设共同富裕示范区进程中，普惠的善意、均等的健康保障，是藏在烟火里的动人底色。在浙江，无数细微的公益微光正汇聚成炬，照亮普通家庭的脱困之路。持续七年的“小黄人”公益计划，便是其中一抹温暖持久的亮色。",
+   "regions": [
+    "杭州",
+    "浙江"
+   ]
+  },
+  {
+   "title": "六旬老人8个月医美消费370万元 没变年轻反而更憔悴",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688782.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:53:49.000Z",
+   "summary": "浙江金华61岁的雷女士因为身体状况不佳，一直在家休养。2024年下半年，她在网上结识了一名做微商的女子“小华”，起初小华给雷女士推荐了保健品，并靠着日常嘘寒问暖与雷女士越走越近。",
+   "regions": [
+    "浙江"
+   ]
+  },
+  {
+   "title": "新华社快讯：习近平同埃及总统塞西举行会谈",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688785.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T07:53:39.000Z",
+   "summary": "新华社快讯：当地时间9月2日上午，国家主席习近平在开罗同埃及总统塞西举行会谈。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "解码“十五五”美丽重庆建设规划 锚定川渝地区美丽中国先行区目标",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688773.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T07:52:39.000Z",
+   "summary": "中新网重庆9月2日电 (梁钦卿)重庆市政府新闻办2日举行新闻发布会，介绍《重庆市“十五五”美丽重庆建设规划(2026—2030年)》(下称《规划》)有关情况。今年是“十五五”开局之年，重庆市生态环境保护工作开局良好。今年1月至8月，长江干流…",
+   "regions": [
+    "重庆"
+   ]
+  },
+  {
+   "title": "强降雨过程导致福建11县16河发生超警戒水位洪水",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688768.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:51:23.000Z",
+   "summary": "中新网福州9月2日电 (记者 龙敏)当前，福建省沿海和南部地区迎来新一轮持续性强降雨过程，局部累计雨量大，且降雨落区与前期双台风影响降雨落区重叠，致灾风险大。福建省防汛办2日通报，强降雨过程导致11县16河21站发生超警戒水位洪水，超警幅度…",
+   "regions": [
+    "福州",
+    "福建"
+   ]
+  },
+  {
+   "title": "外交部：根据尼方需求，中方正在筹备第三批紧急援助物资",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688772.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T07:47:11.000Z",
+   "summary": "中新网北京9月2日电(记者 邢翀)中国外交部发言人郭嘉昆9月2日主持例行记者会。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "外交部：敦促日本当局同军国主义彻底切割",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688770.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T07:46:09.000Z",
+   "summary": "新华社北京9月2日电(记者冯歆然、吴梦桐)就有观点称《联合国宪章》中的“敌国条款”已经失效、没有实际意义，外交部发言人郭嘉昆2日在例行记者会上答问时表示，日本“新型军国主义”这头“灰犀牛”正在奔袭而来，再度对亚太和平稳定带来威胁。在这一背景…",
+   "regions": [
+    "亚太",
+    "北京"
+   ]
+  },
+  {
+   "title": "青藏高原如何形成多样性高海拔生态系统？最新研究揭晓起源之谜",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688759.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T07:44:51.000Z",
+   "summary": "中新网北京9月2日电 (记者 孙自法)青藏高原东部是热带之外生物多样性最丰富的热点地区，其多样性高海拔生态系统如何形成被学界称为“洪堡之谜”，两个世纪以来一直悬而未决，备受关注。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "德化建白瓷大师：从艺七十载 守护古瓷种",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688757.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:44:13.000Z",
+   "summary": "中新网福建德化9月2日电 (记者 孙虹)从捡拾瓷片复原古瓷，到古稀之年重启窑火，“中国陶瓷艺术终身成就奖”获得者寇富平两次复兴濒临消亡的古瓷种工艺。近日，寇富平在其工作室接受记者采访时表示，尽一生之力守护建白瓷，只希望让“中国白”走得更远、…",
+   "regions": [
+    "福建"
+   ]
+  },
+  {
+   "title": "习近平出席埃及总统塞西举行的欢迎仪式",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688766.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T07:43:59.000Z",
+   "summary": "视频：习近平出席埃及总统塞西举行的欢迎仪式来源：新华社",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "江苏无锡发布太湖封航公告",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688752.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:43:09.000Z",
+   "summary": "中新网南京9月2日电 (记者 朱晓颖)2日，江苏无锡发布太湖封航公告。",
+   "regions": [
+    "南京",
+    "无锡"
+   ]
+  },
+  {
+   "title": "今年已有7个台风登陆中国 较常年明显偏多",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688749.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:41:36.000Z",
+   "summary": "中新社北京9月2日电 (记者 陈溯)记者2日从中国气象局获悉，今年已有7个台风登陆中国，与多年同期平均(4.9个)相比偏多2.1个。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "接不了电话问不了地址 听障骑手如何跑成“单王”?",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688756.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:40:10.000Z",
+   "summary": "“您好，我是聋人小哥骑手，您的餐品已经准时送达……”这句话，被他们存在手机里，每天要发送几十遍。",
+   "regions": []
+  },
+  {
+   "title": "官方通报香格里拉虎跳峡景区外围北侧山体发生落石：无人员受伤",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688737.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:36:02.000Z",
+   "summary": "中新网9月2日电 据“迪庆州香格里拉虎跳峡景区”微信公众号消息，9月2日，云南迪庆州香格里拉虎跳峡景区发布通告：2026年9月1日10:30左右，香格里拉虎跳峡景区外围北侧山体发生落石。经现场核实，落石点距离景区游览区约600米，未波及游览…",
+   "regions": [
+    "云南"
+   ]
+  },
+  {
+   "title": "重庆市县丰都县气象台发布森林（草原）火险橙色预警信号",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688698.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:30:34.000Z",
+   "summary": "中新网9月2日电 据中央气象台网站消息，重庆丰都县森林防灭火指挥部、丰都县应急管理局、丰都县林业局、丰都县气象局2026年9月2日15时00分联合发布“森林草原火险橙色预警信号”，预计9月2日到9月9日所有乡镇(街道)将持续高森林火险气象等…",
+   "regions": [
+    "重庆"
+   ]
+  },
   {
    "title": "河南焦作孟州市：创新载体形式 激发民族团结进步教育“新活力”",
    "link": "https://www.chinanews.com.cn/txy/2026/09-02/10688592.shtml",
@@ -1902,6 +3614,325 @@
  ],
  "econ": [
   {
+   "title": "第二十届赣台会将举办 “新面孔、首来族”比例超往届",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688855.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T09:03:14.000Z",
+   "summary": "中新网南昌9月2日电(朱莹 吴思瑜)第二十届赣台(庐山)经贸文化合作交流大会(以下简称“赣台会”)将于9月10日至11日在江西庐山举办。江西省台办主任蔡清平2日在新闻发布会上透露，截至目前，本届赣台会报名参会的岛内团组10个，上市上柜企业1…",
+   "regions": [
+    "南昌",
+    "江西"
+   ]
+  },
+  {
+   "title": "2026年01月至07月云南省进出口月度总值表",
+   "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-02/10688867.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T09:02:06.000Z",
+   "summary": "2026年01月至07月云南省进出口月度总值表.xlsx",
+   "regions": [
+    "云南"
+   ]
+  },
+  {
+   "title": "越南用工荒打脸“中国挤压论”",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688862.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T08:59:51.000Z",
+   "summary": "在越南，工人不够用了。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "“一税两费”合成地方附加税 是否会影响税负水平？",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688859.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T08:53:19.000Z",
+   "summary": "《中华人民共和国地方附加税法(征求意见稿)》正在向社会公开征求意见，将持续至9月27日。专家表示，地方附加税有望成为地方税体系中的第一大税种。什么是地方附加税？是否会影响纳税人的税负水平？如何为地方政府提供财力“硬支撑”？一起了解。",
+   "regions": []
+  },
+  {
+   "title": "市场监管总局：上半年全国市场监管系统查办案件64.17万件",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688840.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T08:47:07.000Z",
+   "summary": "中新网9月2日电 据“市说新语”微信公众号消息，近日，全国市场监管执法稽查工作暨查处“幽灵外卖”违法行为座谈会在内蒙古自治区包头市召开。市场监管总局副局长白清元出席会议并讲话。",
+   "regions": []
+  },
+  {
+   "title": "A股收评：近3900只个股飘绿，三大指数集体收跌",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688847.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-02T08:42:36.000Z",
+   "summary": "A股收评：近3900只个股飘绿，三大指数集体收跌；稀土、锂电概念股下挫，农业领跌，煤炭、通信设备、半导体下跌；航天军工逆市走强",
+   "regions": []
+  },
+  {
+   "title": "五部门将开展第六次中国城乡老年人生活状况抽样调查",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688821.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:34:14.000Z",
+   "summary": "中新网9月2日电 据民政部网站消息，9月2日，民政部、中央社会工作部、财政部、全国老龄办、中国老龄协会等五部门日前联合印发通知，将组织开展第六次中国城乡老年人生活状况抽样调查。全文如下：",
+   "regions": []
+  },
+  {
+   "title": "“房贷最长可贷40年”落地情况如何？多家银行“可接单”",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688823.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T08:25:45.000Z",
+   "summary": "羊城晚报讯 记者戴曼曼报道：8月28日，中国人民银行、国家金融监督管理总局联合印发《关于改革完善房地产信贷管理 推动加快构建房地产发展新模式的意见》，明确将个人住房贷款最长期限从30年调整为最长不超过40年，具体期限由购房人与商业银行协商确…",
+   "regions": []
+  },
+  {
+   "title": "零时差 | “青岛路”“海尔路”，写进埃及现代化叙事",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688818.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T08:20:27.000Z",
+   "summary": "在开罗东部斋月十日城工业区，当地政府将一条路命名为“青岛路”，与之相交的另外一条路被命名为“海尔路”。埃及的道路，为何会以中国城市、中国企业命名？答案就在临近这两条路的海尔埃及生态园里。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "开局起步“十五五”：三亚以更高水平开放赋能高质量发展",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688813.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T08:16:33.000Z",
+   "summary": "中新网海口9月2日电 (张月和)近日发布的《“十五五”海南开放型经济发展规划》明确提出，打造三亚经济圈国际消费与科创高地，深化国际消费场景建设，推动科技成果转化，差异化培育经济新增长点。三亚如何落实这一战略定位，进一步提升开放型经济的辨识度…",
+   "regions": []
+  },
+  {
+   "title": "新款未出二手已涨价 手机涨价会成为新常态吗？",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688816.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T08:16:25.000Z",
+   "summary": "9月1日，“手机涨价”等词条冲上热搜第一。记者梳理发现，华为、小米、荣耀三个品牌在同日上调多款在售机型售价，单次涨幅200元至1000元不等。这与往年新品发布季前“老款降价清库存“的惯例截然相反。部分热门机型一个月内已连续两次调价，累计涨幅…",
+   "regions": []
+  },
+  {
+   "title": "再添全铁直达新线 成都中亚班列激活运贸产融合新动能",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688796.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T08:15:37.000Z",
+   "summary": "中新网成都9月2日电 (记者 张浪)成都国际铁路港2日发布消息：满载55柜汽车零配件、轮胎等货物的中亚班列1日从成都国际铁路港顺利首发，将经霍尔果斯口岸出境，直达土库曼斯坦萨拉赫斯站。这是今年继阿加拉全铁班列后，成都开通的第二条直抵土库曼斯…",
+   "regions": []
+  },
+  {
+   "title": "五部门将开展第六次中国城乡老年人生活状况抽样调查",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688812.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T08:12:45.000Z",
+   "summary": "民政部、中央社会工作部、财政部、全国老龄办、中国老龄协会等五部门日前联合印发通知，将组织开展第六次中国城乡老年人生活状况抽样调查(以下简称第六次抽样调查)，为深入实施积极应对人口老龄化国家战略，完善相关法律、法规和政策，提供基础数据保障。",
+   "regions": []
+  },
+  {
+   "title": "埃及水果香飘中国、国产汽车“扬帆出海” 中埃好物双向奔赴",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688802.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T08:05:18.000Z",
+   "summary": "今年是中国与埃及建交70周年，埃及是最早同新中国建交的阿拉伯和非洲国家。随着中埃共建“一带一路”合作持续走深走实，零关税政策红利加速释放，双边经贸往来热度不断攀升。",
+   "regions": [
+    "美洲",
+    "非洲"
+   ]
+  },
+  {
+   "title": "中方：对二十国集团财长和央行行长会议未能发表公报深表遗憾",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688798.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-02T08:03:26.000Z",
+   "summary": "中新网北京9月2日电(记者 邢翀)中国外交部发言人郭嘉昆9月2日主持例行记者会。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "（乡村行·看振兴）山西屯留：千亩果园硕果飘香 “采摘经济”点亮乡村振兴丰收图景",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688774.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T07:51:17.000Z",
+   "summary": "图为游客正在采摘酥梨。李红卫 摄 中新网长治9月2日电 (杜佳敏 江浩 高雨晴)眼下，山西省长治市屯留区渔泽镇岗上村千亩果园迎来秋日丰收季，酥梨率先成熟，全面进入采摘期，田间地头一派丰收的喜人景象，苹果长势稳定，预计九月下旬陆续成熟上市。",
+   "regions": []
+  },
+  {
+   "title": "新疆昆玉为水库蓄水安上“节水防护罩”",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688761.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:43:41.000Z",
+   "summary": "中新网乌鲁木齐9月2日电 (史玉江)记者1日从新疆生产建设兵团第十四师昆玉经济开发区获悉，由新疆一企业承建的水库物理遮罩防蒸发项目正加紧生产投放，依靠国内首创的钻石体阻蒸发浮子技术，为水库蓄水安上“节水防护罩”。",
+   "regions": [
+    "乌鲁木齐",
+    "新疆"
+   ]
+  },
+  {
+   "title": "APEC经济体代表在穗探讨创新赋能中小企业高质量发展",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688750.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T07:41:24.000Z",
+   "summary": "中新网广州9月2日电 (记者 许青青)由中国电子信息产业发展研究院主办的APEC创新赋能中小企业高质量发展论坛1日在广州举办，来自新加坡、墨西哥、美国、韩国、马来西亚、泰国、中国香港等经济体的政府机构、国际组织、企业及智库代表齐聚一堂，围绕…",
+   "regions": [
+    "朝鲜半岛",
+    "美洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "第四届网络空间安全（天津）论坛开幕",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688740.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-02T07:34:36.000Z",
+   "summary": "中新网天津9月2日电 (江莹)第四届网络空间安全(天津)论坛2日在天津市滨海新区开幕。来自网络安全领域的国际组织、政府部门、科研院所、金融机构、高等院校及企业等近800名代表齐聚一堂，共商网络安全务实对策。",
+   "regions": [
+    "天津"
+   ]
+  },
+  {
+   "title": "车停进车位，人出不来 新能源车为何越造越宽大？",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688743.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T07:32:28.000Z",
+   "summary": "中大型新能源车市场快速扩容，不少市民驾车出行都遭遇过“车大位窄”的尴尬。北京晚报记者调查发现，当前商场停车位仍沿用多年前适配小型燃油车的建设标准，与持续加宽的新能源车型明显错位。同样的情况也发生在小区、写字楼、医院等公共场所。车主希望停车位…",
+   "regions": []
+  },
+  {
+   "title": "9月2日“农产品批发价格200指数”比昨天上升0.06个点",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688724.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T07:31:00.000Z",
+   "summary": "中新网9月2日电 据农业农村部网站消息，据农业农村部监测，9月2日“农产品批发价格200指数”为116.16，比昨天上升0.06个点，“菜篮子”产品批发价格指数为116.79，比昨天上升0.07个点。截至今日14:00时，全国农产品批发市场…",
+   "regions": []
+  },
+  {
+   "title": "市场监管总局公布九起养老服务领域不正当竞争典型案例",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688717.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T07:30:52.000Z",
+   "summary": "中新网9月2日电 据国家市场监督管理总局网站消息，近年来，市场监管总局按照深化群众身边不正之风和腐败问题集中整治要求，坚持以案破局、以案促治，持续强化反不正当竞争执法，严厉打击养老服务领域虚假宣传等不正当竞争违法行为，切实维护人民群众合法权…",
+   "regions": []
+  },
+  {
+   "title": "一条航线链接全球 “空中丝绸之路”筑牢河南开放枢纽",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688738.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T07:29:40.000Z",
+   "summary": "中新网郑州9月2日电 题：一条航线链接全球 “空中丝绸之路”筑牢河南开放枢纽",
+   "regions": []
+  },
+  {
+   "title": "沈阳人工智能应用供需对接会举办 四链融合筑AI生态",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688714.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T07:16:41.000Z",
+   "summary": "中新网沈阳9月2日电 (记者 李晛)第三届CCF数字孪生创新发展推进会分会--沈阳人工智能应用供需对接会，9月2日在沈阳市举办。",
+   "regions": []
+  },
+  {
+   "title": "厦门举办年度商业对话 企业共寻出海发展新机遇",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688726.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T07:12:43.000Z",
+   "summary": "中新网厦门9月2日电 (吴冠标)“高志凯旋·全球新局势——企业发展新机遇”年度商业对话9月1日在厦门举办，吸引近八百家企业参会。",
+   "regions": []
+  },
+  {
+   "title": "沈阳市人工智能应用产教融合创新基地揭牌成立",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688706.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T07:11:05.000Z",
+   "summary": "中新网沈阳9月2日电 (记者 李晛)沈阳市人工智能应用产教融合创新基地(以下简称“基地”)9月2日正式揭牌成立。",
+   "regions": []
+  },
+  {
+   "title": "黑龙江农业“丰”景迭代丨活力中国调研行",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688709.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T07:03:08.000Z",
+   "summary": "8月31日，2026年“活力中国调研行”黑龙江主题采访活动情况介绍会在哈尔滨举行，这场关于黑龙江农业发展的“全景式”介绍会，揭示了这片土地正在发生的深刻变革。从“看天种地”到“看屏种地”，从“种啥卖啥”到“要啥种啥”，黑龙江农业正经历一场由…",
+   "regions": []
+  },
+  {
+   "title": "太原站东站房完成地下工程 转入地上结构建设",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688693.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T06:29:38.000Z",
+   "summary": "中新网太原9月2日电(王楷文 范丽芳)9月2日，随着关键区块最后一方混凝土浇筑完成，新建太原站东站房地下工程冲出“正负零”，按期完成节点目标，项目建设转入地上主体结构施工阶段。",
+   "regions": []
+  },
+  {
+   "title": "深汕铁路新突破：“龙岗1号”盾构机成功下穿运营地铁线",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688692.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T06:25:40.000Z",
+   "summary": "中新网深圳9月2日电 (记者 王坚)深汕铁路龙岗隧道宝荷盾构段1日取得重大突破，超大直径泥水平衡盾构机“龙岗1号”顺利完成下穿深圳地铁14号线。此次施工为全线首例超大直径高速铁路盾构隧道近距离下穿快速地铁运营线，项目顺利攻克全线核心高风险施…",
+   "regions": []
+  },
+  {
+   "title": "太原机场2026年暑运旅客吞吐量292.13万人次",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688686.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T06:24:08.000Z",
+   "summary": "中新网太原9月2日电 (记者 李庭耀)记者2日从山西航产集团获悉，2026年暑运期间，太原机场累计完成运输起降2.02万架次、旅客吞吐量292.13万人次。面对航班量攀升、高温雷雨强对流天气频发的双重考验，太原机场优化运行模式，统筹航线运力…",
+   "regions": []
+  },
+  {
+   "title": "2026年APEC中小企业跨境投资研讨会聚焦五大优先领域",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688681.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T06:22:56.000Z",
+   "summary": "中新网广州9月2日电 (记者 许青青)2026年APEC中小企业跨境投资研讨会1日在广州举行。研讨会以“创新驱动，互联互通促进发展”为主题，聚焦《2025—2028年APEC中小企业工作组战略规划》五大优先领域，以投早、投小、投创新为理念，…",
+   "regions": []
+  },
+  {
+   "title": "广州市天河中央商务区国家数字服务出口基地五年发展“硬核成绩单”发布",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688648.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T05:58:38.000Z",
+   "summary": "中新网广州9月2日电 (记者 郭军)广州市天河中央商务区国家数字服务出口基地(以下简称“天河CBD基地”)五年发展调研成果报告会9月1日在广州举办。会上正式发布的报告显示，近五年来，天河CBD基地数字服务出口年均复合增速超20%，出海发展势…",
+   "regions": []
+  },
+  {
+   "title": "以供给创新培育体验式消费",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688632.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T05:22:00.000Z",
+   "summary": "近日，国务院批复同意的《扩大消费“十五五”规划》明确提出“培育体验式消费”，要求以消费体验为重点，培育消费新业态新模式新场景。这一部署为打造沉浸式、互动式、多元化的消费场景指明了方向，有助于进一步丰富消费体验、释放消费潜力。",
+   "regions": []
+  },
+  {
+   "title": "老牌汽车大省，想借新势力翻盘",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688631.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T05:19:36.000Z",
+   "summary": "每经记者｜程晓玲",
+   "regions": []
+  },
+  {
+   "title": "山西汾酒2026年中报发布 营收210.44亿元",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688570.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T05:13:47.000Z",
+   "summary": "8月31日，山西汾酒(600809.SH)发布2026年半年度报告。报告期内，公司实现营业收入210.44亿元，实现归母净利润64.39亿元。",
+   "regions": []
+  },
+  {
+   "title": "中小银行“逆势”加息稳存款",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688624.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T05:11:15.000Z",
+   "summary": "近日，多地中小银行密集调整存款利率，部分机构利率上调幅度约30个基点。8月初，湖北监利农商银行、保康农商银行等多家农商行完成存款利率调整，三年期存款利率为1.75%；广东五华惠民村镇银行三年期存款(整存整取)利率较此前上调33个基点。",
+   "regions": []
+  },
+  {
+   "title": "五大险企净利增长近八成 加码高股息与新质生产力",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688621.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-02T05:08:45.000Z",
+   "summary": "2026年A股上市险企半年报显示，投资收益成为拉动利润增长的核心驱动力。中国人寿、中国平安、中国人保、中国太保、新华保险五家公司合计实现归母净利润同比增长近八成，总投资收益较上年同期大幅增长。权益配置层面，各家公司仓位节奏有所分化，但“高股…",
+   "regions": []
+  },
+  {
    "title": "北交所迎宣布设立五周年 上市公司总市值约8500亿元",
    "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688587.shtml",
    "source": "中新网滚动",
@@ -2056,5 +4087,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-02T05:07:00.086Z"
+ "updatedAt": "2026-09-02T09:07:31.224Z"
 }
