@@ -2,6 +2,14 @@
  "date": "2026-09-03",
  "tech": [
   {
+   "title": "OpenAI GPT-6 Astra 发布，首次达到“关键”级网络安全能力门槛",
+   "link": "https://www.ithome.com/0/998/208.htm",
+   "source": "IT之家",
+   "time": "2026-09-03T22:28:07.000Z",
+   "summary": "IT之家 9 月 4 日消息，当地时间 9 月 3 日，OpenAI 宣布推出新一代 GPT-6 Astra 模型，这是该公司迄今为止最强大、最广泛部署的大语言模型。 据介绍，Astra 是 OpenAI 旗下首个达到其“准备框架”（Pre…",
+   "regions": []
+  },
+  {
    "title": "英伟达 RTX Spark 紧凑型 Win PC 主机下月上市，含宏碁、联想等 6 家 OEM 厂商产品",
    "link": "https://www.ithome.com/0/998/202.htm",
    "source": "IT之家",
@@ -1716,12 +1724,526 @@
  ],
  "world": [
   {
+   "title": "俄国家杜马选举境外提前投票于9月4日启动",
+   "link": "https://sputniknews.cn/20260904/1073075404.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T22:29:57.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月4日电 第九届俄国家杜马议员选举在境外投票点的提前投票于9月4日开始。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "扎哈罗娃：俄方不反对就乌克兰问题进行接触，但关键在于协议的落实",
+   "link": "https://sputniknews.cn/20260904/1073075306.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T22:22:49.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月4日电 俄罗斯外交部发言人扎哈罗娃表示，俄罗斯不反对就乌克兰问题进行接触，但关键在于协议的落实。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】39 km ESE of Farkhār, Afghanistan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te5t",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T21:58:46.017Z",
+   "summary": "美国地质调查局官方监测：39 km ESE of Farkhār, Afghanistan发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "阿富汗",
+    "中东"
+   ]
+  },
+  {
+   "title": "巴基斯坦外交官：美国可能放弃遏制中国的战略",
+   "link": "https://sputniknews.cn/20260904/1073074992.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T21:37:53.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 巴基斯坦前驻美大使侯赛因·哈卡尼认为，美国正在逐渐远离近些年在亚太地区参与的安全架构，因此可能放弃遏制中国的战略。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.2】8 km WNW of Maricao, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530758",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T21:21:33.570Z",
+   "summary": "美国地质调查局官方监测：8 km WNW of Maricao, Puerto Rico发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】29 km WSW of Salamanca, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te5e",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T21:18:21.492Z",
+   "summary": "美国地质调查局官方监测：29 km WSW of Salamanca, Chile发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
+   "title": "美国与中国7月份的贸易额增长6% 达367.8亿美元",
+   "link": "https://sputniknews.cn/20260904/1073074693.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T21:16:06.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯卫星通讯社分析的美国海关数据显示，7月份，美国与中国的贸易额较6月份增长5.9%，达367.8亿美元。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】28 km SSW of Charlotte Amalie, U.S. Virgin Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530753",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T21:07:04.320Z",
+   "summary": "美国地质调查局官方监测：28 km SSW of Charlotte Amalie, U.S. Virgin Islands发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "以军：真主党阿里·塔赫尔山脊战略基础设施的武装分子清剿任务结束",
+   "link": "https://sputniknews.cn/20260904/1073074596.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T21:05:57.000Z",
+   "summary": "俄罗斯卫星通讯社特拉维夫电 以色列国防军9月3日表示，以军完成了针对黎巴嫩南部重要战略高地阿里·塔赫尔山脊地区真主党地下基础设施武装分子的清剿任务，以开始着手摧毁。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】98 km W of Gorontalo, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te55",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T21:05:15.371Z",
+   "summary": "美国地质调查局官方监测：98 km W of Gorontalo, Indonesia发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】57 km N of Ende, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te51",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T21:00:10.101Z",
+   "summary": "美国地质调查局官方监测：57 km N of Ende, Indonesia发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "万斯：对伊朗的秘密行动在美国施压手段清单内",
+   "link": "https://sputniknews.cn/20260904/1073074484.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T20:59:46.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国副总统万斯表示，与其他施压手段一样，秘密行动同样也在美国对伊朗可用手段清单上。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】79 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmdhbb",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T20:56:51.770Z",
+   "summary": "美国地质调查局官方监测：79 km SSW of Nikolski, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "媒体：美国最近一轮对伊朗袭击所造成的伊朗军人死亡人数新增6人",
+   "link": "https://sputniknews.cn/20260904/1073074380.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T20:54:35.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰电 据Mehr通讯社报道，美国最近一轮对伊朗袭击所造成的伊朗军人死亡人数新增6人。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】90 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmddwt",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T20:53:18.200Z",
+   "summary": "美国地质调查局官方监测：90 km SSW of Nikolski, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "媒体：德国防长将于9月在华盛顿与五角大楼负责人会面",
+   "link": "https://sputniknews.cn/20260904/1073074268.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T20:44:34.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 美国政治新闻网站Politico援引消息人士的话报道，德国防长皮斯托里乌斯与美国战争部长赫格塞斯将于9月15日在华盛顿举行会晤。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】88 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4t",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T20:40:07.422Z",
+   "summary": "美国地质调查局官方监测：88 km SSW of Nikolski, Alaska发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄罗斯副总理谈挪威扣押俄罗斯船舶：他们早晚都得乖乖放行",
+   "link": "https://sputniknews.cn/20260904/1073074172.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T20:35:10.000Z",
+   "summary": "俄罗斯卫星通讯社符拉迪沃斯托克电 俄罗斯副总理、俄总统驻远东联邦区全权代表特鲁特涅夫表示，挪威早晚都得放行他们扣押的俄罗斯“莫尔恰诺夫教授”号科研船，奥斯陆方面没有其他选择的余地。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】84 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmcldd",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T20:31:31.890Z",
+   "summary": "美国地质调查局官方监测：84 km SSW of Nikolski, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.7】60 km NNW of Nelson Lagoon, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmcdsj",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T20:22:43.390Z",
+   "summary": "美国地质调查局官方监测：60 km NNW of Nelson Lagoon, Alaska发生 3.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.5】100 km S of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T20:21:15.216Z",
+   "summary": "美国地质调查局官方监测：100 km S of Nikolski, Alaska发生 5.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：挪威扣押俄籍船舶不可接受 不接受涉及斯匹次卑尔根群岛的限制措施",
+   "link": "https://sputniknews.cn/20260904/1073073891.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T20:17:30.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外交部表示，俄方不仅是坚决不接受挪威当局扣押俄罗斯“莫尔恰诺夫教授”号科研船的行径，也不接受奥斯陆限制俄罗斯在斯匹次卑尔根群岛合法存在的行为。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.9】89 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmbwsi",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T20:14:56.128Z",
+   "summary": "美国地质调查局官方监测：89 km SSW of Nikolski, Alaska发生 3.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】93 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmbrgz",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T20:08:38.201Z",
+   "summary": "美国地质调查局官方监测：93 km SSW of Nikolski, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "梅德韦杰夫：德国政府需要的是审慎路线 而不是与俄罗斯对抗",
+   "link": "https://sputniknews.cn/20260904/1073073600.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T20:00:02.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯安全会议副主席梅德韦杰夫表示，德国政府需要采取更加审慎的路线，而不是去与俄罗斯直接对抗。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】119 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmaund",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T19:42:29.481Z",
+   "summary": "美国地质调查局官方监测：119 km SSW of Nikolski, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】75 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmahsg",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T19:27:41.860Z",
+   "summary": "美国地质调查局官方监测：75 km SSW of Nikolski, Alaska发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.3】102 km S of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmafsx",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T19:25:23.399Z",
+   "summary": "美国地质调查局官方监测：102 km S of Nikolski, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】106 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmadmx",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T19:22:51.128Z",
+   "summary": "美国地质调查局官方监测：106 km SSW of Nikolski, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.3】106 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlzybf",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T19:16:36.351Z",
+   "summary": "美国地质调查局官方监测：106 km SSW of Nikolski, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】89 km S of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlzprc",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T19:06:53.002Z",
+   "summary": "美国地质调查局官方监测：89 km S of Nikolski, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】90 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlzhhg",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:57:08.851Z",
+   "summary": "美国地质调查局官方监测：90 km SSW of Nikolski, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普：美国将要求欧洲归还援助乌克兰的数千亿美元",
+   "link": "https://sputniknews.cn/20260904/1073073371.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T18:57:00.000Z",
+   "summary": "美国总统唐纳德·特朗普周四表示，美国将要求欧洲归还拜登政府向乌克兰提供的数千亿美元军事援助。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】77 km S of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlzdse",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:53:11.299Z",
+   "summary": "美国地质调查局官方监测：77 km S of Nikolski, Alaska发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】64 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlzafv",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:49:09.175Z",
+   "summary": "美国地质调查局官方监测：64 km SSW of Nikolski, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.3】104 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2m",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:45:39.228Z",
+   "summary": "美国地质调查局官方监测：104 km SSW of Nikolski, Alaska发生 5.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】94 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlyuvd",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:42:40.091Z",
+   "summary": "美国地质调查局官方监测：94 km SSW of Nikolski, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】69 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlysga",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:39:49.044Z",
+   "summary": "美国地质调查局官方监测：69 km SSW of Nikolski, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.6】93 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2u",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:33:56.120Z",
+   "summary": "美国地质调查局官方监测：93 km SSW of Nikolski, Alaska发生 3.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】Fiji region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2i",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:31:04.918Z",
+   "summary": "美国地质调查局官方监测：Fiji region发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "斐济",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄外交部将力求解除对“莫尔恰诺夫教授”号船只的扣押",
+   "link": "https://sputniknews.cn/20260904/1073073251.html",
+   "source": "卫星社中文",
+   "time": "2026-09-03T18:21:00.000Z",
+   "summary": "俄罗斯外交部表示，俄罗斯外交部及相关部门将寻求解除对“莫尔恰诺夫教授”号船只的扣押。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】94 km SSE of Akutan, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlxsfg",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:09:53.917Z",
+   "summary": "美国地质调查局官方监测：94 km SSE of Akutan, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】89 km WNW of Lake Louise, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlxqkb",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:07:45.029Z",
+   "summary": "美国地质调查局官方监测：89 km WNW of Lake Louise, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】17 km NE of Milford, Utah",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80153911",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T18:07:08.670Z",
+   "summary": "美国地质调查局官方监测：17 km NE of Milford, Utah发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】90 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlxjqf",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T17:59:58.444Z",
+   "summary": "美国地质调查局官方监测：90 km SSW of Nikolski, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "汉堡法院将就“北溪”天然气管道恐袭案举行16场庭审听证会",
    "link": "https://sputniknews.cn/20260904/1073073150.html",
    "source": "卫星社中文",
    "time": "2026-09-03T17:49:00.000Z",
    "summary": "汉萨同盟汉堡高等地方法院 (汉堡高等法院)称，将在12月17日之前就“北溪”管道恐怖袭击案举行16场庭审听证。",
    "regions": []
+  },
+  {
+   "title": "【地震 M3.2】95 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlwtdf",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T17:40:55.532Z",
+   "summary": "美国地质调查局官方监测：95 km SSW of Nikolski, Alaska发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】231 km ESE of Attu Station, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2d",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T17:40:07.002Z",
+   "summary": "美国地质调查局官方监测：231 km ESE of Attu Station, Alaska发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
   },
   {
    "title": "【地震 M3.5】3 km ESE of Larkfield-Wikiup, CA",
@@ -1740,6 +2262,17 @@
    "time": "2026-09-03T17:25:00.000Z",
    "summary": "美国副总统万斯承认，美国处于脆弱不堪的状况，因为美国失去了工业自给自足的能力。",
    "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】108 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlwaom",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T17:19:27.246Z",
+   "summary": "美国地质调查局官方监测：108 km SSW of Nikolski, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
     "美洲"
    ]
   },
@@ -1775,6 +2308,17 @@
    ]
   },
   {
+   "title": "【地震 M4.5】11 km N of Jordán, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te20",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T16:58:46.861Z",
+   "summary": "美国地质调查局官方监测：11 km N of Jordán, Colombia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
+   ]
+  },
+  {
    "title": "【地震 M2.8】15 km SE of Petrolia, CA",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429247",
    "source": "USGS地震台网",
@@ -1782,6 +2326,17 @@
    "summary": "美国地质调查局官方监测：15 km SE of Petrolia, CA发生 2.8 级地震，震源深度 未知。",
    "regions": [
     "国际"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】93 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlveoa",
+   "source": "USGS地震台网",
+   "time": "2026-09-03T16:54:00.676Z",
+   "summary": "美国地质调查局官方监测：93 km SSW of Nikolski, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -2266,6 +2821,34 @@
    "time": "2026-09-03T12:00:00.000Z",
    "summary": "受太平洋海面异常升温的推动，厄尔尼诺气候现象正在加剧，且尚未达到峰值。气象预报几乎可以肯定，该现象将持续至2027年2月——预计未来数月全球大部分地区将出现异常温暖的天气。",
    "regions": []
+  },
+  {
+   "title": "苏丹：外部支持网络助长冲突并加剧平民伤亡",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142738",
+   "source": "联合国新闻",
+   "time": "2026-09-03T12:00:00.000Z",
+   "summary": "联合国苏丹问题独立国际实况调查团周四在一份新报告中指出，外国招募和外部支持网络正在助长苏丹战争，增强交战各方军事能力，并给平民造成毁灭性后果。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "尼泊尔洪灾后至少2.2万名儿童亟需安全饮用水和卫生支持",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142737",
+   "source": "联合国新闻",
+   "time": "2026-09-03T12:00:00.000Z",
+   "summary": "联合国儿童基金会周四表示，在尼泊尔山洪暴发一周多后，至少有2.2万名儿童亟需安全饮用水、卫生设施及个人卫生支持。",
+   "regions": []
+  },
+  {
+   "title": "联合国裁军事务高级代表：叙利亚化学武器销毁工作取得重大进展",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142736",
+   "source": "联合国新闻",
+   "time": "2026-09-03T12:00:00.000Z",
+   "summary": "联合国副秘书长兼裁军事务高级代表中满泉周四向安理会表示，叙利亚政府与禁止化学武器组织技术秘书处近两年来共同努力，在解决前政府化学武器计划遗留问题、申报任何剩余化学武器并在核查下予以销毁方面取得切实成果。",
+   "regions": [
+    "中东"
+   ]
   },
   {
    "title": "【地震 M3.6】87 km SSW of Nikolski, Alaska",
@@ -6894,5 +7477,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-03T18:09:02.047Z"
+ "updatedAt": "2026-09-03T22:35:20.456Z"
 }
