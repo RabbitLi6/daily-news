@@ -2625,6 +2625,17 @@
    ]
   },
   {
+   "title": "【地震 M4.4】77 km SE of Hengchun, Taiwan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdpf",
+   "source": "USGS地震台网",
+   "time": "2026-09-02T17:32:46.134Z",
+   "summary": "美国地质调查局官方监测：77 km SE of Hengchun, Taiwan发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "台湾",
+    "台海"
+   ]
+  },
+  {
    "title": "伊朗卫生部：美国最近一次袭击伊朗所造成的死亡人数升至18人",
    "link": "https://sputniknews.cn/20260903/1073044694.html",
    "source": "卫星社中文",
@@ -9049,5 +9060,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-03T09:39:01.784Z"
+ "updatedAt": "2026-09-03T14:08:04.570Z"
 }
