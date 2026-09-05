@@ -1052,6 +1052,82 @@
  ],
  "world": [
   {
+   "title": "【地震 M4.7】95 km ESE of Isangel, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tel1",
+   "source": "USGS地震台网",
+   "time": "2026-09-05T21:06:01.351Z",
+   "summary": "美国地质调查局官方监测：95 km ESE of Isangel, Vanuatu发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "以色列空袭黎巴嫩南部致死亡人数升至4人",
+   "link": "https://sputniknews.cn/20260906/1073102048.html",
+   "source": "卫星社中文",
+   "time": "2026-09-05T19:00:00.000Z",
+   "summary": "黎巴嫩卫生部通报称，周五以色列对黎巴嫩南部发动袭击造成的死亡人数已升至4人。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "俄专家：2026年俄罗斯对泰国金属出口预计增长三分之一",
+   "link": "https://sputniknews.cn/20260906/1073101587.html",
+   "source": "卫星社中文",
+   "time": "2026-09-05T18:20:00.000Z",
+   "summary": "俄罗斯—泰国商务委员会主席、俄罗斯“新钢-M”冶金控股公司（Novostal-M）董事会主席伊万·杰姆琴科向俄罗斯卫星通讯社表示，预计2026年俄罗斯冶金企业对泰国的金属供应量将增长约三分之一。",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】55 km SSW of Pilot Point, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rppmra",
+   "source": "USGS地震台网",
+   "time": "2026-09-05T18:01:58.736Z",
+   "summary": "美国地质调查局官方监测：55 km SSW of Pilot Point, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】80 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek7",
+   "source": "USGS地震台网",
+   "time": "2026-09-05T18:00:09.215Z",
+   "summary": "美国地质调查局官方监测：80 km SSW of Nikolski, Alaska发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "普京：计划与威特科夫和库什纳讨论乌克兰调解所有细节",
+   "link": "https://sputniknews.cn/20260906/1073102321.html",
+   "source": "卫星社中文",
+   "time": "2026-09-05T17:54:47.000Z",
+   "summary": "俄罗斯总统弗拉基米尔·普京在克里姆林宫会见美国谈判代表史蒂夫·威特科夫和贾里德·库什纳时表示，计划与威特科夫和库什纳讨论乌克兰调解所有细节。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】20 km SW of Stella, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531008",
+   "source": "USGS地震台网",
+   "time": "2026-09-05T17:25:55.160Z",
+   "summary": "美国地质调查局官方监测：20 km SW of Stella, Puerto Rico发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
    "title": "普京在克里姆林宫会见美国谈判代表",
    "link": "https://sputniknews.cn/20260906/1073101501.html",
    "source": "卫星社中文",
@@ -4984,5 +5060,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-05T17:34:53.792Z"
+ "updatedAt": "2026-09-05T22:06:31.880Z"
 }
