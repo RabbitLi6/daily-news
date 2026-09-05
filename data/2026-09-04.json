@@ -1961,6 +1961,17 @@
    ]
   },
   {
+   "title": "【地震 M4.5】38 km NNE of Ruteng, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefr",
+   "source": "USGS地震台网",
+   "time": "2026-09-04T23:17:48.392Z",
+   "summary": "美国地质调查局官方监测：38 km NNE of Ruteng, Indonesia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
    "title": "【地震 M2.5】56 km S of Whites City, New Mexico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rliwah",
    "source": "USGS地震台网",
@@ -2204,6 +2215,17 @@
    ]
   },
   {
+   "title": "【地震 M3.3】Rat Islands, Aleutian Islands, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnqsqs",
+   "source": "USGS地震台网",
+   "time": "2026-09-04T16:39:19.931Z",
+   "summary": "美国地质调查局官方监测：Rat Islands, Aleutian Islands, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M3.5】Rat Islands, Aleutian Islands, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnqmvs",
    "source": "USGS地震台网",
@@ -2276,6 +2298,17 @@
    "summary": "俄罗斯卫星通讯社华盛顿9月4日电 门户网站Axios援引美国官员的话报道，美国总统特使威特科夫和贾里德·库什纳预计将在9月5日至6日前往莫斯科和基辅。",
    "regions": [
     "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】107 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnoniu",
+   "source": "USGS地震台网",
+   "time": "2026-09-04T15:33:44.590Z",
+   "summary": "美国地质调查局官方监测：107 km SSW of Nikolski, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
     "美洲"
    ]
   },
@@ -7822,5 +7855,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-05T00:11:32.047Z"
+ "updatedAt": "2026-09-05T00:42:25.080Z"
 }
