@@ -2,6 +2,30 @@
  "date": "2026-09-06",
  "tech": [
   {
+   "title": "联通反诈大模型揪出涉诈 VOIP 黑盒，如有可疑人员不请自来“维修网络”要警惕",
+   "link": "https://www.ithome.com/0/998/877.htm",
+   "source": "IT之家",
+   "time": "2026-09-06T01:03:59.000Z",
+   "summary": "IT之家 9 月 6 日消息，中国联通官方昨日在公众号平台披露，中国联通抚顺市分公司近日依托自主研发的反诈大模型系统，联合当地公安机关，精准识别并捣毁被用于电信诈骗的非法 VOIP 通信设备，守护群众财产安全。 8 月 24 日上午 9 时…",
+   "regions": []
+  },
+  {
+   "title": "铭凡预热 MS-S1 MAX-P495：价格达 7000 美元",
+   "link": "https://www.ithome.com/0/998/876.htm",
+   "source": "IT之家",
+   "time": "2026-09-06T00:55:16.000Z",
+   "summary": "IT之家 9 月 6 日消息，MINISFORUM（铭凡）在 IFA 2026 上正式公布了基于 AMD 锐龙 AI Max+ PRO 495 处理器的 MS-S1 MAX-P495。 IT之家注意到，品牌官网对这款迷你主机形态 AI 工作…",
+   "regions": []
+  },
+  {
+   "title": "华为智选车产品总监彭磊谈享界 V8 的诞生，称家用车尽头是 MPV",
+   "link": "https://www.ithome.com/0/998/875.htm",
+   "source": "IT之家",
+   "time": "2026-09-06T00:46:36.000Z",
+   "summary": "IT之家 9 月 6 日消息，鸿蒙智行已有多款高端 MPV，华为智选车产品总监（享界系列）彭磊发文解释了为何还要深耕家用赛道打造享界 V8。他称核心原因是： 市场上再多商务 MPV 的成功，都无法填补普通家庭出行的真实空白 ，团队始终认为，…",
+   "regions": []
+  },
+  {
    "title": "前V社编剧自曝：《求生之路 2》游戏预告片是官方故意泄露的",
    "link": "https://www.ithome.com/0/998/874.htm",
    "source": "IT之家",
@@ -92,6 +116,28 @@
  ],
  "world": [
   {
+   "title": "【地震 M2.7】18 km WNW of Ivanof Bay, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqdkkp",
+   "source": "USGS地震台网",
+   "time": "2026-09-06T00:59:24.084Z",
+   "summary": "美国地质调查局官方监测：18 km WNW of Ivanof Bay, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "会见超3小时 俄方介绍普京与美总统特使会谈成果",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-06/10691239.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-06T00:55:33.000Z",
+   "summary": "中新网9月6日电 据俄罗斯卫星通讯社及塔斯社报道，当地时间6日，俄罗斯总统助理乌沙科夫表示，俄总统普京5日晚在克里姆林宫会见美国总统特使威特科夫和美总统特朗普的女婿库什纳，“会谈内容充实，具有建设性、极其坦诚且相互信任”。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
    "title": "伊斯兰革命卫队：伊朗在霍尔木兹海峡打击三艘与美国有关的油轮",
    "link": "https://sputniknews.cn/20260906/1073103704.html",
    "source": "卫星社中文",
@@ -128,6 +174,22 @@
  "tw": [],
  "cn": [
   {
+   "title": "388元体验3分钟短剧拍摄 “我在横店当主演”",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691237.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-06T00:51:27.000Z",
+   "summary": "旅游观察",
+   "regions": []
+  },
+  {
+   "title": "青春华章｜他们走过千万步，只为中国科技再进一步",
+   "link": "https://www.chinanews.com.cn/chuangyi/2026/09-06/10691234.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-06T00:40:16.000Z",
+   "summary": "在科技探索的道路上，没有凭空而来的“一步跨越”，只有千万次试验、求证与坚持。从太空到深海，从实验室到田间地头，无数科技工作者以热爱奔赴未知，用日复一日的跋涉，推动中国科技不断向前。",
+   "regions": []
+  },
+  {
    "title": "中小学校服如何买得放心、穿得安心",
    "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691235.shtml",
    "source": "中新网社会",
@@ -137,5 +199,5 @@
   }
  ],
  "econ": [],
- "updatedAt": "2026-09-06T00:45:22.911Z"
+ "updatedAt": "2026-09-06T01:06:19.783Z"
 }
