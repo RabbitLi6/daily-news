@@ -258,6 +258,14 @@
    "regions": []
   },
   {
+   "title": "QFO v1.0.2：修复 Windows 首次启动与依赖源问题",
+   "link": "https://www.oschina.net/news/502331",
+   "source": "开源中国",
+   "time": "2026-09-05T14:25:25.000Z",
+   "summary": "QFO v1.0.2 已发布。 QFO 是一个免费开源、本地运行的 A 股量化研究与回测平台，面向量化投资新手，支持数据同步、股票/ETF/可转债筛选、因子研究、策略回测、组合分析和风险评估。 本版本主要更新： 修复 Windows 首次运…",
+   "regions": []
+  },
+  {
    "title": "世界最小 CT 在山东济南问世：核心器件实现国产化，仅重 6 公斤",
    "link": "https://www.ithome.com/0/998/831.htm",
    "source": "IT之家",
@@ -330,6 +338,14 @@
    "regions": []
   },
   {
+   "title": "伏羲智能决策平台第一版发布",
+   "link": "https://www.oschina.net/news/502330",
+   "source": "开源中国",
+   "time": "2026-09-05T12:50:51.000Z",
+   "summary": "企业级 DMN 决策自动化平台，全栈 Rust 实现。用户以自然语言描述业务规则，系统通过 LLM 智能体生成结构化 DSL，经多层校验后编译为标准 DMN 1.5 XML，并提供完整的版本管理、业务验收、发布运行和数据分析能力。 核心特性…",
+   "regions": []
+  },
+  {
    "title": "R 星北方工作室负责人尼尔森：《GTA 6》驾驶体验吸收了《GTA 4》和《GTA 5》各自的优点",
    "link": "https://www.ithome.com/0/998/820.htm",
    "source": "IT之家",
@@ -367,6 +383,14 @@
    "source": "IT之家",
    "time": "2026-09-05T12:10:12.000Z",
    "summary": "IT之家 9 月 5 日消息，据外媒 TechCrunch 当地时间 4 日报道，当前一些“复古”科技正在重新流行，美国唱片业协会（RIAA）本周公布的数据显示，这股风潮已经延伸到音乐消费领域。 RIAA 最新报告显示，2026 年上半年，…",
+   "regions": []
+  },
+  {
+   "title": "灵界 OS v4.0.0 已新增贡献指南、行为准则及项目预览截图。",
+   "link": "https://www.oschina.net/news/502329",
+   "source": "开源中国",
+   "time": "2026-09-05T12:03:18.000Z",
+   "summary": "版本说明 灵界 OS v4.0.0 已新增贡献指南、行为准则及项目预览截图。 本次更新主要涉及社区协作文档和项目展示素材，未涉及功能或界面改动。 📄 新增文件 CONTRIBUTING.md：贡献指南，说明如何参与项目开发、提交 Issu…",
    "regions": []
   },
   {
@@ -666,6 +690,14 @@
    "regions": []
   },
   {
+   "title": "仅 14MB 的开源一站式智能终端 uniTerm v1.9 发布：新增 Elasticsearch、WSLC 容器、Raw TCP 与文件/监控边栏，支持协议突破 30 种",
+   "link": "https://www.oschina.net/news/502328",
+   "source": "开源中国",
+   "time": "2026-09-05T07:21:08.000Z",
+   "summary": "uniTerm 是一款轻量级一站式终端软件，Windows 版本安装包仅 14MB。整合终端、文件传输、远程桌面、数据库客户端、容器等 5 大类协议于一身；内置可自主执行的 AI Agent，能规划并执行多轮 Shell 命令。 v1.9 …",
+   "regions": []
+  },
+  {
    "title": "小米 18 Fold 中折叠手机“暖金白”“黑色”配色官图公布，9 月 7 日发布",
    "link": "https://www.ithome.com/0/998/751.htm",
    "source": "IT之家",
@@ -679,6 +711,14 @@
    "source": "IT之家",
    "time": "2026-09-05T07:14:36.000Z",
    "summary": "IT之家 9 月 5 日消息，小米澎程今日公布武士黑套装官图，采用曜石黑车漆，全车 10 处细节熏黑设计，小米澎程 N70 系列、N90 Max 可选，9 月 7 日晚 7 点见。 小米澎程 N90 Max 预售价为 29.99 万元，该车…",
+   "regions": []
+  },
+  {
+   "title": "灵界 OS v4.0.0 现已发布",
+   "link": "https://www.oschina.net/news/502327",
+   "source": "开源中国",
+   "time": "2026-09-05T07:13:27.000Z",
+   "summary": "版本更新说明 灵界 OS v4.0.0 现已发布。 本次更新主要包含功能增强与法律合规性修正。 ✨ 新增功能 一键锁屏：在电源控制面板或系统菜单中新增“一键锁屏”按钮，点击即可快速锁定屏幕，无需等待自动锁屏或手动按电源键。该功能适用于所有支…",
    "regions": []
   },
   {
@@ -1311,6 +1351,14 @@
    ]
   },
   {
+   "title": "Putin holds 3-hour meeting with US envoys ahead of their Kyiv trip",
+   "link": "https://news.cgtn.com/news/2026-09-06/news-1QcVR92jJyE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T22:57:31.000Z",
+   "summary": "The diplomatic push comes as both Moscow and Kyiv said they would observe a temporary, three-day pause on capital airstr…",
+   "regions": []
+  },
+  {
    "title": "美伊互袭油轮 伊朗军方称或对美进行更大规模打击",
    "link": "https://www.chinanews.com.cn/gj/2026/09-06/10691228.shtml",
    "source": "中新网国际",
@@ -1354,6 +1402,14 @@
    ]
   },
   {
+   "title": "Supersized El Niño brings global “danger zone” warning",
+   "link": "https://newsus.cgtn.com/news/2026-09-06/Supersized-El-Ni-o-brings-global-danger-zone-warning-1QcJ3lsUNoc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T20:08:19.000Z",
+   "summary": "This year’s El Niño could be the strongest in decades, according to a new update from the World Meteorological Organizat…",
+   "regions": []
+  },
+  {
    "title": "以色列空袭黎巴嫩南部致死亡人数升至4人",
    "link": "https://sputniknews.cn/20260906/1073102048.html",
    "source": "卫星社中文",
@@ -1361,6 +1417,17 @@
    "summary": "黎巴嫩卫生部通报称，周五以色列对黎巴嫩南部发动袭击造成的死亡人数已升至4人。",
    "regions": [
     "中东"
+   ]
+  },
+  {
+   "title": "【地震 M3.9】12 km NNE of Rahotu, New Zealand",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tekj",
+   "source": "USGS地震台网",
+   "time": "2026-09-05T18:46:09.594Z",
+   "summary": "美国地质调查局官方监测：12 km NNE of Rahotu, New Zealand发生 3.9 级地震，震源深度 未知。",
+   "regions": [
+    "新西兰",
+    "亚太"
    ]
   },
   {
@@ -1519,6 +1586,14 @@
     "俄乌",
     "亚太"
    ]
+  },
+  {
+   "title": "UN map vote sparks debate over Africa's global representation",
+   "link": "https://newsaf.cgtn.com/news/2026-09-05/UN-map-vote-sparks-debate-over-Africa-s-global-representation-1QceXNlPRsc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T15:51:16.000Z",
+   "summary": "The United Nations General Assembly's decision to promote world maps that more accurately represent the relative size of…",
+   "regions": []
   },
   {
    "title": "中外青年以艺术对话 “金陵·记忆”国际研习营在南京收官",
@@ -1758,6 +1833,14 @@
    ]
   },
   {
+   "title": "China, Russia conduct first joint Arctic sea ice observation",
+   "link": "https://news.cgtn.com/news/2026-09-05/China-Russia-conduct-first-joint-Arctic-sea-ice-observation-1QcaP5NTRcc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T12:45:39.000Z",
+   "summary": "China, Russia conduct first joint Arctic sea ice observation",
+   "regions": []
+  },
+  {
    "title": "普京今日将于美国总统特使举行会晤",
    "link": "https://sputniknews.cn/20260905/1073099231.html",
    "source": "卫星社中文",
@@ -1788,6 +1871,30 @@
    "regions": []
   },
   {
+   "title": "Chinese embassy demands answers after death of Chinese under custody",
+   "link": "https://news.cgtn.com/news/2026-09-05/Chinese-embassy-demands-answers-after-death-of-Chinese-under-custody-1Qc96S1EFeE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T12:32:32.000Z",
+   "summary": "The Chinese embassy in the Philippines on Thursday lodged stern representations after a Chinese citizen died on Tuesday …",
+   "regions": []
+  },
+  {
+   "title": "DRC launches 180-day Ebola plan, seeks $1.3 billion funding",
+   "link": "https://newsaf.cgtn.com/news/2026-09-05/DRC-launches-180-day-Ebola-plan-seeks-1-3-billion-funding-1QbSXiUZ5QY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T12:27:29.000Z",
+   "summary": "The Democratic Republic of the Congo (DRC) and its partners have unveiled an updated 180-day multi-sectoral response pla…",
+   "regions": []
+  },
+  {
+   "title": "Somalia formally joins AfCFTA to drive continental trade growth",
+   "link": "https://news.cgtn.com/news/2026-09-05/news-1QccCMXRQkg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T12:24:33.000Z",
+   "summary": "Somalia formally joins AfCFTA to drive continental trade growth",
+   "regions": []
+  },
+  {
    "title": "克宫：目前讨论乌冲突和解新方案还为时过早",
    "link": "https://sputniknews.cn/20260905/1073097404.html",
    "source": "卫星社中文",
@@ -1809,6 +1916,22 @@
    ]
   },
   {
+   "title": "Sudan groups urge UN to expand arms embargo amid drone strikes",
+   "link": "https://newsaf.cgtn.com/news/2026-09-05/Sudan-groups-urge-UN-to-expand-arms-embargo-amid-drone-strikes-1QbU4Efb9Ek/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T12:06:24.000Z",
+   "summary": "Sudanese civil society groups have urged the UN Security Council to extend its arms embargo beyond Darfur to cover the e…",
+   "regions": []
+  },
+  {
+   "title": "Nepal floods: Search continues amid widespread destruction",
+   "link": "https://news.cgtn.com/news/2026-09-05/Nepal-floods-Search-continues-amid-widespread-destruction-1Qc9emhsHbW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T12:06:06.000Z",
+   "summary": "Nepal floods: Search continues amid widespread destruction",
+   "regions": []
+  },
+  {
    "title": "普京下令三天内不打击基辅",
    "link": "https://sputniknews.cn/20260905/1073097178.html",
    "source": "卫星社中文",
@@ -1828,6 +1951,22 @@
    "regions": []
   },
   {
+   "title": "Putin orders three-day halt to strikes on Kyiv for US envoys' visit",
+   "link": "https://news.cgtn.com/news/2026-09-05/news-1Qc9Td0eL5u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T11:46:17.000Z",
+   "summary": "Russian President Vladimir Putin has ordered a three-day halt to strikes against Kyiv, a move linked to preparations for…",
+   "regions": []
+  },
+  {
+   "title": "Super-strong El Nino projected to persist into summer 2027",
+   "link": "https://news.cgtn.com/news/2026-09-05/Super-strong-El-Nino-projected-to-persist-into-summer-2027-1Qc2y7EMOo8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T11:43:16.000Z",
+   "summary": "Super-strong El Nino projected to persist into summer 2027",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.1】69 km E of Antofagasta de la Sierra, Argentina",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2",
    "source": "USGS地震台网",
@@ -1839,6 +1978,14 @@
    ]
   },
   {
+   "title": "UN adopts International Day to End Child Marriage",
+   "link": "https://newsaf.cgtn.com/news/2026-09-05/UN-adopts-International-Day-to-End-Child-Marriage-1QbVKjByaPu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T11:30:56.000Z",
+   "summary": "The United Nations General Assembly has adopted a resolution establishing November 27 as the International Day to End Ch…",
+   "regions": []
+  },
+  {
    "title": "“今日俄罗斯”面向中国青年受众推出多项新项目",
    "link": "https://sputniknews.cn/20260905/1073097066.html",
    "source": "卫星社中文",
@@ -1847,6 +1994,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "China steps up monitoring of risk areas in mudslide-hit Gyirong",
+   "link": "https://news.cgtn.com/news/2026-09-05/China-steps-up-monitoring-of-risk-areas-in-mudslide-hit-Gyirong--1QbNiybHBq8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T11:17:52.000Z",
+   "summary": "More than 2,300 rescuers, including 726 personnel from the Chinese People's Liberation Army and the People's Armed Polic…",
+   "regions": []
   },
   {
    "title": "【地震 M3.7】20 km E of Castle Rock, Washington",
@@ -1867,6 +2022,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "China-Kyrgyzstan-Uzbekistan railway achieves breakthrough",
+   "link": "https://news.cgtn.com/news/2026-09-05/China-Kyrgyzstan-Uzbekistan-railway-achieves-breakthrough-1Qc3rDBAukw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T10:59:51.000Z",
+   "summary": "China-Kyrgyzstan-Uzbekistan railway achieves breakthrough",
+   "regions": []
   },
   {
    "title": "【地震 M5.0】70 km SW of Pagar Alam, Indonesia",
@@ -1985,6 +2148,22 @@
    ]
   },
   {
+   "title": "Australian editor sees Asia-Pacific promise in China's wind tech",
+   "link": "https://news.cgtn.com/news/2026-09-05/Australian-editor-sees-Asia-Pacific-promise-in-China-s-wind-tech-1QbXBX2cnMA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T09:39:19.000Z",
+   "summary": "Australian editor sees Asia-Pacific promise in China's wind tech",
+   "regions": []
+  },
+  {
+   "title": "The second UN Global Business Summit on BRI for SDGs Convenes",
+   "link": "https://news.cgtn.com/news/2026-09-05/The-second-UN-Global-Business-Summit-on-BRI-for-SDGs-Convenes-1QbUqG9eF9e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T09:29:40.000Z",
+   "summary": "The second UN Global Business Summit on BRI for SDGs Convenes",
+   "regions": []
+  },
+  {
    "title": "俄军解放顿涅茨克人民共和国一居民点",
    "link": "https://sputniknews.cn/20260905/1073095609.html",
    "source": "卫星社中文",
@@ -1993,6 +2172,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Expert says border disruption could hit Nepal's economy",
+   "link": "https://news.cgtn.com/news/2026-09-05/Expert-says-border-disruption-could-hit-Nepal-s-economy-1QbT14hwNSo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T09:25:16.000Z",
+   "summary": "Expert says border disruption could hit Nepal's economy",
+   "regions": []
   },
   {
    "title": "伊媒：美军对哈尔克岛附近的伊朗油轮实施打击",
@@ -2105,6 +2292,14 @@
    ]
   },
   {
+   "title": "Chinese national rescued from Nepal mudslide tunnel",
+   "link": "https://news.cgtn.com/news/2026-09-05/news-1QbV6b0y2uA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T08:19:18.000Z",
+   "summary": "Chinese national rescued from Nepal mudslide tunnel",
+   "regions": []
+  },
+  {
    "title": "斯诺克英国公开赛：赵心童遭特鲁姆普淘汰无缘四强",
    "link": "https://www.chinanews.com.cn/ty/2026/09-05/10690933.shtml",
    "source": "中新网滚动",
@@ -2149,6 +2344,14 @@
    "source": "中新网滚动",
    "time": "2026-09-05T08:12:36.000Z",
    "summary": "央视网消息：中国物流与采购联合会9月5日公布8月份中国大宗商品价格指数。随着国内外市场需求回暖，极端天气影响减弱，部分行业供需关系改善，指数环比止跌回升，同比涨幅扩大。",
+   "regions": []
+  },
+  {
+   "title": "G216 roadwork improves a key stretch about 1km from core disaster area",
+   "link": "https://news.cgtn.com/news/2026-09-05/G216-roadwork-improves-a-key-stretch-about-1km-from-core-disaster-area-1QaBrWNEDEA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T08:10:41.000Z",
+   "summary": "G216 roadwork improves a key stretch about 1km from core disaster area",
    "regions": []
   },
   {
@@ -2214,6 +2417,14 @@
    ]
   },
   {
+   "title": "Iranian media reports possible explosion in southern Isfahan",
+   "link": "https://news.cgtn.com/news/2026-09-05/news-1QbRgGfiGA0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T07:25:42.000Z",
+   "summary": "Iranian media reports possible explosion in southern Isfahan",
+   "regions": []
+  },
+  {
    "title": "中国公民在菲移民局拘留所离世，中使馆提出严正交涉要求彻查",
    "link": "https://sputniknews.cn/20260905/1073095142.html",
    "source": "卫星社中文",
@@ -2234,6 +2445,22 @@
    ]
   },
   {
+   "title": "Iranian oil tanker hit in US missile attack near Kharg Island",
+   "link": "https://news.cgtn.com/news/2026-09-05/news-1QbOLXLhNmw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T06:50:47.000Z",
+   "summary": "An Iranian tanker ‌was hit by US forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, the semi-…",
+   "regions": []
+  },
+  {
+   "title": "Explosions heard near Iran's southern Kharg Island",
+   "link": "https://news.cgtn.com/news/2026-09-05/news-1QbO7nMyO5O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T06:41:37.000Z",
+   "summary": "Explosions heard near Iran's southern Kharg Island",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.5】76 km S of Gorontalo, Indonesia",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehs",
    "source": "USGS地震台网",
@@ -2243,6 +2470,22 @@
     "印尼",
     "亚太"
    ]
+  },
+  {
+   "title": "Caitlin Clark shines as USA overpowers China in World Cup opener",
+   "link": "https://news.cgtn.com/news/2026-09-05/Caitlin-Clark-shines-as-USA-overpowers-China-in-World-Cup-opener-1Qbz0HSm7te/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T06:13:17.000Z",
+   "summary": "Caitlin Clark shines as USA overpowers China in World Cup opener",
+   "regions": []
+  },
+  {
+   "title": "Blazers bench to China standout: How NBA exposure shapes Yang Hansen",
+   "link": "https://news.cgtn.com/news/2026-09-05/Blazers-bench-to-China-standout-How-NBA-exposure-shapes-Yang-Hansen-1QbyqjOeHw4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T06:12:40.000Z",
+   "summary": "Blazers bench to China standout: How NBA exposure shapes Yang Hansen",
+   "regions": []
   },
   {
    "title": "俄揭幕战胜日本军国主义纪念碑，日方要求移除“菊花”纹样被拒绝",
@@ -2282,6 +2525,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "Philippine VP Sara Duterte posts bail over threat remarks arrest order",
+   "link": "https://news.cgtn.com/news/2026-09-05/news-1QbHbKcsb2U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T05:04:39.000Z",
+   "summary": "Philippine Vice President Sara Duterte on Saturday posted bail of 360,000 pesos (about $5,760) for her grave threats cas…",
+   "regions": []
   },
   {
    "title": "【地震 M5.0】off the coast of Central America",
@@ -2324,6 +2575,14 @@
     "智利",
     "拉美"
    ]
+  },
+  {
+   "title": "Data solidarity: What we can learn from China-Nepal border disaster",
+   "link": "https://news.cgtn.com/news/2026-09-05/Data-solidarity-What-we-can-learn-from-China-Nepal-border-disaster-1QankraFk9a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T04:36:42.000Z",
+   "summary": "Data solidarity: What we can learn from China-Nepal border disaster",
+   "regions": []
   },
   {
    "title": "广东水利防汛防台风Ⅲ级应急响应调整为Ⅳ级应急响应",
@@ -2394,6 +2653,14 @@
    "source": "中新网国际",
    "time": "2026-09-05T04:05:05.000Z",
    "summary": "中新网北京9月5日电 (记者 孙自法)国际学术期刊《自然》最新发表一篇遗传学论文称，研究人员通过对超过100万名参与者的数据进行荟萃分析，识别出1000多个与人类五大人格相关的基因遗传变异。",
+   "regions": []
+  },
+  {
+   "title": "Tensions rise as US threatens to strike Iran's Pickaxe Mountain",
+   "link": "https://news.cgtn.com/news/2026-09-05/Tensions-rise-as-US-threatens-to-strike-Iran-s-Pickaxe-Mountain-1QbwYN2Ax7G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-05T04:03:47.000Z",
+   "summary": "US President Donald Trump said Friday that the US military may soon strike Iran's Pickaxe Mountain – a fortified site ne…",
    "regions": []
   },
   {
@@ -2890,6 +3157,17 @@
    ]
   },
   {
+   "title": "Five years on: What has the Hengqin-Macao Cooperation Zone achieved?",
+   "link": "https://news.cgtn.com/news/2026-09-05/Five-years-on-What-has-the-Hengqin-Macao-Cooperation-Zone-achieved--1QbxITqFaAE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T14:01:39.000Z",
+   "summary": "Since the General Plan was unveiled five years ago, the changes in the Cooperation Zone are reflected not only in number…",
+   "regions": [
+    "澳门",
+    "亚太"
+   ]
+  },
+  {
    "title": "逾800盏灯笼点亮香港湾仔利东街 营造中秋温馨氛围",
    "link": "https://www.chinanews.com.cn/tp/2026/09-05/10691131.shtml",
    "source": "中新网滚动",
@@ -3280,6 +3558,17 @@
    ]
   },
   {
+   "title": "China opens BeiDou reference station data to public for first time",
+   "link": "https://news.cgtn.com/news/2026-09-05/China-opens-BeiDou-reference-station-data-to-public-for-first-time-1QcgkhJVnNu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T14:09:59.000Z",
+   "summary": "China opens BeiDou reference station data to public for first time",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "尼泊尔泥石流灾后第11天 一名中国公民从隧洞获救",
    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10691141.shtml",
    "source": "中新网社会",
@@ -3453,12 +3742,36 @@
    ]
   },
   {
+   "title": "China, Russia conduct first joint Arctic sea ice observation",
+   "link": "https://news.cgtn.com/news/2026-09-05/China-Russia-conduct-first-joint-Arctic-sea-ice-observation-1QcaP5NTRcc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T12:45:39.000Z",
+   "summary": "China, Russia conduct first joint Arctic sea ice observation",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
    "title": "青春之光，点亮科创山河",
    "link": "https://www.chinanews.com.cn/ll/2026/09-05/10691116.shtml",
    "source": "中新网滚动",
    "time": "2026-09-05T12:43:21.000Z",
    "summary": "好评中国｜青春之光，点亮科创山河",
    "regions": []
+  },
+  {
+   "title": "Race against floods in China's typhoon-hit Fujian",
+   "link": "https://news.cgtn.com/news/2026-09-05/Race-against-floods-in-China-s-typhoon-hit-Fujian-1Qc7Wbqjgys/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T12:41:12.000Z",
+   "summary": "Torrential rain brought by Typhoon Saudel has flooded parts of Putian City, east China's Fujian Province, trapping resid…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "以科技赋能“芯”优势",
@@ -3526,6 +3839,17 @@
    "regions": []
   },
   {
+   "title": "Chinese embassy demands answers after death of Chinese under custody",
+   "link": "https://news.cgtn.com/news/2026-09-05/Chinese-embassy-demands-answers-after-death-of-Chinese-under-custody-1Qc96S1EFeE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T12:32:32.000Z",
+   "summary": "The Chinese embassy in the Philippines on Thursday lodged stern representations after a Chinese citizen died on Tuesday …",
+   "regions": [
+    "菲律宾",
+    "南海"
+   ]
+  },
+  {
    "title": "黑龙江白露节气秋意渐浓 昼夜温差加大",
    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10691079.shtml",
    "source": "中新网社会",
@@ -3544,6 +3868,18 @@
    "summary": "央广网天津9月4日消息(记者褚夫晴)青春是什么模样？是大山讲台下一双双渴求知识的眼眸，是实验室里昼夜不熄的灯火，是育人课堂上循循善诱的身影。在新时代，万千学子于不同赛道躬身前行，把个人理想熔铸进时代使命，用滚烫行动书写动人的青春华章。",
    "regions": [
     "天津"
+   ]
+  },
+  {
+   "title": "Asia-Pacific Media Forum held in China's Guangdong",
+   "link": "https://news.cgtn.com/news/2026-09-05/Asia-Pacific-Media-Forum-held-in-China-s-Guangdong-1Qc8AaB8Vaw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T12:27:25.000Z",
+   "summary": "The Asia-Pacific Media Forum opened on Saturday in Shenzhen, south China's Guangdong Province, with the theme of \"Buildi…",
+   "regions": [
+    "中国",
+    "亚太",
+    "太平洋"
    ]
   },
   {
@@ -3574,6 +3910,17 @@
    "summary": "央视网消息：中央气象台9月5日早6点继续发布台风蓝色预警：今年第24号台风“科罗旺”目前为热带风暴级，其中心5日早5点位于琉球群岛那霸市北偏西方向大约240公里的东海东部海面上(北纬28.1度、东经126.5度)，中心附近最大风力有9级。预…",
    "regions": [
     "海东"
+   ]
+  },
+  {
+   "title": "Nepal floods: Search continues amid widespread destruction",
+   "link": "https://news.cgtn.com/news/2026-09-05/Nepal-floods-Search-continues-amid-widespread-destruction-1Qc9emhsHbW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T12:06:06.000Z",
+   "summary": "Nepal floods: Search continues amid widespread destruction",
+   "regions": [
+    "尼泊尔",
+    "亚太"
    ]
   },
   {
@@ -3638,6 +3985,14 @@
    ]
   },
   {
+   "title": "Super-strong El Nino projected to persist into summer 2027",
+   "link": "https://news.cgtn.com/news/2026-09-05/Super-strong-El-Nino-projected-to-persist-into-summer-2027-1Qc2y7EMOo8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T11:43:16.000Z",
+   "summary": "Super-strong El Nino projected to persist into summer 2027",
+   "regions": []
+  },
+  {
    "title": "宁夏永宁：藤下话丰收 小葡萄酿出乡村振兴甜滋味",
    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10691064.shtml",
    "source": "中新网社会",
@@ -3691,6 +4046,29 @@
    ]
   },
   {
+   "title": "China's private space companies set their sights on the moon",
+   "link": "https://news.cgtn.com/news/2026-09-05/China-s-private-space-companies-set-their-sights-on-the-moon-1Qc2pHiBuJa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T11:36:31.000Z",
+   "summary": "China's private space companies set their sights on the moon",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Foreign experts explain hurdles in China-Nepal border mudslide rescue",
+   "link": "https://news.cgtn.com/news/2026-09-05/Foreign-experts-explain-hurdles-in-China-Nepal-border-mudslide-rescue-1QbUtldPB6w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T11:34:41.000Z",
+   "summary": "Rescuers still face difficult conditions in the disaster area, with teams deploying ground radar and aerial surveys to m…",
+   "regions": [
+    "尼泊尔",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "京九线贯通三十载 东莞东站蝶变为湾区活力枢纽",
    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10691006.shtml",
    "source": "中新网中国",
@@ -3707,6 +4085,42 @@
    "time": "2026-09-05T11:20:12.000Z",
    "summary": "9月5日，清代陵寝和后妃的研究学者徐广源个人微博公布徐广源离世的消息：敬告各位朋友：2026年9月4日，家父徐广源离世，后事现已料理完毕。徐广源家人衷心感谢各位的关注与惦念。",
    "regions": []
+  },
+  {
+   "title": "China steps up monitoring of risk areas in mudslide-hit Gyirong",
+   "link": "https://news.cgtn.com/news/2026-09-05/China-steps-up-monitoring-of-risk-areas-in-mudslide-hit-Gyirong--1QbNiybHBq8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T11:17:52.000Z",
+   "summary": "More than 2,300 rescuers, including 726 personnel from the Chinese People's Liberation Army and the People's Armed Polic…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China-Kyrgyzstan-Uzbekistan railway achieves breakthrough",
+   "link": "https://news.cgtn.com/news/2026-09-05/China-Kyrgyzstan-Uzbekistan-railway-achieves-breakthrough-1Qc3rDBAukw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T10:59:51.000Z",
+   "summary": "China-Kyrgyzstan-Uzbekistan railway achieves breakthrough",
+   "regions": [
+    "中国",
+    "亚太",
+    "乌兹别克斯坦",
+    "欧洲",
+    "吉尔吉斯斯坦"
+   ]
+  },
+  {
+   "title": "Mudslide in east China's Jiangxi leaves 1 dead, 11 missing",
+   "link": "https://news.cgtn.com/news/2026-09-05/Mudslide-in-east-China-s-Jiangxi-leaves-1-dead-11-missing-1Qc0Gim6J7G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T10:57:25.000Z",
+   "summary": "Mudslide in east China's Jiangxi leaves 1 dead, 11 missing",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "内蒙古自治区锡林郭勒盟行署原党组成员、副盟长，锡林浩特市委原书记兴安被查",
@@ -3829,6 +4243,14 @@
    "regions": []
   },
   {
+   "title": "The terraces that paint themselves",
+   "link": "https://news.cgtn.com/news/2026-09-05/The-terraces-that-paint-themselves-1Qc1hcZywjC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T09:56:05.000Z",
+   "summary": "The terraces that paint themselves",
+   "regions": []
+  },
+  {
    "title": "国家发改委安排2000万元支持江西暴雨洪涝灾后应急恢复",
    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10691016.shtml",
    "source": "中新网中国",
@@ -3860,6 +4282,19 @@
    ]
   },
   {
+   "title": "Australian editor sees Asia-Pacific promise in China's wind tech",
+   "link": "https://news.cgtn.com/news/2026-09-05/Australian-editor-sees-Asia-Pacific-promise-in-China-s-wind-tech-1QbXBX2cnMA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T09:39:19.000Z",
+   "summary": "Australian editor sees Asia-Pacific promise in China's wind tech",
+   "regions": [
+    "澳大利亚",
+    "亚太",
+    "中国",
+    "太平洋"
+   ]
+  },
+  {
    "title": "（走进中国乡村）湖南侗乡钩藤“出山”变“金钩”",
    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10690977.shtml",
    "source": "中新网社会",
@@ -3869,6 +4304,14 @@
     "怀化",
     "湖南"
    ]
+  },
+  {
+   "title": "Reopen the lifeline: the first excavator operator to clear the path",
+   "link": "https://news.cgtn.com/news/2026-09-05/Reopen-the-lifeline-the-first-excavator-operator-to-clear-the-path-1QbTyvZdWIE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T09:34:07.000Z",
+   "summary": "Reopen the lifeline: the first excavator operator to clear the path",
+   "regions": []
   },
   {
    "title": "中国创新文旅玩法“圈粉”海外游客",
@@ -3909,6 +4352,18 @@
    "summary": "中新网苏州9月5日电(记者 常慕城)近日，苏州出台打造“山水园林城市”三年行动计划，明确将以“自然山水园中城、人工山水城中园”为总体意象，统筹全域山水林田湖草资源，把“人间天堂”的传统美誉，转变为可切身感受的现代化城市名片。",
    "regions": [
     "苏州"
+   ]
+  },
+  {
+   "title": "CGTN, Pakistani journalists witness China's green transition",
+   "link": "https://news.cgtn.com/news/2026-09-05/CGTN-Pakistani-journalists-witness-China-s-green-transition-1QbRpqkjWxO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T09:19:24.000Z",
+   "summary": "CGTN, Pakistani journalists witness China's green transition",
+   "regions": [
+    "巴基斯坦",
+    "亚太",
+    "中国"
    ]
   },
   {
@@ -3976,6 +4431,14 @@
    ]
   },
   {
+   "title": "Shanghai Paradox Museum returns with new optical illusions",
+   "link": "https://news.cgtn.com/news/2026-09-05/Shanghai-Paradox-Museum-returns-with-new-optical-illusions-1QbWmy21OJW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T08:42:55.000Z",
+   "summary": "Paradox Museum in Shanghai returns with brand-new illusions!",
+   "regions": []
+  },
+  {
    "title": "时政纪录片丨志合山海 大道同行——习近平主席出席上合组织峰会并访问吉尔吉斯斯坦、埃及纪实",
    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690979.shtml",
    "source": "中新网中国",
@@ -4032,6 +4495,17 @@
    "summary": "中新网深圳9月5日电 (记者 程景伟 郭军)亚太媒体高端论坛5日在深圳开幕，一场以“万物皆媒 Media未来”为主题的科技创新成果展同期举办。",
    "regions": [
     "深圳"
+   ]
+  },
+  {
+   "title": "Chinese national rescued from Nepal mudslide tunnel",
+   "link": "https://news.cgtn.com/news/2026-09-05/news-1QbV6b0y2uA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T08:19:18.000Z",
+   "summary": "Chinese national rescued from Nepal mudslide tunnel",
+   "regions": [
+    "尼泊尔",
+    "亚太"
    ]
   },
   {
@@ -4095,6 +4569,14 @@
    ]
   },
   {
+   "title": "G216 roadwork improves a key stretch about 1km from core disaster area",
+   "link": "https://news.cgtn.com/news/2026-09-05/G216-roadwork-improves-a-key-stretch-about-1km-from-core-disaster-area-1QaBrWNEDEA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T08:10:41.000Z",
+   "summary": "G216 roadwork improves a key stretch about 1km from core disaster area",
+   "regions": []
+  },
+  {
    "title": "在吉隆，听到这些充满力量的声音",
    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690948.shtml",
    "source": "中新网中国",
@@ -4152,6 +4634,14 @@
    ]
   },
   {
+   "title": "Why is it called a kingfisher? Watch this video",
+   "link": "https://news.cgtn.com/news/2026-09-05/Why-is-it-called-a-kingfisher-Watch-this-video-1QbRira9R0Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T07:56:15.000Z",
+   "summary": "Why is it called a kingfisher? Watch this video",
+   "regions": []
+  },
+  {
    "title": "丁薛祥会见俄罗斯总统普京并与俄方共同主持中俄双边机制性会议",
    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690930.shtml",
    "source": "中新网中国",
@@ -4159,6 +4649,28 @@
    "summary": "中新社符拉迪沃斯托克9月5日电 当地时间9月2日至4日，中共中央政治局常委、国务院副总理丁薛祥在符拉迪沃斯托克会见俄罗斯总统普京，同俄罗斯第一副总理曼图罗夫共同主持中俄投资合作委员会第十三次会议，同俄罗斯副总理诺瓦克共同主持中俄能源合作委员…",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "Tech powers China's sports upgrade in new five-year plan",
+   "link": "https://news.cgtn.com/news/2026-09-05/Tech-powers-China-s-sports-upgrade-in-new-five-year-plan-1QbLrjivlwA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T07:37:12.000Z",
+   "summary": "Tech powers China's sports upgrade in new five-year plan",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China sends rescue teams to landslide site in Jiangxi",
+   "link": "https://news.cgtn.com/news/2026-09-05/China-sends-rescue-teams-to-landslide-site-in-Jiangxi-1QbN5f0E5iM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T07:18:07.000Z",
+   "summary": "China sends rescue teams to landslide site in Jiangxi",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4201,6 +4713,22 @@
    "regions": [
     "山东"
    ]
+  },
+  {
+   "title": "Reopening the route for rescue",
+   "link": "https://news.cgtn.com/news/2026-09-05/Reopening-the-route-for-rescue-1QbLZpFFgR2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T06:44:41.000Z",
+   "summary": "Reopening the route for rescue",
+   "regions": []
+  },
+  {
+   "title": "Zhoukoudian: Where early humans once lived",
+   "link": "https://news.cgtn.com/news/2026-09-05/Zhoukoudian-Where-early-humans-once-lived-1QbM670vlSM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T06:38:01.000Z",
+   "summary": "The Peking Man Site at Zhoukoudian is a UNESCO World Heritage Site in Beijing. About 700,000 years ago, the Peking Man a…",
+   "regions": []
   },
   {
    "title": "应急管理部调度江西遂川泥石流灾害救援 派出工作组赶赴现场",
@@ -4314,6 +4842,18 @@
    "time": "2026-09-05T05:35:06.000Z",
    "summary": "摄像头在一些生活场景中是人们保护生命财产安全的倚仗，然而在公共区域随意安装摄像头，却有可能侵扰到他人的隐私。",
    "regions": []
+  },
+  {
+   "title": "Nepali journalist praises China's support for Nepal disaster relief",
+   "link": "https://news.cgtn.com/news/2026-09-05/Nepali-journalist-praises-China-s-support-for-Nepal-disaster-relief-1QbFPaHRUCA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T05:33:39.000Z",
+   "summary": "Nepali journalist praises China's support for Nepal disaster relief",
+   "regions": [
+    "尼泊尔",
+    "亚太",
+    "中国"
+   ]
   },
   {
    "title": "中建集团党组：坚决拥护党中央决定",
@@ -4440,6 +4980,18 @@
    ]
   },
   {
+   "title": "Data solidarity: What we can learn from China-Nepal border disaster",
+   "link": "https://news.cgtn.com/news/2026-09-05/Data-solidarity-What-we-can-learn-from-China-Nepal-border-disaster-1QankraFk9a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T04:36:42.000Z",
+   "summary": "Data solidarity: What we can learn from China-Nepal border disaster",
+   "regions": [
+    "尼泊尔",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "广东水利防汛防台风Ⅲ级应急响应调整为Ⅳ级应急响应",
    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690857.shtml",
    "source": "中新网中国",
@@ -4506,6 +5058,17 @@
    ]
   },
   {
+   "title": "At least 1 killed, 11 missing after landslide in eastern China",
+   "link": "https://news.cgtn.com/news/2026-09-05/Over-10-buried-after-landslide-in-E-China-s-Jiangxi-1QbCXjCiQ00/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T04:05:25.000Z",
+   "summary": "At least 1 killed, 11 missing after landslide in eastern China",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "五大人格与基因有何关联？国际最新研究识别1000多个相关遗传变异",
    "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690824.shtml",
    "source": "中新网滚动",
@@ -4523,6 +5086,17 @@
    "summary": "中新网黑龙江孙吴9月5日电 (李梦 姜禹帆)近日，记者随2026年“活力中国调研行”黑龙江主题采访活动走进黑龙江省孙吴县，探访当地安格斯肉牛养殖及产业发展情况。",
    "regions": [
     "黑龙江"
+   ]
+  },
+  {
+   "title": "Is China's smart manufacturing cost advantage unfair?",
+   "link": "https://news.cgtn.com/news/2026-09-05/Is-China-s-smart-manufacturing-cost-advantage-unfair--1QbzGlRFE52/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-05T04:01:30.000Z",
+   "summary": "Is China's smart manufacturing cost advantage unfair?",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5362,5 +5936,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-06T01:06:19.786Z"
+ "updatedAt": "2026-09-06T05:06:57.799Z"
 }
