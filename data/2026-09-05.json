@@ -1247,6 +1247,17 @@
    ]
   },
   {
+   "title": "【地震 M4.6】71 km N of Isangel, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
+   "source": "USGS地震台网",
+   "time": "2026-09-05T23:46:26.056Z",
+   "summary": "美国地质调查局官方监测：71 km N of Isangel, Vanuatu发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
    "title": "菲华裔青少年角逐“启斐杯” 以华语之声筑文化传承之桥",
    "link": "https://www.chinanews.com.cn/hr/2026/09-06/10691230.shtml",
    "source": "中新网滚动",
@@ -1318,6 +1329,17 @@
    "regions": [
     "俄乌",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】165 km N of Tobelo, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tel7",
+   "source": "USGS地震台网",
+   "time": "2026-09-05T22:33:55.994Z",
+   "summary": "美国地质调查局官方监测：165 km N of Tobelo, Indonesia发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
    ]
   },
   {
@@ -5340,5 +5362,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-06T00:12:23.826Z"
+ "updatedAt": "2026-09-06T00:45:22.916Z"
 }
