@@ -3551,6 +3551,17 @@
    ]
   },
   {
+   "title": "【地震 M4.2】87 km SW of San Pedro de Atacama, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tft4",
+   "source": "USGS地震台网",
+   "time": "2026-09-08T10:33:39.128Z",
+   "summary": "美国地质调查局官方监测：87 km SW of San Pedro de Atacama, Chile发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
    "title": "匈牙利外长：匈方驱逐10名俄罗斯外交官",
    "link": "https://sputniknews.cn/20260908/1073142984.html",
    "source": "卫星社中文",
@@ -7976,5 +7987,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-09T05:07:27.444Z"
+ "updatedAt": "2026-09-09T09:07:57.299Z"
 }
