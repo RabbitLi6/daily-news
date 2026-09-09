@@ -2,11 +2,171 @@
  "date": "2026-09-08",
  "tech": [
   {
+   "title": "华为靳玉志谈麒麟 9050 Pro 回归：六年时间，麒麟完成涅槃，国产芯片迎来新的里程碑",
+   "link": "https://www.ithome.com/0/999/970.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:58:52.000Z",
+   "summary": "IT之家 9 月 9 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上， 华为 Mate XT 2 非凡大师全新展翼三折叠手机正式发布 ，定价 19,999 元起。 这款新机最…",
+   "regions": []
+  },
+  {
+   "title": "iPhone 18 Pro 发布会前夕，苹果推送 140W USB-C 适配器固件更新",
+   "link": "https://www.ithome.com/0/999/969.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:54:48.000Z",
+   "summary": "IT之家 9 月 9 日消息，科技媒体 MacRumors 昨日（9 月 8 日）发布博文，报道称在 iPhone 18 Pro 系列发布会前夕，苹果向 140W USB-C 电源适配器（ 点此前往苹果官网选购，售价 729 元 ）推送固件…",
+   "regions": []
+  },
+  {
+   "title": "红杉中国收购徕卡案告吹，奥地利亿万富翁考夫曼拒绝出售多数股权",
+   "link": "https://www.ithome.com/0/999/968.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:53:51.000Z",
+   "summary": "IT之家 9 月 9 日消息，德国证券报（Börsen-Zeitung）当地时间周二报道称，奥地利亿万富翁安德烈亚斯 · 考夫曼（Andreas Kaufmann）已决定暂不出售其持有的徕卡相机公司（Leica Camera AG）多数股权…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 0909：OpenAI 发布最强 AI 生图模型 Images 2.5；DeepSeek 明日下调 Flash 模型价格；高德回应开发“扫雷榜”；汽车博主“拉踩”引流被判赔 10 万...",
+   "link": "https://www.ithome.com/0/999/967.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:52:06.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 9 日星期三，今天的重要科技资讯有： 1. OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图 OpenAI 9…",
+   "regions": []
+  },
+  {
+   "title": "Sonos 27 音频系统更新：配对增强环绕声道、预览外部 AI 接入等",
+   "link": "https://www.ithome.com/0/999/966.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:44:47.000Z",
+   "summary": "IT之家 9 月 9 日消息，Sonos 昨日（9 月 8 日）发布新闻稿，宣布通过苹果 App Store 应用商店渠道，更新 Sonos 27 音频系统，并向 Sonos S2 系列产品免费推送。 产品命名方面，伴随着 Sonos Be…",
+   "regions": []
+  },
+  {
+   "title": "理想李昕旸：2026 款 i6 使用的 5C 超充电芯为自研，委托欣旺达和中创新航两家合作伙伴代工生产",
+   "link": "https://www.ithome.com/0/999/965.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:42:03.000Z",
+   "summary": "IT之家 9 月 9 日消息，工信部昨晚发布第 411 批《道路机动车辆生产企业及产品公告》新产品公示， 新款理想 i6 完成申报 。 理想汽车产品线负责人李昕旸昨晚发文介绍了 2026 款理想 i6，解读了工信部的申报信息： 2026 款…",
+   "regions": []
+  },
+  {
+   "title": "俄罗斯方块公司投诉后，美国白宫已下架高仿“建墙”游戏",
+   "link": "https://www.ithome.com/0/999/964.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:37:53.000Z",
+   "summary": "IT之家 9 月 9 日消息，美国白宫官网近日上线的网页游戏“Build the Wall”因与《俄罗斯方块》（Tetris）玩法高度相似而引发争议。 在俄罗斯方块版权方 Tetris Company 表示未参与开发并警告白宫严肃对待版权问…",
+   "regions": []
+  },
+  {
+   "title": "苹果 2026 款 Apple TV 4K 曝光：升级 A19/Pro 芯片，支持 Siri AI",
+   "link": "https://www.ithome.com/0/999/963.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:31:22.000Z",
+   "summary": "IT之家 9 月 9 日消息，消息源亚伦 · 佩里斯（Aaron Perris）昨日（9 月 8 日）在 X 平台发布推文，通过挖掘 tvOS 27 Beta 更新代码，发现了 AppleTV18,1 硬件踪迹， 预估是苹果新款 Apple…",
+   "regions": []
+  },
+  {
+   "title": "Claude 额度离奇消失，Anthropic 确认账号被黑客盗用",
+   "link": "https://www.ithome.com/0/999/962.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:29:06.000Z",
+   "summary": "9 月 9 日，据 TechCrunch 报道，多名 Claude 用户近期发现，自己在没有使用服务的情况下，账号额度仍在快速消耗。Anthropic 调查后称，黑客利用窃取的 Claude 登录会话访问用户账号，并消耗其使用额度。 8 月…",
+   "regions": []
+  },
+  {
+   "title": "微信鸿蒙版 App 获 8.0.21.42 邀测升级，灰度开放笔记在聊天中置顶等功能",
+   "link": "https://www.ithome.com/0/999/961.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:28:20.000Z",
+   "summary": "IT之家 9 月 9 日消息，微信鸿蒙版 App 昨日在华为应用市场（App Gallery）开启了 8.0.21.42 (8394026) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/9/8-2026/10/8…",
+   "regions": []
+  },
+  {
+   "title": "扎克伯格推进“个人超级智能”：Meta 发布其首款个人智能体 Muse，内部测试喜忧参半",
+   "link": "https://www.ithome.com/0/999/960.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:26:56.000Z",
+   "summary": "北京时间 9 月 9 日，据路透社报道，Meta 周二正式发布了其长期宣传的 AI 助手，该助手可自主代表用户完成发送邮件、卖车及预订旅行等任务。不过，Meta 内部担忧这项技术在处理敏感个人数据的访问权限时存在管理不善的问题。 这款 AI…",
+   "regions": []
+  },
+  {
+   "title": "继 Claude 尝试攻克黎曼猜想后：OpenAI 宣布用 10000 个 AI 智能体 88 小时攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+   "link": "https://www.ithome.com/0/999/959.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:14:32.000Z",
+   "summary": "IT之家 9 月 9 日消息，OpenAI 于当地时间 9 月 8 日宣布，其内部未公开的 AI 模型（性能远超最新发布的 GPT-6 Astra）已成功解决“纳维-斯托克斯存在性与光滑性问题”（Navier-Stokes existenc…",
+   "regions": []
+  },
+  {
+   "title": "集邦报告 2026Q2 全球手机产量：三星占 23%、苹果 19%、OPPO 11%、小米 10%、vivo 8%、传音 7%",
+   "link": "https://www.ithome.com/0/999/958.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:13:56.000Z",
+   "summary": "IT之家 9 月 9 日消息，集邦咨询（TrendForce）昨日（9 月 8 日）发布博文，报告称基于最新手机产业调查，2026 年第二季全球智能手机生产总量达 2.75 亿台，较去年同期下降 8%，降幅小于原先预期。 集邦咨询表示由于消…",
+   "regions": []
+  },
+  {
+   "title": "小米员工：澎程 N90 Max 探索版登记为 7 座及以下小型客车，与小型普通客车报废年限一致",
+   "link": "https://www.ithome.com/0/999/957.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:10:36.000Z",
+   "summary": "IT之家 9 月 9 日消息，小米工作人员 @笋寸 今日凌晨发文，谈及了澎程 N90 Max 探索版车型： 小米澎程 N90 Max 探索版，登记为 7 座及以下小型客车， 也可按国家现行政策享受重大节假日收费高速公路免费通行 。报废年限与…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图",
+   "link": "https://www.ithome.com/0/999/956.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T23:00:42.000Z",
+   "summary": "IT之家 9 月 9 日消息，OpenAI 今天（9 月 9 日）官宣发布 ChatGPT Images 2.5，图像生成延迟最多降低 50%，并新增 Sketch 草图参考、模板库、图片内评论标注等实用功能， 是该公司当前最先进的图像生成…",
+   "regions": []
+  },
+  {
+   "title": "微软 Win11 自动深浅色模式已在路上：可按当地日出 / 日落时间或自定义时间触发",
+   "link": "https://www.ithome.com/0/999/955.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T22:55:14.000Z",
+   "summary": "IT之家 9 月 9 日消息，Windows 爱好者 PhantomOfEarth 发现，微软正在为 Windows 11 开发一项用户期待已久的功能 —— 自动深色模式定时切换。相关代码已经出现在 Experimental 实验预览版中。…",
+   "regions": []
+  },
+  {
+   "title": "产品尚未发布，苹果已为 Beats 360 耳机推送新固件",
+   "link": "https://www.ithome.com/0/999/954.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T22:41:24.000Z",
+   "summary": "IT之家 9 月 9 日消息，除了 iOS / iPadOS 26.6.2 正式版更新之外，苹果同时还为其即将推出的 Beats 360 头戴式耳机推送了固件更新（版本号 4A203）。这意味着产品发布已临近。 近几个月来，Beats 36…",
+   "regions": []
+  },
+  {
+   "title": "DeepSeek 官宣明日 flash 系列 AI 模型降价：输出为每百万 Token 4 元",
+   "link": "https://www.ithome.com/0/999/953.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T22:39:58.000Z",
+   "summary": "IT之家 9 月 9 日消息，据 DeepSeek 开放平台公告， 官方宣布将于北京时间明日（2026 年 9 月 10 日）12 时起执行新价格，调整 Flash 系列定价。 根据明日调整的新价格： 空闲时段： 输入缓存命中价格为每百万 …",
+   "regions": []
+  },
+  {
+   "title": "小米澎程冲上绿化带？官方回应称试驾客户误将油门当刹车，无人受伤",
+   "link": "https://www.ithome.com/0/999/952.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T22:18:37.000Z",
+   "summary": "IT之家 9 月 9 日消息，小米辟谣官方号今日发文，就 9 月 8 日晚间一则试驾意外事件作出说明。 小米指出，9 月 8 日一位客户在试驾途中，于路口转弯时为前车让道，因紧张将油门当刹车误踩，意外驶出车道。官方强调，此过程中无人受伤。 …",
+   "regions": []
+  },
+  {
    "title": "苹果 iOS/iPadOS 26.6.2 正式版发布",
    "link": "https://www.ithome.com/0/999/950.htm",
    "source": "IT之家",
    "time": "2026-09-08T18:04:03.000Z",
    "summary": "IT之家 9 月 9 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6.2 更新（内部版本号：23G90），本次更新距离上次发布正式版间隔 29 天。 需要注意的是，因苹果各区域节点服务器配置缓存问…",
+   "regions": []
+  },
+  {
+   "title": "微软发布 Win11 Beta 和 Experimental 预览版更新：跨设备恢复体验改进，无法启动时可直接从云端重装系统",
+   "link": "https://www.ithome.com/0/999/949.htm",
+   "source": "IT之家",
+   "time": "2026-09-08T17:06:05.000Z",
+   "summary": "IT之家 9 月 9 日消息，微软于当地时间 9 月 8 日面向 Beta 和 Experimental 频道的 Windows Insider 项目成员发布了适用于 Windows 11 的多个预览版更新。本次推送版本如下： Beta 通…",
    "regions": []
   },
   {
@@ -1963,6 +2123,17 @@
    "regions": [
     "中东",
     "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】88 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvnour",
+   "source": "USGS地震台网",
+   "time": "2026-09-08T23:02:31.538Z",
+   "summary": "美国地质调查局官方监测：88 km SSW of Nikolski, Alaska发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
     "美洲"
    ]
   },
@@ -7264,5 +7435,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-09T00:12:10.982Z"
+ "updatedAt": "2026-09-09T00:45:04.800Z"
 }
