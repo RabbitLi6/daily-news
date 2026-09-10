@@ -610,11 +610,27 @@
    "regions": []
   },
   {
+   "title": "IJPay 让支付触手可及 2.9.13 版本发布",
+   "link": "https://www.oschina.net/news/502399",
+   "source": "开源中国",
+   "time": "2026-09-09T16:05:20.000Z",
+   "summary": "IJPay 让支付触手可及，封装了微信支付、QQ 支付、支付宝支付、银联支付、京东支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里…",
+   "regions": []
+  },
+  {
    "title": "经典弹幕游戏重制《东方红魔乡：新典》发售，Steam 国区 69 元起",
    "link": "https://www.ithome.com/1/000/487.htm",
    "source": "IT之家",
    "time": "2026-09-09T15:52:04.000Z",
    "summary": "IT之家 9 月 9 日消息，弹幕射击游戏《东方红魔乡：新典 ～ the Embodiment of Scarlet Devil.》现已正式发售，登陆 PS5、Switch 2、PC 平台，支持中文。 IT之家获悉，《东方红魔乡：新典》是 …",
+   "regions": []
+  },
+  {
+   "title": "Termexo v0.8.5 发布：自带 ConPTY，改善旧版 Windows 终端兼容性",
+   "link": "https://www.oschina.net/news/502398",
+   "source": "开源中国",
+   "time": "2026-09-09T15:44:20.000Z",
+   "summary": "Termexo v0.8.5 已发布。Termexo 是 MIT 开源的 Windows 多 Agent 工作台，统一管理 Claude Code、Codex CLI、OpenCode 和真实终端。本版重点改善 Windows 终端兼容性与…",
    "regions": []
   },
   {
@@ -2446,6 +2462,14 @@
    ]
   },
   {
+   "title": "Israel’s Netanyahu was warned of Oct. 7 offensive, Haaretz reports",
+   "link": "https://newsus.cgtn.com/news/2026-09-10/Israel-s-Netanyahu-was-warned-of-Oct-7-offensive-Haaretz-reports-1QjDetH7ig0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T23:51:28.000Z",
+   "summary": "Israel’s Netanyahu was warned of Oct. 7 offensive, Haaretz reports",
+   "regions": []
+  },
+  {
    "title": "中国商务部回应美方所谓AI蒸馏指控：于事无凭、于法无据，典型双重标准",
    "link": "https://sputniknews.cn/20260910/1073176662.html",
    "source": "卫星社中文",
@@ -2504,6 +2528,14 @@
     "俄乌",
     "亚太"
    ]
+  },
+  {
+   "title": "5 killed, 87 missing as vessel burns near Philippines' Palawan",
+   "link": "https://news.cgtn.com/news/2026-09-10/news-1QjBeYn84Hm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T23:22:14.000Z",
+   "summary": "5 killed, 87 missing as vessel burns near Philippines' Palawan",
+   "regions": []
   },
   {
    "title": "美国华美协进社中国美术馆推重磅新展回顾60载历程",
@@ -2738,6 +2770,14 @@
    ]
   },
   {
+   "title": "Iran launches largest attack in five months as US interceptors run low",
+   "link": "https://newsus.cgtn.com/news/2026-09-10/Iran-launches-largest-attack-in-five-months-as-US-interceptors-run-low-1QjoE4ZepvW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T20:26:53.000Z",
+   "summary": "Iran launches largest attack in five months as US interceptors run low",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.7】164 km SSE of Isangel, Vanuatu",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg5p",
    "source": "USGS地震台网",
@@ -2769,6 +2809,14 @@
     "美国夏威夷",
     "美洲"
    ]
+  },
+  {
+   "title": "Milo supported ICE, then he was deported",
+   "link": "https://newsus.cgtn.com/news/2026-09-10/Milo-supported-ICE-then-he-was-deported-1Qjls92G0o0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T20:02:47.000Z",
+   "summary": "Milo supported ICE, then he was deported",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】13 km NW of Chignik Lake, Alaska",
@@ -3231,6 +3279,14 @@
    ]
   },
   {
+   "title": "Rwanda’s gorilla conservation brings economic benefits",
+   "link": "https://newsaf.cgtn.com/news/2026-09-09/Rwanda-s-gorilla-conservation-brings-economic-benefits-1QiGwH9N4fC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T13:46:22.000Z",
+   "summary": "Rwanda's success in protecting its mountain gorillas is generating economic benefits beyond conservation, supporting bus…",
+   "regions": []
+  },
+  {
    "title": "普京：俄越在越南主权斗争期间建立起友谊",
    "link": "https://sputniknews.cn/20260909/1073171990.html",
    "source": "卫星社中文",
@@ -3242,6 +3298,30 @@
    ]
   },
   {
+   "title": "Xi Jinping's key quotes on Long March spirit",
+   "link": "https://news.cgtn.com/news/2026-09-09/Xi-Jinping-s-key-quotes-on-Long-March-spirit-1QiAbt9L5ba/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T13:35:37.000Z",
+   "summary": "Ninety years on, the Long March continues to resonate as an enduring part of China's revolutionary history. Here are som…",
+   "regions": []
+  },
+  {
+   "title": "Israel closes British Consulate as settlement row escalates",
+   "link": "https://news.cgtn.com/news/2026-09-09/Israel-closes-British-Consulate-as-settlement-row-escalates-1QiSh6ofbY4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T13:35:05.000Z",
+   "summary": "Israel has notified Britain that its consulate in East Jerusalem must close within 30 days and that its diplomats will l…",
+   "regions": []
+  },
+  {
+   "title": "China-Latin America trade in services: How much potential is there?",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-Latin-America-trade-in-services-How-much-potential-is-there--1QiO44SGNJ6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T13:33:03.000Z",
+   "summary": "China-Latin America trade in services: How much potential is there?",
+   "regions": []
+  },
+  {
    "title": "克宫：俄方认为 乌克兰问题三方会谈将会恢复",
    "link": "https://sputniknews.cn/20260909/1073172399.html",
    "source": "卫星社中文",
@@ -3250,6 +3330,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "China's HK, Macao affairs offices mourn passing of Tung Chee-hwa",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-s-HK-Macao-affairs-offices-mourn-passing-of-Tung-Chee-hwa-1QiAuJ4BmrC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T13:20:07.000Z",
+   "summary": "The Hong Kong and Macao Work Office of the Communist Party of China (CPC) Central Committee and the Hong Kong and Macao …",
+   "regions": []
   },
   {
    "title": "扎哈罗娃讥讽日本执政阶层是“敏感的人”",
@@ -3316,6 +3404,14 @@
    "regions": []
   },
   {
+   "title": "China urges certain Philippine individual to stop undermining ties",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-urges-certain-Philippine-individual-to-stop-undermining-ties-1QiQ3aqRY6A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T12:43:03.000Z",
+   "summary": "A certain individual of the Philippines should cease the provocations and theatrics, and stop undermining China-Philippi…",
+   "regions": []
+  },
+  {
    "title": "伊拉克交通部：悬挂巴拿马国旗的油轮在伊拉克水域遇袭",
    "link": "https://sputniknews.cn/20260909/1073171550.html",
    "source": "卫星社中文",
@@ -3336,6 +3432,22 @@
     "欧洲",
     "美洲"
    ]
+  },
+  {
+   "title": "South Africa steps up measures to curb illegal migration",
+   "link": "https://newsaf.cgtn.com/news/2026-09-09/South-Africa-steps-up-measures-to-curb-illegal-migration-1QizeTDbjeo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T12:34:49.000Z",
+   "summary": "South Africa is stepping up efforts to curb illegal migration, including strengthening border security, tightening contr…",
+   "regions": []
+  },
+  {
+   "title": "One dead in train derailment in central Poland",
+   "link": "https://news.cgtn.com/news/2026-09-09/news-1QiQ0EDDWO4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T12:21:18.000Z",
+   "summary": "One dead in train derailment in central Poland",
+   "regions": []
   },
   {
    "title": "民调：大多数欧洲人认为欧洲的黄金时代已经过去",
@@ -3376,6 +3488,22 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "SCO at 25: Empowering the Global South, promoting global governance",
+   "link": "https://news.cgtn.com/news/2026-09-09/SCO-at-25-Empowering-the-Global-South-promoting-global-governance-1QiMa9SKgzS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T12:13:31.000Z",
+   "summary": "Turning 25, the Shanghai Cooperation Organization (SCO) is moving beyond regional cooperation to take on a broader role …",
+   "regions": []
+  },
+  {
+   "title": "Africa in pictures: South Africa's desert blooms into spring",
+   "link": "https://newsaf.cgtn.com/news/2026-09-09/Africa-in-pictures-South-Africa-s-desert-blooms-into-spring-1QixX5lZwac/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T12:11:01.000Z",
+   "summary": "For just two months each year, a semi-desert landscape on South Africa's west coast transforms into a breathtaking sea o…",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】28 km WSW of Olancha, CA",
@@ -3431,6 +3559,22 @@
    "regions": []
   },
   {
+   "title": "2025年超过1.71亿名学生因气候灾害中断学业",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142765",
+   "source": "联合国新闻",
+   "time": "2026-09-09T12:00:00.000Z",
+   "summary": "联合国儿童基金会周三发布的一份最新分析报告显示，2025年全球有超过1.71亿名学龄儿童和青少年因气候灾害而中断学业，相当于每10名学生中就有1名。",
+   "regions": []
+  },
+  {
+   "title": "The 2026 conference of GPSCFL opens",
+   "link": "https://news.cgtn.com/news/2026-09-09/The-2026-conference-of-GPSCFL-opens-1QiDUAmH53G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T11:53:38.000Z",
+   "summary": "The 2026 conference of GPSCFL opens",
+   "regions": []
+  },
+  {
    "title": "克宫：有机会在亚太经合组织峰会期间举行俄中美三方峰会",
    "link": "https://sputniknews.cn/20260909/1073171042.html",
    "source": "卫星社中文",
@@ -3462,6 +3606,14 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "El Niño is strengthening: What could it mean for Africa?",
+   "link": "https://newsaf.cgtn.com/news/2026-09-09/El-Ni-o-is-strengthening-What-could-it-mean-for-Africa--1QhglyS83KM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T11:34:45.000Z",
+   "summary": "El Niño is expected to become a very strong event later this year, with impacts likely to vary across Africa. The Greate…",
+   "regions": []
   },
   {
    "title": "俄外交部：与俄罗斯共同“开拓”北方海路的兴趣不断攀升",
@@ -3529,6 +3681,14 @@
    ]
   },
   {
+   "title": "How China drives BRICS expansion and cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-09/How-China-drives-BRICS-expansion-and-cooperation-1QizLJk311S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T10:28:02.000Z",
+   "summary": "At the 18th BRICS Summit to be held in New Delhi, India, this upcoming weekend, BRICS has taken on a new meaning. The su…",
+   "regions": []
+  },
+  {
    "title": "武契奇解散国民议会 并确认提前选举日期",
    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693400.shtml",
    "source": "中新网国际",
@@ -3559,6 +3719,22 @@
    ]
   },
   {
+   "title": "Devastating mudslide: 24/7 hotline shifts to DNA, travel help",
+   "link": "https://news.cgtn.com/news/2026-09-09/Devastating-mudslide-24-7-hotline-shifts-to-DNA-travel-help--1QiD2J4IUN2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T10:17:27.000Z",
+   "summary": "Devastating mudslide: 24/7 hotline shifts to DNA, travel help",
+   "regions": []
+  },
+  {
+   "title": "Serbian president dissolves parliament, calls Oct. 25 snap election",
+   "link": "https://news.cgtn.com/news/2026-09-09/news-1QiGxQbcmZi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T10:08:52.000Z",
+   "summary": "Serbian President Aleksandar Vucic on Wednesday signed a decree dissolving parliament and called snap parliamentary elec…",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.0】53 km W of Cafayate, Argentina",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg12",
    "source": "USGS地震台网",
@@ -3568,6 +3744,22 @@
     "阿根廷",
     "拉美"
    ]
+  },
+  {
+   "title": "China rejects US 'copying' allegations, calls for joint AI cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-rejects-US-copying-allegations-calls-for-joint-AI-cooperation-1QiEeDfUuIg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T10:04:56.000Z",
+   "summary": "China has rejected US allegations that its artificial intelligence (AI) firms are \"copying\" American technology, calling…",
+   "regions": []
+  },
+  {
+   "title": "US military denies reports of Iranian strikes on its warships",
+   "link": "https://news.cgtn.com/news/2026-09-09/news-1QiFO4BeBNK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T09:58:32.000Z",
+   "summary": "US military denies reports of Iranian strikes on its warships",
+   "regions": []
   },
   {
    "title": "波兰和美国签署价值40亿美元的武器采购融资协议",
@@ -3620,6 +3812,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "China, South Korea make positive progress in second phase FTA talks",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-South-Korea-make-positive-progress-in-second-phase-FTA-talks-1QixfWb8y08/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T08:59:58.000Z",
+   "summary": "China and South Korea have achieved positive progress on cross-border services trade and negative-list market access dur…",
+   "regions": []
   },
   {
    "title": "俄外交部：乌克兰黑市器官移植猖獗，人被用作生物材料",
@@ -3695,6 +3895,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "China services trade fair showcases innovation, promotes openness",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-services-trade-fair-showcases-innovation-promotes-openness-1QivVfgzXKE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T07:46:32.000Z",
+   "summary": "The 2026 China International Fair for Trade in Services (CIFTIS) opened Wednesday in Beijing, as China steps up efforts …",
+   "regions": []
   },
   {
    "title": "英媒：以色列要求英国驻耶路撒冷领事馆在30天内关闭",
@@ -3849,6 +4057,38 @@
    ]
   },
   {
+   "title": "Real Madrid, Manchester City open Champions League campaigns with wins",
+   "link": "https://news.cgtn.com/news/2026-09-09/Real-Madrid-Manchester-City-open-Champions-League-campaigns-with-wins-1Qi9l1fr0lO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T05:59:51.000Z",
+   "summary": "Real Madrid, Manchester City open Champions League campaigns with wins",
+   "regions": []
+  },
+  {
+   "title": "RIA: Death toll rises to 13 in Russia's avalanche",
+   "link": "https://news.cgtn.com/news/2026-09-09/news-1Qiozg4pnig/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T05:57:18.000Z",
+   "summary": "RIA: Death toll rises to 13 in Russia's avalanche",
+   "regions": []
+  },
+  {
+   "title": "Foreign experts on China's security: what others can learn",
+   "link": "https://news.cgtn.com/news/2026-09-09/Foreign-experts-on-China-s-security-what-others-can-learn-1QijxEufXkk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T05:52:44.000Z",
+   "summary": "Foreign experts on China's security: what others can learn",
+   "regions": []
+  },
+  {
+   "title": "CGTN reporter rebuts Western media outlet over mudslide coverage",
+   "link": "https://news.cgtn.com/news/2026-09-09/CGTN-reporter-rebuts-Western-media-outlet-over-mudslide-coverage-1Qhi6KiQpqg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T05:48:58.000Z",
+   "summary": "CGTN reporter rebuts Western media outlet over mudslide coverage",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.3】64 km SW of Pole Ojea, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531233",
    "source": "USGS地震台网",
@@ -3976,6 +4216,14 @@
    ]
   },
   {
+   "title": "Cross-border payment connectivity in focus as BRICS Summit nears",
+   "link": "https://news.cgtn.com/news/2026-09-09/Cross-border-payment-connectivity-in-focus-as-BRICS-Summit-nears-1Qi5vcT0SB2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T03:46:29.000Z",
+   "summary": "Cross-border payment connectivity in focus as BRICS Summit nears",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.6】21 km SE of Pāhala, Hawaii",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75031232",
    "source": "USGS地震台网",
@@ -3995,6 +4243,14 @@
    "regions": [
     "台海"
    ]
+  },
+  {
+   "title": "Iran retaliates against US allies after its oil tankers destroyed",
+   "link": "https://news.cgtn.com/news/2026-09-09/Iran-retaliates-against-US-allies-after-its-oil-tankers-destroyed-1Qi6JEuc4WA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-09T03:32:06.000Z",
+   "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) announced early on Wednesday that its aerospace forces had targeted a US…",
+   "regions": []
   },
   {
    "title": "中央气象台9月9日10时继续发布暴雨蓝色预警",
@@ -4434,6 +4690,17 @@
    ]
   },
   {
+   "title": "Mainland welcomes rising Taiwan 'One Country, Two Systems' discussion",
+   "link": "https://news.cgtn.com/news/2026-09-09/Mainland-welcomes-rising-Taiwan-One-Country-Two-Systems-discussion-1QiPdsy5kYM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T13:53:21.000Z",
+   "summary": "The Chinese mainland welcomed growing discussion in Taiwan about national reunification and a proposed \"One Country, Two…",
+   "regions": [
+    "台湾",
+    "台海"
+   ]
+  },
+  {
    "title": "台商台企考察重庆农业发展前景 见证台企在渝“生根发芽”",
    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693614.shtml",
    "source": "中新网中国",
@@ -4441,6 +4708,19 @@
    "summary": "中新网重庆9月9日电 (梁钦卿)台商台企重庆产业考察对接活动9日在重庆梁平区举行。全国台企联、部分省市台协及岛内知名工商团体代表齐聚梁平，深入田间地头考察投资环境，并见证台企在重庆“生根发芽”。",
    "regions": [
     "重庆"
+   ]
+  },
+  {
+   "title": "China's HK, Macao affairs offices mourn passing of Tung Chee-hwa",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-s-HK-Macao-affairs-offices-mourn-passing-of-Tung-Chee-hwa-1QiAuJ4BmrC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T13:20:07.000Z",
+   "summary": "The Hong Kong and Macao Work Office of the Communist Party of China (CPC) Central Committee and the Hong Kong and Macao …",
+   "regions": [
+    "中国",
+    "亚太",
+    "香港",
+    "澳门"
    ]
   },
   {
@@ -4524,6 +4804,19 @@
    "regions": [
     "台海",
     "江西"
+   ]
+  },
+  {
+   "title": "China's space crew gives lecture to students in Hong Kong, Macao",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-s-space-crew-gives-lecture-to-students-in-Hong-Kong-Macao-1QillDtglPy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T07:30:45.000Z",
+   "summary": "China's space crew gives lecture to students in Hong Kong, Macao",
+   "regions": [
+    "中国",
+    "亚太",
+    "香港",
+    "澳门"
    ]
   },
   {
@@ -4827,6 +5120,14 @@
    ]
   },
   {
+   "title": "Miles we share: What do you carry into the unknown?",
+   "link": "https://news.cgtn.com/news/2026-09-09/Miles-we-share-What-do-you-carry-into-the-unknown--1Qj0rI3t1eg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T14:58:24.000Z",
+   "summary": "Miles we share: What do you carry into the unknown?",
+   "regions": []
+  },
+  {
    "title": "24岁吃播博主离世：流量的尽头不是爆款，是身体的极限",
    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693641.shtml",
    "source": "中新网社会",
@@ -5026,6 +5327,17 @@
    ]
   },
   {
+   "title": "Xi Jinping's key quotes on Long March spirit",
+   "link": "https://news.cgtn.com/news/2026-09-09/Xi-Jinping-s-key-quotes-on-Long-March-spirit-1QiAbt9L5ba/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T13:35:37.000Z",
+   "summary": "Ninety years on, the Long March continues to resonate as an enduring part of China's revolutionary history. Here are som…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "学习新语｜总书记心系人民教师",
    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693585.shtml",
    "source": "中新网中国",
@@ -5140,6 +5452,19 @@
    "summary": "中新社北京9月9日电 贝尔格莱德消息：当地时间9月9日，塞尔维亚总统武契奇签署总统令解散议会，并宣布将于今年10月25日提前举行议会选举。",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "China urges certain Philippine individual to stop undermining ties",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-urges-certain-Philippine-individual-to-stop-undermining-ties-1QiQ3aqRY6A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T12:43:03.000Z",
+   "summary": "A certain individual of the Philippines should cease the provocations and theatrics, and stop undermining China-Philippi…",
+   "regions": [
+    "菲律宾",
+    "南海",
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5308,6 +5633,14 @@
    "regions": []
   },
   {
+   "title": "SCO at 25: Empowering the Global South, promoting global governance",
+   "link": "https://news.cgtn.com/news/2026-09-09/SCO-at-25-Empowering-the-Global-South-promoting-global-governance-1QiMa9SKgzS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T12:13:31.000Z",
+   "summary": "Turning 25, the Shanghai Cooperation Organization (SCO) is moving beyond regional cooperation to take on a broader role …",
+   "regions": []
+  },
+  {
    "title": "云南砚山“校长老师”金成跃：把根扎回讲台 把校园建成家",
    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693489.shtml",
    "source": "中新网社会",
@@ -5355,6 +5688,14 @@
    "source": "中新网社会",
    "time": "2026-09-09T12:01:45.000Z",
    "summary": "比起成年人所谓的情绪内耗，幼童的心理健康、童年安全感，才是这场风波最不该被透支的。",
+   "regions": []
+  },
+  {
+   "title": "The 2026 conference of GPSCFL opens",
+   "link": "https://news.cgtn.com/news/2026-09-09/The-2026-conference-of-GPSCFL-opens-1QiDUAmH53G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T11:53:38.000Z",
+   "summary": "The 2026 conference of GPSCFL opens",
    "regions": []
   },
   {
@@ -5569,6 +5910,18 @@
    ]
   },
   {
+   "title": "How China drives BRICS expansion and cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-09/How-China-drives-BRICS-expansion-and-cooperation-1QizLJk311S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T10:28:02.000Z",
+   "summary": "At the 18th BRICS Summit to be held in New Delhi, India, this upcoming weekend, BRICS has taken on a new meaning. The su…",
+   "regions": [
+    "印度",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "庙会“焕新” 江西南昌以民俗文化节庆解锁非遗活态传承",
    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693397.shtml",
    "source": "中新网社会",
@@ -5601,6 +5954,36 @@
    ]
   },
   {
+   "title": "Devastating mudslide: 24/7 hotline shifts to DNA, travel help",
+   "link": "https://news.cgtn.com/news/2026-09-09/Devastating-mudslide-24-7-hotline-shifts-to-DNA-travel-help--1QiD2J4IUN2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T10:17:27.000Z",
+   "summary": "Devastating mudslide: 24/7 hotline shifts to DNA, travel help",
+   "regions": []
+  },
+  {
+   "title": "Shujaat Khan: A sitar master's philosophy of the soul",
+   "link": "https://news.cgtn.com/news/2026-09-09/Shujaat-Khan-A-sitar-master-s-philosophy-of-the-soul-1QiyV42h1g4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T10:12:54.000Z",
+   "summary": "Born into a seven-generation musical lineage, Indian sitar maestro Shujaat Khan refuses to dilute tradition to cater to …",
+   "regions": [
+    "印度",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China rejects US 'copying' allegations, calls for joint AI cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-rejects-US-copying-allegations-calls-for-joint-AI-cooperation-1QiEeDfUuIg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T10:04:56.000Z",
+   "summary": "China has rejected US allegations that its artificial intelligence (AI) firms are \"copying\" American technology, calling…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "马利怀：以专项监督实际成效助力“十五五”规划顺利实施",
    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693363.shtml",
    "source": "中新网中国",
@@ -5609,6 +5992,30 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "Crossing Snowcapped Mountains",
+   "link": "https://news.cgtn.com/news/2026-09-09/Crossing-Snowcapped-Mountains-1QgIjhKUAYE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T09:47:40.000Z",
+   "summary": "In June 1935, the Central Red Army arrived at the foot of Mount Jiajin and began to cross the first major snow-capped mo…",
+   "regions": []
+  },
+  {
+   "title": "President Xi extends greetings ahead of Teachers' Day",
+   "link": "https://news.cgtn.com/news/2026-09-09/President-Xi-extends-greetings-ahead-of-Teachers-Day-1QizTugdkYg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T09:39:42.000Z",
+   "summary": "Chinese President Xi Jinping has extended greetings to teachers and educators across the country ahead of Teachers' Day,…",
+   "regions": []
+  },
+  {
+   "title": "Book fairs, shows and forums highlight Xinjiang Reading Conference",
+   "link": "https://news.cgtn.com/news/2026-09-09/Book-fairs-shows-and-forums-highlight-Xinjiang-Reading-Conference-1QgRJUikR8Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T09:37:32.000Z",
+   "summary": "The third Xinjiang National Reading Conference has kicked off in Hotan, Xinjiang under the theme of \"Deepening Nationwid…",
+   "regions": []
   },
   {
    "title": "国家民委：“十五五”期间，以三个“进一步”促进各民族交往交流交融",
@@ -5659,6 +6066,28 @@
    "summary": "中新网上海9月9日电 (记者 陈静)“我们的学问来自大海，最终也要服务大海；纸上谈兵成不了学问，安逸温室育不出人才。”这是远洋鱿钓事业的战略科学家、资深教育工作者陈新军教授常对学生说的话。",
    "regions": [
     "上海"
+   ]
+  },
+  {
+   "title": "Tourists step into the spotlight at Hengdian World Studios",
+   "link": "https://news.cgtn.com/news/2026-09-09/Tourists-step-into-the-spotlight-at-Hengdian-World-Studios-1QirebyL7LW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T09:22:59.000Z",
+   "summary": "Hengdian World Studios in east China's Zhejiang Province, one of China's largest film production bases, has rolled out a…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "An autumn spectacle at Yunnan wetland reserve",
+   "link": "https://news.cgtn.com/news/2026-09-09/An-autumn-spectacle-at-Yunnan-wetland-reserve--1Qi8CKBXWFO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T09:21:31.000Z",
+   "summary": "Amid the golden autumn hues at the Lashihai Wetland Reserve in Yulong County, southwest China's Yunnan Province, flocks …",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5981,11 +6410,30 @@
    ]
   },
   {
+   "title": "China's pharma revolution from follower to global player",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-s-pharma-revolution-from-follower-to-global-player-1QikHNKiLDy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T07:37:27.000Z",
+   "summary": "In July 2026, China approved a novel drug targeting a key brain receptor linked to narcolepsy type 1. The drug, develope…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "全国政协：从三个层面推进落实“发挥人民政协作为专门协商机构作用”",
    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693267.shtml",
    "source": "中新网中国",
    "time": "2026-09-09T07:33:44.000Z",
    "summary": "中新网9月9日电 国务院新闻办公室9日举行“开局起步‘十五五’”系列主题新闻发布会，介绍发展社会主义民主有关情况。“十五五”规划纲要提出“发挥人民政协作为专门协商机构作用”。全国政协如何落实这一部署要求，推动政协协商更好服务国家中心大局？对…",
+   "regions": []
+  },
+  {
+   "title": "\"Long March spirit represents faith, courage, and determination\"",
+   "link": "https://news.cgtn.com/news/2026-09-09/-Long-March-spirit-represents-faith-courage-and-determination--1QikKPwwvzG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T07:32:32.000Z",
+   "summary": "\"Long March spirit represents faith, courage, and determination\"",
    "regions": []
   },
   {
@@ -6194,11 +6642,70 @@
    ]
   },
   {
+   "title": "Long March: A trek of survival, sacrifice and resolve",
+   "link": "https://news.cgtn.com/news/2026-09-09/Long-March-A-trek-of-survival-sacrifice-and-resolve-1QieOik4BX2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T06:55:58.000Z",
+   "summary": "This year marks the 90th anniversary of the completion of the Long March, offering an opportunity to revisit what Americ…",
+   "regions": []
+  },
+  {
    "title": "转发+收藏！中秋国庆假期购票日历来了！",
    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693226.shtml",
    "source": "中新网社会",
    "time": "2026-09-09T06:43:15.000Z",
    "summary": "2026年中秋国庆假期火车票",
+   "regions": []
+  },
+  {
+   "title": "Former HKSAR Chief Executive Tung Chee-hwa dies at 89",
+   "link": "https://news.cgtn.com/news/2026-09-09/Former-HKSAR-Chief-Executive-Tung-Chee-hwa-dies-at-89-1Qic5Zk3h84/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T06:15:50.000Z",
+   "summary": "Tung Chee-hwa, former vice chairman of the National Committee of the Chinese People's Political Consultative Conference …",
+   "regions": []
+  },
+  {
+   "title": "Transformation of a minority village along the Long March",
+   "link": "https://news.cgtn.com/news/2026-09-09/Transformation-of-a-minority-village-along-the-Long-March-1QhdXjfYOyc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T06:01:34.000Z",
+   "summary": "Transformation of a minority village along the Long March",
+   "regions": []
+  },
+  {
+   "title": "The Long March revisited: Red Army and Yi leader became sworn brothers",
+   "link": "https://news.cgtn.com/news/2026-09-09/The-Long-March-revisited-Red-Army-and-Yi-leader-became-sworn-brothers-1Qhk62gy7ny/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T06:01:19.000Z",
+   "summary": "The Long March revisited: Red Army and Yi leader became sworn brothers",
+   "regions": []
+  },
+  {
+   "title": "Where sunflowers meet volcanoes",
+   "link": "https://news.cgtn.com/news/2026-09-09/Where-sunflowers-meet-volcanoes-1QijaBhErja/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T05:54:29.000Z",
+   "summary": "Where sunflowers meet volcanoes",
+   "regions": []
+  },
+  {
+   "title": "Foreign experts on China's security: what others can learn",
+   "link": "https://news.cgtn.com/news/2026-09-09/Foreign-experts-on-China-s-security-what-others-can-learn-1QijxEufXkk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T05:52:44.000Z",
+   "summary": "Foreign experts on China's security: what others can learn",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "CGTN reporter rebuts Western media outlet over mudslide coverage",
+   "link": "https://news.cgtn.com/news/2026-09-09/CGTN-reporter-rebuts-Western-media-outlet-over-mudslide-coverage-1Qhi6KiQpqg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T05:48:58.000Z",
+   "summary": "CGTN reporter rebuts Western media outlet over mudslide coverage",
    "regions": []
   },
   {
@@ -6216,6 +6723,17 @@
    "time": "2026-09-09T05:27:58.000Z",
    "summary": "4块牛肉干，店里称重收64元，回家一复称，实际只值17元。量贩零食店的电子秤，藏着多少人吃过的哑巴亏？",
    "regions": []
+  },
+  {
+   "title": "China's Tianyu Telescope to begin scientific observations",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-s-Tianyu-Telescope-to-begin-scientific-observations-1QigwdjXelW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T05:21:15.000Z",
+   "summary": "China's Tianyu Telescope to begin scientific observations",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "景点已拆，路标咋还在“指路”",
@@ -6237,6 +6755,14 @@
     "茂名",
     "广东"
    ]
+  },
+  {
+   "title": "From Vinicius to Zhou Dongyu: How BRICS brings global youth together",
+   "link": "https://news.cgtn.com/news/2026-09-09/From-Vinicius-to-Zhou-Dongyu-How-BRICS-brings-global-youth-together-1QiiyG7lfwY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T04:54:24.000Z",
+   "summary": "From Vinicius to Zhou Dongyu: How BRICS brings global youth together",
+   "regions": []
   },
   {
    "title": "中国疾控中心发布9月健康防护提示",
@@ -6383,6 +6909,14 @@
    "source": "中新网中国",
    "time": "2026-09-09T03:28:27.000Z",
    "summary": "中新网9月9日电 9日上午，农业农村部就2026年中国农民丰收节总体安排和筹备情况举行新闻发布会。中国农民丰收节组织指导委员会办公室主任、农业农村部市场与信息化司司长雷刘功介绍，今年丰收节总体安排分为两个层面。",
+   "regions": []
+  },
+  {
+   "title": "An initiative decades ago continues to shape modern-day governance",
+   "link": "https://news.cgtn.com/news/2026-09-09/-An-initiative-decades-ago-continues-to-shape-modern-day-governance-1Qf2BfVsaZ2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T03:20:01.000Z",
+   "summary": "An initiative decades ago continues to shape modern-day governance",
    "regions": []
   },
   {
@@ -6985,6 +7519,17 @@
    "regions": []
   },
   {
+   "title": "China-Latin America trade in services: How much potential is there?",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-Latin-America-trade-in-services-How-much-potential-is-there--1QiO44SGNJ6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T13:33:03.000Z",
+   "summary": "China-Latin America trade in services: How much potential is there?",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "而今迈步从头越——写在瑞金至延安高铁开行之际",
    "link": "https://www.chinanews.com.cn/cj/2026/09-09/10693571.shtml",
    "source": "中新网财经",
@@ -7368,12 +7913,34 @@
    "regions": []
   },
   {
+   "title": "China services trade fair showcases innovation, promotes openness",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-services-trade-fair-showcases-innovation-promotes-openness-1QiDy70EJyM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T10:30:47.000Z",
+   "summary": "China services trade fair showcases innovation, promotes openness",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "新能源电车辐射大，长期开会掉头发、掉腿毛？丨中新真探",
    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693389.shtml",
    "source": "中新网社会",
    "time": "2026-09-09T09:48:01.000Z",
    "summary": "中新网9月9日电 新能源汽车确实会产生电磁辐射，但有辐射不等于有危害。手机、Wi-Fi、家用电器都会产生电磁辐射，新能源汽车也一样。它产生的主要是低频电磁场，和医院拍X光、做CT时接触的高能辐射不是一回事。新能源汽车存在电磁辐射是事实，但正…",
    "regions": []
+  },
+  {
+   "title": "China, South Korea make positive progress in second phase FTA talks",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-South-Korea-make-positive-progress-in-second-phase-FTA-talks-1QixfWb8y08/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T08:59:58.000Z",
+   "summary": "China and South Korea have achieved positive progress on cross-border services trade and negative-list market access dur…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "侨商在海南自贸港转型做“新农人”",
@@ -7535,6 +8102,17 @@
    "time": "2026-09-09T07:55:27.000Z",
    "summary": "物流网",
    "regions": []
+  },
+  {
+   "title": "China services trade fair showcases innovation, promotes openness",
+   "link": "https://news.cgtn.com/news/2026-09-09/China-services-trade-fair-showcases-innovation-promotes-openness-1QivVfgzXKE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-09T07:46:32.000Z",
+   "summary": "The 2026 China International Fair for Trade in Services (CIFTIS) opened Wednesday in Beijing, as China steps up efforts …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "共享投资机遇 共谋未来发展：第二十六届中国国际投资贸易洽谈会开幕侧记",
@@ -7904,5 +8482,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-10T01:07:26.394Z"
+ "updatedAt": "2026-09-10T05:38:45.517Z"
 }
