@@ -2,6 +2,222 @@
  "date": "2026-09-10",
  "tech": [
   {
+   "title": "IT早报 0911：雷军称小米未来 5 年投 2000 亿元研发；启境回应媒体群误发小米澎程攻防内容；DeepSeek V4.1 Flash 发布；美的回应洗衣机 19 小时耗 411MB 流量...",
+   "link": "https://www.ithome.com/1/001/082.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:56:28.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 11 日星期五，今天的重要科技资讯有： 1. 雷军回应新华社报道小米“底层技术自研打开科技创新空间”：未来 5 年，计划投入 2000 亿元研发费用 新华社 9 月 10 日发文报道了…",
+   "regions": []
+  },
+  {
+   "title": "苹果 Apple Watch 将增 Live Rewind：回放 15 秒转录、30 秒自动清除，强制提示音",
+   "link": "https://www.ithome.com/1/001/081.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:56:27.000Z",
+   "summary": "IT之家 9 月 11 日消息，科技媒体 MacRumors 昨日（9 月 10 日）发布博文，报道称在 Apple Watch Series 12 和 Apple Watch Ultra 4 两款智能手表上， 苹果计划引入“实时回放”（L…",
+   "regions": []
+  },
+  {
+   "title": "你只是怕了：美国高官公开驳斥 Anthropic“AI 末日论”，称担忧源于对技术革命的恐惧",
+   "link": "https://www.ithome.com/1/001/080.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:55:21.000Z",
+   "summary": "IT之家 9 月 11 日消息，美国国防部（又称“战争部”）首席技术官埃米尔 · 迈克尔（Emil Michael）当地时间 9 月 10 日在华盛顿举行的国防工业会议上，回应了 Anthropic 工程师雅各布 · 考克森（Jacob C…",
+   "regions": []
+  },
+  {
+   "title": "商汤科技 AI 办公智能体“小浣熊”移动端 App 上线，提供苹果 iOS / 安卓版本",
+   "link": "https://www.ithome.com/1/001/079.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:51:32.000Z",
+   "summary": "IT之家 9 月 11 日消息，商汤科技宣布 AI 办公智能体“小浣熊”移动端 App 正式上线，提供苹果 iOS 和安卓版本，用户提交 App 反馈问卷，可获 1000 积分。 官方表示，移动端“小浣熊”支持使用自然语音快速对话操作，用户…",
+   "regions": []
+  },
+  {
+   "title": "美加州法案禁止社交媒体平台向 16 岁以下用户提供成瘾性功能",
+   "link": "https://www.ithome.com/1/001/078.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:50:24.000Z",
+   "summary": "IT之家 9 月 11 日消息，美国加利福尼亚州州长 Gavin Newsom（加文 · 纽森）当地时间本月 10 日宣布签署“全美最严格”儿童安全聊天机器人和社交媒体法案。 这一法案 禁止社交媒体平台向 16 岁以下用户提供自动播放和基于…",
+   "regions": []
+  },
+  {
+   "title": "苹果 Apple Watch Series 12 边框相比上一代更明显：屏幕面积缩小、机身更宽",
+   "link": "https://www.ithome.com/1/001/077.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:46:52.000Z",
+   "summary": "IT之家 9 月 11 日消息，苹果在 2026 苹果秋季新品发布会中正式推出了 Apple Watch Series 12，不过用户发现新款手表边框相对于上一代明显了不少。 数据显示，46mm 版手表屏幕面积从上一代的 1220mm² 降…",
+   "regions": []
+  },
+  {
+   "title": "“AI 教父”辛顿：AI 灾难越来越近，10% 概率灭掉人类不是危言耸听",
+   "link": "https://www.ithome.com/1/001/076.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:43:14.000Z",
+   "summary": "北京时间 9 月 11 日，据《商业内幕》报道，“AI 教父”杰弗里 · 辛顿 (Geoffrey Hinton) 表示，很难估计 AI 将人类全部灭绝的概率，但这个概率并非为零。 辛顿周三在接受 BBC《新闻之夜》采访时说：“在我看来，1…",
+   "regions": []
+  },
+  {
+   "title": "苹果称 iPhone 18 Pro 系列比 17 Pro 系列更易维修",
+   "link": "https://www.ithome.com/1/001/075.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:43:00.000Z",
+   "summary": "IT之家 9 月 11 日消息，科技媒体 MacRumors 昨日（9 月 10 日）发布博文，基于欧盟能源标签法规要求披露的产品信息， 苹果公司认为相比较 iPhone 17 Pro 系列，新款 iPhone 18 Pro 系列更容易维修…",
+   "regions": []
+  },
+  {
+   "title": "任天堂 Switch 游戏机旧版固件曝远程代码执行漏洞，官方建议用户更新 23.0.0 版本系统解决",
+   "link": "https://www.ithome.com/1/001/074.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:36:17.000Z",
+   "summary": "IT之家 9 月 11 日消息，任天堂发布安全公告，透露旗下 Switch 游戏机旧版固件中存在一项重大安全漏洞，攻击者可利用主机屏幕上显示的二维码实现远程代码执行，进而导致用户数据泄露。目前任天堂已发布 23.0.0 版系统更新以修复这一…",
+   "regions": []
+  },
+  {
+   "title": "200 → 400 元：苹果调整 42mm/46mm 规格 Apple Watch Series 12 差价",
+   "link": "https://www.ithome.com/1/001/073.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:33:11.000Z",
+   "summary": "IT之家 9 月 11 日消息，科技媒体 MacRumors 昨日（9 月 10 日）发布博文，报道称苹果美国商店调整 Apple Watch Series 12 智能手表定价， 进一步拉开 42mm 和 46mm 规格之间的差价。 消息源…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI Agents API 开放公测：支持代码执行、工具调用和跨上下文任务运行，为开发者提供云端智能体基础设施",
+   "link": "https://www.ithome.com/1/001/072.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:31:21.000Z",
+   "summary": "IT之家 9 月 11 日消息，OpenAI 于当地时间 9 月 10 日宣布推出 Agents API 公测版，允许开发者通过 API 调用由 OpenAI 管理的云端 AI 智能体运行环境。 该服务复用了 Codex 背后的智能体执行框…",
+   "regions": []
+  },
+  {
+   "title": "OPPO A7 Pro 手机首销：8000mAh 电池、IP69K 认证，2199 元起",
+   "link": "https://www.ithome.com/1/001/071.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:29:35.000Z",
+   "summary": "IT之家 9 月 11 日消息，OPPO A7 Pro 手机现已在京东上架并开启首销，该产品主打 8000mAh 电池、IP69K 认证，定价为 2199 元起，IT之家整理价格如下： 6GB RAM + 256GB 存储空间：2199 元…",
+   "regions": []
+  },
+  {
+   "title": "办公协作平台 Slack 升级 Slackbot AI 助手，可快速创建交互式报告 / 网站等内容",
+   "link": "https://www.ithome.com/1/001/070.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:22:05.000Z",
+   "summary": "IT之家 9 月 11 日消息，办公协作平台 Slack 发布公告，宣布为旗下 Slackbot AI 助手引入一项 Slackforce Surfaces 功能，用户只需告诉 Slackbot AI 助手自己的需求，即可利用自己先前的对话…",
+   "regions": []
+  },
+  {
+   "title": "GPT-6 Astra 需求空前：OpenAI 宣布暂停 200 美元 Pro 20X 新增订阅，已订用户及 API 不受影响",
+   "link": "https://www.ithome.com/1/001/069.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:21:08.000Z",
+   "summary": "IT之家 9 月 11 日消息，OpenAI 首席产品官 Tibo（@thsottiaux）今早在 X 上发文称，为确保现有用户获得良好体验并流畅访问 GPT-6 Astra，将暂停接受 200 美元档 Pro 20X 订阅服务的新增订阅。…",
+   "regions": []
+  },
+  {
+   "title": "SK 海力士目标 2028 年将 High NA EUV 技术用于 DRAM 内存量产",
+   "link": "https://www.ithome.com/1/001/068.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:19:53.000Z",
+   "summary": "IT之家 9 月 11 日消息，参考路透社此前报道，SK 海力士在一份声明中表示， 该企业目标在 2028 年将 High NA（高数值孔径）EUV 光刻图案化工艺应用于 DRAM 的大规模生产 。 ASML 在当地时间本月 8 日宣布与台…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iOS 27 升级 Apple TV Remote 应用，2 项隐藏功能曝光",
+   "link": "https://www.ithome.com/1/001/067.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:17:15.000Z",
+   "summary": "IT之家 9 月 11 日消息，消息源 @itspdfu 昨日（9 月 10 日）在 X 平台发布推文，通过挖掘 iOS 27 RC 候选版本， 发现苹果更新 Apple TV Remote 应用程序，引入 2 项隐藏功能。 IT之家翻译推…",
+   "regions": []
+  },
+  {
+   "title": "三星 Galaxy SmartTag 3 智能追踪器价格曝光：单只 29.99 美元、四只装 99.99 美元",
+   "link": "https://www.ithome.com/1/001/066.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:15:33.000Z",
+   "summary": "IT之家 9 月 11 日消息，据外媒 sammyguru 报道，三星 Galaxy SmartTag 3 智能追踪器现已现身电商平台 MyVoiceComm 数据库，其中黑色版型号为 EI-T5900BBEGUS，白色版型号为 EI-T5…",
+   "regions": []
+  },
+  {
+   "title": "Doogee 推出 Anymoving M1 Pro 户外智能手表：支持离线路线导航、轨迹返航等功能，219 美元",
+   "link": "https://www.ithome.com/1/001/065.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:11:51.000Z",
+   "summary": "IT之家 9 月 11 日消息，制造商 Doogee 宣布推出 Anymoving M1 Pro 户外智能手表，主打户外探索与日常运动健康追踪，主打离线路线导航、Track Back 轨迹返航以及双频 GPS 定位，并提供基于 AI 的运动…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 推出金融服务版 ChatGPT：集成 GPT-6 Astra 内置金融数据与细粒度引用，支持估值模型与研究报告",
+   "link": "https://www.ithome.com/1/001/063.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:10:35.000Z",
+   "summary": "IT之家 9 月 11 日消息，OpenAI 于当地时间 9 月 10 日宣布推出 ChatGPT for Financial Services。 这是一款面向金融服务团队的定制化 ChatGPT 服务，结合内置金融数据与 GPT-6 As…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iOS 27 线索：iPhone 18 Pro 等用视觉智能购物查询，将显示推广内容",
+   "link": "https://www.ithome.com/1/001/062.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:07:57.000Z",
+   "summary": "IT之家 9 月 11 日消息，科技媒体 MacRumors 昨日（9 月 10 日）发布博文，报道称基于挖掘的 iOS 27 代码信息， 苹果可能计划在 Visual Intelligence（视觉智能）内引入赞助结果。 根据披露的代码信…",
+   "regions": []
+  },
+  {
+   "title": "博通停止公开提供 VMware VDDK 开发工具库下载，要求 IT 管理员联系官方技术联盟合作伙伴获取服务",
+   "link": "https://www.ithome.com/1/001/061.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T23:07:34.000Z",
+   "summary": "IT之家 9 月 11 日消息，据外媒 Borncity 报道，Broadcom（博通）近期已经停止公开提供 VMware Virtual Disk Development Kit（VDDK）开发工具库下载服务。相应工具库主要允许第三方软件…",
+   "regions": []
+  },
+  {
+   "title": "派早报：商务部回应美国 AI 蒸馏指控",
+   "link": "https://sspai.com/post/114439",
+   "source": "少数派",
+   "time": "2026-09-10T22:58:54.000Z",
+   "summary": "商务部回应美国 AI 蒸馏指控 谷歌声称为了合规将「降级」欧盟搜索服务 Apple 智能将有用量限制 OpenAI 将与三星合作开发芯片 小岛秀夫新游戏被索尼取消，转由微软发行 DeepSeek V4.1 发布 看看就行的简讯 少数派的近期…",
+   "regions": []
+  },
+  {
+   "title": "Sensor Tower：《GTA6》预购销量破 500 万份，PS5 平台占 77% 份额",
+   "link": "https://www.ithome.com/1/001/060.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T22:57:33.000Z",
+   "summary": "IT之家 9 月 11 日消息，市场分析机构 Sensor Tower 最新公布的统计数据显示，《GTA 6》全球累计预购量已达 528 万份，对应预估营收 5.16 亿美元 （现汇率约合 34.7 亿元人民币） 。 仅过去一周，该作便新增…",
+   "regions": []
+  },
+  {
+   "title": "谷歌为 Win10/11 推出 Gemini 独立客户端，支持“Alt + Space”快捷键快捷唤起",
+   "link": "https://www.ithome.com/1/001/059.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T22:57:27.000Z",
+   "summary": "IT之家 9 月 11 日消息，谷歌现已正式推出 Windows 版 Gemini 独立客户端，支持 Windows10/11 系统，用户在安装应用后即可通过“Alt + Space”快捷键在任何界面快速唤起 Gemini，相应快捷键支持自…",
+   "regions": []
+  },
+  {
+   "title": "苹果开放 iOS / iPadOS 27 应用提交，macOS 27 移除 Intel Mac 支持",
+   "link": "https://www.ithome.com/1/001/057.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T22:53:34.000Z",
+   "summary": "IT之家 9 月 11 日消息，科技媒体 9to5Mac 昨日（9 月 10 日）发布博文，报道称苹果公司已开放最新 SDK（软件开发工具包）， 邀请开发者针对 iOS 27、iPadOS 27、macOS 27、tvOS 27、visio…",
+   "regions": []
+  },
+  {
+   "title": "苹果 Apple Watch Series 12 陶瓷表壳版非 AC+“其他损坏”维修费用达 4739 元，创下新高",
+   "link": "https://www.ithome.com/1/001/056.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T22:50:29.000Z",
+   "summary": "IT之家 9 月 11 日消息，苹果在 2026 苹果秋季新品发布会中正式推出了 Apple Watch Series 12，新款手表重新带回了陶瓷表壳版本，但如果用户没有购买 AppleCare+，相应版本的维修费用相当高昂。 苹果官网显…",
+   "regions": []
+  },
+  {
+   "title": "开发商 Shift Up 确认任天堂 Switch 2 版《剑星完全版》不采用钥匙卡，游戏 11 月 5 日发售定价 59.99 美元",
+   "link": "https://www.ithome.com/1/001/055.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T22:37:44.000Z",
+   "summary": "IT之家 9 月 11 日消息，开发商 Shift Up 宣布旗下动作游戏《剑星完全版（Stellar Blade）》任天堂 Switch 2 版实体版为完整卡带，并非钥匙卡，玩家插卡即玩，无需额外下载游戏本体数据。 Shift Up 同步…",
+   "regions": []
+  },
+  {
    "title": "甲骨文 2027 财年第一财季归母净利润 46.79 亿美元，同比增长 60%",
    "link": "https://www.ithome.com/1/001/052.htm",
    "source": "IT之家",
@@ -15,6 +231,14 @@
    "source": "IT之家",
    "time": "2026-09-10T20:10:58.000Z",
    "summary": "IT之家 9 月 11 日消息，Adobe 今日发布 2026 财年（2025 年 11 月 29 日至 2026 年 11 月 27 日）第三财季（2026 年 5 月 30 日至 8 月 28 日）报告： 营业总收入 ：67.6 亿美元…",
+   "regions": []
+  },
+  {
+   "title": "Steam 编程主题节正式开启：《异形工厂》一折 3.5 元，持续至 9 月 15 日",
+   "link": "https://www.ithome.com/1/001/050.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T17:20:20.000Z",
+   "summary": "IT之家 9 月 11 日消息，Valve 正式开启 Steam 编程主题节（Programming Fest），《异形工厂》等多款游戏开启折扣，同时 Steam 点数商店也上架了对应的新品。 本次活动汇集了各类编程、黑客主题游戏，玩家可在…",
    "regions": []
   },
   {
@@ -247,6 +471,14 @@
    "source": "IT之家",
    "time": "2026-09-10T13:17:44.000Z",
    "summary": "IT之家 9 月 10 日消息，据科技媒体 electrek 今天报道，马斯克旗下“无聊公司”（The Boring Company）已完成 30 亿美元 （IT之家注：现汇率约合 201.77 亿元人民币） D 轮融资，由阿拉伯联合酋长国…",
+   "regions": []
+  },
+  {
+   "title": "AI XPU 企业 d-Matrix 宣布加入英伟达 NVLink Fusion 生态系统",
+   "link": "https://www.ithome.com/1/000/998.htm",
+   "source": "IT之家",
+   "time": "2026-09-10T13:07:03.000Z",
+   "summary": "IT之家 9 月 10 日消息，AI 推理芯片制造商 d-Matrix 美国加州当地时间 10 日宣布加入 NVIDIA（英伟达） NVLink Fusion 生态系统。 d-Matrix 的机架级 XPU 系统将采用 NVIDIA 的 M…",
    "regions": []
   },
   {
@@ -1692,6 +1924,224 @@
  ],
  "world": [
   {
+   "title": "俄罗斯两城市将开设中文学习测试中心",
+   "link": "https://sputniknews.cn/20260911/1073197292.html",
+   "source": "卫星社中文",
+   "time": "2026-09-10T23:55:12.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 中国华铭国际投资有限公司执行董事李峥在第七届俄中中小企业商业论坛期间表示，今年年底前，彼尔姆市和萨马拉市将开设中文学习测试中心。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "也门打起来了！全球两大航运“油管”同时动荡",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694385.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-10T23:53:44.000Z",
+   "summary": "也门打起来了！战火逼近曼德海峡！全球两大航运“油管”同时动荡，后果很严重 | 国际早察",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "中美成功联合侦破一起跨国涉毒案件",
+   "link": "https://sputniknews.cn/20260911/1073197191.html",
+   "source": "卫星社中文",
+   "time": "2026-09-10T23:51:27.000Z",
+   "summary": "据新华社9月10日报道，近日，中国公安部和美国联邦调查局(FBI)成功联合侦破一起跨国制贩合成大麻素类物质前体案件。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "专家：越来越多的俄罗斯人开始了解中医知识",
+   "link": "https://sputniknews.cn/20260911/1073197087.html",
+   "source": "卫星社中文",
+   "time": "2026-09-10T23:42:50.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯传统东方医学专家学会会长、世界中医药学会联合会主席团执委黄国荣在第七届俄中中小企业商业论坛期间接受卫星通讯社采访时表示，越来越多的俄罗斯人开始了解中医知识。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "欧盟委员会：欧盟计划授予乌克兰IRIS2安全通信卫星数据访问权限",
+   "link": "https://sputniknews.cn/20260911/1073196977.html",
+   "source": "卫星社中文",
+   "time": "2026-09-10T23:32:30.000Z",
+   "summary": "俄罗斯卫星通讯社巴黎电 欧盟空间和国防事务专员库比柳斯表示，欧盟正在商讨授予乌克兰未来IRIS2安全通信卫星星座数据访问权限的问题。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "以军：使用1100吨炸药 摧毁黎南部真主党地下设施",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694375.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-10T23:28:27.000Z",
+   "summary": "中新网9月11日电 据《以色列时报》报道，当地时间10日，以色列军方称，以军使用1100吨炸药，摧毁了黎巴嫩南部阿里塔希尔高地之下的黎真主党地下设施。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "山东青岛北海造船厂一货轮火灾事故已造成25人遇难",
+   "link": "https://sputniknews.cn/20260911/1073196881.html",
+   "source": "卫星社中文",
+   "time": "2026-09-10T23:25:48.000Z",
+   "summary": "据央视新闻报道，2026年9月10日11时15分许，一外籍货船在中国船舶集团青岛北海造船有限公司检修过程中发生火情。截至9月10日19时24分，25名人员遇难。",
+   "regions": [
+    "中国"
+   ]
+  },
+  {
+   "title": "普京抵达印度展开为期3天的访问",
+   "link": "https://sputniknews.cn/20260911/1073196577.html",
+   "source": "卫星社中文",
+   "time": "2026-09-10T23:21:12.000Z",
+   "summary": "俄罗斯卫星通讯社新德里9月11日电 据卫星通讯社记者报道，俄罗斯总统弗拉基米尔·普京已抵达印度，开始为期三天的访问。",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "媒体：韩国将向克罗地亚提供18套“天橆”多管火箭炮系统",
+   "link": "https://sputniknews.cn/20260911/1073196344.html",
+   "source": "卫星社中文",
+   "time": "2026-09-10T23:20:20.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 据韩联社援引韩国国防采购计划管理局（DAPA）报道，韩国军工企业韩华航空航天公司（Hanwha Aerospace）将向克罗地亚出口18套“天橆”多管火箭炮系统，总价值约4.772亿美元。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】1 km N of The Geysers, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433382",
+   "source": "USGS地震台网",
+   "time": "2026-09-10T23:03:42.410Z",
+   "summary": "美国地质调查局官方监测：1 km N of The Geysers, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.0】8 km SE of Port Clarence, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzfqpv",
+   "source": "USGS地震台网",
+   "time": "2026-09-10T23:03:10.729Z",
+   "summary": "美国地质调查局官方监测：8 km SE of Port Clarence, Alaska发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "阿根廷总统因福克兰群岛局势恶化取消对英国的访问",
+   "link": "https://sputniknews.cn/20260911/1073195952.html",
+   "source": "卫星社中文",
+   "time": "2026-09-10T23:00:15.000Z",
+   "summary": "俄罗斯卫星通讯社布宜诺斯艾利斯9月11日电 阿根廷TN电视台报道称，该国总统哈维尔·米莱在福克兰群岛（阿根廷称马尔维纳斯群岛）局势恶化后取消了10月对英国访问并在牛津大学演讲和会见商界代表的计划。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "拉美"
+   ]
+  },
+  {
+   "title": "外媒：也门胡塞武装占领红海战略要地哈尼什群岛",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694372.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-10T22:58:39.000Z",
+   "summary": "中新网9月11日电 据路透社及《耶路撒冷邮报》援引也门政府消息人士报道，当地时间10日，在也门政府海军部队撤出红海战略要地哈尼什群岛后，也门胡塞武装已在岛上部署兵力。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "美最高法院裁定密苏里州不得使用新版选区划分图",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694371.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-10T22:58:21.000Z",
+   "summary": "中新社华盛顿9月10日电 (记者 沙晗汀)美国联邦最高法院当地时间10日裁定，密苏里州在11月中期选举中不得使用有利于共和党的新版国会选区划分图。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "欧盟上半年收到逾33万份庇护申请 创近五年同期最低",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694370.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-10T22:57:49.000Z",
+   "summary": "中新社布鲁塞尔9月10日电 (记者 德永健)欧盟庇护局10日发布今年上半年欧盟庇护报告，显示今年上半年欧盟共收到逾33万份庇护申请，创近五年同期最低。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】65 km NNW of Sola, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tghk",
+   "source": "USGS地震台网",
+   "time": "2026-09-10T22:54:14.162Z",
+   "summary": "美国地质调查局官方监测：65 km NNW of Sola, Vanuatu发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694369.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-10T22:48:04.000Z",
+   "summary": "10日，美国和伊朗在霍尔木兹海峡的博弈持续。与此同时，也门西部和北部多地的战事也不断升级，胡塞武装当天相继攻占红海港口城市穆哈和红海战略要地哈尼什群岛。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄媒：普京抵达印度 开启为期三天的访问",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694368.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-10T22:44:56.000Z",
+   "summary": "中新网9月11日电 据俄新社报道，当地时间11日，俄罗斯总统普京抵达印度，开启为期3天的访问，并出席金砖国家领导人第十八次会晤。",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "菲律宾内政部长：全国无证枪支或达200万支",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694363.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-10T22:35:56.000Z",
+   "summary": "中新社马尼拉9月10日电 (记者 周璟)菲律宾内政部长10日表示，菲全国流通的无证枪支数量估计高达200万支。",
+   "regions": [
+    "南海"
+   ]
+  },
+  {
+   "title": "中方在安理会伊朗核问题公开会程序性表决中投反对票",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694364.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-10T22:35:18.000Z",
+   "summary": "中新社联合国9月10日电 联合国安理会10日举行伊朗核问题公开会。中国常驻联合国副代表孙磊在会上议程程序性表决中投下反对票，并敦促个别成员停止利用安理会推进自身政治议程，避免对伊朗核问题政治解决进程制造新的障碍。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "黑海一货船遭无人机袭击致2名阿塞拜疆公民遇难",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694365.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-10T22:34:56.000Z",
+   "summary": "中新社阿斯塔纳9月10日电 巴库消息：阿塞拜疆外交部10日发布通报称，一艘名为“泰迪”号(TEDY)的外国货船9日在黑海水域遭无人机袭击，造成2名阿塞拜疆籍船员遇难、2名阿籍船员受伤。",
+   "regions": []
+  },
+  {
    "title": "俄方希望在2026年年底-2027年年初敲定在印度本地化生产伊尔-114-300的条件",
    "link": "https://sputniknews.cn/20260911/1073195814.html",
    "source": "卫星社中文",
@@ -1776,6 +2226,17 @@
    "summary": "俄罗斯卫星通讯社达拉斯（美国）电 美国众议员安娜·保利娜·卢娜（佛州共和党人）对俄新社表示，美国国务卿鲁比奥主张保持俄罗斯与美国之间的对话渠道畅通。",
    "regions": [
     "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.0】Rat Islands, Aleutian Islands, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tghu",
+   "source": "USGS地震台网",
+   "time": "2026-09-10T21:14:01.954Z",
+   "summary": "美国地质调查局官方监测：Rat Islands, Aleutian Islands, Alaska发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
     "美洲"
    ]
   },
@@ -3014,6 +3475,17 @@
    ]
   },
   {
+   "title": "【地震 M2.5】181 km WSW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxuaii",
+   "source": "USGS地震台网",
+   "time": "2026-09-10T04:15:00.950Z",
+   "summary": "美国地质调查局官方监测：181 km WSW of Adak, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "特朗普：若共和党赢得中期选举，将向每位美国成年人发5000美元“红利”",
    "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693846.shtml",
    "source": "中新网国际",
@@ -3385,6 +3857,35 @@
  ],
  "tw": [
   {
+   "title": "也门打起来了！全球两大航运“油管”同时动荡",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694385.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-10T23:53:44.000Z",
+   "summary": "也门打起来了！战火逼近曼德海峡！全球两大航运“油管”同时动荡，后果很严重 | 国际早察",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "香港第一个五年规划公布在即 航拍北部都会区建设进展",
+   "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203924.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-10T23:48:24.000Z",
+   "summary": "",
+   "regions": []
+  },
+  {
+   "title": "霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694369.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-10T22:48:04.000Z",
+   "summary": "10日，美国和伊朗在霍尔木兹海峡的博弈持续。与此同时，也门西部和北部多地的战事也不断升级，胡塞武装当天相继攻占红海港口城市穆哈和红海战略要地哈尼什群岛。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
    "title": "阿曼苏哈尔国际银行在香港开设亚太区办事处",
    "link": "https://www.chinanews.com.cn/dwq/2026/09-10/10694351.shtml",
    "source": "中新网滚动",
@@ -3502,6 +4003,91 @@
   }
  ],
  "cn": [
+  {
+   "title": "朱炳仁“京派熔装”时装秀亮相SS2027北京时装周",
+   "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203927.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-10T23:58:54.000Z",
+   "summary": "",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "深海科考新突破！我国在西太平洋海底锁定一处大型高温热液区",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-11/10694384.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-10T23:50:08.000Z",
+   "summary": "近日，由清华大学、中国地质调查局青岛海洋地质研究所、上海交通大学等单位开展的西太平洋海底热液活动与资源联合科考航次取得重要突破。科考团队依托自主研制的设备在西太平洋新锁定一处大型高温活动热液区，初步证实具备大规模多金属硫化物资源潜力。",
+   "regions": [
+    "上海",
+    "青岛"
+   ]
+  },
+  {
+   "title": "《微短剧发展管理办法》施行 推动行业从“拼数量”转向“拼质量”",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-11/10694381.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-10T23:43:16.000Z",
+   "summary": "《微短剧发展管理办法》施行 划出11条内容红线",
+   "regions": []
+  },
+  {
+   "title": "2026中国国际时装周（秋季）在北京落幕",
+   "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203918.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-10T23:42:05.000Z",
+   "summary": "",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "多家门店更名后，青海拉面产业向品牌化规模化升级",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-11/10694378.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-10T23:35:47.000Z",
+   "summary": "多家门店更名后，拉面产业向品牌化规模化升级",
+   "regions": [
+    "青海"
+   ]
+  },
+  {
+   "title": "“算法向善”照进现实，骑手跑单更加从容",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-11/10694376.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-10T23:32:13.000Z",
+   "summary": "优化派单机制、增设红灯补时、合理设定配送时间……",
+   "regions": []
+  },
+  {
+   "title": "全力救治善后 深入排查隐患——各地各部门贯彻落实习近平总书记重要指示精神坚决守牢安全发展底线",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-11/10694377.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-10T23:29:37.000Z",
+   "summary": "新华社北京9月10日电 题：全力救治善后 深入排查隐患——各地各部门贯彻落实习近平总书记重要指示精神坚决守牢安全发展底线",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "打击电诈 为何需要46国联手？",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-11/10694374.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-10T23:28:17.000Z",
+   "summary": "新闻1+1丨打击电诈 为何需要46国联手？",
+   "regions": []
+  },
+  {
+   "title": "菲律宾内政部长：全国无证枪支或达200万支",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694363.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-10T22:35:56.000Z",
+   "summary": "中新社马尼拉9月10日电 (记者 周璟)菲律宾内政部长10日表示，菲全国流通的无证枪支数量估计高达200万支。",
+   "regions": [
+    "南海"
+   ]
+  },
   {
    "title": "“算法向善”照进现实，骑手跑单更加从容",
    "link": "https://www.chinanews.com.cn/sh/2026/09-11/10694367.shtml",
@@ -6326,5 +6912,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-10T22:36:52.689Z"
+ "updatedAt": "2026-09-11T00:10:30.830Z"
 }
