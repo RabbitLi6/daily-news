@@ -2,6 +2,14 @@
  "date": "2026-09-11",
  "tech": [
   {
+   "title": "微软发布 Win11 多预览版更新：优化上下文菜单与文件资源管理器搜索",
+   "link": "https://www.ithome.com/1/001/475.htm",
+   "source": "IT之家",
+   "time": "2026-09-11T17:12:25.000Z",
+   "summary": "IT之家 9 月 12 日消息，微软今日面向 Beta、Experimental 和 Release Preview 频道推送了新的 Windows 11 预览版更新。 其中，Experimental 频道新增文件资源管理器搜索优化，并进一…",
+   "regions": []
+  },
+  {
    "title": "高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值",
    "link": "https://www.ithome.com/1/001/474.htm",
    "source": "IT之家",
@@ -1252,6 +1260,123 @@
  ],
  "world": [
   {
+   "title": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695095.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-11T22:33:10.000Z",
+   "summary": "当地时间9月11日晚，伊拉克武装部队总司令发言人萨巴赫·努曼发表声明，谴责针对沙特发起的袭击，并表示反对任何危及沙特安全与稳定或损害两国兄弟关系的行为。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "胡塞武装称除沙特外其余国家船只红海航行安全",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695094.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-11T22:32:16.000Z",
+   "summary": "当地时间9月11日，也门胡塞武装发表声明称，胡塞武装9月3日起从多个方向发起大规模军事行动，目标是驱逐在也门西部沿海部分地区集结的沙特方面武装力量。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 6.6M, Depth:358.597km) in Indonesia 11/09/2026 21:23 UTC, 30 thousand in MMI IV.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1564809",
+   "source": "GDACS灾害监测",
+   "time": "2026-09-11T21:43:40.000Z",
+   "summary": "On 9/11/2026 9:23:55 PM, an earthquake occurred in Indonesia potentially affecting 30 thousand in MMI IV. The earthquake…",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M6.6】115 km NNE of Teluknaga, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk",
+   "source": "USGS地震台网",
+   "time": "2026-09-11T21:23:55.001Z",
+   "summary": "美国地质调查局官方监测：115 km NNE of Teluknaga, Indonesia发生 6.6 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】38 km WNW of Anse à Galets, Haiti",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrb",
+   "source": "USGS地震台网",
+   "time": "2026-09-11T20:56:41.181Z",
+   "summary": "美国地质调查局官方监测：38 km WNW of Anse à Galets, Haiti发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "海地",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】104 km SSE of Old Harbor, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026savely",
+   "source": "USGS地震台网",
+   "time": "2026-09-11T19:48:41.094Z",
+   "summary": "美国地质调查局官方监测：104 km SSE of Old Harbor, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.2】107 km SE of Akhiok, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026saudea",
+   "source": "USGS地震台网",
+   "time": "2026-09-11T19:17:05.258Z",
+   "summary": "美国地质调查局官方监测：107 km SE of Akhiok, Alaska发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.3】263 km SSE of Perryville, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrg",
+   "source": "USGS地震台网",
+   "time": "2026-09-11T19:14:24.148Z",
+   "summary": "美国地质调查局官方监测：263 km SSE of Perryville, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】158 km W of Merizo Village, Guam",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgqf",
+   "source": "USGS地震台网",
+   "time": "2026-09-11T18:59:48.017Z",
+   "summary": "美国地质调查局官方监测：158 km W of Merizo Village, Guam发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】132 km E of Noda, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgqb",
+   "source": "USGS地震台网",
+   "time": "2026-09-11T18:53:32.548Z",
+   "summary": "美国地质调查局官方监测：132 km E of Noda, Japan发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "洛克希德·马丁公司升级美国GPS系统以保护军用信号免受干扰",
+   "link": "https://sputniknews.cn/20260912/1073209984.html",
+   "source": "卫星社中文",
+   "time": "2026-09-11T18:40:00.000Z",
+   "summary": "美国国防公司洛克希德·马丁宣布获得了美国太空军价值1.14亿美元的合同，用于升级GPS地面基础设施，以加强对军用信号免受干扰及其他未来威胁的保护。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
    "title": "非洲专家讲述为何俄罗斯与非洲是世界舞台上的理想伙伴",
    "link": "https://sputniknews.cn/20260912/1073209865.html",
    "source": "卫星社中文",
@@ -1260,6 +1385,17 @@
    "regions": [
     "俄乌",
     "非洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】25 km NW of Sarupathar, India",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgq0",
+   "source": "USGS地震台网",
+   "time": "2026-09-11T17:56:20.821Z",
+   "summary": "美国地质调查局官方监测：25 km NW of Sarupathar, India发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "印度",
+    "亚太"
    ]
   },
   {
@@ -5693,5 +5829,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-11T18:08:17.843Z"
+ "updatedAt": "2026-09-11T22:36:36.242Z"
 }
