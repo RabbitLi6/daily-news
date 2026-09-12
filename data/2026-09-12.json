@@ -2,6 +2,54 @@
  "date": "2026-09-12",
  "tech": [
   {
+   "title": "时隔 6 年首位新英雄：萨拉塔斯 9 月 28 日加入暴雪《风暴英雄》游戏",
+   "link": "https://www.ithome.com/1/001/667.htm",
+   "source": "IT之家",
+   "time": "2026-09-12T19:41:54.000Z",
+   "summary": "IT之家 9 月 13 日消息，在今天（9 月 13 日）开幕的 2026 年暴雪嘉年华活动中， 暴雪娱乐宣布《风暴英雄》（Heroes of the Storm）将加入新英雄萨拉塔斯（Xal'atath），这是该作自 2020 年霍格（H…",
+   "regions": []
+  },
+  {
+   "title": "Plus 版经典怀旧服：暴雪《魔兽世界：永恒》游戏官宣 11 月 4 日上线",
+   "link": "https://www.ithome.com/1/001/666.htm",
+   "source": "IT之家",
+   "time": "2026-09-12T19:30:27.000Z",
+   "summary": "IT之家 9 月 13 日消息，在今天（9 月 13 日）开幕的 2026 年暴雪嘉年华活动中， 暴雪娱乐官宣 2026 年 11 月 4 日（倒计时 52 天）发布《魔兽世界：永恒》（World of Warcraft: Forever）…",
+   "regions": []
+  },
+  {
+   "title": "30+ 小时内容：暴雪《魔兽争霸 3》游戏时隔 20 多年首次推出官方新战役",
+   "link": "https://www.ithome.com/1/001/665.htm",
+   "source": "IT之家",
+   "time": "2026-09-12T19:12:57.000Z",
+   "summary": "IT之家 9 月 13 日消息，在今天（9 月 13 日）开幕的 2026 年暴雪嘉年华活动中，暴雪娱乐官宣《魔兽争霸 3》重制版游戏（2020 年发行，重制 2002 年游戏）官方战役扩展《Warcraft III: Reforged –…",
+   "regions": []
+  },
+  {
+   "title": "暴雪《炉石传说》游戏官宣新增武僧职业，2027 年 3 月上线",
+   "link": "https://www.ithome.com/1/001/664.htm",
+   "source": "IT之家",
+   "time": "2026-09-12T18:54:47.000Z",
+   "summary": "IT之家 9 月 13 日消息，在今天（9 月 13 日）开幕的 2026 年暴雪嘉年华活动中，暴雪娱乐宣布《炉石传说》（Hearthstone）游戏将于 2027 年 3 月新增武僧（Monk）职业，这是该游戏时隔约 4 年首次加入新职业…",
+   "regions": []
+  },
+  {
+   "title": "首支预告放出，暴雪《暗黑破坏神 5》游戏官宣 2029 年发行",
+   "link": "https://www.ithome.com/1/001/663.htm",
+   "source": "IT之家",
+   "time": "2026-09-12T18:41:08.000Z",
+   "summary": "IT之家 9 月 13 日消息，在今天（9 月 13 日）召开的 2026 暴雪嘉年华活动中， 暴雪娱乐官宣《暗黑破坏神 5》（Diablo 5）游戏，计划于 2029 年春季发售。 官方还放出了《暗黑破坏神》30 周年最新纪念视频： IT…",
+   "regions": []
+  },
+  {
+   "title": "暴雪《守望先锋》游戏公布血律英雄宣传片，9 月 13 日开放抢先体验",
+   "link": "https://www.ithome.com/1/001/662.htm",
+   "source": "IT之家",
+   "time": "2026-09-12T18:29:57.000Z",
+   "summary": "IT之家 9 月 13 日消息，在今天（9 月 13 日）开幕的 2026 年暴雪嘉年华活动中，暴雪娱乐《守望先锋》（Overwatch）团队公布当前年度故事线第三幕动画、 新英雄“血律”(Doctrine) 与新地图 Grímsvötn。…",
+   "regions": []
+  },
+  {
    "title": "暴雪官宣《星际争霸》开放世界射击游戏，目标 2030 年推出",
    "link": "https://www.ithome.com/1/001/661.htm",
    "source": "IT之家",
@@ -956,6 +1004,102 @@
  ],
  "world": [
   {
+   "title": "【地震 M3.4】141 km NNE of Vieques, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531543",
+   "source": "USGS地震台网",
+   "time": "2026-09-12T20:54:55.100Z",
+   "summary": "美国地质调查局官方监测：141 km NNE of Vieques, Puerto Rico发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M5.1】101 km S of Yudomari, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q",
+   "source": "USGS地震台网",
+   "time": "2026-09-12T20:32:58.910Z",
+   "summary": "美国地质调查局官方监测：101 km S of Yudomari, Japan发生 5.1 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】21 km NE of Valdez, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scqemw",
+   "source": "USGS地震台网",
+   "time": "2026-09-12T19:18:05.903Z",
+   "summary": "美国地质调查局官方监测：21 km NE of Valdez, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄今年前六个月超过20万外国人入境求学",
+   "link": "https://sputniknews.cn/20260913/1073218649.html",
+   "source": "卫星社中文",
+   "time": "2026-09-12T18:56:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月12日电 根据统计数据，俄罗斯2026年1至6月有超过20万名外国公民入境求学，其中哈萨克斯坦和中国的公民人数最多。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "巴西文化人士点赞国际青年节：有助打破西方对俄壁垒",
+   "link": "https://sputniknews.cn/20260913/1073225770.html",
+   "source": "卫星社中文",
+   "time": "2026-09-12T18:53:18.000Z",
+   "summary": "巴西文化活动组织者卢卡斯·卡多佐近日向卫星通讯社巴西分社表示，叶卡捷琳堡2026年国际青年节等交流活动，正为各国青年提供直接了解俄罗斯的窗口。",
+   "regions": [
+    "俄乌",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】4 km W of Cobb, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434347",
+   "source": "USGS地震台网",
+   "time": "2026-09-12T18:39:21.810Z",
+   "summary": "美国地质调查局官方监测：4 km W of Cobb, CA发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄直接投资基金总裁：德国企业已提交超20份参加俄美德论坛的申请",
+   "link": "https://sputniknews.cn/20260913/1073222600.html",
+   "source": "卫星社中文",
+   "time": "2026-09-12T18:31:00.000Z",
+   "summary": "俄总统负责对外投资和经济合作事务特别代表、俄罗斯直接投资基金（RDIF）总裁基里尔·德米特里耶夫向记者表示，德国企业已提交20多份参加俄德美论坛的申请，同时报名申请接连不断。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄国防部：防空系统一天内摧毁53架乌克兰无人机",
+   "link": "https://sputniknews.cn/20260913/1073225475.html",
+   "source": "卫星社中文",
+   "time": "2026-09-12T18:11:37.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月12日电 俄罗斯国防部向记者表示，防空部队在一天内于俄罗斯各地上空摧毁了53架乌克兰军无人机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "韩国总统祝贺“泛星宏图”号船员成功通过北方海路",
+   "link": "https://sputniknews.cn/20260913/1073225354.html",
+   "source": "卫星社中文",
+   "time": "2026-09-12T18:08:44.000Z",
+   "summary": "韩国总统李在明向成功通过北方海路并抵达英国的“泛星宏图”号集装箱船（PanStar Acro）船员表示祝贺。",
+   "regions": [
+    "朝鲜半岛",
+    "欧洲"
+   ]
+  },
+  {
    "title": "俄罗斯国防部：在“敖德萨”港一艘运送乌克兰武装力量军事物资的干货船被击中",
    "link": "https://sputniknews.cn/20260913/1073222920.html",
    "source": "卫星社中文",
@@ -963,6 +1107,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科9月12日电 俄罗斯国防部表示，一艘运送军事物资以支持乌克兰武装力量的干货船在“敖德萨”港被击中。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】17 km WSW of Lixoúri, Greece",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th16",
+   "source": "USGS地震台网",
+   "time": "2026-09-12T17:51:45.718Z",
+   "summary": "美国地质调查局官方监测：17 km WSW of Lixoúri, Greece发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "希腊",
+    "欧洲"
    ]
   },
   {
@@ -4626,5 +4781,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-12T18:08:12.637Z"
+ "updatedAt": "2026-09-12T22:36:25.064Z"
 }
