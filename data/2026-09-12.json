@@ -2,6 +2,38 @@
  "date": "2026-09-12",
  "tech": [
   {
+   "title": "英伟达为 G-Sync Pulsar 显示器推送 1.1.10 固件，240Hz 下 MPRT 响应速度可降至 0.97ms",
+   "link": "https://www.ithome.com/1/001/502.htm",
+   "source": "IT之家",
+   "time": "2026-09-12T00:40:56.000Z",
+   "summary": "IT之家 9 月 12 日消息，英伟达近日为 G-Sync Pulsar 显示器推送 1.1.10 版固件更新，进一步提升动态画面清晰度。 具体来看，G-Sync Pulsar 1.1.10 固件在 240Hz 模式、Pulse Width…",
+   "regions": []
+  },
+  {
+   "title": "京东宣布升级维修防水补漏服务，号称“一次修好、0 加价”",
+   "link": "https://www.ithome.com/1/001/500.htm",
+   "source": "IT之家",
+   "time": "2026-09-12T00:30:13.000Z",
+   "summary": "IT之家 9 月 12 日消息，据“京东物流黑板报”，京东维修防水补漏服务于 9 月 11 日全面升级上线。此次升级采用“勘测 + 施工分离”的服务模式，号称“一次修好、0 加价”。 京东表示，夏季以来，全国多地连续降雨，连日雨水潮湿容易使…",
+   "regions": []
+  },
+  {
+   "title": "因行业涨价潮，消息称越来越多美国玩家因“价格”原因选择取消 XGP / PS Plus / NSO 会员订阅",
+   "link": "https://www.ithome.com/1/001/499.htm",
+   "source": "IT之家",
+   "time": "2026-09-12T00:26:07.000Z",
+   "summary": "IT之家 9 月 12 日消息，Circana 高级总监兼游戏行业分析师 Mat Piscatella 发文，透露美国玩家取消 Xbox Game Pass、PlayStation Plus 和 Nintendo Switch Online…",
+   "regions": []
+  },
+  {
+   "title": "DeepSeek 开口说话了：灰度测试 AI 语音对话，支持四种音色",
+   "link": "https://www.ithome.com/1/001/498.htm",
+   "source": "IT之家",
+   "time": "2026-09-12T00:17:46.000Z",
+   "summary": "IT之家 9 月 12 日消息，据IT之家小伙伴反馈， DeepSeek 灰度测试语音对话 ，测试到的用户在 App 右上角会有一个小喇叭按钮。 此外，DeepSeek 的设置页面会出现一个“ 朗读音色 ”选项，用户可以选择四种音色： 贝壳…",
+   "regions": []
+  },
+  {
    "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
    "link": "https://www.ithome.com/1/001/497.htm",
    "source": "IT之家",
@@ -19,6 +51,38 @@
   }
  ],
  "world": [
+  {
+   "title": "沙特输油管道遭伊拉克无人机袭击",
+   "link": "https://sputniknews.cn/20260912/1073210888.html",
+   "source": "卫星社中文",
+   "time": "2026-09-12T00:40:32.000Z",
+   "summary": "俄罗斯卫星通讯社多哈9月12日电 沙特阿拉伯外交部表示，该国“东西”输油管道遭到多架从伊拉克境内发射的无人机袭击，沙方对此予以强烈谴责。该管道旨在成为霍尔木兹海峡石油供应的替代路线。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】22 km SSW of Sunrise, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbenku",
+   "source": "USGS地震台网",
+   "time": "2026-09-12T00:28:57.120Z",
+   "summary": "美国地质调查局官方监测：22 km SSW of Sunrise, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "日本前外相岩屋毅拟27日起率贸易团体访华",
+   "link": "https://sputniknews.cn/20260912/1073210754.html",
+   "source": "卫星社中文",
+   "time": "2026-09-12T00:08:59.000Z",
+   "summary": "据共同社9月11日报道，以前外相岩屋毅为首的日本国际贸易促进协会的代表团计划本月27日至30日造访中国北京，已进入最后协调阶段。据相关人士透露，中方已通知将按这一日程接待。岩屋等人正在寻求与中方领导层会面。",
+   "regions": [
+    "亚太"
+   ]
+  },
   {
    "title": "媒体：朝鲜此前向日本海方向发射数枚导弹",
    "link": "https://sputniknews.cn/20260912/1073210667.html",
@@ -42,7 +106,18 @@
   }
  ],
  "tw": [],
- "cn": [],
+ "cn": [
+  {
+   "title": "“男子称停止资助遭女生威胁”事件反转，姚某某已涉嫌寻衅滋事罪丨法律顾问在身边",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-12/10695107.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-12T00:19:43.000Z",
+   "summary": "中新网9月12日电 (记者 范丰辉)9月11日，嘉峪关市公安局发布警情通报，通报“男子姚某某编造女生催资助”一事。通报指出，37岁男子姚某某为博取网络关注、吸粉引流，自编自导、虚构伪造“停止资助某学生后遭对方威胁”不实内容。",
+   "regions": [
+    "嘉峪关"
+   ]
+  }
+ ],
  "econ": [
   {
    "title": "法国2026年经济增长预期下调至0.5%",
@@ -55,5 +130,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-12T00:09:52.904Z"
+ "updatedAt": "2026-09-12T00:41:37.362Z"
 }
