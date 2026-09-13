@@ -1338,6 +1338,17 @@
    ]
   },
   {
+   "title": "【地震 M2.8】249 km SSE of Perryville, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th2v",
+   "source": "USGS地震台网",
+   "time": "2026-09-12T19:09:26.227Z",
+   "summary": "美国地质调查局官方监测：249 km SSE of Perryville, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M2.8】256 km SSE of Perryville, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026scpwzn",
    "source": "USGS地震台网",
@@ -5801,5 +5812,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-13T10:37:37.127Z"
+ "updatedAt": "2026-09-13T15:07:21.591Z"
 }
