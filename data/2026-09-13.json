@@ -2,6 +2,14 @@
  "date": "2026-09-13",
  "tech": [
   {
+   "title": "绿联海外发布 Nexode Air Slim 100W 超薄充电器，2C+1A",
+   "link": "https://www.ithome.com/1/001/698.htm",
+   "source": "IT之家",
+   "time": "2026-09-13T00:56:35.000Z",
+   "summary": "IT之家 9 月 13 日消息，绿联现已在英国市场推出 Nexode Air Slim 100W 超薄充电器，新品采用卡片式设计，拥有可折叠的英规插脚，售价 59.99 英镑 （IT之家注：现汇率约合 545.2 元人民币） 。 据介绍，这…",
+   "regions": []
+  },
+  {
    "title": "小米 SU7L 长轴轿车谍照再曝：支持后轮转向、侧面新增雷达",
    "link": "https://www.ithome.com/1/001/697.htm",
    "source": "IT之家",
@@ -68,6 +76,38 @@
  ],
  "world": [
   {
+   "title": "特朗普女婿库什纳介绍俄乌之行成果",
+   "link": "https://sputniknews.cn/20260913/1073226964.html",
+   "source": "卫星社中文",
+   "time": "2026-09-13T00:59:00.000Z",
+   "summary": "美国总统特朗普的女婿库什纳表示，美国代表对莫斯科和基辅的访问让人明确了在解决冲突方面应采取的下一步行动。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】47 km S of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026saectr",
+   "source": "USGS地震台网",
+   "time": "2026-09-13T00:58:24.509Z",
+   "summary": "美国地质调查局官方监测：47 km S of Whites City, New Mexico发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美国Anthropic披露AI被用于武器研发和情报搜集",
+   "link": "https://sputniknews.cn/20260913/1073226674.html",
+   "source": "卫星社中文",
+   "time": "2026-09-13T00:47:19.000Z",
+   "summary": "美国人工智能公司Anthropic在最新发布的威胁情报报告中披露，多个组织和个人将旗下AI模型Claude广泛用于武器研发、间谍活动、网络攻击和诈骗等活动，在部分案例中，AI几乎参与了恶意活动的每一个环节。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
    "title": "胡塞武装宣称袭击沙特阿拉伯西南部一处基地",
    "link": "https://sputniknews.cn/20260913/1073226571.html",
    "source": "卫星社中文",
@@ -92,5 +132,5 @@
  "tw": [],
  "cn": [],
  "econ": [],
- "updatedAt": "2026-09-13T00:42:34.082Z"
+ "updatedAt": "2026-09-13T01:06:23.955Z"
 }
