@@ -2,6 +2,38 @@
  "date": "2026-09-13",
  "tech": [
   {
+   "title": "小米 SU7L 长轴轿车谍照再曝：支持后轮转向、侧面新增雷达",
+   "link": "https://www.ithome.com/1/001/697.htm",
+   "source": "IT之家",
+   "time": "2026-09-13T00:42:26.000Z",
+   "summary": "IT之家 9 月 13 日消息，博主 @SugarDesign 昨晚分享了网友车载摄像头拍到的疑似小米 SU7L 长轴轿车谍照。 画面显示， 新测试车支持后轮转向 ，侧面的摄像头造型也有调整， 同时侧面增加了雷达 。 据IT之家此前报道，消…",
+   "regions": []
+  },
+  {
+   "title": "唯卓仕推出 4 款 L 卡口全画幅镜头，含 14mm f/4.0、20mm f/2.8、40mm f/2.5、50mm f/2.0",
+   "link": "https://www.ithome.com/1/001/695.htm",
+   "source": "IT之家",
+   "time": "2026-09-13T00:34:30.000Z",
+   "summary": "IT之家 9 月 13 日消息，据外媒 PhotoRumors 报道，唯卓仕现已在 IBC 2026 展会推出全新 L 卡口全画幅镜头， 包含 AF 14mm F4.0 L、AF 20mm F2.8 L、AF 40mm F2.5 L 和 A…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话",
+   "link": "http://www.geekpark.net/news/370228",
+   "source": "极客公园",
+   "time": "2026-09-13T00:22:31.000Z",
+   "summary": "OpenAI 首席执行官：今年不会上市，不能冒哪怕 10% 杀死所有人的风险 OpenAI 首席执行官 Sam Altman 在接受采访时表示，这家人工智能公司专注于解决围绕 AI 技术的安全担忧，今年不会上市。 Altman 表示，今年进…",
+   "regions": []
+  },
+  {
+   "title": "OPPO、一加、真我确认首批同步升级 ColorOS 17 系统，9 月 17 日公布适配机型",
+   "link": "https://www.ithome.com/1/001/694.htm",
+   "source": "IT之家",
+   "time": "2026-09-13T00:13:05.000Z",
+   "summary": "IT之家 9 月 13 日消息，OPPO ColorOS 产品经理 @ColorOS阿彪 宣布， OPPO、一加、真我将首批同步升级 ColorOS 17 。 有网友询问能否给一个可以升级 ColorOS 17 系统的具体机型列表，OPPO…",
+   "regions": []
+  },
+  {
    "title": "澳大利亚昆士兰大学、新南威尔士大学新研究：能救人的“半机械蟑螂”",
    "link": "https://www.ithome.com/1/001/693.htm",
    "source": "IT之家",
@@ -36,6 +68,17 @@
  ],
  "world": [
   {
+   "title": "胡塞武装宣称袭击沙特阿拉伯西南部一处基地",
+   "link": "https://sputniknews.cn/20260913/1073226571.html",
+   "source": "卫星社中文",
+   "time": "2026-09-13T00:10:57.000Z",
+   "summary": "俄罗斯卫星通讯社多哈9月13日电 执政也门北部地区的什叶派运动“安萨尔 真主”（胡塞武装）称，袭击了沙特阿拉伯西南部奈季兰省的一处军事基地。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
    "title": "日本官员称在APEC能源部长会议期间与中国国家能源局局长短暂交谈",
    "link": "https://sputniknews.cn/20260913/1073226470.html",
    "source": "卫星社中文",
@@ -49,5 +92,5 @@
  "tw": [],
  "cn": [],
  "econ": [],
- "updatedAt": "2026-09-13T00:10:37.061Z"
+ "updatedAt": "2026-09-13T00:42:34.082Z"
 }
