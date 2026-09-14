@@ -442,6 +442,14 @@
    "regions": []
   },
   {
+   "title": "C++ Web 开发框架 Paozhu 发布 1.16.0，添加 PostgreSQL SQLite 支持",
+   "link": "https://www.oschina.net/news/502436",
+   "source": "开源中国",
+   "time": "2026-09-12T12:08:10.000Z",
+   "summary": "C++ web开发框架 paozhu 发布1.16.0发布，ORM添加PostgreSQL SQLite支持，纯自研客户端。PostgreSQL客户端框架来自MySQL成熟流程架构，支持socket,ssl,unix.sock三种模式 业务…",
+   "regions": []
+  },
+  {
    "title": "鸿蒙智行问界 M9 Ultimate 领世加长版开启全国交付，64.98 万元起",
    "link": "https://www.ithome.com/1/001/632.htm",
    "source": "IT之家",
@@ -770,6 +778,14 @@
    "regions": []
   },
   {
+   "title": "Termexo v0.9.0：Antigravity 加入工作台，CLI 安装与 Diff 导航升级",
+   "link": "https://www.oschina.net/news/502433",
+   "source": "开源中国",
+   "time": "2026-09-12T06:33:30.000Z",
+   "summary": "AI 生成概念封面，非界面截图。 我是 Termexo 的维护者。v0.9.0 已正式发布：这次把 Antigravity 接入现有的 AI 编程终端工作台，同时改善安装入口、代码审阅和运行状态显示。Termexo 面向 Windows 1…",
+   "regions": []
+  },
+  {
    "title": "苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购",
    "link": "https://www.ithome.com/1/001/571.htm",
    "source": "IT之家",
@@ -943,6 +959,14 @@
    "source": "IT之家",
    "time": "2026-09-12T03:01:20.000Z",
    "summary": "IT之家 9 月 12 日消息，据中央广播电视总台中国之声今日报道，当前，网络上各平台的直播间各显神通引流吸粉，在众多直播类型中，“讲故事类”直播间凭借独特的叙事魅力和情感感染力，为观众提供了丰富的娱乐体验和精神陪伴。 主播小金是通过 “观…",
+   "regions": []
+  },
+  {
+   "title": "灵界 OS 近期完成了一轮文档与国际化优化，本次更新未涉及功能或界面改动，版本号保持不变。",
+   "link": "https://www.oschina.net/news/502431",
+   "source": "开源中国",
+   "time": "2026-09-12T02:53:31.000Z",
+   "summary": "灵界 OS 近期完成了一轮文档与国际化优化，本次更新未涉及功能或界面改动，版本号保持不变。 【📝 更新内容】 中英文文档对齐 确保中文 README 与英文 README 内容完全一致，无遗漏、无错译 补全此前英文文档中遗漏的内容，中英文…",
    "regions": []
   },
   {
@@ -5725,6 +5749,17 @@
    ]
   },
   {
+   "title": "China to grant zero tariffs on 100% of Seychelles tariff lines",
+   "link": "https://news.cgtn.com/news/2026-09-12/China-to-grant-zero-tariffs-on-100-of-Seychelles-tariff-lines-1QnbVgh7Gbm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-12T03:36:56.000Z",
+   "summary": "China and Seychelles have signed an early harvest arrangement under an economic partnership agreement, with China set to…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "聚焦开放与共享 服贸会展现中国文化新表达",
    "link": "https://www.chinanews.com.cn/cj/2026/09-12/10695151.shtml",
    "source": "中新网财经",
@@ -5812,5 +5847,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-14T01:07:54.232Z"
+ "updatedAt": "2026-09-14T05:38:40.287Z"
 }

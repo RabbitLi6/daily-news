@@ -370,6 +370,14 @@
    "regions": []
   },
   {
+   "title": "WIKI 知识库 v1.1.2 正式发布",
+   "link": "https://www.oschina.net/news/502442",
+   "source": "开源中国",
+   "time": "2026-09-13T12:59:56.000Z",
+   "summary": "这个功能有什么作用呢？ 以前调 top_k、相似度阈值、切块长度都要改 conf/config.json 然后再重启服务，要做对比实验就很慢，也容易「改了配置但进程还在用旧值」。KB-20 检索配置（含固定长度分片调整）将该功能做成控制台里…",
+   "regions": []
+  },
+  {
    "title": "宽度仅 50.2 厘米，全球最窄可行驶汽车获吉尼斯认证",
    "link": "https://www.ithome.com/1/001/848.htm",
    "source": "IT之家",
@@ -415,6 +423,22 @@
    "source": "IT之家",
    "time": "2026-09-13T12:16:20.000Z",
    "summary": "IT之家 9 月 13 日消息，奕境汽车今日宣布，奕境安全技术讲解会将于 9 月 14 日 19:30-20:30 在武汉举行，华为乾崑智驾 ADS 5 × 奕境「天穹智盾」。 据IT之家此前报道， 奕境 X9 旗舰大六座 SUV 已于 8…",
+   "regions": []
+  },
+  {
+   "title": ":fire:xbatis-ddl-auto 1.0.2 ORM DDL，最强 mybatis ORM DDL",
+   "link": "https://www.oschina.net/news/502441",
+   "source": "开源中国",
+   "time": "2026-09-13T12:15:59.000Z",
+   "summary": "官网 https://xbatis.cn xbatis-ddl-auto 是一个基于 xbatis 实体元数据的轻量自动建表工具。 它复用 xbatis 的 @Table、@TableId、@TableField、@ColumnDefini…",
+   "regions": []
+  },
+  {
+   "title": ":fire: xbatis 1.10.8 正式发版，mybatis 系列最好用最简单最方便的 ORM !!!",
+   "link": "https://www.oschina.net/news/502440",
+   "source": "开源中国",
+   "time": "2026-09-13T12:13:17.000Z",
+   "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非…",
    "regions": []
   },
   {
@@ -703,6 +727,14 @@
    "source": "IT之家",
    "time": "2026-09-13T07:45:49.000Z",
    "summary": "IT之家 9 月 13 日消息，PS5 模拟器直到近期才展现出巨大潜力，已经可以启动《GTA 5》和《恶魔之魂：重制版》这类热门游戏。其中 KyTy 模拟器的开发进展尤为迅猛，最新曝光的成果更是令人瞩目。 不久前才刚刚能在该模拟器上运行的《…",
+   "regions": []
+  },
+  {
+   "title": "SmartCall v1.0.5发布 智能体支持技能与工具",
+   "link": "https://www.oschina.net/news/502439",
+   "source": "开源中国",
+   "time": "2026-09-13T07:44:16.000Z",
+   "summary": ":book: 项目简介 SmartCall 是一套基于 AI 大模型 + Asterisk 通信引擎构建的新一代智能客服呼叫中心系统。系统深度融合了 AI 语音机器人、智能 IVR 流程编排、端到端双工对话模型、实时语音识别（ASR）、语音…",
    "regions": []
   },
   {
@@ -1090,6 +1122,14 @@
    "regions": []
   },
   {
+   "title": "Termexo v0.10.0 发布：自建中继，跨网络访问桌面 AI 工作台",
+   "link": "https://www.oschina.net/news/502437",
+   "source": "开源中国",
+   "time": "2026-09-13T02:02:26.000Z",
+   "summary": "出门后，电脑上的 Agent 还在跑；换一张网络，想看看输出、补一句指令，却接不回原来的工作台。Termexo v0.10.0 的远程中继访问，就是为这个场景准备的：桌面上开始的工作，可以在手机或另一台电脑的浏览器里继续。 同一个工作台，换…",
+   "regions": []
+  },
+  {
    "title": "V社为 SteamVR 推送界面更新，引入 Steam Deck 风格 UI",
    "link": "https://www.ithome.com/1/001/713.htm",
    "source": "IT之家",
@@ -1292,6 +1332,17 @@
    ]
   },
   {
+   "title": "【地震 M4.4】south of the Fiji Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th98",
+   "source": "USGS地震台网",
+   "time": "2026-09-13T23:41:31.259Z",
+   "summary": "美国地质调查局官方监测：south of the Fiji Islands发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "斐济",
+    "亚太"
+   ]
+  },
+  {
    "title": "“丝路书香·四海传福”图书巡回展亮相马尼拉国际书展",
    "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204164.shtml",
    "source": "中新网滚动",
@@ -1427,6 +1478,17 @@
    ]
   },
   {
+   "title": "【地震 M2.8】202 km S of Atka, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sermil",
+   "source": "USGS地震台网",
+   "time": "2026-09-13T21:57:14.948Z",
+   "summary": "美国地质调查局官方监测：202 km S of Atka, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "英国中区侨界庆祝新中国成立77周年",
    "link": "https://www.chinanews.com.cn/txy/2026/09-14/10695869.shtml",
    "source": "中新网滚动",
@@ -1446,6 +1508,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Chinese dance drama 'A Dream of Red Mansions' makes US debut",
+   "link": "https://newsus.cgtn.com/news/2026-09-14/Chinese-dance-drama-A-Dream-of-Red-Mansions-makes-US-debut-1Qq6kJGUqLS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T21:24:08.000Z",
+   "summary": "Chinese dance drama 'A Dream of Red Mansions' makes US debut",
+   "regions": []
   },
   {
    "title": "特朗普称并不担心中国领导人可能取消访美",
@@ -1697,6 +1767,14 @@
    ]
   },
   {
+   "title": "Xi charts course for greater BRICS cooperation: Chinese FM",
+   "link": "https://news.cgtn.com/news/2026-09-14/FM-Xi-s-BRICS-trip-boosts-cooperation-empowers-Global-South-1QpGkRL5ELm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T16:29:41.000Z",
+   "summary": "Xi charts course for greater BRICS cooperation: Chinese FM",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.5】4 km ESE of Brownington, Missouri",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th79",
    "source": "USGS地震台网",
@@ -1758,6 +1836,14 @@
     "斐济",
     "亚太"
    ]
+  },
+  {
+   "title": "How technology is driving shared prosperity across BRICS",
+   "link": "https://news.cgtn.com/news/2026-09-13/How-technology-is-driving-shared-prosperity-across-BRICS-1QppgGGZacU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T15:53:32.000Z",
+   "summary": "How technology is driving shared prosperity across BRICS",
+   "regions": []
   },
   {
    "title": "媒体：也门政府军由“死灵魂”组成",
@@ -1866,6 +1952,22 @@
    ]
   },
   {
+   "title": "Cameroon's Eto'o says African football must speak for itself",
+   "link": "https://newsaf.cgtn.com/news/2026-09-13/Cameroon-s-Eto-o-says-African-football-must-speak-for-itself-1Qpx7xTdre8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T14:09:18.000Z",
+   "summary": "Samuel Eto'o has defended his outspoken role in African football, arguing that continental leaders should be free to exp…",
+   "regions": []
+  },
+  {
+   "title": "How can 'greater BRICS' achieve high-quality development?",
+   "link": "https://news.cgtn.com/news/2026-09-13/How-can-greater-BRICS-achieve-high-quality-development--1Qpjz0pNZRK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T14:06:33.000Z",
+   "summary": "As the 2026 BRICS Summit unfolds in India, cooperation among the \"greater BRICS\" is entering a new stage. Enlargement of…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.2】122 km N of Culebra, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531673",
    "source": "USGS地震台网",
@@ -1875,6 +1977,14 @@
     "波多黎各",
     "拉美"
    ]
+  },
+  {
+   "title": "Hong Kong deepens ties with Global South in finance, I&T, offical says",
+   "link": "https://news.cgtn.com/news/2026-09-13/Hong-Kong-deepens-ties-with-Global-South-in-finance-I-T-offical-says-1QpwixFxfEI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T14:04:39.000Z",
+   "summary": "Paul Chan, financial secretary of the Hong Kong Special Administrative Region (HKSAR) government, said on Sunday that Ho…",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】6 km E of Willits, CA",
@@ -1934,6 +2044,22 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Somalia faces rising costs amid Red Sea shipping disruptions",
+   "link": "https://newsaf.cgtn.com/news/2026-09-13/Somalia-faces-rising-costs-amid-Red-Sea-shipping-disruptions--1QpwdjuLUCA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T13:12:18.000Z",
+   "summary": "Somalia is facing rising prices and growing maritime security concerns as Houthi attacks disrupt shipping through the Ba…",
+   "regions": []
+  },
+  {
+   "title": "Key quotes from Xi Jinping's speech at Session II of 18th BRICS Summit",
+   "link": "https://news.cgtn.com/news/2026-09-13/Key-quotes-from-Xi-Jinping-s-speech-at-Session-II-of-18th-BRICS-Summit-1QpqmFN8M1i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T13:09:28.000Z",
+   "summary": "Chinese President Xi Jinping on Sunday delivered a speech at Session II of the 18th BRICS Summit in New Delhi and propos…",
+   "regions": []
   },
   {
    "title": "“跨越山海的味道——万里茶道与咖啡之路”巡展登陆圣保罗",
@@ -2017,6 +2143,30 @@
    ]
   },
   {
+   "title": "1 killed, 3 wounded as Iranian commercial ship hit in Hormuz Strait",
+   "link": "https://news.cgtn.com/news/2026-09-13/1-killed-3-wounded-as-Iranian-commercial-ship-hit-in-Hormuz-Strait-1QppH26yLZK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T12:18:06.000Z",
+   "summary": "At least one person was killed, and three others were wounded after an Iranian commercial ship was targeted by a project…",
+   "regions": []
+  },
+  {
+   "title": "Houthis say 210 prisoners freed after capture of port city",
+   "link": "https://news.cgtn.com/news/2026-09-13/Houthis-say-210-prisoners-freed-after-capture-of-port-city-1QppmTAultS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T12:16:23.000Z",
+   "summary": "Yemen's Houthi group freed 210 of its members held by government forces after seizing a prison during its rapid advance …",
+   "regions": []
+  },
+  {
+   "title": "DR Congo says Ebola outbreak 'under control' despite persistent risks",
+   "link": "https://newsaf.cgtn.com/news/2026-09-13/DR-Congo-says-Ebola-outbreak-under-control-despite-persistent-risks-1QpnMMy7iOQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T12:07:45.000Z",
+   "summary": "According to the government, all major indicators point to a decline in cases, with 10 health zones affected before the …",
+   "regions": []
+  },
+  {
    "title": "古特雷斯出席金砖国家峰会，呼吁塑造包容性的全球增长",
    "link": "https://news.un.org/feed/view/zh/story/2026/09/1142781",
    "source": "联合国新闻",
@@ -2080,6 +2230,14 @@
    ]
   },
   {
+   "title": "Shopping in China: What's going into visitors' bags?",
+   "link": "https://news.cgtn.com/news/2026-09-13/Shopping-in-China-What-s-going-into-visitors-bags--1QpndgB8ykg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T11:24:09.000Z",
+   "summary": "Shopping in China: What's going into visitors' bags?",
+   "regions": []
+  },
+  {
    "title": "叶卡捷琳堡国际青年节展出氢能源Aurus汽车",
    "link": "https://sputniknews.cn/20260913/1073230968.html",
    "source": "卫星社中文",
@@ -2121,6 +2279,14 @@
    ]
   },
   {
+   "title": "Anthropic CEO urges AI companies to slow model development",
+   "link": "https://news.cgtn.com/news/2026-09-13/Anthropic-CEO-urges-AI-companies-to-slow-model-development-1QpiIp9P0BO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T10:37:34.000Z",
+   "summary": "Anthropic CEO urges AI companies to slow model development",
+   "regions": []
+  },
+  {
    "title": "俄总统新闻秘书：就乌克兰问题的三方谈判或于10月恢复",
    "link": "https://sputniknews.cn/20260913/1073230691.html",
    "source": "卫星社中文",
@@ -2140,6 +2306,14 @@
     "墨西哥",
     "美洲"
    ]
+  },
+  {
+   "title": "Full text: Xi Jinping's speech at Session II of the 18th BRICS Summit",
+   "link": "https://news.cgtn.com/news/2026-09-13/Full-text-Xi-Jinping-s-speech-at-Session-II-of-the-18th-BRICS-Summit-1QpbuXZhQDm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T10:17:23.000Z",
+   "summary": "Full text: Xi Jinping's speech at Session II of the 18th BRICS Summit",
+   "regions": []
   },
   {
    "title": "俄总统新闻秘书：普京赞赏中印领导人为解决乌克兰问题提供协助的意愿",
@@ -2173,6 +2347,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "At least 6 dead, 130 missing after Indonesia passenger vessel accident",
+   "link": "https://news.cgtn.com/news/2026-09-13/news-1QpjnfwaLhm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T09:57:51.000Z",
+   "summary": "A passenger ship that had lost contact in Indonesia's Java Sea has sunk, with around 130 people still unaccounted for, t…",
+   "regions": []
   },
   {
    "title": "习近平：共同书写全球南方团结自强新篇章",
@@ -2249,6 +2431,22 @@
    ]
   },
   {
+   "title": "Six dead after Indonesian ferry went missing in Java Sea",
+   "link": "https://news.cgtn.com/news/2026-09-13/news-1Qpd7jckQWA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T08:30:18.000Z",
+   "summary": "Six dead after Indonesian ferry went missing in Java Sea",
+   "regions": []
+  },
+  {
+   "title": "Namibia reinforces firefighting efforts in Etosha National Park",
+   "link": "https://newsaf.cgtn.com/news/2026-09-13/Namibia-reinforces-firefighting-efforts-in-Etosha-National-Park-1Qp6no9G2B2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T08:27:49.000Z",
+   "summary": "Namibia is deploying additional personnel and equipment to fight wildfires in Etosha National Park, with authorities say…",
+   "regions": []
+  },
+  {
    "title": "研究：德企对华投资增56亿欧元，对美投资大减",
    "link": "https://sputniknews.cn/20260913/1073230034.html",
    "source": "卫星社中文",
@@ -2287,6 +2485,22 @@
    "regions": []
   },
   {
+   "title": "South Africa's Ramaphosa urges BRICS to defend multilateralism",
+   "link": "https://newsaf.cgtn.com/news/2026-09-13/South-Africa-s-Ramaphosa-urges-BRICS-to-defend-multilateralism-1Qp4RKW3L32/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T08:03:20.000Z",
+   "summary": "Ramaphosa said South Africa advocated a predictable global system based on international law, with the UN Charter at its…",
+   "regions": []
+  },
+  {
+   "title": "President Xi Jinping leaves New Delhi after BRICS summit",
+   "link": "https://news.cgtn.com/news/2026-09-13/President-Xi-Jinping-leaves-New-Delhi-after-18th-BRICS-Summit-1Qp77eTPkvm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T08:00:38.000Z",
+   "summary": "President Xi Jinping leaves New Delhi after BRICS summit",
+   "regions": []
+  },
+  {
    "title": "普京：金砖国家内部贸易额已达1.2万亿美元",
    "link": "https://sputniknews.cn/20260913/1073229831.html",
    "source": "卫星社中文",
@@ -2296,6 +2510,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Global experts: China leads new chapter in BRICS cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-13/Global-experts-China-leads-new-chapter-in-BRICS-cooperation-1QoYBiiN0CQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T07:40:38.000Z",
+   "summary": "Speaking to CGTN, several international experts commended Xi's speech, stressing that the relevant initiatives proposed …",
+   "regions": []
   },
   {
    "title": "普京指出金砖国家的主要优势",
@@ -2420,6 +2642,14 @@
    ]
   },
   {
+   "title": "OpenAI rules out 2026 IPO, calls AI extinction risk 'unacceptable'",
+   "link": "https://news.cgtn.com/news/2026-09-13/OpenAI-rules-out-2026-IPO-calls-AI-extinction-risk-unacceptable--1Qp2EwtzpSg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T06:46:57.000Z",
+   "summary": "OpenAI will not go public in 2026, Chief Executive Sam Altman said in remarks published on Saturday, citing safety conce…",
+   "regions": []
+  },
+  {
    "title": "习近平就深化金砖合作提出5项倡议",
    "link": "https://sputniknews.cn/20260913/1073228931.html",
    "source": "卫星社中文",
@@ -2493,6 +2723,14 @@
    ]
   },
   {
+   "title": "President Xi proposes initiatives on 'greater BRICS' cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-13/President-Xi-addresses-Session-II-of-18th-BRICS-Summit-1Qp1cqB3v0c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T05:45:05.000Z",
+   "summary": "Chinese President Xi Jinping on Sunday proposed five initiatives on \"greater BRICS\" cooperation in areas of AI, trade an…",
+   "regions": []
+  },
+  {
    "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议",
    "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695588.shtml",
    "source": "中新网滚动",
@@ -2503,6 +2741,30 @@
    ]
   },
   {
+   "title": "Report: China's token consumption to reach 100 quadrillion in 2026",
+   "link": "https://news.cgtn.com/news/2026-09-13/Report-China-s-token-consumption-to-reach-100-quadrillion-in-2026-1QoRwSLhAhG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T05:10:34.000Z",
+   "summary": "China's annual token consumption is expected to reach 100 quadrillion tokens in 2026, as the country's artificial intell…",
+   "regions": []
+  },
+  {
+   "title": "President Xi attends Session II of 18th BRICS Summit",
+   "link": "https://news.cgtn.com/news/2026-09-13/President-Xi-attends-Session-II-of-18th-BRICS-Summit-1QoP9KZAJvq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T05:08:39.000Z",
+   "summary": "President Xi attends Session II of 18th BRICS Summit",
+   "regions": []
+  },
+  {
+   "title": "UNDP, China advance South-South cooperation, benefiting millions",
+   "link": "https://news.cgtn.com/news/2026-09-13/UNDP-China-advance-South-South-cooperation-benefiting-millions-1QoSjPdcrMA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T05:04:06.000Z",
+   "summary": "September 12 marks the United Nations Day for South-South Cooperation. On Saturday, the United Nations Development Progr…",
+   "regions": []
+  },
+  {
    "title": "金正恩回电习近平重申发展朝中关系意愿",
    "link": "https://sputniknews.cn/20260913/1073228195.html",
    "source": "卫星社中文",
@@ -2511,6 +2773,14 @@
    "regions": [
     "朝鲜半岛"
    ]
+  },
+  {
+   "title": "Rescuers searching for 140 people from Indonesian passenger ship",
+   "link": "https://news.cgtn.com/news/2026-09-13/news-1QoV0puktwI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T04:16:51.000Z",
+   "summary": "Rescuers searching for 140 people from Indonesian passenger ship",
+   "regions": []
   },
   {
    "title": "专家：金砖新德里峰会是“大金砖”深化合作的一次大考",
@@ -2585,6 +2855,22 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "Indonesian passenger ship carrying 243 reported missing at sea",
+   "link": "https://news.cgtn.com/news/2026-09-13/news-1QoPWqsHnvW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T03:05:59.000Z",
+   "summary": "Indonesian passenger ship carrying 243 reported missing at sea",
+   "regions": []
+  },
+  {
+   "title": "Intl. observers look to China to advance 'Greater BRICS' cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-13/Int-l-experts-look-to-China-to-advance-Greater-BRICS-cooperation-1QoJoB5vSZG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-13T03:04:26.000Z",
+   "summary": "Observers from the Global South said that the BRICS cooperation mechanism has evolved into an influential platform for m…",
+   "regions": []
   },
   {
    "title": "伊朗总统称伊朗“绝不屈服”",
@@ -2816,6 +3102,17 @@
    ]
   },
   {
+   "title": "Hong Kong deepens ties with Global South in finance, I&T, offical says",
+   "link": "https://news.cgtn.com/news/2026-09-13/Hong-Kong-deepens-ties-with-Global-South-in-finance-I-T-offical-says-1QpwixFxfEI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T14:04:39.000Z",
+   "summary": "Paul Chan, financial secretary of the Hong Kong Special Administrative Region (HKSAR) government, said on Sunday that Ho…",
+   "regions": [
+    "香港",
+    "亚太"
+   ]
+  },
+  {
    "title": "第三届粤港澳大湾区博士博士后创新创业大赛复赛在穗举行",
    "link": "https://www.chinanews.com.cn/tp/2026/09-13/10695799.shtml",
    "source": "中新网滚动",
@@ -3011,6 +3308,22 @@
    ]
   },
   {
+   "title": "Chinese dance drama 'A Dream of Red Mansions' makes US debut",
+   "link": "https://newsus.cgtn.com/news/2026-09-14/Chinese-dance-drama-A-Dream-of-Red-Mansions-makes-US-debut-1Qq6kJGUqLS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T21:24:08.000Z",
+   "summary": "Chinese dance drama 'A Dream of Red Mansions' makes US debut",
+   "regions": []
+  },
+  {
+   "title": "Xi charts course for greater BRICS cooperation: Chinese FM",
+   "link": "https://news.cgtn.com/news/2026-09-14/FM-Xi-s-BRICS-trip-boosts-cooperation-empowers-Global-South-1QpGkRL5ELm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T16:29:41.000Z",
+   "summary": "Xi charts course for greater BRICS cooperation: Chinese FM",
+   "regions": []
+  },
+  {
    "title": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
    "link": "https://www.chinanews.com.cn/gn/2026/09-14/10695865.shtml",
    "source": "中新网中国",
@@ -3019,6 +3332,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "How technology is driving shared prosperity across BRICS",
+   "link": "https://news.cgtn.com/news/2026-09-13/How-technology-is-driving-shared-prosperity-across-BRICS-1QppgGGZacU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T15:53:32.000Z",
+   "summary": "How technology is driving shared prosperity across BRICS",
+   "regions": []
   },
   {
    "title": "“两园一河”京西漂流节联动三区",
@@ -3039,6 +3360,25 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "First museum devoted to prehistoric flying reptiles opens in NW China",
+   "link": "https://news.cgtn.com/news/2026-09-13/First-museum-devoted-to-prehistoric-flying-reptiles-opens-in-NW-China-1Qpywbsiyg8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T13:50:48.000Z",
+   "summary": "First museum devoted to prehistoric flying reptiles opens in NW China",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Miles we share: Oranges and the road home",
+   "link": "https://news.cgtn.com/news/2026-09-13/Miles-we-share-Oranges-and-the-road-home-1QpnV95hyOQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T13:48:52.000Z",
+   "summary": "Miles we share: Oranges and the road home",
+   "regions": []
   },
   {
    "title": "习言道｜金砖峰会，习近平为何强调“坚定站在历史正确一边”",
@@ -3174,6 +3514,22 @@
    ]
   },
   {
+   "title": "President Xi returns to Beijing after attending 18th BRICS Summit",
+   "link": "https://news.cgtn.com/news/2026-09-13/President-Xi-Jinping-returns-to-Beijing-after-attending-18th-BRICS-Summit-1Qp8kYJEUuc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T13:09:41.000Z",
+   "summary": "Chinese President Xi Jinping returned to Beijing on Sunday evening after attending the 18th BRICS Summit in New Delhi.",
+   "regions": []
+  },
+  {
+   "title": "Key quotes from Xi Jinping's speech at Session II of 18th BRICS Summit",
+   "link": "https://news.cgtn.com/news/2026-09-13/Key-quotes-from-Xi-Jinping-s-speech-at-Session-II-of-18th-BRICS-Summit-1QpqmFN8M1i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T13:09:28.000Z",
+   "summary": "Chinese President Xi Jinping on Sunday delivered a speech at Session II of the 18th BRICS Summit in New Delhi and propos…",
+   "regions": []
+  },
+  {
    "title": "从地名读懂宁夏：溯源方寸地名解锁“塞上江南”千年变迁",
    "link": "https://www.chinanews.com.cn/cul/2026/09-13/10695833.shtml",
    "source": "中新网滚动",
@@ -3306,6 +3662,14 @@
    ]
   },
   {
+   "title": "Chicken blood, no wine: A brotherhood forged on the Long March",
+   "link": "https://news.cgtn.com/news/2026-09-13/Chicken-blood-no-wine-A-brotherhood-forged-on-the-Long-March-1QpnuGJFF4s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T12:24:28.000Z",
+   "summary": "Chicken blood, no wine: A brotherhood forged on the Long March",
+   "regions": []
+  },
+  {
    "title": "古法杉木闸板显奇效 福建诏安大水门“土办法”挡洪护城",
    "link": "https://www.chinanews.com.cn/sh/2026/09-13/10695747.shtml",
    "source": "中新网社会",
@@ -3337,6 +3701,17 @@
    "regions": [
     "海口",
     "海南"
+   ]
+  },
+  {
+   "title": "Shopping in China: What's going into visitors' bags?",
+   "link": "https://news.cgtn.com/news/2026-09-13/Shopping-in-China-What-s-going-into-visitors-bags--1QpndgB8ykg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T11:24:09.000Z",
+   "summary": "Shopping in China: What's going into visitors' bags?",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3381,6 +3756,30 @@
    ]
   },
   {
+   "title": "The Red Ribbon on the Earth | The Four Crossings Campaign",
+   "link": "https://news.cgtn.com/news/2026-09-13/The-Red-Ribbon-on-the-Earth-The-Four-Crossings-Campaign-1QlPB557LSU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T10:28:31.000Z",
+   "summary": "Starting in late January 1935, in a remarkable demonstration of highly mobile and flexible military manoeuvring, the Red…",
+   "regions": []
+  },
+  {
+   "title": "The Long March History | The Xiangjiang River Campaign",
+   "link": "https://news.cgtn.com/news/2026-09-13/The-Long-March-History-The-Xiangjiang-River-Campaign-1Qn89E4DsLC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T10:28:22.000Z",
+   "summary": "By late November 1934, just over a month into the Long March, the Central Red Army had reached the Xiangjiang River in s…",
+   "regions": []
+  },
+  {
+   "title": "The Red Ribbon on the Earth | The Zunyi Meeting",
+   "link": "https://news.cgtn.com/news/2026-09-13/The-Red-Ribbon-on-the-Earth-The-Zunyi-Meeting-1QlO0RdOppK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T10:28:14.000Z",
+   "summary": "In January 1935, the Red Army arrived at Zunyi in Guizhou. There, the CPC convened a meeting of its Political Bureau tha…",
+   "regions": []
+  },
+  {
    "title": "官方通报菏泽古沉船考古疑似文物遗失：已组建联合调查组",
    "link": "https://www.chinanews.com.cn/sh/2026/09-13/10695721.shtml",
    "source": "中新网社会",
@@ -3390,6 +3789,14 @@
     "菏泽",
     "山东"
    ]
+  },
+  {
+   "title": "Full text: Xi Jinping's speech at Session II of the 18th BRICS Summit",
+   "link": "https://news.cgtn.com/news/2026-09-13/Full-text-Xi-Jinping-s-speech-at-Session-II-of-the-18th-BRICS-Summit-1QpbuXZhQDm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T10:17:23.000Z",
+   "summary": "Full text: Xi Jinping's speech at Session II of the 18th BRICS Summit",
+   "regions": []
   },
   {
    "title": "2026年广东省科普讲解大赛总决赛收官",
@@ -3600,6 +4007,19 @@
    ]
   },
   {
+   "title": "Cultural exchange on the China-Russia border",
+   "link": "https://news.cgtn.com/news/2026-09-13/Cultural-exchange-on-the-China-Russia-border-1Qpc4eW55Pq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T08:45:18.000Z",
+   "summary": "Standing 208 meters tall near the China-Russia border, the Pearl of the Northern Frontier Tower in Manzhouli, Inner Mong…",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
    "title": "丹山碧水遇轰鸣 户外机车嘉年华燃动江西龙虎山",
    "link": "https://www.chinanews.com.cn/sh/2026/09-13/10695672.shtml",
    "source": "中新网社会",
@@ -3618,6 +4038,17 @@
    "regions": [
     "温州",
     "浙江"
+   ]
+  },
+  {
+   "title": "Crossover display featuring CIFTIS mascot and art toy draws crowds",
+   "link": "https://news.cgtn.com/news/2026-09-13/Crossover-display-featuring-CIFTIS-mascot-and-art-toy-draws-crowds-1QpbNfV5HGw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T08:41:42.000Z",
+   "summary": "Drawing inspiration from Fuyan, the mascot of China International Fair for Trade in Services (CIFTIS), and the art toy I…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3678,6 +4109,14 @@
     "亚太",
     "北京"
    ]
+  },
+  {
+   "title": "President Xi Jinping leaves New Delhi after BRICS summit",
+   "link": "https://news.cgtn.com/news/2026-09-13/President-Xi-Jinping-leaves-New-Delhi-after-18th-BRICS-Summit-1Qp77eTPkvm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T08:00:38.000Z",
+   "summary": "President Xi Jinping leaves New Delhi after BRICS summit",
+   "regions": []
   },
   {
    "title": "从“搬家式”到轻量化 中国北方露营渐成“周末日常”",
@@ -3850,6 +4289,25 @@
    ]
   },
   {
+   "title": "Report: China's token consumption to reach 100 quadrillion in 2026",
+   "link": "https://news.cgtn.com/news/2026-09-13/Report-China-s-token-consumption-to-reach-100-quadrillion-in-2026-1QoRwSLhAhG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T05:10:34.000Z",
+   "summary": "China's annual token consumption is expected to reach 100 quadrillion tokens in 2026, as the country's artificial intell…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "President Xi attends Session II of 18th BRICS Summit",
+   "link": "https://news.cgtn.com/news/2026-09-13/President-Xi-attends-Session-II-of-18th-BRICS-Summit-1QoP9KZAJvq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T05:08:39.000Z",
+   "summary": "President Xi attends Session II of 18th BRICS Summit",
+   "regions": []
+  },
+  {
    "title": "（长征胜利90周年）检查公益诉讼守护绿色生态与红色根脉 四川宝兴探索特色保护路径",
    "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695586.shtml",
    "source": "中新网中国",
@@ -3867,6 +4325,17 @@
    "summary": "中新社北京9月13日电 题：对话摩尔线程张建中：打造国产GPU，一家民企的造“芯”路",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "UNDP, China advance South-South cooperation, benefiting millions",
+   "link": "https://news.cgtn.com/news/2026-09-13/UNDP-China-advance-South-South-cooperation-benefiting-millions-1QoSjPdcrMA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T05:04:06.000Z",
+   "summary": "September 12 marks the United Nations Day for South-South Cooperation. On Saturday, the United Nations Development Progr…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4034,6 +4503,17 @@
    "summary": "中新网临汾9月13日电 (记者 李庭耀)关于媒体报道“山西一镇政府公职人员醉驾酿事故致一对夫妻身亡，死者家属质疑事故认定主次责之分申请复核”一事，山西省临汾市蒲县公安局12日晚发布关于蒲县“8.13”交通事故的情况通报。",
    "regions": [
     "山西"
+   ]
+  },
+  {
+   "title": "Intl. observers look to China to advance 'Greater BRICS' cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-13/Int-l-experts-look-to-China-to-advance-Greater-BRICS-cooperation-1QoJoB5vSZG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T03:04:26.000Z",
+   "summary": "Observers from the Global South said that the BRICS cooperation mechanism has evolved into an influential platform for m…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4450,6 +4930,14 @@
    ]
   },
   {
+   "title": "President Xi proposes initiatives on 'greater BRICS' cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-13/President-Xi-addresses-Session-II-of-18th-BRICS-Summit-1Qp1cqB3v0c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-13T05:45:05.000Z",
+   "summary": "Chinese President Xi Jinping on Sunday proposed five initiatives on \"greater BRICS\" cooperation in areas of AI, trade an…",
+   "regions": []
+  },
+  {
    "title": "警惕“躺赚”陷阱！征信良好的普通人为何沦为“职业背债人”",
    "link": "https://www.chinanews.com.cn/sh/2026/09-13/10695602.shtml",
    "source": "中新网社会",
@@ -4522,5 +5010,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-14T01:07:54.229Z"
+ "updatedAt": "2026-09-14T05:38:40.281Z"
 }
