@@ -2,6 +2,110 @@
  "date": "2026-09-14",
  "tech": [
   {
+   "title": "《红霞岛》前创意总监反思项目：服务型游戏并非工作室专长、将从中汲取经验",
+   "link": "https://www.ithome.com/1/002/339.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:37:39.000Z",
+   "summary": "IT之家 9 月 15 日消息，据外媒 PCGamer 报道，Arkane Austin 前创意总监 Harvey Smith 回顾了《红霞岛》的开发经历，直言团队当初不该参与服务型游戏项目。他认为，这款作品最终未能形成完整统一的成果，项目…",
+   "regions": []
+  },
+  {
+   "title": "马斯克旗下 X 和 SpaceXAI 动议撤回针对苹果和 OpenAI 的诉讼指控",
+   "link": "https://www.ithome.com/1/002/338.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:33:48.000Z",
+   "summary": "IT之家 9 月 15 日消息，路透社今天（9 月 15 日）发布博文，报道称基于昨日（9 月 14 日）提交的法庭文件，全球首富埃隆 · 马斯克旗下的 X Corp. 和 SpaceXAI 提出动议， 要求撤回去年针对苹果和 OpenAI…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iOS / iPadOS 26.7 正式版发布：修复安全问题",
+   "link": "https://www.ithome.com/1/002/337.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:29:39.000Z",
+   "summary": "IT之家 9 月 15 日消息，苹果今天除了 推送 iOS / iPadOS 27 正式版 外，还面向不想升级相应大版本的用户推出了 iOS / iPadOS 26.7 版本，用户进入“软件更新”页面检查新版本时，系统默认显示 iPadOS…",
+   "regions": []
+  },
+  {
+   "title": "苹果为 AirPods Pro 3 等耳机推送 9A348 新固件",
+   "link": "https://www.ithome.com/1/002/336.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:18:48.000Z",
+   "summary": "IT之家 9 月 15 日消息，科技媒体 9to5Mac 今天（9 月 15 日）发布博文，报道称苹果面向 AirPods Pro 3 等耳机，推送版本号为 9A348 的全新固件。 适配范围上，IT之家援引博文介绍，本次 AirPods …",
+   "regions": []
+  },
+  {
+   "title": "V 社推送 SteamOS Beta / 预览版推送更新：修复风扇转速异常问题",
+   "link": "https://www.ithome.com/1/002/335.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:00:33.000Z",
+   "summary": "IT之家 9 月 15 日消息，Valve 今日向 SteamOS Beta 和预览通道推送了最新测试更新，本次更新主要针对风扇控制问题进行修复，新功能仍处于测试阶段，用户可通过设置 > 系统 > 系统更新通道加入测试通道体验。 通用更新 …",
+   "regions": []
+  },
+  {
+   "title": "Steam 小队角色扮演节促销活动正式开启：海量组队 RPG 游戏打折，持续至 9 月 21 日",
+   "link": "https://www.ithome.com/1/002/333.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T19:20:23.000Z",
+   "summary": "IT之家 9 月 15 日消息，Valve 正式开启 Steam 小队角色扮演节（Party-Based RPG Fest），集中展示并打折促销各类支持多角色组队玩法的角色扮演游戏，活动将持续至 9 月 21 日。 本次游戏节集结了所有以队…",
+   "regions": []
+  },
+  {
+   "title": "苹果 watchOS 27.0 正式版发布：Siri AI 全面升级，健康功能扩展",
+   "link": "https://www.ithome.com/1/002/332.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T18:26:12.000Z",
+   "summary": "IT之家 9 月 15 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 更新（内部版本号：24R364），兼容 Apple Watch Series 9 及后续机型、Apple Watch Ultra 2 …",
+   "regions": []
+  },
+  {
+   "title": "苹果 visionOS 27.0 正式版发布：Siri AI、4K 录制与 Wi-Fi 提速",
+   "link": "https://www.ithome.com/1/002/331.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T18:26:11.000Z",
+   "summary": "IT之家 9 月 15 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 更新（内部版本号：24M362），适用于两个版本的 Vision Pro 头显。 用户可在设置中选择“通用”，再进入“软件更新”下载。…",
+   "regions": []
+  },
+  {
+   "title": "苹果 macOS 27.0 正式版发布：Siri 独立 App、引入多项智能辅助...",
+   "link": "https://www.ithome.com/1/002/330.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T18:26:11.000Z",
+   "summary": "IT之家 9 月 15 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 更新（内部版本号：26A428）。 苹果 macOS 27 重点聚焦智能辅助、系统体验与日常办公场景，目标是让 Mac 在沟通、创作和信息处理上更顺手…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iOS / iPadOS 27.0 正式版发布：性能优化、升级 Siri AI，增强家长管控...",
+   "link": "https://www.ithome.com/1/002/329.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T18:26:10.000Z",
+   "summary": "IT之家 9 月 15 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 更新（内部版本号：24A437）。 iOS 27 迎来多项性能优化，包括应用启动、显示照片、网络切换、AirDrop、硬…",
+   "regions": []
+  },
+  {
+   "title": "苹果儿童安全功能随 iOS 27 等更新上线：新增时间额度，可阻止血腥暴力及裸露内容",
+   "link": "https://www.ithome.com/1/002/326.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T17:16:21.000Z",
+   "summary": "IT之家 9 月 15 日消息，苹果公司今日宣布，其全新儿童安全功能已随 iOS 27、iPadOS 27 和 macOS 27 更新上线。家长可借此管理孩子看到的内容、可联系的人以及使用 App 的时间。 这些功能基于苹果此前的家长控制功…",
+   "regions": []
+  },
+  {
+   "title": "1059 美元起，V 社 Steam Frame VR 头显正式发布",
+   "link": "https://www.ithome.com/1/002/324.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T17:10:33.000Z",
+   "summary": "IT之家 9 月 15 日消息，V 社今日正式推出全新无线 VR 头显产品 Steam Frame，支持 VR 和非 VR 游戏，既可以串流运行整个 Steam 库游戏，也支持独立运行，现已开放预约登记。IT之家附 Steam 官方产品页链…",
+   "regions": []
+  },
+  {
+   "title": "节奏动作 RPG 全新 DLC《节奏裂隙：初音未来音乐包 2》上架 Steam，国区首发价 27.69 元",
+   "link": "https://www.ithome.com/1/002/322.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T16:41:59.000Z",
+   "summary": "IT之家 9 月 15 日消息，知名节奏动作 RPG《节奏裂隙》的全新 DLC 《节奏裂隙：初音未来音乐包 2》现已登陆 Steam 平台，该 DLC 需要拥有本体游戏才能游玩。 IT之家附游戏商品页（ https://store.stea…",
+   "regions": []
+  },
+  {
    "title": "vivo WATCH 6 智能手表亮相：蓝宝石玻璃表镜、钛合金表体，9 月 21 日发布",
    "link": "https://www.ithome.com/1/002/320.htm",
    "source": "IT之家",
@@ -1628,6 +1732,287 @@
  ],
  "world": [
   {
+   "title": "特朗普承诺迫使其他国家补偿美国在霍尔木兹海峡的安全开支",
+   "link": "https://sputniknews.cn/20260915/1073252840.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T22:34:58.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿9月15日电 美国总统唐纳德·特朗普表示，在与伊朗的冲突得到解决后，其他国家将必须补偿华盛顿为保障安全以及维持石油通过霍尔木兹海峡运输所支出的费用。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "武契奇宣布：将于9月27日辞去塞尔维亚总统职务",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696489.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-14T22:33:04.000Z",
+   "summary": "中新网9月15日电 据路透社报道，当地时间9月14日，塞尔维亚总统武契奇宣布，他将于9月27日辞去总统职务。",
+   "regions": []
+  },
+  {
+   "title": "【地震 M5.2】66 km E of Kainantu, Papua New Guinea",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhd",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T22:06:54.287Z",
+   "summary": "美国地质调查局官方监测：66 km E of Kainantu, Papua New Guinea发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "巴布亚新几内亚",
+    "亚太"
+   ]
+  },
+  {
+   "title": "特朗普：美国正以前所未有的速度生产导弹，其中包括“爱国者”和“萨德”系统的导弹",
+   "link": "https://sputniknews.cn/20260915/1073252728.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T21:50:28.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 有报道称华盛顿弹药短缺，美国总统特朗普在该消息传出之际表示，美国正以前所未有的速度生产导弹，其中包括“爱国者”和“萨德”系统的导弹。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "泽连斯基：若俄方停止袭击乌关键基础设施 乌方将对等停止",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696486.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-14T21:47:27.000Z",
+   "summary": "当地时间9月14日，乌克兰总统泽连斯基在社交媒体发文称，乌方已提出一项乌俄互不打击关键基础设施的倡议，并将这一军事降级举措定位为推动和平进程的首要步骤。他已呼吁国际合作伙伴推动落实该倡议。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "武契奇：将于9月27日辞去塞尔维亚总统职务",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696485.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-14T21:45:43.000Z",
+   "summary": "当地时间9月14日晚，塞尔维亚总统武契奇在接受采访时宣布，他将于9月27日辞去总统职务。",
+   "regions": []
+  },
+  {
+   "title": "报纸：中国学者在俄罗斯外国科研合作伙伴名单中位列首位",
+   "link": "https://sputniknews.cn/20260915/1073252624.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T21:40:37.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 《俄罗斯公报·科学》援引俄罗斯国立高等经济大学统计研究与知识经济研究所《科学指标》汇编数据报道，2024年，中国学者成为俄罗斯科研人员最主要的外国合著者。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "媒体：德国政府正准备采取一系列措施以降低德国经济对中国的依赖",
+   "link": "https://sputniknews.cn/20260915/1073252528.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T21:32:00.000Z",
+   "summary": "俄罗斯卫星通讯社柏林电 彭博社援引消息人士的话报道，德国政府正在制定一揽子措施，以降低德国战略产业对中国的依赖，该方案未来可能成为欧盟层面实施限制措施的基础。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "伊朗革命卫队：一艘油轮在霍尔木兹海峡通行时触雷",
+   "link": "https://sputniknews.cn/20260915/1073252439.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T21:25:51.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰电 伊朗革命卫队表示，一艘油轮在霍尔木兹海峡通行时触雷。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "五角大楼向钨矿开采公司投资4.5亿美元",
+   "link": "https://sputniknews.cn/20260915/1073252335.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T21:15:47.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国战争部9月14日宣布，将向关键矿产开采公司Elmet Group投资4.5亿美元，以增强美国境内的钨矿开采能力。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】15 km N of Arecibo, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531798",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T21:15:13.770Z",
+   "summary": "美国地质调查局官方监测：15 km N of Arecibo, Puerto Rico发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】31 km WSW of Sipí, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thh2",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T21:13:15.924Z",
+   "summary": "美国地质调查局官方监测：31 km WSW of Sipí, Colombia发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
+   ]
+  },
+  {
+   "title": "欧洲议员：欧盟内部对基辅的支持因乌克兰的腐败问题而在不断下降",
+   "link": "https://sputniknews.cn/20260915/1073252237.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T21:07:27.000Z",
+   "summary": "俄罗斯卫星通讯社布鲁塞尔电 来自卢森堡的欧洲议会议员费尔南·卡尔泰泽对卫星通讯社表示，最近几个月，欧盟居民对乌克兰的支持急剧下降，主要原因之一是乌克兰普遍存在的腐败。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "美国副总统：在红海局势加剧的背景下 美国已与胡塞武装建立直接联系",
+   "link": "https://sputniknews.cn/20260915/1073252141.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T20:58:13.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国副总统万斯表示，随着什叶派运动“安萨尔·阿拉”（即胡塞武装）在红海地区不断推进，美国已与在也门北部执政的胡塞武装建立了直接联系。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普：与伊朗的冲突结束后油价将暴跌",
+   "link": "https://sputniknews.cn/20260915/1073252049.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T20:49:30.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国总统特朗普表示，与伊朗冲突结束后油价将暴跌，而且这将很快就会发生。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄央行：2026年1至7月俄罗斯经常账户顺差升至339亿美元",
+   "link": "https://sputniknews.cn/20260915/1073251951.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T20:41:17.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯央行发布消息表示，2026年1至7月，俄罗斯国际收支平衡表经常账户顺差从2025年同期的215亿美元增至339亿美元。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.3】off the coast of Michoacan, Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thgs",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T20:38:59.760Z",
+   "summary": "美国地质调查局官方监测：off the coast of Michoacan, Mexico发生 5.3 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "一名英国军人在乌克兰发生的一场车祸中丧生",
+   "link": "https://sputniknews.cn/20260915/1073251848.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T20:34:49.000Z",
+   "summary": "俄罗斯卫星通讯社伦敦电 英国国防部表示，一名英国军人在乌克兰于交通事故中身亡。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】26 km SSW of Sipí, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thgj",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T20:08:07.031Z",
+   "summary": "美国地质调查局官方监测：26 km SSW of Sipí, Colombia发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】20 km SSW of Sipí, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thge",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T20:02:04.355Z",
+   "summary": "美国地质调查局官方监测：20 km SSW of Sipí, Colombia发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄外交部：拉夫罗夫会见联合国秘书长候选人奥拉拉·奥图努",
+   "link": "https://sputniknews.cn/20260915/1073251737.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T20:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外交部表示，俄罗斯外交部长拉夫罗夫会见联合国秘书长候选人奥拉拉·奥图努。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.2】58 km NNE of Punta Cana, Dominican Republic",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531788",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T19:44:26.560Z",
+   "summary": "美国地质调查局官方监测：58 km NNE of Punta Cana, Dominican Republic发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "多米尼加",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】106 km WSW of Alianza Cristiana, Peru",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thg5",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T19:16:49.927Z",
+   "summary": "美国地质调查局官方监测：106 km WSW of Alianza Cristiana, Peru发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "秘鲁",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄参议员：美国向伊朗施压，油价仍无法稳定",
+   "link": "https://sputniknews.cn/20260915/1073250998.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T19:00:00.000Z",
+   "summary": "俄罗斯参议员阿列克谢·普什科夫在Telegram自己的频道上写道，尽管美国政府竭尽全力稳定油价，其中包括向德黑兰施压，但油价仍在上涨，伊朗不会让美国总统唐纳德·特朗普成功的。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普：全球燃料价格上涨是乌克兰冲突引发的",
+   "link": "https://sputniknews.cn/20260915/1073250799.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T18:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿9月14日电 美国总统特朗普认为，全球燃料价格上涨主要是因为乌克兰冲突，而不是伊朗局势。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "专家：俄军精确打击重创乌克兰燃料储备与军事潜力",
+   "link": "https://sputniknews.cn/20260915/1073251406.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T18:16:13.000Z",
+   "summary": "俄罗斯资深军事记者阿列克谢·博尔津科向俄罗斯卫星通讯社表示，乌克兰防空系统最多只能发挥5%的效能，因此基辅几乎无力阻止俄罗斯瓦解乌克兰的军事能力、基础设施和后勤。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
    "title": "特朗普称将决定是否同伊朗展开和平对话",
    "link": "https://sputniknews.cn/20260915/1073250897.html",
    "source": "卫星社中文",
@@ -1636,6 +2021,17 @@
    "regions": [
     "中东",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】157 km SSE of Labuha, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thfh",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T17:55:15.206Z",
+   "summary": "美国地质调查局官方监测：157 km SSE of Labuha, Indonesia发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
    ]
   },
   {
@@ -1814,6 +2210,17 @@
    "time": "2026-09-14T15:00:00.000Z",
    "summary": "金砖国家研究委员会执行主任格奥尔基·托洛拉亚表示，随着全球决策中心东移，金砖国家已成为东方国家解决争端、开展直接对话的现实机制。",
    "regions": []
+  },
+  {
+   "title": "【地震 M4.5】11 km SSW of Sipí, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thdw",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T14:57:11.569Z",
+   "summary": "美国地质调查局官方监测：11 km SSW of Sipí, Colombia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
+   ]
   },
   {
    "title": "英国三地首席大臣寻求脱离英国加入欧盟",
@@ -2049,6 +2456,40 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "铀资源储备充足但需持续投资支持全球核电增长",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142786",
+   "source": "联合国新闻",
+   "time": "2026-09-14T12:00:00.000Z",
+   "summary": "国际原子能机构和经合组织核能署联合发布的最新报告《2026年铀资源、生产与需求》指出，全球铀行业正在响应世界各地对发展新核电装机容量日益增长的兴趣，近年来铀勘探和矿山开发支出显著增加。这些投资对于满足未来需求至关重要。",
+   "regions": []
+  },
+  {
+   "title": "原子能机构总干事：伊朗核监督形势恶化，必须重返外交谈判渠道",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142785",
+   "source": "联合国新闻",
+   "time": "2026-09-14T12:00:00.000Z",
+   "summary": "国际原子能机构总干事格罗西周一在国际原子能机构大会第70届常会上表示，国际原子能机构对伊朗核计划的监督形势在2026年恶化，伊朗核材料和核设施的监督问题引发严重核扩散担忧，亟需以最高优先级解决。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "人权高专呼吁采取紧急行动应对前所未有的人工智能风险",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142784",
+   "source": "联合国新闻",
+   "time": "2026-09-14T12:00:00.000Z",
+   "summary": "联合国人权事务高级专员蒂尔克周一呼吁各国及全球“前沿”人工智能企业采取紧急行动，确保有实质意义的人工智能治理能够跟上其加速发展的步伐，并应对其对人权构成的前所未有的风险。",
+   "regions": []
+  },
+  {
+   "title": "【专题报道 | 前方视野】填补“地球缺失的条约”：推动建立全球首个灾害保护国际条约",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142782",
+   "source": "联合国新闻",
+   "time": "2026-09-14T12:00:00.000Z",
+   "summary": "随着气候变化加剧、自然灾害频发，红十字与红新月国际联合会日前发起“地球缺失的条约”（Earth's Missing Treaty）全球倡议，呼吁各国致力于制定首个专门保护灾害中受影响民众的国际条约，为灾害发生前、发生时和发生后提供更有力的国…",
+   "regions": []
   },
   {
    "title": "英国三地政党领导人会晤：“威斯敏斯特的时代即将结束”",
@@ -3070,6 +3511,17 @@
    ]
   },
   {
+   "title": "【地震 M4.3】53 km NNE of Kāshmar, Iran",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th9l",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T01:38:51.084Z",
+   "summary": "美国地质调查局官方监测：53 km NNE of Kāshmar, Iran发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "伊朗",
+    "中东"
+   ]
+  },
+  {
    "title": "韩国修法扩大间谍罪范围，应对中国芯片技术威胁",
    "link": "https://sputniknews.cn/20260914/1073237763.html",
    "source": "卫星社中文",
@@ -3350,6 +3802,14 @@
   }
  ],
  "cn": [
+  {
+   "title": "暴食后催吐就能不长胖？危害远超想象！",
+   "link": "https://www.chinanews.com.cn/jk/2026/09-15/10696488.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-14T21:54:03.000Z",
+   "summary": "这几天，北方多地气温下降，天气一凉，也激发了很多人的食欲，但是暴饮暴食后又陷入满心愧疚。怎么办呢？在社交平台上，就有不少网友推荐了所谓暴食“后悔药”——催吐，并且声称这样既能享受美食，又不会增加体重。暴饮暴食后再催吐，真的靠谱吗？",
+   "regions": []
+  },
   {
    "title": "2026年“中华情·中国梦”中秋展演系列活动开幕",
    "link": "https://www.chinanews.com.cn/sh/2026/09-14/10696474.shtml",
@@ -6240,5 +6700,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-14T18:08:34.623Z"
+ "updatedAt": "2026-09-14T22:39:52.777Z"
 }
