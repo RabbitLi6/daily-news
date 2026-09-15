@@ -2092,6 +2092,17 @@
    ]
   },
   {
+   "title": "【地震 M3.0】101 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgpjbv",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T22:51:57.957Z",
+   "summary": "美国地质调查局官方监测：101 km SSW of Nikolski, Alaska发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M4.9】66 km SSW of Patea, New Zealand",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhv",
    "source": "USGS地震台网",
@@ -2217,6 +2228,17 @@
    ]
   },
   {
+   "title": "【地震 M2.9】272 km WSW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgmlbt",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T21:24:13.596Z",
+   "summary": "美国地质调查局官方监测：272 km WSW of Adak, Alaska发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "五角大楼向钨矿开采公司投资4.5亿美元",
    "link": "https://sputniknews.cn/20260915/1073252335.html",
    "source": "卫星社中文",
@@ -2318,6 +2340,17 @@
    ]
   },
   {
+   "title": "【地震 M2.5】162 km SW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgkrhq",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T20:31:30.753Z",
+   "summary": "美国地质调查局官方监测：162 km SW of Adak, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M4.6】26 km SSW of Sipí, Colombia",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thgj",
    "source": "USGS地震台网",
@@ -2358,6 +2391,17 @@
    "regions": [
     "多米尼加",
     "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】264 km WSW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgicjn",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T19:18:18.301Z",
+   "summary": "美国地质调查局官方监测：264 km WSW of Adak, Alaska发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -7610,5 +7654,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-15T09:09:39.882Z"
+ "updatedAt": "2026-09-15T13:39:29.488Z"
 }
