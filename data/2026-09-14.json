@@ -2,6 +2,214 @@
  "date": "2026-09-14",
  "tech": [
   {
+   "title": "Anthropic Claude Opus 5.2 灰度测试曝光：响应更快，告别“偷懒”",
+   "link": "https://www.ithome.com/1/002/365.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:57:02.000Z",
+   "summary": "原标题：《突发！Opus 5.2 深夜上线，RSI 真来了？》 今天清晨，Opus 5.2 悄悄上线了。许多开发者发现，新一代神级模型 Claude Opus 5.2，已经在 Claude Code 中开启灰度测试！ 而且，此前一份内部风险…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 0915：苹果 iOS / iPadOS 27.0 正式版发布；荣耀 Magic9 超能版官宣 11000mAh 电池；一汽成广汽第二大股东；曝追觅 6 至 8 月离职裁员约 1 万人...",
+   "link": "https://www.ithome.com/1/002/364.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:56:49.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 15 日星期二，今天的重要科技资讯有： 1. 苹果 iOS / iPadOS 27.0 正式版发布：性能优化、升级 Siri AI，增强家长管控... 苹果 9 月 15 日向 iPh…",
+   "regions": []
+  },
+  {
+   "title": "CG3M 版微星 Claw 8 EX AI+ 掌机曝光：10 核 Xe3，最高 90 INT8 TOPS",
+   "link": "https://www.ithome.com/1/002/363.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:52:09.000Z",
+   "summary": "IT之家 9 月 15 日消息，科技媒体 videocardz 昨日（9 月 14 日）发布博文，报道称基于美国零售商 CompSource 页面信息，微星（MSI）将为 Claw 8 EX AI+ 新增 CG3M 版本， 采用英特尔锐炫 …",
+   "regions": []
+  },
+  {
+   "title": "苹果就 Epic Games 长期法律纠纷中“藐视法庭裁定”提出上诉，向美国最高法院提交开庭陈述书",
+   "link": "https://www.ithome.com/1/002/362.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:50:12.000Z",
+   "summary": "IT之家 9 月 15 日消息，苹果今日正式向美国最高法院提交开庭陈述书（opening merits brief），就与 Epic Games 长期法律纠纷中的“藐视法庭裁定”提出上诉，要求最高法院推翻此前针对苹果的裁定。 回顾历史，Ep…",
+   "regions": []
+  },
+  {
+   "title": "酷态科 × 鹰角网络 MAF 2026 中秋礼盒亮相：机甲风涂装充电器，附《明日方舟：终末地》主题周边",
+   "link": "https://www.ithome.com/1/002/361.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:48:05.000Z",
+   "summary": "IT之家 9 月 15 日消息，鹰角网络昨日公布了该公司与酷态科联合定制的 MAF 2026 中秋联名礼盒。 礼盒内含定制酷态科 10 号 Mini 氮化镓充电器、编织磁吸数据线 CP、蛋月烧月饼、魔术贴理线带，以及《明日方舟：终末地》主题…",
+   "regions": []
+  },
+  {
+   "title": "消息称特斯拉计划在越南设立子公司，进一步扩大亚洲地区业务布局",
+   "link": "https://www.ithome.com/1/002/360.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:44:12.000Z",
+   "summary": "IT之家 9 月 15 日消息，据路透社报道，特斯拉已经正式提交文件，计划在越南设立当地子公司，名称为“Tesla Motors Vietnam Limited Liability Company”，这意味着该公司正寻求进入越南市场，以进一…",
+   "regions": []
+  },
+  {
+   "title": "曝 Glass Imaging 被 OpenAI 收购：前苹果员工创办，其影像技术已用于荣耀手机",
+   "link": "https://www.ithome.com/1/002/359.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:41:04.000Z",
+   "summary": "IT之家 9 月 15 日消息，华尔街日报昨日（9 月 14 日）发布博文，报道称 OpenAI 公司悄然收购手机影像初创公司 Glass Imaging， 预估这笔交易后该公司估值超过 3 亿美元 （IT之家注：现汇率约合 20.15 亿…",
+   "regions": []
+  },
+  {
+   "title": "丰田美国纯电版汉兰达车型推迟至 2027 年投产，消息称此举导致经销商库存告急",
+   "link": "https://www.ithome.com/1/002/358.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:40:41.000Z",
+   "summary": "IT之家 9 月 15 日消息，据外媒 Automotive News 报道，丰田在美国市场原计划等到现款燃油版汉兰达车型（Highlander）逐步退出市场后，再推出纯电版汉兰达车型（Highlander EV）。不过官方如今决定将纯电版…",
+   "regions": []
+  },
+  {
+   "title": "华为 FreeClip 2S 女团联名款在日本发售：刻印 AKB48 全员亲笔签名，售价 3.3 万日元",
+   "link": "https://www.ithome.com/1/002/357.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:36:22.000Z",
+   "summary": "IT之家 9 月 15 日消息，日本 Ueni Trading 宣布旗下联名品牌 GARRACK 将推出 AKB48 限定版华为 FreeClip 2 S 耳夹式耳机（对应国内 FreeClip2 典藏版），机身刻有 AKB48 全体成员的…",
+   "regions": []
+  },
+  {
+   "title": "V 社推送 SteamOS 3.9.1 预览版更新：修复《极限竞速：地平线 6》启动崩溃问题等",
+   "link": "https://www.ithome.com/1/002/356.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:30:35.000Z",
+   "summary": "IT之家 9 月 15 日消息，V 社今日向 Steam Deck 预览通道推送了 SteamOS 3.9.1 预览版更新，修复了多个系统问题，同时整合了 SteamOS 3.9 版本的多项新功能。 官方提醒，该版本属于早期预览构建，可能存…",
+   "regions": []
+  },
+  {
+   "title": "Mozilla 发布火狐浏览器 Firefox 156 版本：改进 PDF 查看器性能、优化大尺寸 JPEG 图片占用...",
+   "link": "https://www.ithome.com/1/002/355.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:29:28.000Z",
+   "summary": "IT之家 9 月 15 日消息，Mozilla 现已经发布火狐浏览器 Firefox 156 版本，主要改进了 PDF 查看器性能、优化大尺寸 JPEG 图片占用等，IT之家附项目地址（ 点此访问 ）。 Mozilla 表示，Firefox…",
+   "regions": []
+  },
+  {
+   "title": "华硕展示 PA27UCDV 显示器：26.5 英寸 4K 120Hz，峰值亮度 1000 尼特",
+   "link": "https://www.ithome.com/1/002/354.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:26:59.000Z",
+   "summary": "IT之家 9 月 15 日消息，科技媒体 hardwareluxx 昨日（9 月 14 日）发布博文，报道称 9 月 11 日在荷兰阿姆斯特丹举行的 IBC 2026 活动中， 华硕展示了 ProArt Display OLED PA27U…",
+   "regions": []
+  },
+  {
+   "title": "代码显示：苹果 Siri AI 可替换为 Anthropic Claude 或 OpenAI ChatGPT",
+   "link": "https://www.ithome.com/1/002/353.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:21:30.000Z",
+   "summary": "IT之家 9 月 15 日消息，开发者“pdfu”对 iOS 27 和 macOS Golden Gate 进行深入挖掘之后发现，苹果已在其私有框架中将其新版 Siri AI 架构设计为可与第三方 AI 模型深度协作。 相关演示视频显示，A…",
+   "regions": []
+  },
+  {
+   "title": "谷歌开始向所有安卓 17 设备逐步推送防晕动辅助功能，可以减轻晕车不适感",
+   "link": "https://www.ithome.com/1/002/352.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:20:57.000Z",
+   "summary": "IT之家 9 月 15 日消息，据外媒 Android Authority 报道，谷歌正在逐步为所有安卓 17 设备推送晕动辅助（Motion Assist）。该功能可帮助用户乘车使用手机时，减轻晕车带来的不适感。 IT之家获悉，该功能最初…",
+   "regions": []
+  },
+  {
+   "title": "V社透露仍在推进 Steam Deck 2 游戏掌机开发工作，内存涨价未打乱产品正常迭代规划",
+   "link": "https://www.ithome.com/1/002/351.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:17:29.000Z",
+   "summary": "IT之家 9 月 15 日消息，V社员工 Pierre-Loup Griffais 在接受外媒 IGN 采访时，透露 Steam Deck 2 游戏掌机仍在开发中，近期持续发酵的内存涨价潮并未打乱公司的产品规划。 Pierre-Loup G…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iOS 27 RC 新增爱马仕 Hermès MagSafe 钱包专属吸附动画",
+   "link": "https://www.ithome.com/1/002/350.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:15:59.000Z",
+   "summary": "IT之家 9 月 15 日消息，消息源 @itspdfu 于 9 月 13 日在 X 平台发布推文，爆料挖掘 iOS 27 RC 版代码后， 发现系统新增了 Hermès MagSafe 钱包专属的吸附动画，并新增了支持“Find My”功…",
+   "regions": []
+  },
+  {
+   "title": "三星与 Verizon 开展“利用 5G 无线信号实时生成人群密度热力图”真实环境测试，为 6G 技术铺路",
+   "link": "https://www.ithome.com/1/002/349.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:10:33.000Z",
+   "summary": "IT之家 9 月 15 日消息，三星与 Verizon 联合宣布在美国得州一场大型国际足球活动期间完成了一项“利用 5G 无线信号实时生成现场人群密度热力图”的真实环境测试，展示了现有通信网络支持未来 6G 技术的潜力。 据报道，此次测试重…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iOS 27 家庭 AI 功能强制捆绑 2TB 及以上 iCloud+ 套餐：单摄像头月费 9.99 美元、五摄像头 59.99 美元，引 iPhone 用户不满",
+   "link": "https://www.ithome.com/1/002/348.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:06:29.000Z",
+   "summary": "IT之家 9 月 15 日消息，据 MacRumors 今日报道，苹果要求用户至少订阅每月 9.99 美元 （现汇率约合 67.1 元人民币） 的 2TB iCloud+ 套餐，才能将 iOS 27 中“Apple Intelligence…",
+   "regions": []
+  },
+  {
+   "title": "分析师称玩家针对索尼 SIE 停产游戏光盘发起的抵制活动“PlayStation Blackout”收效甚微",
+   "link": "https://www.ithome.com/1/002/347.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:05:33.000Z",
+   "summary": "IT之家 9 月 15 日消息，索尼在 2 个月前宣布将于 2028 年停止生产 PlayStation 实体游戏光盘，并暗示下一代主机将全面转向数字化。对此，部分玩家 发起“PlayStation Blackout”抵制活动 ，希望通过集…",
+   "regions": []
+  },
+  {
+   "title": "谷歌通知 9 月 21 日开放 GoogleBook 预购，融合安卓 / ChromeOS 特性",
+   "link": "https://www.ithome.com/1/002/346.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T23:05:03.000Z",
+   "summary": "IT之家 9 月 15 日消息，科技媒体 videocardz 昨日（9 月 14 日）发布博文，报道称基于其收到的邮件， 谷歌计划美国东部时间 9 月 21 日上午 9 点（北京时间 21 日 21 点）开放 Googlebook 预购。…",
+   "regions": []
+  },
+  {
+   "title": "id Software《毁灭战士：黑暗时代》游戏价格永降，Steam 国区现售 259 元起",
+   "link": "https://www.ithome.com/1/002/345.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:57:58.000Z",
+   "summary": "IT之家 9 月 15 日消息，id Software 旗下《毁灭战士：黑暗时代（DOOM：The Dark Ages）》于 2025 年 5 月 15 日发售，目前官方对这款游戏价格进行调整，IT之家汇总如下： 降价前 降价后 标准版 3…",
+   "regions": []
+  },
+  {
+   "title": "古尔曼盘点苹果 2026~2027 年后续新品：触屏 MacBook Pro 年底登场， iPad mini 首次采用 OLED 屏",
+   "link": "https://www.ithome.com/1/002/344.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:51:47.000Z",
+   "summary": "IT之家 9 月 15 日消息，彭博社记者马克 · 古尔曼今早发布最新报道，梳理了苹果在 iPhone Duo、iPhone 18 Pro 系列等新品发布之后，仍将在 2026 年剩余时间和 2027 年上半年推出的多款新品。 这些产品由新…",
+   "regions": []
+  },
+  {
+   "title": "Epic 喜加一：原价 15 元文字冒险游戏《Vanakan》免费领",
+   "link": "https://www.ithome.com/1/002/343.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:51:42.000Z",
+   "summary": "IT之家 9 月 15 日消息，由独立游戏开发者 Erik Khachatryan 与 Hayk Khachatryan 打造的文字冒险游戏《Vanakan》目前正在 Epic 游戏商店开启限时免费“喜加一”活动，本作在国区定价为 15 元…",
+   "regions": []
+  },
+  {
+   "title": "Steam 喜加一：原价 70 元方块消除对战游戏《Crystal Crisis》免费领",
+   "link": "https://www.ithome.com/1/002/342.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:48:14.000Z",
+   "summary": "IT之家 9 月 15 日消息，由 Nicalis 开发的方块消除益智对战游戏《Crystal Crisis》目前正在 Steam 平台开启限时免费“喜加一”活动，本作在国区定价为 70 元，限免活动截止至 9 月 22 日 14:59，I…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 联合创始人布罗克曼：人类已迈入通用人工智能时代",
+   "link": "https://www.ithome.com/1/002/341.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:45:38.000Z",
+   "summary": "IT之家 9 月 15 日消息，在接受 a16z 采访时，OpenAI 联合创始人格雷格 · 布罗克曼（Greg Brockman）表示， 人类已经迈入通用人工智能时代。 IT之家注：通用人工智能（Artificial General In…",
+   "regions": []
+  },
+  {
+   "title": "育碧宣布游戏《雷曼传奇：重制版》延期至 12 月 3 日推出，游戏已完成开发并进入至“压盘”状态",
+   "link": "https://www.ithome.com/1/002/340.htm",
+   "source": "IT之家",
+   "time": "2026-09-14T22:44:40.000Z",
+   "summary": "IT之家 9 月 15 日消息，育碧宣布《雷曼传奇：重制版》已完成开发，并进入至“压盘”（Gone Gold）状态，不过官方决定本作将推迟发售，从原定的 10 月 1 日延期至 12 月 3 日推出。 值得注意的是，“游戏已压盘但同时宣布延…",
+   "regions": []
+  },
+  {
    "title": "《红霞岛》前创意总监反思项目：服务型游戏并非工作室专长、将从中汲取经验",
    "link": "https://www.ithome.com/1/002/339.htm",
    "source": "IT之家",
@@ -1731,6 +1939,134 @@
   }
  ],
  "world": [
+  {
+   "title": "德媒：德国防长下令强制将军人派往驻立陶宛旅",
+   "link": "https://sputniknews.cn/20260915/1073253599.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T23:53:56.000Z",
+   "summary": "俄罗斯卫星通讯社柏林电 据德国《图片报》报道，德国国防部长皮斯托瑞斯下令强制将军人派往驻扎在立陶宛的德国联邦国防军旅。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "日本政府考虑增加冲绳振兴预算，强化南西诸岛防卫",
+   "link": "https://sputniknews.cn/20260915/1073253484.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T23:52:48.000Z",
+   "summary": "据共同社报道，鉴于在冲绳县知事选举中由自民党、日本维新会等推荐的新人古谢玄太首次当选，日本政府有意支持古谢在选战中提出的经济振兴政策。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "特朗普说伊朗“急着谈判”，伊朗却与阿曼敲定了海峡航线共识！带来这些连锁反应",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696504.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-14T23:52:01.000Z",
+   "summary": "特朗普说伊朗“急着谈判”，伊朗却转头与阿曼敲定了海峡航线共识！油价和无人机都“炸”了 | 国际早察",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "联合国：封锁霍尔木兹海峡将导致全世界粮食减产",
+   "link": "https://sputniknews.cn/20260915/1073253379.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T23:28:05.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月15日电 联合国粮食及农业组织负责与俄罗斯联络处处长奥列格·科比亚科夫在接受卫星通讯社采访时表示，封锁霍尔木兹海峡将导致今年下半年和2027年全球粮食生产和供应减少。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄旅游运营商协会：海南强降雨没有对俄游客休假造成影响",
+   "link": "https://sputniknews.cn/20260915/1073253269.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T23:26:49.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯旅游运营商协会发布消息表示，到目前为止，海南岛强降雨没有对俄罗斯游客的海南休假计划造成影响。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "美媒：美国首次承认已在太空部署“在轨”控制武器",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696496.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-14T23:24:11.000Z",
+   "summary": "中新网9月15日电 据《华盛顿邮报》报道，当地时间14日，美国空军部长特洛伊·迈因克宣布，美国已拥有“在轨”太空控制武器，并将用其来保护美国军队。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "金正恩回电感谢普京：朝鲜始终不变地支持俄罗斯",
+   "link": "https://sputniknews.cn/20260915/1073253160.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T23:22:18.000Z",
+   "summary": "据朝中社报道，朝鲜领导人金正恩9月14日向俄罗斯总统普京致复谢电，重申始终不变地支持俄罗斯。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "日本首相高市早苗将于17日改组内阁",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696492.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-14T23:13:37.000Z",
+   "summary": "中新网9月15日电 据日本时事通信社9月14日报道，日本自民党干事长铃木俊一表示，日本首相高市早苗将于16日进行自民党高层人事调整，并于17日改组内阁。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "特朗普连发多帖为对伊朗政策辩护：称伊朗“迫切”希望达成协议",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696491.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-14T23:01:14.000Z",
+   "summary": "中新网9月15日电 美国总统特朗普当地时间14日在社交媒体发布多条帖文为其对伊朗政策辩护。特朗普称，伊朗“迫切”希望达成协议。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普称人工智能会消灭人类的说法是谎言",
+   "link": "https://sputniknews.cn/20260915/1073253045.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T23:01:03.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿9月15日电 美国总统特朗普表示，人工智能会占领全世界并消灭人类的说法是谎言。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "媒体：北约歼击机在立陶宛空域击落一架无人机",
+   "link": "https://sputniknews.cn/20260915/1073252940.html",
+   "source": "卫星社中文",
+   "time": "2026-09-14T22:54:13.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月15日电 据路透社援引立陶宛国家危机管理中心消息报道，北约歼击机在立陶宛空域击落一架无人机。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】66 km SSW of Patea, New Zealand",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhv",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T22:44:46.947Z",
+   "summary": "美国地质调查局官方监测：66 km SSW of Patea, New Zealand发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "新西兰",
+    "亚太"
+   ]
+  },
   {
    "title": "特朗普承诺迫使其他国家补偿美国在霍尔木兹海峡的安全开支",
    "link": "https://sputniknews.cn/20260915/1073252840.html",
@@ -3647,6 +3983,25 @@
  ],
  "tw": [
   {
+   "title": "特朗普说伊朗“急着谈判”，伊朗却与阿曼敲定了海峡航线共识！带来这些连锁反应",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696504.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-14T23:52:01.000Z",
+   "summary": "特朗普说伊朗“急着谈判”，伊朗却转头与阿曼敲定了海峡航线共识！油价和无人机都“炸”了 | 国际早察",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "香港推出“敞篷巴士赏月路线”迎中秋",
+   "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-15/1204282.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-14T23:35:01.000Z",
+   "summary": "",
+   "regions": []
+  },
+  {
    "title": "数据显示霍尔木兹海峡单日通行量降至个位数",
    "link": "https://www.chinanews.com.cn/gj/2026/09-14/10696482.shtml",
    "source": "中新网滚动",
@@ -3802,6 +4157,48 @@
   }
  ],
  "cn": [
+  {
+   "title": "背调频频亮起“黄灯” 维权记录为何成了入职“拦路虎”",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696505.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-14T23:56:21.000Z",
+   "summary": "刘旦不知道自己这次能不能过。",
+   "regions": []
+  },
+  {
+   "title": "“一人剧组”：年轻人用AI实现影视梦",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696502.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-14T23:37:50.000Z",
+   "summary": "“给了年轻人一个机会”，这是“一人剧组”里年轻人的体会。AI重塑了短剧生产全流程，“一人剧组”会长期和工业化剧组共生发展，成为长期稳定存在、极具活力的新型创作组织形态。",
+   "regions": []
+  },
+  {
+   "title": "社交、游戏、娱乐全都塞进手表 护娃“神器”缘何变成坑娃工具",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696497.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-14T23:27:10.000Z",
+   "summary": "【观察】",
+   "regions": []
+  },
+  {
+   "title": "设计师Daniel IJ Uys与Claudine Uys携品牌时装亮相SS2027北京时装周",
+   "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-15/1204279.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-14T23:23:01.000Z",
+   "summary": "",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "别让职场学历歧视消解奋斗价值",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696493.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-14T23:19:55.000Z",
+   "summary": "“我感觉这些年的努力，好像一下子全白费了。”不久前，小缪耳边反复回响着HR的那句话：“你第一学历是专科，无法继续推进入职流程。”此时，他已经通过了这家头部互联网大厂的五轮线上面试，却止步于入职前的资料审核环节。(见9月13日《济南日报》)",
+   "regions": []
+  },
   {
    "title": "暴食后催吐就能不长胖？危害远超想象！",
    "link": "https://www.chinanews.com.cn/jk/2026/09-15/10696488.shtml",
@@ -5664,6 +6061,14 @@
  ],
  "econ": [
   {
+   "title": "站在“十字路口”的摩天大楼何以“向上”生长",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696503.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-14T23:40:36.000Z",
+   "summary": "当“摊大饼”的增量时代落幕，以场景重构空间、以运营激活价值、以生态定义竞争力的场景城市，正成为城市高质量发展的核心命题与未来方向。当已有的楼宇长出产业、留住“大脑”、接住人，那些向上的力量将在钢筋水泥之间重新生长。",
+   "regions": []
+  },
+  {
    "title": "青蓝接力话传承 杭州临平举办新生代企业家培育主题活动",
    "link": "https://www.chinanews.com.cn/txy/2026/09-14/10696471.shtml",
    "source": "中新网滚动",
@@ -6700,5 +7105,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-14T22:39:52.777Z"
+ "updatedAt": "2026-09-15T00:10:34.081Z"
 }
