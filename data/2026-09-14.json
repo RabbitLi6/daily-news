@@ -2048,6 +2048,17 @@
    ]
   },
   {
+   "title": "【地震 M4.4】244 km SSW of Pelabuhanratu, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thi2",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T23:09:49.516Z",
+   "summary": "美国地质调查局官方监测：244 km SSW of Pelabuhanratu, Indonesia发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
    "title": "特朗普连发多帖为对伊朗政策辩护：称伊朗“迫切”希望达成协议",
    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696491.shtml",
    "source": "中新网国际",
@@ -2496,6 +2507,17 @@
    "time": "2026-09-14T16:06:58.000Z",
    "summary": "美国空军部长特洛伊·迈因克声称，美国拥有足够数量的轨道武器，可保护其部队免受对手攻击。",
    "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】286 km WSW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgbttj",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T16:04:28.422Z",
+   "summary": "美国地质调查局官方监测：286 km WSW of Adak, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
     "美洲"
    ]
   },
@@ -3140,6 +3162,17 @@
    "regions": [
     "俄乌",
     "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.3】116 km SE of Akutan, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sfqoyk",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T10:29:07.037Z",
+   "summary": "美国地质调查局官方监测：116 km SE of Akutan, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -7577,5 +7610,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-15T05:07:37.459Z"
+ "updatedAt": "2026-09-15T09:09:39.882Z"
 }
