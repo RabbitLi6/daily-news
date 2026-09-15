@@ -2103,6 +2103,17 @@
    ]
   },
   {
+   "title": "【地震 M2.7】111 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thkm",
+   "source": "USGS地震台网",
+   "time": "2026-09-14T22:51:55.363Z",
+   "summary": "美国地质调查局官方监测：111 km SSW of Nikolski, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M4.9】66 km SSW of Patea, New Zealand",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhv",
    "source": "USGS地震台网",
@@ -7672,5 +7683,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-15T18:08:24.130Z"
+ "updatedAt": "2026-09-15T22:37:09.265Z"
 }
