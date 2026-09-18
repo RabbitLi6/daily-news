@@ -2,6 +2,54 @@
  "date": "2026-09-18",
  "tech": [
   {
+   "title": "消息称特斯拉针对 Optimus 机器人业务启动量产审厂，多家供应链企业回应",
+   "link": "https://www.ithome.com/1/004/343.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T15:28:54.000Z",
+   "summary": "IT之家 9 月 18 日消息，日前，21 世纪经济报道援引产业链人士消息称，特斯拉相关团队已于 9 月 16 日落地宁波，并于 17 日开启新一轮针对旗下机器人业务的量产审厂。据称此轮审厂将 实质导向机器人 Optimus 的量产 ，已向…",
+   "regions": []
+  },
+  {
+   "title": "又跳票了：马斯克 SpaceX 星舰计划最早 9 月 28 日第 14 次试飞",
+   "link": "https://www.ithome.com/1/004/342.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T15:13:04.000Z",
+   "summary": "IT之家 9 月 18 日消息，北京时间今天（18 日）凌晨，SpaceX 通过 X 平台发帖宣布：“目前计划 最早于 9 月 28 日 （周一）执行星舰第 14 次飞行任务，具体时间尚待监管部门批准。” 就在 16 日，SpaceX 宣布…",
+   "regions": []
+  },
+  {
+   "title": "极狐阿尔法 T7 公布安心交付承诺：延期按天补偿现金，上限 3000 元",
+   "link": "https://www.ithome.com/1/004/340.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T15:09:55.000Z",
+   "summary": "IT之家 9 月 18 日消息，极狐汽车今日公布阿尔法 T7 安心交付承诺，如出现不能及时交付的情况，将进行延期交付补偿。 适用对象 ：2026 年 10 月 31 日 (含) 前下定并锁单的用户。 补偿标准 ：自锁单之日起至车辆到店之日止…",
+   "regions": []
+  },
+  {
+   "title": "2026 巴黎车展最大展台：Stellantis 将展出标致、雪铁龙、零跑各品牌 60 余款车型",
+   "link": "https://www.ithome.com/1/004/339.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T14:51:18.000Z",
+   "summary": "IT之家 9 月 18 日消息，2026 巴黎车展将于 10 月 12 日至 18 日期间举行。Stellantis 集团 17 日宣布，将在本届车展展出 来自 8 个品牌的 9 款概念车及 60 余款车型 ，集团展台面积超过 5000 平…",
+   "regions": []
+  },
+  {
+   "title": "消息称 vivo 新开 7 英寸大屏 + 万级大电池方案，预计为中端线新机",
+   "link": "https://www.ithome.com/1/004/338.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T14:32:00.000Z",
+   "summary": "IT之家 9 月 18 日消息，博主 @数码闲聊站 昨晚爆料，vivo 最近也开了一块 7 英寸大屏 + 万级大电池方案，不过规格看起来是给中端线，旗舰线再等等。 IT之家注意到，该博主曾在今年 6 月爆料有 3 家主流品牌的迭代线新机会上…",
+   "regions": []
+  },
+  {
+   "title": "长安汽车首席专家谭欢：未来要用机器人造车、卖车，让机器人上车、造机器人",
+   "link": "https://www.ithome.com/1/004/337.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T14:28:19.000Z",
+   "summary": "IT之家 9 月 18 日消息，在今天（18 日）的第 22 届中国汽车产业发展（泰达）国际论坛“新赛道生态专场：具身智能新赛道”活动中，长安汽车首席专家、长安天枢智能机器人公司总经理谭欢在演讲中指出，AI 正推动以物理具身智能为核心的基础…",
+   "regions": []
+  },
+  {
    "title": "QQ 音乐官宣适配苹果 iPhone Duo 折叠屏手机",
    "link": "https://www.ithome.com/1/004/335.htm",
    "source": "IT之家",
@@ -1532,6 +1580,306 @@
  ],
  "world": [
   {
+   "title": "【地震 M3.0】4 km WSW of Guánica, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532618",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T19:28:33.210Z",
+   "summary": "美国地质调查局官方监测：4 km WSW of Guánica, Puerto Rico发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】4 km WSW of Fuig, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532603",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T19:24:48.010Z",
+   "summary": "美国地质调查局官方监测：4 km WSW of Fuig, Puerto Rico发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "乌克兰宣布一项旨在扩大招募外国雇佣兵加入乌军的计划",
+   "link": "https://sputniknews.cn/20260919/1073312622.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T18:55:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月18日电 乌克兰总理科列茨基宣布了一项扩大招募雇佣兵加入乌军的计划，并将在国民警卫队框架下设立一个针对外国人的招募中心。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】25 km ENE of Yacolt, Washington",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714105301",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T18:33:46.080Z",
+   "summary": "美国地质调查局官方监测：25 km ENE of Yacolt, Washington发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "诺贝尔奖奖金提高至120万美元",
+   "link": "https://sputniknews.cn/20260919/1073312518.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T18:25:59.000Z",
+   "summary": "诺贝尔基金会宣布，诺贝尔奖奖金金额提高至120万美元。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】4 km WSW of Guánica, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532538",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T18:23:30.020Z",
+   "summary": "美国地质调查局官方监测：4 km WSW of Guánica, Puerto Rico发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "媒体：巴基斯坦恐袭事件死亡人数超过20人另有80多人受伤",
+   "link": "https://sputniknews.cn/20260919/1073312415.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T17:51:20.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月18日电 卫星通讯社莫斯科9月18日电 《黎明报》援引警方官员和医务人员消息报道，巴基斯坦恐袭事件死亡人数超过20人，80多人受伤。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】226 km SSW of Pelabuhanratu, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tidr",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T17:42:37.504Z",
+   "summary": "美国地质调查局官方监测：226 km SSW of Pelabuhanratu, Indonesia发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "扎哈罗娃：基辅政权“废掉”选举，因为它已彻底声名扫地",
+   "link": "https://sputniknews.cn/20260919/1073312311.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T17:41:45.000Z",
+   "summary": "俄罗斯外交部发言人玛丽娅·扎哈罗娃称，基辅政权“废掉”了选举，是因为它已经彻底丧失威信。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】37 km WSW of Aleneva, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snoksy",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T17:21:24.776Z",
+   "summary": "美国地质调查局官方监测：37 km WSW of Aleneva, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】5 km WSW of Fuig, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261002",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T17:20:42.440Z",
+   "summary": "美国地质调查局官方监测：5 km WSW of Fuig, Puerto Rico发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】7 km ESE of Waikoloa, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid8",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T17:04:59.669Z",
+   "summary": "美国地质调查局官方监测：7 km ESE of Waikoloa, Hawaii发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】10 km S of Waimea, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039542",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T17:03:28.910Z",
+   "summary": "美国地质调查局官方监测：10 km S of Waimea, Hawaii发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】6 km WSW of Guánica, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532403",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T16:57:53.350Z",
+   "summary": "美国地质调查局官方监测：6 km WSW of Guánica, Puerto Rico发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】4 km WSW of Fuig, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532383",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T16:57:05.620Z",
+   "summary": "美国地质调查局官方监测：4 km WSW of Fuig, Puerto Rico发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】48 km WSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026snnoxq",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T16:56:17.314Z",
+   "summary": "美国地质调查局官方监测：48 km WSW of Nikolski, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "媒体：五角大楼希望将攻击型无人机从非洲调往拉丁美洲地区",
+   "link": "https://sputniknews.cn/20260919/1073312156.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T16:55:35.000Z",
+   "summary": "据CNN援引知情人士的话报道，鉴于在拉丁美洲开展打击毒品走私行动，美军计划将部署在非洲的MQ-9\"死神\"侦察攻击型无人机调拨给负责南美洲的司令部。",
+   "regions": [
+    "美洲",
+    "非洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】28 km NE of Villa Presidente Frei, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid4",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T16:52:07.958Z",
+   "summary": "美国地质调查局官方监测：28 km NE of Villa Presidente Frei, Chile发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄外交部：由于东京反俄立场俄日关系恶化",
+   "link": "https://sputniknews.cn/20260919/1073312026.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T16:37:48.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月18日电 俄罗斯外交部发布消息称，由于日本政府实行短视的反俄政策，俄日关系已显著恶化。",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】13 km ESE of Pāhala, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039527",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T16:20:28.140Z",
+   "summary": "美国地质调查局官方监测：13 km ESE of Pāhala, Hawaii发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "安理会完成联合国秘书长遴选第三轮意向性投票",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699318.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-18T16:15:11.000Z",
+   "summary": "当地时间9月18日，安理会当月轮值主席、法国常驻联合国代表杰罗姆·博纳丰宣布，安理会当日已就下一任秘书长遴选完成第三轮意向性投票。意向性投票结果不对外公布，将通过候选人推举国通知各候选人。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "国际原子能机构称俄罗斯一核电站冷却塔被无人机击中",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699317.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-18T16:11:01.000Z",
+   "summary": "国际原子能机构18日表示，已获悉俄罗斯库尔斯克核电站一个反应堆机组的冷却塔于17日被无人机击中。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "英媒：俄总统特别代表与德国选择党领导层将举行会晤，讨论恢复对德天然气供应",
+   "link": "https://sputniknews.cn/20260918/1073311707.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T15:20:00.000Z",
+   "summary": "据路透社援引消息人士的话报道，俄罗斯总统负责对外投资和经济合作事务特别代表基里尔·德米特里耶夫与德国选择党（AfD）联合主席蒂诺·克鲁帕拉和爱丽丝·魏德尔拟于2027年举行会晤，届时将讨论恢复俄罗斯对德国的天然气供应。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "普京：俄罗斯武器堪称世界上最可靠、最高效的武器之一",
+   "link": "https://sputniknews.cn/20260918/1073311808.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T15:15:43.000Z",
+   "summary": "俄罗斯总统弗拉基米尔·普京日前向俄罗斯国防工业员工颁发了国家奖章，赞扬他们为提升国家军事能力所做出的卓越贡献，并重点强调了自俄乌冲突爆发以来俄罗斯武器生产所取得的增长。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "泰国：武装分子袭击军车致2死16伤",
+   "link": "https://sputniknews.cn/20260918/1073311578.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T14:52:16.000Z",
+   "summary": "据泰国公共电视台（Thai PBS）周五报道，在泰国南部的那拉提瓦府（Narathiwat province）发生分离主义武装分子袭击军车事件，造成2人死亡、16人受伤。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】189 km SSW of Pelabuhanratu, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib8",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T14:36:17.895Z",
+   "summary": "美国地质调查局官方监测：189 km SSW of Pelabuhanratu, Indonesia发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "专家：日本与韩国的军工实力已超过任何欧洲国家",
+   "link": "https://sputniknews.cn/20260918/1073311443.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T14:33:49.000Z",
+   "summary": "俄罗斯卫星通讯社北京9月18日电 俄罗斯国家研究型大学高等经济学院欧洲与国际综合研究中心主任瓦西里·卡申向卫星通讯社表示，日本与韩国的军工实力已经超过任何一个欧洲国家。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛",
+    "欧洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "泽连斯基前新闻秘书：泽连斯基在俄军接近基辅时陷入惊慌并要求炸毁地铁",
+   "link": "https://sputniknews.cn/20260918/1073311324.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T14:20:12.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月18日电 泽连斯基前新闻秘书尤利娅·门德尔表示，2022年2月和3月，俄军接近乌克兰首都基辅时，泽连斯基陷入惊慌，要求炸毁基辅的桥梁和地铁。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
    "title": "中国驻法兰克福总领馆2026年国庆招待会暨《千里潇湘》民乐音乐会举行",
    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10699298.shtml",
    "source": "中新网国际",
@@ -1575,6 +1923,28 @@
    ]
   },
   {
+   "title": "【地震 M2.5】3 km WSW of Guánica, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532288",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T14:13:34.200Z",
+   "summary": "美国地质调查局官方监测：3 km WSW of Guánica, Puerto Rico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】3 km SW of Guánica, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532283",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T14:08:21.470Z",
+   "summary": "美国地质调查局官方监测：3 km SW of Guánica, Puerto Rico发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
    "title": "外媒点赞中国制造业高质量发展",
    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10699299.shtml",
    "source": "中新网国际",
@@ -1591,6 +1961,17 @@
    "regions": [
     "中东",
     "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】104 km NNW of Sola, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib5",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T13:57:56.067Z",
+   "summary": "美国地质调查局官方监测：104 km NNW of Sola, Vanuatu发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
    ]
   },
   {
@@ -1615,6 +1996,28 @@
    ]
   },
   {
+   "title": "【地震 M2.9】4 km SW of Guánica, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiav",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T13:35:27.900Z",
+   "summary": "美国地质调查局官方监测：4 km SW of Guánica, Puerto Rico发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】3 km W of Fuig, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532193",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T13:22:55.470Z",
+   "summary": "美国地质调查局官方监测：3 km W of Fuig, Puerto Rico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
    "title": "【地震 M4.8】5 km SW of Guánica, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261000",
    "source": "USGS地震台网",
@@ -1633,6 +2036,17 @@
    "summary": "韩国总统李在明坦言，由于3500亿美元对美投资谈判进程中的重重困难，他夜不能寐。",
    "regions": [
     "朝鲜半岛",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】125 km SSW of La Esperanza (El Zapotal), Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiaq",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T13:12:49.370Z",
+   "summary": "美国地质调查局官方监测：125 km SSW of La Esperanza (El Zapotal), Mexico发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
     "美洲"
    ]
   },
@@ -1775,6 +2189,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "【专题报道】让使用清洁能源与土地修复同行",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142720",
+   "source": "联合国新闻",
+   "time": "2026-09-18T12:00:00.000Z",
+   "summary": "应对气候变化所需的基础设施，如果不仅能够提供清洁能源，还能帮助修复其所占用的土地，这岂不是两全其美？这是否可以成为能源转型的新路径？",
+   "regions": []
   },
   {
    "title": "普京以在线方式参加俄国家杜马选举投票",
@@ -2005,6 +2427,17 @@
     "俄乌",
     "欧洲",
     "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.6】112 km SE of Atka, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smympm",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T09:23:44.994Z",
+   "summary": "美国地质调查局官方监测：112 km SE of Atka, Alaska发生 3.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -2380,6 +2813,17 @@
    "regions": [
     "中东",
     "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M3.8】169 km WSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026smrdve",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T05:43:46.639Z",
+   "summary": "美国地质调查局官方监测：169 km WSW of Nikolski, Alaska发生 3.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -3008,6 +3452,56 @@
   }
  ],
  "cn": [
+  {
+   "title": "九沟八梁远去，八瓣莲花盛开：甘肃武都藏乡儿女的下山之路",
+   "link": "https://www.chinanews.com.cn/txy/2026/09-18/10699308.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-18T14:47:49.000Z",
+   "summary": "中新网兰州9月18日电 (高文)九月的甘肃陇南，秋雨初歇。武都区坪垭藏族乡的安置区如同一朵八瓣莲花铺展在白龙江畔。2016年，甘肃省“十三五”时期整乡易地扶贫搬迁项目在此启动，2018年10月，1236户5731名藏乡儿女从海拔1100米至…",
+   "regions": [
+    "兰州",
+    "陇南"
+   ]
+  },
+  {
+   "title": "艺人陈建州突发心梗住院，自曝每天只睡三四个小时！医生提醒",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699315.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-18T14:45:25.000Z",
+   "summary": "原标题：从鬼门关捡回一命！艺人陈建州突发心梗住院，自曝每天只睡三四个小时，医生提醒：身体的累，真的不能硬扛",
+   "regions": []
+  },
+  {
+   "title": "东帝汶咖啡首秀东博会",
+   "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699306.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-18T14:29:10.000Z",
+   "summary": "中新社南宁9月18日电 (韦佳秀)第23届中国—东盟博览会(东博会)上，东帝汶首次以东盟正式成员国、共同主办方身份亮相。在东帝汶展区，该国参展商带来咖啡豆、檀木等特色产品，吸引大批观众驻足品尝、购买。",
+   "regions": [
+    "亚太",
+    "南宁"
+   ]
+  },
+  {
+   "title": "中国今年前8月新设外企超4.2万家",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-18/10699302.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-18T14:25:24.000Z",
+   "summary": "中新社北京9月18日电 (记者 尹倩芸)中国商务部18日公布的数据显示，今年1至8月，全国新设立外商投资企业42582家，同比增长0.3%；实际使用外资金额4799.5亿元(人民币，下同)，同比下降5.3%。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "津门赛场聚同心 传统体育展新姿——写在天津市第十届少数民族传统体育运动会开幕之际",
+   "link": "https://www.chinanews.com.cn/txy/2026/09-18/10699263.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-18T14:19:40.000Z",
+   "summary": "中新网天津9月18日电 (记者 孙玲玲)九月的津城，运河波光潋滟。天津市西青区各大场馆内外，横幅高悬、彩旗招展，工作人员正紧张有序地进行最后调试。",
+   "regions": [
+    "天津"
+   ]
+  },
   {
    "title": "普通高中校长年会举行 校长共话AI时代高中教育发展前景",
    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699277.shtml",
@@ -4553,6 +5047,68 @@
  ],
  "econ": [
   {
+   "title": "第23届东博会合作项目集中签约",
+   "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699316.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-18T15:52:31.000Z",
+   "summary": "中新社南宁9月18日电 (林浩 陈冠言)第23届中国—东盟博览会签约活动18日在广西南宁举办，共促成平陆运河经济带上8市达成签约项目41个，促成国际合作项目19个，覆盖7个东盟国家，并落地多个面向东盟的智能智造与数字场景项目。",
+   "regions": [
+    "亚太",
+    "南宁",
+    "广西"
+   ]
+  },
+  {
+   "title": "非公力量“闯关东” 在黑土地“种”下新机遇",
+   "link": "https://www.chinanews.com.cn/txy/2026/09-18/10699310.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-18T14:49:27.000Z",
+   "summary": "鱼子酱与糯玉米的香气交织，红肠、大米等特色产品琳琅满目……哈尔滨国际会展中心华旗礼堂外，民建会员企业推介展台前人头攒动。穿梭其间的，不仅有深耕本土的实干家，更有来自全国各地的专精特新企业掌门人与投资代表。",
+   "regions": [
+    "哈尔滨"
+   ]
+  },
+  {
+   "title": "第23届东博会合作项目集中签约 首次搭建机制性供需对接平台",
+   "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699303.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-18T14:25:54.000Z",
+   "summary": "中新网南宁9月18日电(林浩 陈冠言)9月18日，第23届中国—东盟博览会签约活动在南宁举办，共促成平陆运河经济带上的8市达成签约项目41个。活动还促成国际合作项目19个，覆盖7个东盟国家，并落地多个面向东盟的智能智造与数字场景项目。",
+   "regions": [
+    "亚太",
+    "南宁"
+   ]
+  },
+  {
+   "title": "证监会拟对17起案件线索的“吹哨人”给予奖励",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699305.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-18T14:25:32.000Z",
+   "summary": "中新网北京9月18日电 (记者 陈康亮)据中国证监会18日消息，近日，证监会拟根据证券法等相关法律法规，对提供以下案件线索的“吹哨人”依法给予奖励：",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "中国今年前8月新设外企超4.2万家",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-18/10699302.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-18T14:25:24.000Z",
+   "summary": "中新社北京9月18日电 (记者 尹倩芸)中国商务部18日公布的数据显示，今年1至8月，全国新设立外商投资企业42582家，同比增长0.3%；实际使用外资金额4799.5亿元(人民币，下同)，同比下降5.3%。",
+   "regions": []
+  },
+  {
+   "title": "在滇台企代表走进国企交流 互学互鉴共寻合作新空间",
+   "link": "https://www.chinanews.com.cn/txy/2026/09-18/10699267.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-18T14:19:22.000Z",
+   "summary": "中新网昆明9月18日电 (罗婕)17日至18日，“服务云台·携手共进”——台企职工进国企交流活动在云南昆明举行，30余名在滇台企员工代表走进本地标杆国企，近距离观摩企业生产一线，学习先进发展经验，深入挖掘云台两地产业互补优势与合作新空间。",
+   "regions": [
+    "昆明",
+    "云南"
+   ]
+  },
+  {
    "title": "“数字化绿色化协同转型与高质量发展”欧亚青年学者研修班开班",
    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699278.shtml",
    "source": "中新网社会",
@@ -5473,5 +6029,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-18T14:19:48.408Z"
+ "updatedAt": "2026-09-18T20:18:13.314Z"
 }
