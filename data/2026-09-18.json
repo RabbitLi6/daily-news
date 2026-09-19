@@ -330,6 +330,14 @@
    "regions": []
   },
   {
+   "title": "别再让 Agent 裸连数据库了：如何用 MCP + 语义网关解决 NL2SQL 幻觉与权限失控",
+   "link": "https://www.oschina.net/news/502591",
+   "source": "开源中国",
+   "time": "2026-09-18T12:54:57.000Z",
+   "summary": "在 2026 年，给 AI Agent（Cursor、Claude Desktop、Dify、Coze 等）外挂一个数据库连接，已经成为很多开发者的标配操作。从简单的官方 SQLite/MySQL MCP 到各种通用客户端扩展，让大模型“直…",
+   "regions": []
+  },
+  {
    "title": "广汽集团 A 股继续停牌：与一汽股份交易正处于筹划阶段，尚未签署正式的交易协议",
    "link": "https://www.ithome.com/1/004/321.htm",
    "source": "IT之家",
@@ -7221,5 +7229,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-19T05:26:20.807Z"
+ "updatedAt": "2026-09-19T09:40:07.250Z"
 }
