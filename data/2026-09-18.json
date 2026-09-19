@@ -2,6 +2,182 @@
  "date": "2026-09-18",
  "tech": [
   {
+   "title": "三星 Galaxy Tab S12 Plus / Ultra 平板电脑规格曝光：搭天玑 9500 处理器、10 月 7 日发布",
+   "link": "https://www.ithome.com/1/004/366.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:59:23.000Z",
+   "summary": "IT之家 9 月 19 日消息，外媒 WinFuture 现已曝光了三星 Galaxy Tab S12 Plus 和 Galaxy Tab S12 Ultra 两款平板电脑完整规格信息，两款平板均搭载联发科天玑 9500 处理器、提供 IP…",
+   "regions": []
+  },
+  {
+   "title": "Steam 国区 77 元起，复古横版动作游戏《行尸走肉：生存街区》发售",
+   "link": "https://www.ithome.com/1/004/365.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:52:04.000Z",
+   "summary": "IT之家 9 月 19 日消息，开发商 Odaclick Game Studio 宣布旗下复古横版动作游戏《The Walking Dead: Streets of Survival（暂译为“行尸走肉：生存街区”）》正式发售，本作共包含 1…",
+   "regions": []
+  },
+  {
+   "title": "AMD 霄龙 Venice 官方跑分首发出炉：256 核 EPYC 9996 性能达竞品 2 倍以上，代际提升 78%",
+   "link": "https://www.ithome.com/1/004/364.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:50:23.000Z",
+   "summary": "IT之家 9 月 19 日消息，当地时间周五，AMD 官方公布了下一代 EPYC“Venice”服务器处理器的大量细节，并将其与英伟达 Vera 系列处理器进行了对比。 AMD 表示，当下数据中心性能不再仅仅取决于 CPU 速度来定义。AM…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 0919：12306 客服回应国庆高铁票涨价；水滴筹服务费上涨至 8% 引争议；智谱就 Zcode 偷传代码事件致歉；华为 Peerium 突破冯诺依曼单机架构...",
+   "link": "https://www.ithome.com/1/004/363.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:47:38.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 19 日星期六，今天的重要科技资讯有： 1. 12306 客服回应国庆高铁票涨价：日常票价有折扣，节假日有浮动是正常的 9 月 25 日，从重庆北到南京南的 D988 次列车票价是 4…",
+   "regions": []
+  },
+  {
+   "title": "找 Hello、拍 Hello：苹果全球 Apple Store 藏彩蛋，让顾客体验 iPhone 18 Pro 光学变焦",
+   "link": "https://www.ithome.com/1/004/362.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:46:15.000Z",
+   "summary": "IT之家 9 月 19 日消息，科技媒体 MacRumors 昨日（9 月 18 日）发布博文，报道称在 iPhone 18 Pro、iPhone 18 Pro Max 开售之际， 苹果公司在全球 Apple Store 零售店布置“Hel…",
+   "regions": []
+  },
+  {
+   "title": "R 星详解《GTA 6》实时动画重定向系统：可根据 NPC 身材动态调整，使游戏角色动作更加自然",
+   "link": "https://www.ithome.com/1/004/361.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:43:23.000Z",
+   "summary": "IT之家 9 月 19 日消息，Rockstar 工作室联合负责人 Rob Nelson 在接受 IGN 采访时表示，《GTA 6》将进一步提升 NPC 的多样性，游戏中的 NPC 不仅数量更多、分布更加密集，身高和体型也会呈现更明显的差异…",
+   "regions": []
+  },
+  {
+   "title": "三星海外机型将于 9 月 30 日起取消微软 OneDrive 集成，改用谷歌 Google Photos 同步",
+   "link": "https://www.ithome.com/1/004/360.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:31:43.000Z",
+   "summary": "IT之家 9 月 19 日消息，据博主 @i冰宇宙 透露，由于三星与微软 OneDrive 合作到期，三星海外机型照片应用（Gallery）将于 9 月 30 日取消集成 OneDrive 原生相册，谷歌正在开发基于 Google Phot…",
+   "regions": []
+  },
+  {
+   "title": "苹果 Apple Watch 睡眠呼吸暂停提示软件获国家药监局批准",
+   "link": "https://www.ithome.com/1/004/359.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:29:21.000Z",
+   "summary": "IT之家 9 月 19 日消息，根据国家药品监督管理局 9 月 4 日公示信息， 苹果公司的“睡眠呼吸暂停迹象提示”应用获得批准。 根据苹果官方介绍，该应用可以在用户睡眠期间监测呼吸紊乱， 并会在监测到持续性中度到重度睡眠呼吸暂停迹象时通知…",
+   "regions": []
+  },
+  {
+   "title": "WordPress 发布 7.1.1 版本更新：修复 Click2Shell 严重远程代码执行漏洞",
+   "link": "https://www.ithome.com/1/004/358.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:21:35.000Z",
+   "summary": "IT之家 9 月 19 日消息，WordPress 开发团队于 9 月 17 日发布 7.1.1 更新，其中包括 17 项核心修复、19 项区块编辑器修复以及 12 项安全修复，官方重点修复了一项名为“Click2Shell”的严重远程代码…",
+   "regions": []
+  },
+  {
+   "title": "华硕旗下首款 Googlebook 笔记本外观曝光：A 面具有彩虹灯效灯带、键盘提供 Google 按键",
+   "link": "https://www.ithome.com/1/004/357.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:13:47.000Z",
+   "summary": "IT之家 9 月 19 日消息，华硕旗下首款 Googlebook 笔记本预计将于 9 月 21 日开启预订。在正式发布前，外媒 TheMacObserver 曝光了该机多张外观图片，完整展示了产品外观和内部结构。 参考相应图片，可以看出该…",
+   "regions": []
+  },
+  {
+   "title": "微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”",
+   "link": "https://www.ithome.com/1/004/356.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:13:06.000Z",
+   "summary": "IT之家 9 月 19 日消息，科技媒体 Tom's Hardware 昨日（9 月 18 日）发布博文，报道称在起诉 OpenAI 和微软的版权纠纷案中，原告《纽约时报》已申请简易判决， 并提交新的法律摘要，进一步披露两家公司（微软和 O…",
+   "regions": []
+  },
+  {
+   "title": "谷歌首次公开 Gemini 越狱事件：在测试中自主入侵三家真实公司且自行终止，已通知涉事企业",
+   "link": "https://www.ithome.com/1/004/355.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:11:25.000Z",
+   "summary": "IT之家 9 月 19 日消息，据《华尔街日报》今日报道，谷歌确认其 Gemini 模型在今年 5 月的一次安全测试中曾自主入侵过外部真实企业，系 Gemini 首次已知的 AI 越狱事件。 谷歌表示，该事件发生在测试公司 Irregula…",
+   "regions": []
+  },
+  {
+   "title": "数毛社公布《控制：共振》PS5/Pro 版性能测试结果：Northlight 引擎面对开放世界环境存在一定性能问题",
+   "link": "https://www.ithome.com/1/004/354.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T23:05:04.000Z",
+   "summary": "IT之家 9 月 19 日消息，Digital Foundry（数毛社）现已公布《控制：共振（Control Resonant）》PS5 版游戏性能测试结果，认为 Remedy 自研的 Northlight 引擎在开放世界场景下仍存在一定压…",
+   "regions": []
+  },
+  {
+   "title": "全球唯一例外：美版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器",
+   "link": "https://www.ithome.com/1/004/353.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T22:55:15.000Z",
+   "summary": "IT之家 9 月 19 日消息，根据市场调查机构 TechInsights 公布的最新拆解报告，美国版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器， 成为 iPhone 18 产品线中唯一采用该方案的机型。 该…",
+   "regions": []
+  },
+  {
+   "title": "Take-Two 因《NBA 2K》系列游戏遭诉讼，法庭证词暗示公司并未计划开发跨代作品虚拟货币转移功能",
+   "link": "https://www.ithome.com/1/004/352.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T22:49:38.000Z",
+   "summary": "IT之家 9 月 19 日消息，据外媒 Insider-Gaming 报道，一位未成年人“JA”及其母亲于 2023 年向 Take-Two 发起诉讼，主要涉及“未成年人游玩游戏及参与游戏内 VC（虚拟货币）交易是否应当承担相关责任”。 目…",
+   "regions": []
+  },
+  {
+   "title": "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md",
+   "link": "https://www.ithome.com/1/004/351.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T22:45:05.000Z",
+   "summary": "IT之家 9 月 19 日消息，Anthropic 公司 Claude Code 团队工程师萨里克 · 希希帕尔（Thariq Shihipar，网名 @trq212）在 X 平台发布推文， 宣布在今天（9 月 19 日）发布的 2.1.2…",
+   "regions": []
+  },
+  {
+   "title": "中老跨境数字支付互联互通正式启动，数字人民币可在老挝扫码支付",
+   "link": "https://www.ithome.com/1/004/350.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T22:42:53.000Z",
+   "summary": "IT之家 9 月 19 日消息，2026 年 9 月 18 日，中国人民银行与老挝人民民主共和国银行在广西南宁联合举办中老跨境数字支付互联互通启动会。 中国人民银行副行长陆磊、老挝人民民主共和国银行副行长苏里萨克 · 萨姆努翁出席并致辞。中…",
+   "regions": []
+  },
+  {
+   "title": "苹果介绍旗下首款折叠屏手机 iPhone Duo 设计理念：灵感源自纸质笔记本尺寸、铰链阻尼拥有“可变扭矩曲线”",
+   "link": "https://www.ithome.com/1/004/349.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T22:39:21.000Z",
+   "summary": "IT之家 9 月 19 日消息，苹果设计团队在接受外媒《GQ》采访时，详细介绍了折叠屏手机 iPhone Duo 的设计理念、软件交互以及未来发展方向。本次参与采访者包括苹果 CEO John Ternus、工业设计副总裁 Molly An…",
+   "regions": []
+  },
+  {
+   "title": "苹果发布 Xcode 27.1 首个测试版，为 iOS App 开发者带来 iPhone Duo 模拟器支持",
+   "link": "https://www.ithome.com/1/004/348.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T22:32:56.000Z",
+   "summary": "IT之家 9 月 19 日消息，苹果今日发布 Xcode 27.1 首个测试版，为开发者带来对 iPhone Duo 的模拟器支持。 Xcode 27.1 的发布符合苹果此前承诺在 9 月底前推出相关开发工具的目标。对于大多数应用而言，要针…",
+   "regions": []
+  },
+  {
+   "title": "因胎压监测系统存在软件问题，Jeep 宣布在美国市场召回超 20 万辆汽车",
+   "link": "https://www.ithome.com/1/004/347.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T22:25:55.000Z",
+   "summary": "IT之家 9 月 19 日消息，Jeep 宣布在美国召回超过 20 万辆汽车，原因是部分车型的胎压监测系统（TPMS）存在软件问题，可能无法正常检测轮胎低压情况，也无法点亮低胎压警告灯。 Jeep 表示，如果受影响车辆的 TPMS 出现该软…",
+   "regions": []
+  },
+  {
+   "title": "黑暗奇幻动作 RPG《黎明行者之血》获业界好评，消息称本作开发成本仅约 4000 万美元",
+   "link": "https://www.ithome.com/1/004/346.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T22:19:44.000Z",
+   "summary": "IT之家 9 月 19 日消息，据彭博社报道，《巫师 3：狂猎》和《赛博朋克 2077》核心开发者之一 Konrad Tomaszkiewicz 创立的 Rebel Wolves 工作室，其首款作品《黎明行者之血（The Blood of …",
+   "regions": []
+  },
+  {
+   "title": "微软发布 Win11 Beta 和 Experimental 多预览版更新：新增鼠标指示器动画，修复多种 Bug",
+   "link": "https://www.ithome.com/1/004/344.htm",
+   "source": "IT之家",
+   "time": "2026-09-18T17:03:36.000Z",
+   "summary": "IT之家 9 月 19 日消息，微软于当地时间 9 月 18 日面向 Beta 和 Experimental 频道的 Windows Insider 项目成员推送了适用于 Windows 11 的多个预览版更新，具体版本如下： Beta 频…",
+   "regions": []
+  },
+  {
    "title": "消息称特斯拉针对 Optimus 机器人业务启动量产审厂，多家供应链企业回应",
    "link": "https://www.ithome.com/1/004/343.htm",
    "source": "IT之家",
@@ -1580,6 +1756,174 @@
  ],
  "world": [
   {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.5M, Depth:94.054km) in Kermadec Islands Region 18/09/2026 23:18 UTC, [unknown].",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1566905",
+   "source": "GDACS灾害监测",
+   "time": "2026-09-18T23:36:52.000Z",
+   "summary": "On 9/18/2026 11:18:28 PM, an earthquake occurred in Kermadec Islands Region potentially affecting [unknown]. The earthqu…",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "特朗普签署对俄制裁法案",
+   "link": "https://sputniknews.cn/20260919/1073312967.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T23:32:03.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿9月19日电 白宫称，美国总统特朗普已签署一项法案，该法案可能对俄罗斯实施新一轮制裁，但相关措施不会自动生效，是否实施将由总统本人决定。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "欧盟希中国自愿限制混动汽车对欧出口，中国商务部表示坚决反对",
+   "link": "https://sputniknews.cn/20260919/1073312851.html",
+   "source": "卫星社中文",
+   "time": "2026-09-18T23:27:01.000Z",
+   "summary": "中国商务部新闻发言人在就媒体称欧盟希中国自愿限制混动汽车对欧出口答记者问是表示，中方对此坚决反对，中欧之间的任何解决方案必须确保利益平衡。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "普京对新版国家武器装备计划提出要求",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699326.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-18T23:19:10.000Z",
+   "summary": "中新社莫斯科9月18日电 俄罗斯总统普京18日晚主持召开俄军事工业委员会会议，提议讨论新版国家武器装备计划草案和国防工业综合体发展计划。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M5.5】Kermadec Islands region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tigd",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T23:18:28.306Z",
+   "summary": "美国地质调查局官方监测：Kermadec Islands region发生 5.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699324.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-18T22:40:27.000Z",
+   "summary": "当地时间9月18日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。(总台记者 张颖哲）",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普：美国将获得对格陵兰岛安全“永久控制权”",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699323.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-18T22:39:45.000Z",
+   "summary": "当地时间9月18日，美国总统特朗普在社交媒体上发文称，美国已与丹麦及其自治领地格陵兰岛达成一项协议，将获得对格陵兰岛安全及所有其他相关事务的“永久控制权”，美方无需为此支付费用。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699322.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-18T22:38:47.000Z",
+   "summary": "当地时间9月18日，俄罗斯国家原子能公司通报称，17日，乌军无人机坠落在俄库尔斯克核电站二期1号机组冷却塔上时发生爆炸，造成轻微损坏。机组继续以100%功率运行，本底辐射水平正常、未发生变化。核电站运行安全仍有保障。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄罗斯对欧盟新一轮制裁采取反制措施",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699319.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-18T22:31:55.000Z",
+   "summary": "中新社莫斯科9月18日电 俄罗斯外交部18日发表声明表示，作为对欧盟新一轮对俄制裁的回应，俄方大幅扩大禁止入境俄罗斯的欧盟国家人员名单。该名单涵盖支持欧盟反俄政策的欧盟相关机构、欧盟成员国及其他欧洲国家的代表。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "荷兰向加沙地带提供1200万欧元紧急医疗援助",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699320.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-18T22:31:27.000Z",
+   "summary": "中新社海牙9月18日电 荷兰政府18日宣布，将向加沙地带提供1200万欧元紧急医疗援助，用于救治加沙地带患病儿童并改善当地医疗服务条件。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "马克龙就地缘政治形势等议题与法国各主要党派代表会谈",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699321.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-18T22:30:42.000Z",
+   "summary": "中新社巴黎9月18日电 (记者 李洋)法国总统马克龙当地时间18日就地缘政治形势等议题与各主要党派代表举行会谈。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】4 km WSW of Guánica, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532753",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T22:28:10.830Z",
+   "summary": "美国地质调查局官方监测：4 km WSW of Guánica, Puerto Rico发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】5 km SW of Guánica, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532738",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T22:15:41.970Z",
+   "summary": "美国地质调查局官方监测：5 km SW of Guánica, Puerto Rico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】15 km NNW of Mantoúdi, Greece",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tifz",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T22:11:57.388Z",
+   "summary": "美国地质调查局官方监测：15 km NNW of Mantoúdi, Greece发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "希腊",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】11 km N of Fillmore, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334847",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T21:30:38.790Z",
+   "summary": "美国地质调查局官方监测：11 km N of Fillmore, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M3.7】30 km SSW of Boca de Yuma, Dominican Republic",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261003",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T21:26:40.700Z",
+   "summary": "美国地质调查局官方监测：30 km SSW of Boca de Yuma, Dominican Republic发生 3.7 级地震，震源深度 未知。",
+   "regions": [
+    "多米尼加",
+    "拉美"
+   ]
+  },
+  {
    "title": "【地震 M3.0】4 km WSW of Guánica, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532618",
    "source": "USGS地震台网",
@@ -1602,6 +1946,28 @@
    ]
   },
   {
+   "title": "【地震 M4.5】112 km ESE of Ust’-Kamchatsk Staryy, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiem",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T19:16:37.535Z",
+   "summary": "美国地质调查局官方监测：112 km ESE of Ust’-Kamchatsk Staryy, Russia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】28 km E of Honaunau-Napoopoo, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiej",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T19:13:17.034Z",
+   "summary": "美国地质调查局官方监测：28 km E of Honaunau-Napoopoo, Hawaii发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
    "title": "乌克兰宣布一项旨在扩大招募外国雇佣兵加入乌军的计划",
    "link": "https://sputniknews.cn/20260919/1073312622.html",
    "source": "卫星社中文",
@@ -1609,6 +1975,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科9月18日电 乌克兰总理科列茨基宣布了一项扩大招募雇佣兵加入乌军的计划，并将在国民警卫队框架下设立一个针对外国人的招募中心。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】23 km SW of Sipí, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tie4",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T18:41:22.677Z",
+   "summary": "美国地质调查局官方监测：23 km SW of Sipí, Colombia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
    ]
   },
   {
@@ -2199,6 +2576,83 @@
    "regions": []
   },
   {
+   "title": "古特雷斯：维和行动应以和平协议或停火为基础",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142824",
+   "source": "联合国新闻",
+   "time": "2026-09-18T12:00:00.000Z",
+   "summary": "联合国秘书长古特雷斯周五在安理会关于联合国维和行动的辩论中表示，维和首先是一种政治工具，其部署旨在支持政治解决方案，而不是取代政治解决方案。只有在达成和平协议或至少达成坚实的停火协议后，才应部署联合国维和行动。",
+   "regions": []
+  },
+  {
+   "title": "【世界进行时】2026年9月18日",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142825",
+   "source": "联合国新闻",
+   "time": "2026-09-18T12:00:00.000Z",
+   "summary": "本期要点：伊朗核监督形势恶化，安理会因“自动恢复”机制争议，未能延长伊朗制裁专家小组任期；也门战事升级，流离失所危机和曼德海峡安全风险加剧；联合国人权报告记录俄乌战争期间约1004起性暴力案件；最新调查显示，大规模战争成为受访者最担忧的全球…",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "暴力只会推迟问题的解决：联合国大会主席谈信任、人工智能及罗兴亚危机的启示",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142823",
+   "source": "联合国新闻",
+   "time": "2026-09-18T12:00:00.000Z",
+   "summary": "哈利勒·拉赫曼在联合国大会第81届会议上接过主席木槌，此时他所服务的这一组织正面临他所称的“信任危机”——而他本人已在该组织以各种身份服务了35年。",
+   "regions": []
+  },
+  {
+   "title": "世卫组织：欧洲女性卫生工作者月收入比男性低28%",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142822",
+   "source": "联合国新闻",
+   "time": "2026-09-18T12:00:00.000Z",
+   "summary": "世界卫生组织欧洲区域办事处周五发布的一份涵盖43个国家的新报告显示，在世卫组织欧洲区域的卫生和护理从业人员中，女性占近77%，但每小时收入比男性低19%，月收入低28%。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "妇女署：女性处于埃博拉抗疫前线",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142821",
+   "source": "联合国新闻",
+   "time": "2026-09-18T12:00:00.000Z",
+   "summary": "联合国妇女署驻刚果民主共和国代表蒙博周五在日内瓦强调，妇女身处埃博拉抗疫前线，在医疗中心、家中和社区照顾病患，清洗并安葬死者，负责取水和觅食，有时甚至为此付出生命。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "联合国人权报告：性暴力成为乌克兰战争中的酷刑、恐吓和胁迫手段",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142820",
+   "source": "联合国新闻",
+   "time": "2026-09-18T12:00:00.000Z",
+   "summary": "联合国人权事务高级专员办事处周五发布的一份报告指出，自2022年2月24日俄罗斯对乌克兰发动全面武装攻击以来，性暴力被作为酷刑、恐吓和胁迫手段，针对乌克兰平民和战俘实施。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "难民署：数千名逃离也门的难民抵达吉布提，亟需援助",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142819",
+   "source": "联合国新闻",
+   "time": "2026-09-18T12:00:00.000Z",
+   "summary": "难民署周五表示，不到一周时间里，近3000人冒着生命危险穿越曼德海峡抵达吉布提。不断升级的暴力冲突正迫使更多家庭逃离也门。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "古特雷斯：现在是兑现可持续发展目标承诺的时候了",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142818",
+   "source": "联合国新闻",
+   "time": "2026-09-18T12:00:00.000Z",
+   "summary": "联合国秘书长古特雷斯周五在纽约举行的“可持续发展目标时刻”活动上表示，可持续发展目标是会员国共同制定并通过的承诺，旨在消除贫困与饥饿、打击不平等与排斥、保护地球，不让任何人掉队。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
    "title": "普京以在线方式参加俄国家杜马选举投票",
    "link": "https://sputniknews.cn/20260918/1073310672.html",
    "source": "卫星社中文",
@@ -2427,6 +2881,17 @@
     "俄乌",
     "欧洲",
     "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】4 km S of Pāhala, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039307",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T09:26:11.300Z",
+   "summary": "美国地质调查局官方监测：4 km S of Pāhala, Hawaii发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
    ]
   },
   {
@@ -3452,6 +3917,14 @@
   }
  ],
  "cn": [
+  {
+   "title": "AI何以成为年轻职场人的“情绪搭子”？",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699325.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-18T22:43:05.000Z",
+   "summary": "AI何以成为年轻职场人的“情绪搭子”？",
+   "regions": []
+  },
   {
    "title": "九沟八梁远去，八瓣莲花盛开：甘肃武都藏乡儿女的下山之路",
    "link": "https://www.chinanews.com.cn/txy/2026/09-18/10699308.shtml",
@@ -5047,6 +5520,18 @@
  ],
  "econ": [
   {
+   "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699324.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-18T22:40:27.000Z",
+   "summary": "当地时间9月18日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。(总台记者 张颖哲）",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
    "title": "第23届东博会合作项目集中签约",
    "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699316.shtml",
    "source": "中新网滚动",
@@ -6029,5 +6514,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-18T20:18:13.314Z"
+ "updatedAt": "2026-09-19T00:54:29.994Z"
 }
