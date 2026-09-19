@@ -1092,6 +1092,122 @@
  ],
  "world": [
   {
+   "title": "【地震 M4.3】37 km N of Malfa, Italy",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000till",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T20:55:32.082Z",
+   "summary": "美国地质调查局官方监测：37 km N of Malfa, Italy发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "意大利",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】Reykjanes Ridge",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tild",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T20:24:42.449Z",
+   "summary": "美国地质调查局官方监测：Reykjanes Ridge发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】69 km SSW of Kaktovik, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spqkpb",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T20:20:42.592Z",
+   "summary": "美国地质调查局官方监测：69 km SSW of Kaktovik, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】12 km SE of Emajagua, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533158",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T19:56:29.150Z",
+   "summary": "美国地质调查局官方监测：12 km SE of Emajagua, Puerto Rico发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】22 km SSW of Manton, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438552",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T19:52:51.470Z",
+   "summary": "美国地质调查局官方监测：22 km SSW of Manton, CA发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄罗斯学者讲述哪种大米对老年人有益",
+   "link": "https://sputniknews.cn/20260920/1073318795.html",
+   "source": "卫星社中文",
+   "time": "2026-09-19T19:00:00.000Z",
+   "summary": "俄罗斯彼尔姆国立科研理工大学环境保护教研室教授拉里萨·沃尔科娃向卫星通讯社表示，黑米含有花青素，这种成分具有强效抗氧化作用，有助于老年人维持记忆力和视力。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "佩斯科夫：美国制裁法无法带来积极影响",
+   "link": "https://sputniknews.cn/20260920/1073318919.html",
+   "source": "卫星社中文",
+   "time": "2026-09-19T18:35:42.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月19日电 俄罗斯总统新闻秘书德米特里·佩斯科夫表示，美国通过的制裁法在俄美关系背景下无法产生积极影响。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美媒：格陵兰岛居民对与美国协议的相关消息反应不一",
+   "link": "https://sputniknews.cn/20260920/1073318530.html",
+   "source": "卫星社中文",
+   "time": "2026-09-19T18:12:00.000Z",
+   "summary": "据《纽约时报》报道称，格陵兰岛居民对与美国潜在协议的消息评价不一。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "美专家：美国政府不会对中国征收100%关税",
+   "link": "https://sputniknews.cn/20260920/1073318393.html",
+   "source": "卫星社中文",
+   "time": "2026-09-19T17:40:00.000Z",
+   "summary": "卫星通讯社华盛顿9月19日电 美国南佛罗里达大学世界问题研究教研室副教授罗布·梅伦表示，美国新的反俄制裁法意味着，美国可能对俄罗斯最大的几个能源买家征收关税，但美国政府不会对中国征收此类关税。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】11 km N of Quebradillas, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533073",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T17:18:37.940Z",
+   "summary": "美国地质调查局官方监测：11 km N of Quebradillas, Puerto Rico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "Anthropic、OpenAI、Space XAI和谷歌因涉嫌在AI问题上“合谋”被起诉至美国法院",
+   "link": "https://sputniknews.cn/20260920/1073318280.html",
+   "source": "卫星社中文",
+   "time": "2026-09-19T17:11:23.000Z",
+   "summary": "根据法庭文件，美国加利福尼亚北区联邦地区法院已收到针对从事人工智能（AI）的公司Anthropic、OpenAI、Space XAI和谷歌的诉讼，指控他们涉嫌合谋放缓人工智能发展速度。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
    "title": "国家安全委员会秘书：伊朗希望沙特与胡塞武装停火",
    "link": "https://sputniknews.cn/20260920/1073318187.html",
    "source": "卫星社中文",
@@ -1165,6 +1281,17 @@
    "regions": [
     "美国阿拉斯加",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】75 km SE of Kuqa, China",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tikb",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T15:53:54.494Z",
+   "summary": "美国地质调查局官方监测：75 km SE of Kuqa, China发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -1252,6 +1379,17 @@
    ]
   },
   {
+   "title": "【地震 M5.1】67 km NE of Ruteng, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiju",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T13:56:00.869Z",
+   "summary": "美国地质调查局官方监测：67 km NE of Ruteng, Indonesia发生 5.1 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
    "title": "突发：沙特首都主要机场附近出现大量黑烟",
    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699715.shtml",
    "source": "中新网国际",
@@ -1269,6 +1407,17 @@
    "summary": "俄罗斯总统弗拉基米尔·普京祝贺马拉特·坎博洛夫当选南奥塞梯总统，并指出该国公民对他高度信任。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】29 km WSW of Sipí, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijs",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T13:44:35.732Z",
+   "summary": "美国地质调查局官方监测：29 km WSW of Sipí, Colombia发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
    ]
   },
   {
@@ -1322,6 +1471,17 @@
    "summary": "联合国秘书长候选人卡罗琳·罗德里格斯-比尔克特对俄罗斯卫星通讯社称，联合国秘书长应始终充当中立调解人，且不容许个人野心妨碍促成和平的工作。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.0】86 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026spbesg",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T12:44:02.820Z",
+   "summary": "美国地质调查局官方监测：86 km SSW of Nikolski, Alaska发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -1517,6 +1677,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科9月19日电 据俄罗斯国防部消息，自2026年初起，俄军已解放超5300平方公里的领土和220多个居民点。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.0】166 km SW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sotica",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T08:47:50.579Z",
+   "summary": "美国地质调查局官方监测：166 km SW of Nikolski, Alaska发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -4151,5 +4322,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-19T16:58:46.128Z"
+ "updatedAt": "2026-09-19T21:35:13.829Z"
 }
