@@ -1919,6 +1919,17 @@
    ]
   },
   {
+   "title": "【地震 M3.9】12 km NW of Corredor, Costa Rica",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tij9",
+   "source": "USGS地震台网",
+   "time": "2026-09-18T22:09:36.768Z",
+   "summary": "美国地质调查局官方监测：12 km NW of Corredor, Costa Rica发生 3.9 级地震，震源深度 未知。",
+   "regions": [
+    "哥斯达黎加",
+    "拉美"
+   ]
+  },
+  {
    "title": "【地震 M2.5】11 km N of Fillmore, CA",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334847",
    "source": "USGS地震台网",
@@ -7229,5 +7240,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-19T09:40:07.250Z"
+ "updatedAt": "2026-09-19T16:58:46.132Z"
 }
