@@ -1236,6 +1236,17 @@
    ]
   },
   {
+   "title": "【地震 M4.2】24 km S of Sipí, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timg",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T23:20:15.368Z",
+   "summary": "美国地质调查局官方监测：24 km S of Sipí, Colombia发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
+   ]
+  },
+  {
    "title": "美国国务院发布安全提醒 称中东地区局势可能升级",
    "link": "https://www.chinanews.com.cn/gj/2026/09-20/10699750.shtml",
    "source": "中新网国际",
@@ -1254,6 +1265,17 @@
    "summary": "美国地质调查局官方监测：15 km SSW of Smiley, Texas发生 2.7 级地震，震源深度 未知。",
    "regions": [
     "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】3 km SSW of General Mosconi, Argentina",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tim6",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T22:53:36.658Z",
+   "summary": "美国地质调查局官方监测：3 km SSW of General Mosconi, Argentina发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "阿根廷",
+    "拉美"
    ]
   },
   {
@@ -1322,6 +1344,16 @@
    ]
   },
   {
+   "title": "【地震 M4.2】249 km N of Likisá, Timor Leste",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tilu",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T21:44:50.193Z",
+   "summary": "美国地质调查局官方监测：249 km N of Likisá, Timor Leste发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "【地震 M4.3】37 km N of Malfa, Italy",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000till",
    "source": "USGS地震台网",
@@ -1331,6 +1363,14 @@
     "意大利",
     "欧洲"
    ]
+  },
+  {
+   "title": "Impact of Canada's counter-tariffs on Canadian customers",
+   "link": "https://newsus.cgtn.com/news/2026-09-20/Impact-of-Canada-s-counter-tariffs-on-Canadian-customers-1QuV2u0Osog/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T20:43:52.000Z",
+   "summary": "Trade between Canada and the U.S. is getting more expensive for consumers on both sides of the border. Prime Minister Ma…",
+   "regions": []
   },
   {
    "title": "【地震 M5.2】Reykjanes Ridge",
@@ -1576,6 +1616,22 @@
    ]
   },
   {
+   "title": "Reporter's Diary: Kenyan urbanites brace for El Niño",
+   "link": "https://newsaf.cgtn.com/news/2026-09-19/Reporter-s-Diary-Kenyan-urbanites-brace-for-El-Ni-o-1QzuedibE2Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T14:46:34.000Z",
+   "summary": "El Niño is a naturally occurring climate pattern that typically develops every two to seven years, when waters in the ce…",
+   "regions": []
+  },
+  {
+   "title": "Google's Gemini AI kept trying passwords and hacked a real company",
+   "link": "https://news.cgtn.com/news/2026-09-19/Google-s-Gemini-AI-kept-trying-passwords-and-hacked-a-real-company-1QzmxN5sMI8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T14:44:56.000Z",
+   "summary": "Google's Gemini accessed the internet and hacked three companies during a cybersecurity test in May, ​the first known ca…",
+   "regions": []
+  },
+  {
    "title": "俄外交部：西方试图干扰俄选举投票",
    "link": "https://sputniknews.cn/20260919/1073317469.html",
    "source": "卫星社中文",
@@ -1630,6 +1686,22 @@
    ]
   },
   {
+   "title": "China says opposes unilateral sanctions with no authorization from UN",
+   "link": "https://news.cgtn.com/news/2026-09-19/China-says-opposes-unilateral-sanctions-with-no-authorization-from-UN-1QzrK6mCiLC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T13:52:25.000Z",
+   "summary": "China consistently opposes unilateral sanctions that lack UN authorization and a basis in international law, as well as …",
+   "regions": []
+  },
+  {
+   "title": "2026 Asian Games open with Team China ready to shine",
+   "link": "https://news.cgtn.com/news/2026-09-19/2026-Asian-Games-open-with-Team-China-ready-to-shine-1QzdXd49gL6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T13:47:59.000Z",
+   "summary": "2026 Asian Games open with Team China ready to shine",
+   "regions": []
+  },
+  {
    "title": "普京祝贺坎博洛夫当选南奥塞梯总统",
    "link": "https://sputniknews.cn/20260919/1073317260.html",
    "source": "卫星社中文",
@@ -1649,6 +1721,14 @@
     "哥伦比亚",
     "拉美"
    ]
+  },
+  {
+   "title": "Death toll from Mali attack passes 100: sources",
+   "link": "https://newsaf.cgtn.com/news/2026-09-19/Death-toll-from-Mali-attack-passes-100-sources-1Qz68w34K2Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T13:29:36.000Z",
+   "summary": "The number of Malian soldiers that were killed in a militant attack on the Dioura military camp in central Mali last wee…",
+   "regions": []
   },
   {
    "title": "【地震 M4.4】34 km NW of Coquimbo, Chile",
@@ -1682,6 +1762,14 @@
    ]
   },
   {
+   "title": "Nigeria president orders prosecution over illegal miners' deaths",
+   "link": "https://newsaf.cgtn.com/news/2026-09-19/Nigeria-president-orders-prosecution-over-illegal-miners-deaths-1QzfBMnCfIs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T13:16:41.000Z",
+   "summary": "Nigerian President Bola Tinubu has ordered the prosecution of any officials found culpable in the deaths of dozens of su…",
+   "regions": []
+  },
+  {
    "title": "2026年中国—东盟人工智能产业创新中心研讨会在广西南宁召开",
    "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699643.shtml",
    "source": "中新网滚动",
@@ -1701,6 +1789,17 @@
    "summary": "联合国秘书长候选人卡罗琳·罗德里格斯-比尔克特对俄罗斯卫星通讯社称，联合国秘书长应始终充当中立调解人，且不容许个人野心妨碍促成和平的工作。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.0】85 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tikp",
+   "source": "USGS地震台网",
+   "time": "2026-09-19T12:44:03.347Z",
+   "summary": "美国地质调查局官方监测：85 km SSW of Nikolski, Alaska发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -1756,6 +1855,14 @@
    ]
   },
   {
+   "title": "Keiichiro Ichinose: Japanese politics heading to a dangerous direction",
+   "link": "https://news.cgtn.com/news/2026-09-19/Keiichiro-Ichinose-Japanese-politics-heading-to-a-dangerous-direction-1QzlrlJ5kUo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T12:08:44.000Z",
+   "summary": "Keiichiro Ichinose: Japanese politics heading to a dangerous direction",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.6】25 km NW of Ushibukamachi, Japan",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd",
    "source": "USGS地震台网",
@@ -1798,6 +1905,14 @@
    ]
   },
   {
+   "title": "11 soldiers killed in explosion at military site in east Syria",
+   "link": "https://news.cgtn.com/news/2026-09-19/news-1QzlcOI0vbq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T10:59:33.000Z",
+   "summary": "Syria's Ministry of Defense on Saturday held a funeral for 11 of its personnel killed in an explosion at a military site…",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.5】10 km ENE of Milpitas, CA",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75438287",
    "source": "USGS地震台网",
@@ -1826,6 +1941,22 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "The 20th Asian Games open in Nagoya, Japan",
+   "link": "https://news.cgtn.com/news/2026-09-19/news-1QzioYIAsH6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T10:20:18.000Z",
+   "summary": "The 20th Asian Games open in Nagoya, Japan",
+   "regions": []
+  },
+  {
+   "title": "EU urges US to reconsider visa denial to Palestinian delegation",
+   "link": "https://news.cgtn.com/news/2026-09-19/EU-urges-US-to-reconsider-visa-denial-to-Palestinian-delegation-1QzdsUF2OyY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T10:12:33.000Z",
+   "summary": "The EU said on Saturday it regrets the United States' decision to extend the denial of entry visas for members of the Pa…",
+   "regions": []
   },
   {
    "title": "俄中选委主席：俄罗斯超460万选民提前投票",
@@ -1900,6 +2031,14 @@
    ]
   },
   {
+   "title": "9 body types and how TCM keeps people healthy",
+   "link": "https://news.cgtn.com/news/2026-09-19/9-body-types-and-how-TCM-keeps-people-healthy-1Qz46fTpcY0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T09:08:47.000Z",
+   "summary": "9 body types and how TCM keeps people healthy",
+   "regions": []
+  },
+  {
    "title": "俄国防部：今年已解放超5300平方公里领土及220多居民点",
    "link": "https://sputniknews.cn/20260919/1073315692.html",
    "source": "卫星社中文",
@@ -1939,6 +2078,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Pakistani, Iranian FMs stress diplomacy, energy security in phone call",
+   "link": "https://news.cgtn.com/news/2026-09-19/news-1QzbaDtqjDy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T08:39:07.000Z",
+   "summary": "Pakistan's Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar held a telephone conversation with Iran's Minis…",
+   "regions": []
   },
   {
    "title": "俄国防部：俄军夜袭乌军物流中心与港口",
@@ -2056,6 +2203,14 @@
    "regions": []
   },
   {
+   "title": "US returns groups of cultural relics to China",
+   "link": "https://news.cgtn.com/news/2026-09-19/US-returns-groups-of-cultural-relics-to-China-1Qz3TXS68cE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T07:04:41.000Z",
+   "summary": "China's National Cultural Heritage Administration (NCHA) received two batches – totaling 64 items – of cultural relics a…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.0】7 km SSE of Ponce, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71532923",
    "source": "USGS地震台网",
@@ -2095,6 +2250,14 @@
    "regions": [
     "中国"
    ]
+  },
+  {
+   "title": "Kane breaks record as Bayern Munich thrash Union Berlin 7-0",
+   "link": "https://news.cgtn.com/news/2026-09-19/Kane-breaks-record-as-Bayern-Munich-thrash-Union-Berlin-7-0-1QyLm4lw69G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T06:01:49.000Z",
+   "summary": "Kane breaks record as Bayern Munich thrash Union Berlin 7-0",
+   "regions": []
   },
   {
    "title": "媒体：美国对伊朗军事行动耗资已达436亿美元",
@@ -2142,6 +2305,14 @@
    ]
   },
   {
+   "title": "Commentary: US-made AI model is fueling Japan's digital militarism",
+   "link": "https://news.cgtn.com/news/2026-09-19/Commentary-US-made-AI-model-is-fueling-Japan-s-digital-militarism-1QyJayTNNo4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T05:04:26.000Z",
+   "summary": "Commentary: US-made AI model is fueling Japan's digital militarism",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.3】29 km SSW of Sipí, Colombia",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tihg",
    "source": "USGS地震台网",
@@ -2151,6 +2322,14 @@
     "哥伦比亚",
     "拉美"
    ]
+  },
+  {
+   "title": "What happens when TCM joins Western medicine in global healthcare?",
+   "link": "https://news.cgtn.com/news/2026-09-19/What-happens-when-TCM-joins-Western-medicine-in-global-healthcare--1QyOpt7esZG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T04:58:32.000Z",
+   "summary": "What happens when TCM joins Western medicine in global healthcare?",
+   "regions": []
   },
   {
    "title": "【地震 M3.0】3 km SW of Guánica, Puerto Rico",
@@ -2204,6 +2383,14 @@
    "regions": []
   },
   {
+   "title": "US-Iran conflict fuels mounting tensions across Middle East",
+   "link": "https://news.cgtn.com/news/2026-09-19/US-Iran-conflict-fuels-mounting-tensions-across-Middle-East-1QyLs24TOzS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T03:36:34.000Z",
+   "summary": "The ongoing US-Iran conflict continues to reshape the security and energy landscape across the Middle East.",
+   "regions": []
+  },
+  {
    "title": "古巴全国断电后逐步恢复",
    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699371.shtml",
    "source": "中新网国际",
@@ -2212,6 +2399,14 @@
    "regions": [
     "拉美"
    ]
+  },
+  {
+   "title": "SpaceX to fly more NASA crews to space station under expanded deal",
+   "link": "https://news.cgtn.com/news/2026-09-19/SpaceX-to-fly-more-NASA-crews-to-space-station-under-expanded-deal-1QyKUQKxQ3u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-19T03:34:56.000Z",
+   "summary": "NASA said Friday that the agency had given SpaceX a $946 million contract to fly three more astronaut missions to the In…",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】4 km SW of Guánica, Puerto Rico",
@@ -4781,5 +4976,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-20T03:01:46.694Z"
+ "updatedAt": "2026-09-20T08:44:42.590Z"
 }
