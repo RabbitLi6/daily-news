@@ -1836,6 +1836,17 @@
    ]
   },
   {
+   "title": "【地震 M4.5】39 km ESE of Khuzdar, Pakistan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit3",
+   "source": "USGS地震台网",
+   "time": "2026-09-20T20:41:20.633Z",
+   "summary": "美国地质调查局官方监测：39 km ESE of Khuzdar, Pakistan发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "巴基斯坦",
+    "亚太"
+   ]
+  },
+  {
    "title": "【地震 M3.0】4 km WSW of Guánica, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533593",
    "source": "USGS地震台网",
@@ -6258,5 +6269,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-21T08:46:14.948Z"
+ "updatedAt": "2026-09-21T15:35:48.812Z"
 }
