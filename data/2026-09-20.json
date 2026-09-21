@@ -2,6 +2,22 @@
  "date": "2026-09-20",
  "tech": [
   {
+   "title": "IT早报 0921：曝快递新一轮涨价；长鑫第五代技术平台量产；苹果 iOS 27 闹钟支持大陆调休；小米 18 Pro 系列 9 月 23 日发布；沃尔沃 S90 汽车被曝腰斩式降价...",
+   "link": "https://www.ithome.com/1/005/029.htm",
+   "source": "IT之家",
+   "time": "2026-09-20T23:52:03.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 21 日星期一，今天的重要科技资讯有： 1. 曝快递“反内卷”引发新一轮涨价，多家公司 9 月 20 日起安徽区域单票最低上调 0.15 元 报道称，此调价主要面向 ToB 端。除安徽…",
+   "regions": []
+  },
+  {
+   "title": "我国首款藏语多语言全模态 AI 输入法发布，覆盖手机、电脑等全终端",
+   "link": "https://www.ithome.com/1/005/027.htm",
+   "source": "IT之家",
+   "time": "2026-09-20T23:50:15.000Z",
+   "summary": "IT之家 9 月 21 日消息，据科技日报昨晚报道，9 月 20 日，在青海师范大学教师教育高质量发展暨建校 70 周年大会科研成果展示环节， 我国首款藏语多语言全模态 AI 输入法 —— 智达 AI 输入法及配套藏文字体集正式发布 。 据…",
+   "regions": []
+  },
+  {
    "title": "Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局",
    "link": "https://www.ithome.com/1/005/026.htm",
    "source": "IT之家",
@@ -106,6 +122,14 @@
    "regions": []
   },
   {
+   "title": "AI 编程工具安全思考： ZCode 上传完整.git 历史事件，本地代码隐私该如何守护",
+   "link": "https://www.oschina.net/news/502625",
+   "source": "开源中国",
+   "time": "2026-09-20T16:18:12.000Z",
+   "summary": "随着AI辅助开发越来越普及，各类AI编程IDE、代码助手极大提升了开发效率，但本地代码读取、数据上传带来的安全隐患，也逐步暴露出来。 近期社群热议的智谱ZCode事件值得所有开发者关注：ZCode的端到端长程任务功能，会打包上传项目完整的.…",
+   "regions": []
+  },
+  {
    "title": "IT之家专访苹果 iPhone 营销副总裁凯安 · 德兰斯：iPhone Duo 追求最终用户体验，而不仅仅是为了技术",
    "link": "https://www.ithome.com/1/005/013.htm",
    "source": "IT之家",
@@ -135,6 +159,14 @@
    "source": "IT之家",
    "time": "2026-09-20T15:10:23.000Z",
    "summary": "IT之家 9 月 20 日消息，法拉第未来（Faraday Future，简称 FF）于美国当地时间 9 月 19 日举行了 919 FF EAI 机器人“四核全智”系列新品发布会，发布了 FF All-New Futurist、FF Ma…",
+   "regions": []
+  },
+  {
+   "title": "OpenAgent v2.93 发布：单二进制自托管 AI Agent 平台，新增 Agent Hub、Casbin 工具权限与审计日志",
+   "link": "https://www.oschina.net/news/502624",
+   "source": "开源中国",
+   "time": "2026-09-20T14:44:32.000Z",
+   "summary": "OpenAgent 近日发布 v2.93.0。这是一个自托管的 AI Agent 平台，由 Casbin 开源社区维护，Go + React 编写，Apache 2.0 协议开源，目前在 GitHub 上有 5.6k star、658 fo…",
    "regions": []
   },
   {
@@ -202,11 +234,27 @@
    "regions": []
   },
   {
+   "title": "openKylin 成立 ZephyrProject SIG：加速 Zephyr 国内生态落地与技术创新",
+   "link": "https://www.oschina.net/news/502623",
+   "source": "开源中国",
+   "time": "2026-09-20T13:34:55.000Z",
+   "summary": "近年来，实时操作系统（RTOS）正从单一内核向平台化、生态化演进，应用场景也从单 MCU 控制走向异构计算与云边协同，开源生态的重要性日益凸显。但在国内，Zephyr 的基础设施与配套支持仍不够完善。为此，麒麟软件牵头在 OpenAtom …",
+   "regions": []
+  },
+  {
    "title": "Steam Frame 预约资格被黄牛炒到 2000 美元，玩家社区自发抵制",
    "link": "https://www.ithome.com/1/004/993.htm",
    "source": "IT之家",
    "time": "2026-09-20T13:31:14.000Z",
    "summary": "IT之家 9 月 20 日消息，在 Valve 刚发出首批预约邮件短短数小时之后，黄牛就已经开始在 eBay 平台上架转售 Steam Frame 的预约名额。据 IGN 报道，256GB 版本的挂牌起价约 1,700 美元 （IT之家注：…",
+   "regions": []
+  },
+  {
+   "title": "ModStartBlog v11.2.0 新增可选依赖、AI 文章投递及多项安全修复",
+   "link": "https://www.oschina.net/news/502622",
+   "source": "开源中国",
+   "time": "2026-09-20T13:29:39.000Z",
+   "summary": "ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。 系统完全开源，基于 Apache 2.0 开源协议。 功能特性 丰富的模块市场，后台一键快…",
    "regions": []
   },
   {
@@ -279,6 +327,14 @@
    "source": "IT之家",
    "time": "2026-09-20T12:07:09.000Z",
    "summary": "IT之家 9 月 20 日消息，据 Tom's Hardware 报道，一个号称是“首款基于果蝇大脑的有机神经元比特币挖矿项目”已经正式上线。没错，这是一个加密货币挖矿项目，依托谷歌近期对外公开的果蝇大脑神经连接组数据集开发。研发 Apol…",
+   "regions": []
+  },
+  {
+   "title": ":fire::fire:无代码 AI 工作流引擎 FlowLong 1.2.7 发布",
+   "link": "https://www.oschina.net/news/502620",
+   "source": "开源中国",
+   "time": "2026-09-20T12:04:23.000Z",
+   "summary": "开源地址：https://gitee.com/aizuda/flowlong 开源地址：https://github.com/aizuda/flowlong 官网文档：https://flowlong.aizuda.com 更新日志： fe…",
    "regions": []
   },
   {
@@ -1580,6 +1636,17 @@
  ],
  "world": [
   {
+   "title": "【地震 M2.5】3 km WSW of Fuig, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533688",
+   "source": "USGS地震台网",
+   "time": "2026-09-20T23:38:39.890Z",
+   "summary": "美国地质调查局官方监测：3 km WSW of Fuig, Puerto Rico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
    "title": "特朗普政府拟全面制裁国际刑事法院",
    "link": "https://sputniknews.cn/20260921/1073327186.html",
    "source": "卫星社中文",
@@ -1651,6 +1718,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科9月21日电 俄罗斯外交部发言人扎哈罗娃表示，那些企图恐吓海外俄罗斯公民、破坏国家杜马选举海外投票站投票的人，已遭遇彻底失败和失算。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】172 km SSE of Lata, Solomon Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000titz",
+   "source": "USGS地震台网",
+   "time": "2026-09-20T22:51:21.731Z",
+   "summary": "美国地质调查局官方监测：172 km SSE of Lata, Solomon Islands发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "所罗门群岛",
+    "亚太"
    ]
   },
   {
@@ -3187,6 +3265,14 @@
   }
  ],
  "cn": [
+  {
+   "title": "仅需百来元，定制AI婚纱照走红 AI技术会改变婚纱摄影吗？",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-21/10700515.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-20T23:46:37.000Z",
+   "summary": "仅需百来元，定制AI婚纱照走红",
+   "regions": []
+  },
   {
    "title": "2026伦敦华埠商会中秋庆典举行",
    "link": "https://www.chinanews.com.cn/hr/2026/09-21/10700509.shtml",
@@ -5829,5 +5915,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-20T23:47:48.470Z"
+ "updatedAt": "2026-09-21T02:59:08.689Z"
 }
