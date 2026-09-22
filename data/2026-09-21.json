@@ -1831,6 +1831,17 @@
    ]
   },
   {
+   "title": "【地震 M4.3】14 km W of Chaparral, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1k",
+   "source": "USGS地震台网",
+   "time": "2026-09-21T23:15:35.218Z",
+   "summary": "美国地质调查局官方监测：14 km W of Chaparral, Colombia发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
+   ]
+  },
+  {
    "title": "【地震 M2.6】12 km W of Lake Nacimiento, CA",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439717",
    "source": "USGS地震台网",
@@ -1848,6 +1859,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科9月22日电 俄罗斯质量体系认证机构对卫星通讯社表示，俄罗斯外贸银行首个营业网点获得“中国友好”（China Friendly）标准认证证书，该证书颁发给其在阿穆尔州的一家分行。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】3 km SSW of Roncesvalles, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1f",
+   "source": "USGS地震台网",
+   "time": "2026-09-21T22:58:22.094Z",
+   "summary": "美国地质调查局官方监测：3 km SSW of Roncesvalles, Colombia发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
    ]
   },
   {
@@ -1902,12 +1924,34 @@
    ]
   },
   {
+   "title": "【地震 M4.5】91 km E of Namie, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1b",
+   "source": "USGS地震台网",
+   "time": "2026-09-21T22:29:59.360Z",
+   "summary": "美国地质调查局官方监测：91 km E of Namie, Japan发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
    "title": "联合国大会期间 丹麦及格陵兰岛将和美国签署安全协议",
    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701198.shtml",
    "source": "中新网国际",
    "time": "2026-09-21T22:28:38.000Z",
    "summary": "中新网9月22日电 据法新社报道，当地时间21日，丹麦首相府宣布，丹麦及其自治领地格陵兰岛和美国将于联合国大会期间，在纽约签署一项安全协议。",
    "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】103 km SW of Brisas Barra de Suchiate, Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj11",
+   "source": "USGS地震台网",
+   "time": "2026-09-21T22:01:55.932Z",
+   "summary": "美国地质调查局官方监测：103 km SW of Brisas Barra de Suchiate, Mexico发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
     "美洲"
    ]
   },
@@ -2043,6 +2087,22 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Some asylum seekers turn to Mexico for a new life instead of the US",
+   "link": "https://newsus.cgtn.com/news/2026-09-22/Some-asylum-seekers-turn-to-Mexico-for-a-new-life-instead-of-the-US-1QDgN0YiM0g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T19:51:46.000Z",
+   "summary": "Some asylum seekers turn to Mexico for a new life instead of the US",
+   "regions": []
+  },
+  {
+   "title": "US report finds detainees held in metal cages at Alligator Alcatraz",
+   "link": "https://newsus.cgtn.com/news/2026-09-22/US-report-finds-detainees-held-in-metal-cages-at-Alligator-Alcatraz-1QDgIBCAvRe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T19:51:40.000Z",
+   "summary": "US report finds detainees held in metal cages at Alligator Alcatraz",
+   "regions": []
   },
   {
    "title": "【地震 M3.1】77 km WSW of Akhiok, Alaska",
@@ -2353,6 +2413,14 @@
    ]
   },
   {
+   "title": "23rd China-ASEAN Expo concludes in Nanning, China's Guangxi",
+   "link": "https://news.cgtn.com/news/2026-09-21/23rd-China-ASEAN-Expo-concludes-in-Nanning-China-s-Guangxi-1QCU7QneWo8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T15:07:33.000Z",
+   "summary": "The 23rd China-ASEAN Expo has concluded in Nanning City, in south China's Guangxi Zhuang Autonomous Region.",
+   "regions": []
+  },
+  {
    "title": "俄副总理：俄罗斯计划增加对中东和非洲的煤炭供应",
    "link": "https://sputniknews.cn/20260921/1073337641.html",
    "source": "卫星社中文",
@@ -2364,6 +2432,14 @@
     "亚太",
     "非洲"
    ]
+  },
+  {
+   "title": "Chinese vice president meets Australia's House speaker",
+   "link": "https://news.cgtn.com/news/2026-09-21/Chinese-vice-president-meets-Australia-s-House-speaker-1QCT4xtvAqI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T14:44:04.000Z",
+   "summary": "Chinese Vice President Han Zheng met with Australia's Speaker of the House of Representatives Milton Dick in Beijing on …",
+   "regions": []
   },
   {
    "title": "（爱知·名古屋亚运会）亚运女篮小组赛：中国队战胜印度尼西亚队",
@@ -2446,6 +2522,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Five years on, China's GDI turns UN's development goals into action",
+   "link": "https://news.cgtn.com/news/2026-09-21/Five-years-on-China-s-GDI-turns-UN-s-development-goals-into-action-1QCk81SaCuQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T14:06:47.000Z",
+   "summary": "For China, promoting shared global development is not just about rhetoric. It also means providing practical support thr…",
+   "regions": []
   },
   {
    "title": "【地震 M2.8】1 km W of Pāhala, Hawaii",
@@ -2545,6 +2629,14 @@
    ]
   },
   {
+   "title": "Pinglu Canal: What does China's new river-sea link mean for ASEAN?",
+   "link": "https://news.cgtn.com/news/2026-09-21/Pinglu-Canal-What-does-China-s-new-river-sea-link-mean-for-ASEAN--1QCKwsdylyM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T12:26:09.000Z",
+   "summary": "Pinglu Canal: What does China's new river-sea link mean for ASEAN?",
+   "regions": []
+  },
+  {
    "title": "媒体：美中未能就延长贸易协议达成一致",
    "link": "https://sputniknews.cn/20260921/1073336685.html",
    "source": "卫星社中文",
@@ -2576,6 +2668,14 @@
    ]
   },
   {
+   "title": "Exchange of visits by Xi, Trump within months a 'historic milestone'",
+   "link": "https://news.cgtn.com/news/2026-09-21/Reciprocal-visits-by-Xi-Trump-within-half-year-a-historic-milestone--1QCqYrKKAM0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T12:07:36.000Z",
+   "summary": "The exchange of visits between the Chinese and US heads of state within six months marks a historic milestone, a Chinese…",
+   "regions": []
+  },
+  {
    "title": "德国政治家：参与乌克兰的盲目行动引发德国民众强烈不满",
    "link": "https://sputniknews.cn/20260921/1073336457.html",
    "source": "卫星社中文",
@@ -2585,6 +2685,14 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "International Day of Peace: A turbulent world needs more peace",
+   "link": "https://news.cgtn.com/news/2026-09-21/International-Day-of-Peace-A-turbulent-world-needs-more-peace-1QCc5U3ZEk0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T12:04:23.000Z",
+   "summary": "As conflicts continue to rage across the Middle East, Ukraine and Sudan, the world is facing a growing deficit of peace …",
+   "regions": []
   },
   {
    "title": "我们并非无能为力：联合国秘书长敦促世界各国领导人为和平投入更多资源",
@@ -2683,6 +2791,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "China urges Japan to stop any attempt at 'remilitarization'",
+   "link": "https://news.cgtn.com/news/2026-09-21/China-urges-Japan-to-stop-any-attempt-at-remilitarization--1QCFZMnW5Dq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T11:33:30.000Z",
+   "summary": "China urges Japan to deeply reflect on its history of aggression, heed the calls of regional countries and stop pursuing…",
+   "regions": []
   },
   {
    "title": "挪威政府：加拿大和挪威商定在北极地区加强防务合作",
@@ -2808,6 +2924,14 @@
    ]
   },
   {
+   "title": "China to hold GDI 5th anniversary dialogue at UN, September 25",
+   "link": "https://news.cgtn.com/news/2026-09-21/China-to-hold-GDI-5th-anniversary-dialogue-at-UN-September-25-1QCvk09gid2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T10:05:08.000Z",
+   "summary": "Five years ago today, the Global Development Initiative (GDI) was put forward, and it has yielded fruitful outcomes in i…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.6】167 km WSW of Nikolski, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssnubr",
    "source": "USGS地震台网",
@@ -2835,6 +2959,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "What China, US have agreed in previous economic, trade consultations",
+   "link": "https://news.cgtn.com/news/2026-09-21/What-China-US-have-agreed-in-previous-economic-trade-consultations-1QCc2G5AvOU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T09:54:44.000Z",
+   "summary": "Here is a recap of the rounds of China-US economic and trade consultations since 2025.",
+   "regions": []
   },
   {
    "title": "【地震 M2.6】3 km WNW of Big Lake, Alaska",
@@ -2917,6 +3049,14 @@
    "regions": []
   },
   {
+   "title": "Pakistan says 37 militants killed in counterterrorism operations",
+   "link": "https://news.cgtn.com/news/2026-09-21/news-1QCy6Gn0pG0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T09:22:54.000Z",
+   "summary": "Pakistan says 37 militants killed in counterterrorism operations",
+   "regions": []
+  },
+  {
    "title": "刚果（金）埃博拉死亡人数增至3699人",
    "link": "https://sputniknews.cn/20260921/1073334602.html",
    "source": "卫星社中文",
@@ -2936,6 +3076,14 @@
    "regions": [
     "欧洲"
    ]
+  },
+  {
+   "title": "President Xi replies to US university students",
+   "link": "https://news.cgtn.com/news/2026-09-21/President-Xi-replies-to-students-from-10-US-universities-1QCqt2FhRe0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T08:45:58.000Z",
+   "summary": "Chinese President Xi Jinping recently replied to students from 10 US universities who wrote to him after attending youth…",
+   "regions": []
   },
   {
    "title": "广东顺德一企业发生火灾 造成8人死亡1人受伤",
@@ -3009,6 +3157,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "US goods exports to China grow twice as fast as to world, 2001-2025",
+   "link": "https://news.cgtn.com/news/2026-09-21/US-goods-exports-to-China-grow-twice-as-fast-as-to-world-2001-2025-1QCqp0nl7k4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T08:00:23.000Z",
+   "summary": "US goods exports to China grow twice as fast as to world, 2001-2025",
+   "regions": []
   },
   {
    "title": "外媒聚焦中国—东盟博览会：中国市场蕴藏巨大潜力 合作迎新机遇",
@@ -3122,6 +3278,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "President Xi Jinping to pay state visit to US from September 23 to 25",
+   "link": "https://news.cgtn.com/news/2026-09-21/Chinese-President-Xi-Jinping-to-pay-state-visit-to-US-from-September-23-to-25-1QC2viaXXNK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T07:02:32.000Z",
+   "summary": "President Xi Jinping to pay state visit to US from September 23 to 25",
+   "regions": []
   },
   {
    "title": "俄外交部：Microsoft、Google和Meta曾向乌克兰电诈分子提供支持",
@@ -3341,6 +3505,14 @@
    ]
   },
   {
+   "title": "Q&A: What does the opening of the Pinglu Canal mean for China?",
+   "link": "https://news.cgtn.com/news/2026-09-21/Q-A-What-does-the-opening-of-the-Pinglu-Canal-mean-for-China--1QC7ONXZSPC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T04:35:40.000Z",
+   "summary": "CGTN spoke with Cui Fan, professor at the School of International Trade and Economics at the University of International…",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.7】156 km NNW of Hicks Bay, New Zealand",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi",
    "source": "USGS地震台网",
@@ -3360,6 +3532,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "How families can better support loved ones with Alzheimer's",
+   "link": "https://news.cgtn.com/news/2026-09-21/How-families-can-better-support-loved-ones-with-Alzheimer-s-1Qzw3eZJHd6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T04:08:24.000Z",
+   "summary": "How families can better support loved ones with Alzheimer's",
+   "regions": []
   },
   {
    "title": "【地震 M4.5】4 km W of Victor Raul, Peru",
@@ -3391,6 +3571,14 @@
    "regions": [
     "中东"
    ]
+  },
+  {
+   "title": "Trump says Houthis will not fight US as Iran deploys troops",
+   "link": "https://news.cgtn.com/news/2026-09-21/Trump-says-Houthis-will-not-fight-US-as-Iran-deploys-troops-1QC53tWj1m0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T03:38:22.000Z",
+   "summary": "US President Donald Trump told Fox News on Sunday that Washington is in \"constant communication\" with Yemen's Houthi gro…",
+   "regions": []
   },
   {
    "title": "中方称中美经贸代表进行了坦诚、深入、富有建设性交流",
@@ -3579,6 +3767,14 @@
     "欧洲",
     "美洲"
    ]
+  },
+  {
+   "title": "China, US have candid and in-depth exchanges on economy and trade",
+   "link": "https://news.cgtn.com/news/2026-09-21/news-1QC2VLp4QzC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-21T02:06:38.000Z",
+   "summary": "Chinese and US teams on Sunday held candid, in-depth and constructive exchanges during consultations on economic and tra…",
+   "regions": []
   },
   {
    "title": "美国宣布与中方开展人工智能对话，并启动“贸易委员会”",
@@ -3993,6 +4189,19 @@
    ]
   },
   {
+   "title": "How head-of-state diplomacy steers China-US ties toward stability",
+   "link": "https://news.cgtn.com/news/2026-09-21/How-head-of-state-diplomacy-steers-China-US-ties-toward-stability-1QCoZfsshTG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T15:23:40.000Z",
+   "summary": "Chinese President Xi Jinping will pay a state visit to the United States from September 23 to 25 at the invitation of US…",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
+   ]
+  },
+  {
    "title": "杨利伟：神二十三乘组在太空工作顺利 黎家盈表现非常优秀",
    "link": "https://www.chinanews.com.cn/gn/2026/09-21/10701182.shtml",
    "source": "中新网中国",
@@ -4046,6 +4255,28 @@
    "summary": "【中亚专线】纪录片《丝路青春·乌兹别克斯坦篇》在北京首映",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "23rd China-ASEAN Expo concludes in Nanning, China's Guangxi",
+   "link": "https://news.cgtn.com/news/2026-09-21/23rd-China-ASEAN-Expo-concludes-in-Nanning-China-s-Guangxi-1QCU7QneWo8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T15:07:33.000Z",
+   "summary": "The 23rd China-ASEAN Expo has concluded in Nanning City, in south China's Guangxi Zhuang Autonomous Region.",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Chinese vice president meets Australia's House speaker",
+   "link": "https://news.cgtn.com/news/2026-09-21/Chinese-vice-president-meets-Australia-s-House-speaker-1QCT4xtvAqI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T14:44:04.000Z",
+   "summary": "Chinese Vice President Han Zheng met with Australia's Speaker of the House of Representatives Milton Dick in Beijing on …",
+   "regions": [
+    "澳大利亚",
+    "亚太"
    ]
   },
   {
@@ -4153,6 +4384,39 @@
    ]
   },
   {
+   "title": "Intelligent tunnel construction solution unveiled in China",
+   "link": "https://news.cgtn.com/news/2026-09-21/Intelligent-tunnel-construction-solution-unveiled-in-China-1QCyq9FPNh6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T14:08:09.000Z",
+   "summary": "China has unveiled an intelligent construction solution for tunnels built using the drill-and-blast method, marking a ne…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China's new synchrotron radiation facility achieves first beam",
+   "link": "https://news.cgtn.com/news/2026-09-21/China-s-new-synchrotron-radiation-facility-achieves-first-beam-1QCxuHKFFPa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T14:07:20.000Z",
+   "summary": "The linear accelerator of the Hefei Advanced Light Facility (HALF) successfully generated and delivered an electron beam…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Five years on, China's GDI turns UN's development goals into action",
+   "link": "https://news.cgtn.com/news/2026-09-21/Five-years-on-China-s-GDI-turns-UN-s-development-goals-into-action-1QCk81SaCuQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T14:06:47.000Z",
+   "summary": "For China, promoting shared global development is not just about rhetoric. It also means providing practical support thr…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "山西系统推进全面依法治省 以法治护航高质量发展",
    "link": "https://www.chinanews.com.cn/gn/2026/09-21/10701110.shtml",
    "source": "中新网中国",
@@ -4201,6 +4465,14 @@
    "regions": []
   },
   {
+   "title": "Mid-Autumn Approaching: Huili Ancient Town, Key to Sichuan and Yunnan",
+   "link": "https://news.cgtn.com/news/2026-09-21/Mid-Autumn-Approaching-Huili-Ancient-Town-Key-to-Sichuan-and-Yunnan-1QCv5XtyMBG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T13:30:24.000Z",
+   "summary": "Huili Ancient Town, at the southern end of Sichuan, was founded in 111 BCE and named for its role where \"rivers and plai…",
+   "regions": []
+  },
+  {
    "title": "中国最北赏秋游“双节”火热 港澳客群为主力",
    "link": "https://www.chinanews.com.cn/sh/2026/09-21/10701114.shtml",
    "source": "中新网社会",
@@ -4210,6 +4482,14 @@
     "哈尔滨",
     "黑龙江"
    ]
+  },
+  {
+   "title": "Xizang Rhapsody | Climbing Their Way to the Top",
+   "link": "https://news.cgtn.com/news/2026-09-21/-Xizang-Rhapsody-Climbing-Their-Way-to-the-Top-1QxWoWDQqWY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T13:30:08.000Z",
+   "summary": "Xizang Rhapsody | Climbing Their Way to the Top",
+   "regions": []
   },
   {
    "title": "专家前瞻习近平访美：元首高频沟通释放积极信号",
@@ -4377,6 +4657,17 @@
    "regions": []
   },
   {
+   "title": "Pinglu Canal: What does China's new river-sea link mean for ASEAN?",
+   "link": "https://news.cgtn.com/news/2026-09-21/Pinglu-Canal-What-does-China-s-new-river-sea-link-mean-for-ASEAN--1QCKwsdylyM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T12:26:09.000Z",
+   "summary": "Pinglu Canal: What does China's new river-sea link mean for ASEAN?",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "（文化中国行·校馆弦歌）百年弦歌一馆藏 杭师大图书馆里的师范精神",
    "link": "https://www.chinanews.com.cn/gn/2026/09-21/10701030.shtml",
    "source": "中新网中国",
@@ -4406,6 +4697,17 @@
    "regions": [
     "台海",
     "天津"
+   ]
+  },
+  {
+   "title": "Culture, conversation and connection: US youth explore China",
+   "link": "https://news.cgtn.com/news/2026-09-21/Culture-conversation-and-connection-A-youth-journey-through-China-1QCJWZrhCg0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T12:19:47.000Z",
+   "summary": "Culture, conversation and connection: US youth explore China",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4458,6 +4760,14 @@
    "regions": [
     "重庆"
    ]
+  },
+  {
+   "title": "Exchange of visits by Xi, Trump within months a 'historic milestone'",
+   "link": "https://news.cgtn.com/news/2026-09-21/Reciprocal-visits-by-Xi-Trump-within-half-year-a-historic-milestone--1QCqYrKKAM0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T12:07:36.000Z",
+   "summary": "The exchange of visits between the Chinese and US heads of state within six months marks a historic milestone, a Chinese…",
+   "regions": []
   },
   {
    "title": "非遗保护传承“十五五”规划出炉 强调推进系统性保护",
@@ -4522,6 +4832,26 @@
    ]
   },
   {
+   "title": "Inside the world's only WorldSkills Museum in Shanghai",
+   "link": "https://news.cgtn.com/news/2026-09-21/Inside-the-world-s-only-WorldSkills-Museum-in-Shanghai-1QCE1OxpKCc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T11:48:49.000Z",
+   "summary": "Inside the world's only WorldSkills Museum in Shanghai",
+   "regions": []
+  },
+  {
+   "title": "China urges Japan to stop any attempt at 'remilitarization'",
+   "link": "https://news.cgtn.com/news/2026-09-21/China-urges-Japan-to-stop-any-attempt-at-remilitarization--1QCFZMnW5Dq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T11:33:30.000Z",
+   "summary": "China urges Japan to deeply reflect on its history of aggression, heed the calls of regional countries and stop pursuing…",
+   "regions": [
+    "日本",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "第169次中老缅泰湄公河联合巡逻执法行动启动",
    "link": "https://www.chinanews.com.cn/gn/2026/09-21/10700982.shtml",
    "source": "中新网中国",
@@ -4583,6 +4913,17 @@
    ]
   },
   {
+   "title": "China to hold GDI 5th anniversary dialogue at UN, September 25",
+   "link": "https://news.cgtn.com/news/2026-09-21/China-to-hold-GDI-5th-anniversary-dialogue-at-UN-September-25-1QCvk09gid2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T10:05:08.000Z",
+   "summary": "Five years ago today, the Global Development Initiative (GDI) was put forward, and it has yielded fruitful outcomes in i…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "张又侠、刘振立严重违纪违法被开除党籍军籍",
    "link": "https://www.chinanews.com.cn/gn/2026/09-21/10700958.shtml",
    "source": "中新网中国",
@@ -4591,6 +4932,41 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "CGTN's Mike at Dexing: AI Sorting Turns Waste Ore to Gold",
+   "link": "https://news.cgtn.com/news/2026-09-21/CGTN-s-Mike-at-Dexing-AI-Sorting-Turns-Waste-Ore-to-Gold-1QCtEVZLj56/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T09:58:07.000Z",
+   "summary": "CGTN's Mike Walter visited the Dexing Copper Mine in Jiangxi and witnessed a transformation driven by AI-powered ore sor…",
+   "regions": []
+  },
+  {
+   "title": "Xi'an, where the Silk Road meets the screen",
+   "link": "https://news.cgtn.com/news/2026-09-21/Xi-an-where-the-Silk-Road-meets-the-screen-1QCxEbCvfKo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T09:35:30.000Z",
+   "summary": "Xi'an, where the Silk Road meets the screen",
+   "regions": []
+  },
+  {
+   "title": "Harvest season brings China's countryside to life",
+   "link": "https://news.cgtn.com/news/2026-09-21/Harvest-season-brings-China-s-countryside-to-life-1QCuVpxahws/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T08:54:45.000Z",
+   "summary": "The 2026 Chinese Farmers' Harvest Festival will be held in Xiangyang, Hubei Province. Known as a major grain-producing a…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "President Xi replies to US university students",
+   "link": "https://news.cgtn.com/news/2026-09-21/President-Xi-replies-to-students-from-10-US-universities-1QCqt2FhRe0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T08:45:58.000Z",
+   "summary": "Chinese President Xi Jinping recently replied to students from 10 US universities who wrote to him after attending youth…",
+   "regions": []
   },
   {
    "title": "第48届世界技能大赛明晚在上海开幕，开幕式亮点抢先看",
@@ -4686,6 +5062,35 @@
    ]
   },
   {
+   "title": "Explore the 'Tide' sculpture on Beihai's Silver Beach",
+   "link": "https://news.cgtn.com/news/2026-09-21/Explore-the-Tide-sculpture-on-Beihai-s-Silver-Beach-1QCrW1EP00U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T08:34:17.000Z",
+   "summary": "The steel sculpture \"Tide\" is a landmark on Silver Beach in Beihai, Guangxi.",
+   "regions": []
+  },
+  {
+   "title": "Long March's female fighters: History lives on in Wangcang's streets",
+   "link": "https://news.cgtn.com/news/2026-09-21/Long-March-s-female-fighters-History-lives-on-in-Wangcang-s-streets-1QCr5ux9Na8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T08:33:22.000Z",
+   "summary": "Wangcang's centuries-old streets witnessed the formation of the Red Army Women's Independent Division and saw thousands …",
+   "regions": []
+  },
+  {
+   "title": "Where to find giant pandas in the United States",
+   "link": "https://news.cgtn.com/news/2026-09-21/Where-to-find-giant-pandas-in-the-United-States-1QCsluOsncY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T08:32:41.000Z",
+   "summary": "Giant pandas are China's national treasure and have long been popular with people around the world. Over the years, many…",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
+   ]
+  },
+  {
    "title": "东博会“上新”激活区域合作：数智通商路 运河拓新机",
    "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-21/10700804.shtml",
    "source": "中新网滚动",
@@ -4706,6 +5111,14 @@
    "regions": [
     "广州"
    ]
+  },
+  {
+   "title": "This Beijing bridge hides an underwater walkway",
+   "link": "https://news.cgtn.com/news/2026-09-21/This-Beijing-bridge-hides-an-underwater-walkway-1QCsGzq3i5q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T08:30:49.000Z",
+   "summary": "Beneath the Jishuitan Bridge in central Beijing, a nearly 100-meter-long underwater glass walkway has become an unexpect…",
+   "regions": []
   },
   {
    "title": "直播海报：国家发展改革委9月份新闻发布会",
@@ -4895,6 +5308,49 @@
    ]
   },
   {
+   "title": "CPC leadership stresses Party self-governance, sets Party plenum dates",
+   "link": "https://news.cgtn.com/news/2026-09-21/CPC-leadership-stresses-Party-self-governance-sets-Party-plenum-dates-1QCkqPyd3qg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T07:02:57.000Z",
+   "summary": "Xi Jinping, general secretary of the Communist Party of China (CPC) Central Committee, on Monday chaired a meeting of th…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Marching On: From bonds to beyond",
+   "link": "https://news.cgtn.com/news/2026-09-21/Marching-On-From-bonds-to-beyond-1QC3jIqHpwk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T07:02:42.000Z",
+   "summary": "Marching On: From bonds to beyond",
+   "regions": []
+  },
+  {
+   "title": "President Xi Jinping to pay state visit to US from September 23 to 25",
+   "link": "https://news.cgtn.com/news/2026-09-21/Chinese-President-Xi-Jinping-to-pay-state-visit-to-US-from-September-23-to-25-1QC2viaXXNK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T07:02:32.000Z",
+   "summary": "President Xi Jinping to pay state visit to US from September 23 to 25",
+   "regions": []
+  },
+  {
+   "title": "Xi Jinping's key quotes on Global Development Initiative",
+   "link": "https://news.cgtn.com/news/2026-09-21/Xi-Jinping-s-key-quotes-on-Global-Development-Initiative-1QCb89HBpZK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T06:53:16.000Z",
+   "summary": "Xi Jinping's key quotes on Global Development Initiative",
+   "regions": []
+  },
+  {
+   "title": "Expert: Healthy habits key to chronic disease management",
+   "link": "https://news.cgtn.com/news/2026-09-21/Expert-Healthy-habits-key-to-chronic-disease-management-1QzluhNUtXi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T06:51:06.000Z",
+   "summary": "Expert: Healthy habits key to chronic disease management",
+   "regions": []
+  },
+  {
    "title": "中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习",
    "link": "https://www.chinanews.com.cn/gn/2026/09-21/10700740.shtml",
    "source": "中新网中国",
@@ -5017,6 +5473,14 @@
    ]
   },
   {
+   "title": "2026 WMC: Intelligent robots, drones power more real-world scenarios",
+   "link": "https://news.cgtn.com/news/2026-09-21/2026-WMC-Intelligent-robots-drones-power-more-real-world-scenarios-1QCd7sfmbte/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T05:52:02.000Z",
+   "summary": "A range of intelligent equipment designed for high-risk industry applications demonstrated at the 2026 World Manufacturi…",
+   "regions": []
+  },
+  {
    "title": "AI抢不走工作，但会改写青年的“入场方式”",
    "link": "https://www.chinanews.com.cn/sh/2026/09-21/10700706.shtml",
    "source": "中新网社会",
@@ -5076,12 +5540,61 @@
    "regions": []
   },
   {
+   "title": "The 'super seller' behind China's global gaming rise",
+   "link": "https://news.cgtn.com/news/2026-09-21/The-super-seller-behind-China-s-global-gaming-rise-1QxAtMfELaE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T04:48:48.000Z",
+   "summary": "The 'super seller' behind China's global gaming rise",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Q&A: What does the opening of the Pinglu Canal mean for China?",
+   "link": "https://news.cgtn.com/news/2026-09-21/Q-A-What-does-the-opening-of-the-Pinglu-Canal-mean-for-China--1QC7ONXZSPC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T04:35:40.000Z",
+   "summary": "CGTN spoke with Cui Fan, professor at the School of International Trade and Economics at the University of International…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "（乡村行·看振兴）一年“宠”出205亿元：“中国宠物食品之乡”靠“毛孩子”逆袭",
    "link": "https://www.chinanews.com.cn/sh/2026/09-21/10700654.shtml",
    "source": "中新网社会",
    "time": "2026-09-21T04:12:28.000Z",
    "summary": "中新网邢台9月21日电 题：一年“宠”出205亿元：“中国宠物食品之乡”靠“毛孩子”逆袭",
    "regions": []
+  },
+  {
+   "title": "How families can better support loved ones with Alzheimer's",
+   "link": "https://news.cgtn.com/news/2026-09-21/How-families-can-better-support-loved-ones-with-Alzheimer-s-1Qzw3eZJHd6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T04:08:24.000Z",
+   "summary": "How families can better support loved ones with Alzheimer's",
+   "regions": []
+  },
+  {
+   "title": "Xizang Rhapsody | I'm a Modern Monk",
+   "link": "https://news.cgtn.com/news/2026-09-21/Xizang-Rhapsody-I-m-a-Modern-Monk-1QC5StdNrgc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T04:04:03.000Z",
+   "summary": "Xizang Rhapsody | I'm a Modern Monk",
+   "regions": []
+  },
+  {
+   "title": "8 dead, 1 injured after fire at textile factory in south China's Guangdong",
+   "link": "https://news.cgtn.com/news/2026-09-21/8-dead-1-injured-after-fire-at-textile-factory-in-south-China-s-Guangdong-1QC8wPIWBFK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T03:24:58.000Z",
+   "summary": "8 dead, 1 injured after fire at textile factory in south China's Guangdong",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "山东东营以生态立法护大河之洲 推动法规从“纸面”走向“地面”",
@@ -5145,6 +5658,27 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "President Xi Jinping's key quotes on China-US relations",
+   "link": "https://news.cgtn.com/news/2026-09-21/President-Xi-Jinping-s-key-quotes-on-China-US-relations-1QBV0oHDqHS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T03:09:41.000Z",
+   "summary": "Just as Chinese President Xi Jinping has noted on many occasions, China and the United States, as two major countries, c…",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
+   ]
+  },
+  {
+   "title": "Ditan Book Fair 2026: Beijing's enduring bond with the written word",
+   "link": "https://news.cgtn.com/news/2026-09-21/Ditan-Book-Fair-2026-Beijing-s-enduring-bond-with-the-written-word-1QAC4r1oIne/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T03:06:31.000Z",
+   "summary": "Ditan Book Fair 2026: Beijing's enduring bond with the written word",
+   "regions": []
   },
   {
    "title": "五部门联合出手：严惩生态环境技术服务机构弄虚作假",
@@ -5462,6 +5996,17 @@
    "time": "2026-09-21T15:10:31.000Z",
    "summary": "中新社北京9月21日电 (记者 吕少威)21日在北京发布的《2026年中国人工智能计算力发展评估报告》显示，在2026年中国人工智能算力城市排行榜中，北京、杭州、深圳位列前三，上海、广州、成都、南京、武汉、济南、苏州进入前十。",
    "regions": []
+  },
+  {
+   "title": "China to see annual grain output exceed 4.5 trln yuan during 2026-2030",
+   "link": "https://news.cgtn.com/news/2026-09-21/China-to-see-annual-grain-output-exceed-4-5-trln-yuan-during-2026-2030-1QCOi2MHLuo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T14:47:30.000Z",
+   "summary": "The annual industrial output value of China's grain industry is expected to exceed 4.5 trillion yuan ($666.8 billion) du…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "石油城里石榴红 大庆各族群众携手绘就民族团结进步新图景",
@@ -5784,6 +6329,17 @@
    "regions": [
     "长沙",
     "湖南"
+   ]
+  },
+  {
+   "title": "What China, US have agreed in previous economic, trade consultations",
+   "link": "https://news.cgtn.com/news/2026-09-21/What-China-US-have-agreed-in-previous-economic-trade-consultations-1QCc2G5AvOU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T09:54:44.000Z",
+   "summary": "Here is a recap of the rounds of China-US economic and trade consultations since 2025.",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -6162,6 +6718,17 @@
    ]
   },
   {
+   "title": "China, US have candid and in-depth exchanges on economy and trade",
+   "link": "https://news.cgtn.com/news/2026-09-21/news-1QC2VLp4QzC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-21T02:06:38.000Z",
+   "summary": "Chinese and US teams on Sunday held candid, in-depth and constructive exchanges during consultations on economic and tra…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "打通民事权利救济堵点 最高法民刑交叉司法解释明起施行",
    "link": "https://www.chinanews.com.cn/gn/2026/09-21/10700564.shtml",
    "source": "中新网中国",
@@ -6225,5 +6792,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-22T01:43:51.708Z"
+ "updatedAt": "2026-09-22T07:12:34.563Z"
 }
