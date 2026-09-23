@@ -2327,6 +2327,17 @@
    ]
   },
   {
+   "title": "【地震 M2.6】56 km S of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026srxfgq",
+   "source": "USGS地震台网",
+   "time": "2026-09-22T16:50:40.191Z",
+   "summary": "美国地质调查局官方监测：56 km S of Whites City, New Mexico发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M2.8】59 km S of Whites City, New Mexico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000twx2",
    "source": "USGS地震台网",
@@ -7303,5 +7314,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-23T07:12:54.107Z"
+ "updatedAt": "2026-09-23T12:52:40.217Z"
 }
