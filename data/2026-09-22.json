@@ -306,6 +306,22 @@
    "regions": []
   },
   {
+   "title": "JimuReport v2.5.4 发布，报表与大屏双端安全加固",
+   "link": "https://www.oschina.net/news/502680",
+   "source": "开源中国",
+   "time": "2026-09-22T15:11:09.000Z",
+   "summary": "项目介绍 真正的 AI 报表来了，一句话描述需求，AI 自动生成报表与数据大屏，支持对话式修改报表；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景 :sparkles: 积木报表是一款免费的数据可视化报…",
+   "regions": []
+  },
+  {
+   "title": "JimuChatBI v1.2.0 版本发布，免费开源的对话式 Chat2BI 智能问数",
+   "link": "https://www.oschina.net/news/502679",
+   "source": "开源中国",
+   "time": "2026-09-22T15:10:07.000Z",
+   "summary": "项目介绍 JimuChatBI 积木问数（Chat2BI）是积木报表推出的对话式智能数据分析产品，也是目前国内首款免费开源的 Chat2BI 智能问数方案 :sparkles: 它以语义建模构建可信数据底座，业务同学无需写 SQL、不懂建模…",
+   "regions": []
+  },
+  {
    "title": "消息称微软研发小尺寸 Surface：12 英寸屏幕，或采用英伟达 RTX Spark 芯片",
    "link": "https://www.ithome.com/1/005/986.htm",
    "source": "IT之家",
@@ -354,6 +370,14 @@
    "regions": []
   },
   {
+   "title": "既不会聊天也不写代码的Jev为什么突然这么火？",
+   "link": "https://www.oschina.net/news/502678",
+   "source": "开源中国",
+   "time": "2026-09-22T14:47:02.000Z",
+   "summary": "最近一个由TypeSafe AI公司推出的模型叫Jev的模型突然火出了圈它和我们熟悉的GPT、Claude、Qwen等模型完全不一样，你让它给你写文章它不会、让它陪你聊天也不行；甚至让它解释为什么这么判断也不是它能做到的事。那Jev能为我们…",
+   "regions": []
+  },
+  {
    "title": "英伟达黄仁勋解释为何每天穿黑色皮衣：可以少做一个选择，让我把精力放在更重要的事情",
    "link": "https://www.ithome.com/1/005/980.htm",
    "source": "IT之家",
@@ -399,6 +423,14 @@
    "source": "IT之家",
    "time": "2026-09-22T14:15:55.000Z",
    "summary": "IT之家 9 月 22 日消息，经过数月的预热与爆料，苹果旗下 Beats 于今日正式发布了全新的 Beats 360 头戴式耳机。这款产品售价 2999 元，是 Beats 对头戴耳机设计思路的一次重新探索，着重优化音质、佩戴舒适度以及个…",
+   "regions": []
+  },
+  {
+   "title": "Agent 时代，如何正确给大模型接入数据库？",
+   "link": "https://www.oschina.net/news/502677",
+   "source": "开源中国",
+   "time": "2026-09-22T14:11:40.000Z",
+   "summary": "很多人尝试给 Agent 接数据库，第一反应往往是拿本地脚本直连，或者找个现成的数据库 MCP 暴露 DDL 和执行接口。Demo 很容易跑通，但一旦进真实场景就会发现：大模型搞不懂缩写和数字枚举、复杂多表联查极易写错、生产账号密码暴露在客…",
    "regions": []
   },
   {
@@ -1864,6 +1896,30 @@
    ]
   },
   {
+   "title": "How can tensions ease for China-US trade?",
+   "link": "https://newsus.cgtn.com/news/2026-09-23/How-can-tensions-ease-for-China-US-trade--1QF8wpiLWeI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T22:49:20.000Z",
+   "summary": "The U.S.-initiated trade war against China and most other global trading partners has eased since President Donald Trump…",
+   "regions": []
+  },
+  {
+   "title": "Trump rebrands AI to SI or Super Intelligence",
+   "link": "https://newsus.cgtn.com/news/2026-09-23/Trump-rebrands-AI-to-SI-or-Super-Intelligence-1QF7p3hIrPG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T22:49:13.000Z",
+   "summary": "U.S. President Donald Trump used his UN General Assembly address to promote a new name and approach for artificial intel…",
+   "regions": []
+  },
+  {
+   "title": "China promotes equal voice for all countries at UN",
+   "link": "https://newsus.cgtn.com/news/2026-09-23/China-promotes-equal-voice-for-all-countries-at-UN-1QF6W5xRefu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T22:49:03.000Z",
+   "summary": "The idea that every country deserves a voice in shaping the rules that affect its future is a central principle of China…",
+   "regions": []
+  },
+  {
    "title": "伊朗外长与美特使在纽约会晤",
    "link": "https://www.chinanews.com.cn/gj/2026/09-23/10701923.shtml",
    "source": "中新网国际",
@@ -1872,6 +1928,17 @@
    "regions": [
     "中东",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】68 km SSW of Labuan, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000twzp",
+   "source": "USGS地震台网",
+   "time": "2026-09-22T22:27:38.897Z",
+   "summary": "美国地质调查局官方监测：68 km SSW of Labuan, Indonesia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
    ]
   },
   {
@@ -1895,6 +1962,17 @@
    "regions": [
     "美洲",
     "江苏"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】20 km WSW of Roncesvalles, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000twzi",
+   "source": "USGS地震台网",
+   "time": "2026-09-22T22:12:26.733Z",
+   "summary": "美国地质调查局官方监测：20 km WSW of Roncesvalles, Colombia发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
    ]
   },
   {
@@ -2136,6 +2214,14 @@
    ]
   },
   {
+   "title": "Trump rejects calls for international regulation on AI",
+   "link": "https://newsaf.cgtn.com/news/2026-09-23/Trump-rejects-calls-for-international-regulation-on-AI-1QERAP8hmLK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T18:53:32.000Z",
+   "summary": "The United States totally rejects any attempt to \"construct a globalist scheme\" to control the artificial intelligence b…",
+   "regions": []
+  },
+  {
    "title": "特朗普：可能再与普京举行一次会晤",
    "link": "https://sputniknews.cn/20260923/1073353138.html",
    "source": "卫星社中文",
@@ -2192,6 +2278,14 @@
    ]
   },
   {
+   "title": "Cuban delegates exit UNGA meeting hall as Trump speaks on Cuba",
+   "link": "https://newsaf.cgtn.com/news/2026-09-23/Cuban-delegates-exit-UNGA-meeting-hall-as-Trump-speaks-on-Cuba-1QEKjhVTbCE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T17:35:47.000Z",
+   "summary": "Video footage shows that multiple delegates rose and left the Cuban seats in protest as Trump described Cuba as a \"faile…",
+   "regions": []
+  },
+  {
    "title": "特朗普：只要自己是总统 就不会征收全球性税收",
    "link": "https://sputniknews.cn/20260923/1073352642.html",
    "source": "卫星社中文",
@@ -2211,6 +2305,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal",
+   "link": "https://newsaf.cgtn.com/news/2026-09-23/Trump-warns-in-UN-speech-he-could-annihilate-Iran-without-peace-deal-1QEGX6APjmU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T16:56:02.000Z",
+   "summary": "\"I will never allow Iran to have a nuclear weapon,\" Trump told the 81st session of the General Assembly, describing Tehr…",
+   "regions": []
   },
   {
    "title": "古巴外交官们在特朗普发表讲话后离开联合国大会大厅",
@@ -2353,6 +2455,14 @@
    ]
   },
   {
+   "title": "Where can China and US find room for cooperation amid competition?",
+   "link": "https://news.cgtn.com/news/2026-09-22/Where-can-China-and-US-find-room-for-cooperation-amid-competition--1QEkKhvaw36/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T15:28:06.000Z",
+   "summary": "As Chinese President Xi Jinping prepares to pay a state visit to the United States from September 23 to 25, experts say …",
+   "regions": []
+  },
+  {
    "title": "美国国务卿：乌克兰冲突不存在军事解决方案 将在谈判桌上结束",
    "link": "https://sputniknews.cn/20260922/1073351360.html",
    "source": "卫星社中文",
@@ -2456,6 +2566,14 @@
    ]
   },
   {
+   "title": "UN chief calls for AI curbs, end to wars in his final assembly address",
+   "link": "https://news.cgtn.com/news/2026-09-22/UN-chief-calls-for-AI-curbs-end-to-wars-in-his-final-assembly-address-1QExRUorOp2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T14:39:21.000Z",
+   "summary": "United Nations Secretary-General António Guterres, whose second five-year term ends on December 31, reiterated his calls…",
+   "regions": []
+  },
+  {
    "title": "（爱知·名古屋亚运会）中国羽毛球男女团体赛首秀告捷 双双晋级四强",
    "link": "https://www.chinanews.com.cn/ty/2026/09-22/10701868.shtml",
    "source": "中新网滚动",
@@ -2510,6 +2628,14 @@
    ]
   },
   {
+   "title": "Why China's Five-Year Plan matters for America",
+   "link": "https://news.cgtn.com/news/2026-09-22/Why-China-s-Five-Year-Plan-matters-for-America-1QEbnixJSPC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T14:15:59.000Z",
+   "summary": "As President Xi Jinping arrives in Washington this week for a state visit running September 23 to 25, the commentary in …",
+   "regions": []
+  },
+  {
    "title": "联合国秘书长：乌克兰袭击造成俄罗斯平民伤亡",
    "link": "https://sputniknews.cn/20260922/1073351125.html",
    "source": "卫星社中文",
@@ -2529,6 +2655,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "11 ASEAN member states, one expo – What's there to discover?",
+   "link": "https://news.cgtn.com/news/2026-09-22/11-ASEAN-member-states-one-expo-What-s-there-to-discover--1QEvjBhwz8k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T14:06:47.000Z",
+   "summary": "11 ASEAN member states, one expo – What's there to discover?",
+   "regions": []
   },
   {
    "title": "联合国秘书长：全球制度已不再反映当代的力量平衡",
@@ -2736,6 +2870,14 @@
    ]
   },
   {
+   "title": "Where are China-US trade relations headed?",
+   "link": "https://news.cgtn.com/news/2026-09-22/Where-is-China-US-trade-relations-headed--1QE4ZUNerQs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T12:10:26.000Z",
+   "summary": "CGTN spoke with multiple scholars who shared their thoughts on China-US trade relations.",
+   "regions": []
+  },
+  {
    "title": "乌军无人机袭击致扎波罗热核电站辐射监测站受损",
    "link": "https://sputniknews.cn/20260922/1073349437.html",
    "source": "卫星社中文",
@@ -2854,6 +2996,36 @@
    ]
   },
   {
+   "title": "英国首相伯纳姆：将以新的方式应对未来十年的全球挑战",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142847",
+   "source": "联合国新闻",
+   "time": "2026-09-22T12:00:00.000Z",
+   "summary": "英国首相伯纳姆周二在联合国大会第八十一届会议一般性辩论上发表讲话说，英国将从过去十年的经验中汲取教训，在未来十年应对不断变化的世界，恢复国家稳定，建设更具活力的经济，并与世界开展贸易、携手解决共同面临的问题。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "高市早苗：国际秩序面临挑战 日本重申对联合国和多边主义的承诺",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142846",
+   "source": "联合国新闻",
+   "time": "2026-09-22T12:00:00.000Z",
+   "summary": "日本首相高市早苗周二在联合国大会第八十一届会议一般性辩论中表示，国际秩序正经历极不稳定时期，基于法治的自由开放的国际秩序面临严峻挑战。地缘政治竞争加剧，冲突、生活成本上升、发展受阻和人权问题不断出现。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "越南国家主席苏林：将选择和平、合作与发展",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142845",
+   "source": "联合国新闻",
+   "time": "2026-09-22T12:00:00.000Z",
+   "summary": "越南国家主席苏林周二在联合国大会一般性辩论中表示，世界正经历国际秩序深刻变革，使用或威胁使用武力、军备竞赛、经济和技术壁垒、气候变化以及新兴技术风险正在加剧不确定性。他表示，冲突和对抗并非不可避免，越南将选择和平、合作与发展，并推动重建对国…",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
    "title": "媒体：欧盟对乌克兰提出的资金额请求表示怀疑",
    "link": "https://sputniknews.cn/20260922/1073349328.html",
    "source": "卫星社中文",
@@ -2863,6 +3035,14 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "Decoding 'constructive strategic stability' ahead of Xi's US visit",
+   "link": "https://news.cgtn.com/news/2026-09-22/Decoding-constructive-strategic-stability-ahead-of-Xi-s-US-visit-1QE9pBbWhvW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T11:46:50.000Z",
+   "summary": "What does \"constructive strategic stability\" mean for the future of bilateral ties? How can Beijing and Washington stren…",
+   "regions": []
   },
   {
    "title": "【地震 M4.7】7 km WNW of La Gomera, Guatemala",
@@ -2916,6 +3096,14 @@
    "regions": []
   },
   {
+   "title": "As AI transforms healthcare, China and the US find common ground",
+   "link": "https://news.cgtn.com/news/2026-09-22/As-AI-transforms-healthcare-China-and-the-US-find-common-ground-1QEeSdIMhbO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T11:15:37.000Z",
+   "summary": "As AI transforms healthcare, China and the US find common ground",
+   "regions": []
+  },
+  {
    "title": "佩斯科夫：俄罗斯主张在乌克兰实现持久和平而不是暂时停火",
    "link": "https://sputniknews.cn/20260922/1073348961.html",
    "source": "卫星社中文",
@@ -2924,6 +3112,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "UN panel warns traditional AI safeguards unraveling as agents advance",
+   "link": "https://news.cgtn.com/news/2026-09-22/UN-panel-warns-traditional-AI-safeguards-unraveling-as-agents-advance-1QDX7w8FGRa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T11:09:53.000Z",
+   "summary": "An UN-backed scientific panel on artificial intelligence (AI) warned Monday that traditional safeguards for AI agents ar…",
+   "regions": []
   },
   {
    "title": "克宫：经济情况和前线局势对于乌克兰来说都日渐恶化",
@@ -3020,6 +3216,14 @@
    ]
   },
   {
+   "title": "Kremlin says US visa denial for deputy FM is 'unfriendly' act",
+   "link": "https://news.cgtn.com/news/2026-09-22/news-1QEeieQ8fOE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T09:40:51.000Z",
+   "summary": "Kremlin says US visa denial for deputy FM is 'unfriendly' act",
+   "regions": []
+  },
+  {
    "title": "俄国防部：俄防空系统一日内击落乌军629架无人机6枚航空炸弹和1枚“海马斯”炮弹",
    "link": "https://sputniknews.cn/20260922/1073347821.html",
    "source": "卫星社中文",
@@ -3091,11 +3295,27 @@
    ]
   },
   {
+   "title": "Liu Dewen returns after 8 years to win Asian Games gold medal in Wushu",
+   "link": "https://news.cgtn.com/news/2026-09-22/Liu-Dewen-returns-after-8-years-to-win-Asian-Games-gold-medal-in-Wushu-1QE0bz7Ky9G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T09:04:49.000Z",
+   "summary": "Liu Dewen returns after 8 years to win Asian Games gold medal in Wushu",
+   "regions": []
+  },
+  {
    "title": "在武汉邂逅“微笑天使”江豚，中外代表问出一个引人深思的问题 | 中国不一样",
    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701428.shtml",
    "source": "中新网国际",
    "time": "2026-09-22T08:54:16.000Z",
    "summary": "中新网9月22日电 (记者 吴辛茹)近日，“2026世界市长对话·武汉”活动举办。多国嘉宾走进长江江豚繁育保护中心，近距离邂逅被誉为“微笑天使”的长江江豚，实地感受武汉守护长江生态的实践与探索。",
+   "regions": []
+  },
+  {
+   "title": "Refugee taekwondo athlete Al Hinide targets gold medal at Asian Games",
+   "link": "https://news.cgtn.com/news/2026-09-22/Refugee-taekwondo-athlete-Al-Hinide-targets-gold-medal-at-Asian-Games-1QDSgAyMo24/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T08:50:33.000Z",
+   "summary": "Refugee taekwondo athlete Al Hinide targets gold medal at Asian Games",
    "regions": []
   },
   {
@@ -3128,6 +3348,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Han Zheng to attend general debate of 81st session of UNGA",
+   "link": "https://news.cgtn.com/news/2026-09-22/Han-Zheng-to-attend-general-debate-of-81st-session-of-UNGA-1QE6HwYc6t2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T08:29:22.000Z",
+   "summary": "Chinese Vice President Han Zheng will attend the general debate of the 81st session of the United Nations General Assemb…",
+   "regions": []
   },
   {
    "title": "核能依赖：克宫牵制华盛顿的隐形筹码",
@@ -3170,6 +3398,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "Meta shares jump, AI agent Muse tops US App Store",
+   "link": "https://news.cgtn.com/news/2026-09-22/Meta-shares-jump-AI-agent-Muse-tops-US-App-Store-1QE25fHh2rC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T07:51:57.000Z",
+   "summary": "Meta shares jump, AI agent Muse tops US App Store",
+   "regions": []
   },
   {
    "title": "媒体：习近平访美期间或要求特朗普停止对台军售",
@@ -3235,6 +3471,22 @@
    ]
   },
   {
+   "title": "Fighting transnational crime opens space for China-US cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-22/Fighting-transnational-crime-opens-space-for-China-US-cooperation-1QDSJUCHHOM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T07:17:52.000Z",
+   "summary": "China and the United States have stepped up law enforcement cooperation in recent months, with joint operations targetin…",
+   "regions": []
+  },
+  {
+   "title": "How China, US share AI governance beyond the distillation dispute",
+   "link": "https://news.cgtn.com/news/2026-09-22/How-China-US-share-AI-governance-beyond-the-distillation-dispute-1QE275SQvDO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T07:13:18.000Z",
+   "summary": "How China, US share AI governance beyond the distillation dispute",
+   "regions": []
+  },
+  {
    "title": "俄国防部：俄军在夜间打击期间动用“锆石”导弹",
    "link": "https://sputniknews.cn/20260922/1073344594.html",
    "source": "卫星社中文",
@@ -3275,6 +3527,14 @@
    ]
   },
   {
+   "title": "Barcelona's perfect start: Real dominance or simply a hot streak?",
+   "link": "https://news.cgtn.com/news/2026-09-22/Barcelona-s-perfect-start-Real-dominance-or-simply-a-hot-streak--1QDPIcIDvoI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T06:51:21.000Z",
+   "summary": "Barcelona's perfect start: Real dominance or simply a hot streak?",
+   "regions": []
+  },
+  {
    "title": "阿根廷总统表态：不会用军事手段解决马岛主权争端",
    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701451.shtml",
    "source": "中新网国际",
@@ -3305,6 +3565,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "China collects 12 golds as records fall on Day 2 at 2026 Asian Games",
+   "link": "https://news.cgtn.com/news/2026-09-22/China-collects-12-golds-as-records-fall-on-Day-2-at-2026-Asian-Games-1QDHxqMrOfK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T06:29:49.000Z",
+   "summary": "China collects 12 golds as records fall on Day 2 at 2026 Asian Games",
+   "regions": []
   },
   {
    "title": "澳大利亚记者对纳粹主义在乌克兰蔓延感到震惊",
@@ -3444,6 +3712,14 @@
    ]
   },
   {
+   "title": "Britain to provide Saudi Arabia with defensive military support",
+   "link": "https://news.cgtn.com/news/2026-09-22/Britain-to-provide-Saudi-Arabia-with-defensive-military-support-1QDNb2gHfFK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T05:20:31.000Z",
+   "summary": "Britain will provide defensive air-to-air refueling support to Saudi Arabia in response to recent attacks by Yemen's Hou…",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.0】Volcano Islands, Japan region",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k",
    "source": "USGS地震台网",
@@ -3475,6 +3751,14 @@
     "朝鲜半岛",
     "美洲"
    ]
+  },
+  {
+   "title": "Iranian president to attend UNGA session amid rising tensions with US",
+   "link": "https://news.cgtn.com/news/2026-09-22/Iranian-president-to-attend-UNGA-session-amid-rising-tensions-with-US-1QDIjtNL7Xy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-22T04:56:35.000Z",
+   "summary": "Iran's President Masoud Pezeshkian will attend the 81st session of the United Nations General Assembly (UNGA) held in Ne…",
+   "regions": []
   },
   {
    "title": "俄外交部：俄方不认为古特雷斯是乌克兰问题严肃认真的调解人",
@@ -3952,6 +4236,18 @@
    ]
   },
   {
+   "title": "Hong Kong, Macao youth get close-up look at military life",
+   "link": "https://news.cgtn.com/news/2026-09-22/Hong-Kong-Macao-youth-get-close-up-look-at-military-life-1QCN1BIiA9O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T03:18:47.000Z",
+   "summary": "Hong Kong, Macao youth get close-up look at military life",
+   "regions": [
+    "香港",
+    "亚太",
+    "澳门"
+   ]
+  },
+  {
    "title": "沉浸式体验让岛内观众直呼“震撼”",
    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701215.shtml",
    "source": "中新网滚动",
@@ -3998,6 +4294,36 @@
    "regions": []
   },
   {
+   "title": "Trump rebrands AI to SI or Super Intelligence",
+   "link": "https://newsus.cgtn.com/news/2026-09-23/Trump-rebrands-AI-to-SI-or-Super-Intelligence-1QF7p3hIrPG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T22:49:13.000Z",
+   "summary": "U.S. President Donald Trump used his UN General Assembly address to promote a new name and approach for artificial intel…",
+   "regions": []
+  },
+  {
+   "title": "China promotes equal voice for all countries at UN",
+   "link": "https://newsus.cgtn.com/news/2026-09-23/China-promotes-equal-voice-for-all-countries-at-UN-1QF6W5xRefu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T22:49:03.000Z",
+   "summary": "The idea that every country deserves a voice in shaping the rules that affect its future is a central principle of China…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Can China and the US reach consensus on AI guardrails?",
+   "link": "https://newsus.cgtn.com/news/2026-09-23/Can-China-and-the-US-reach-consensus-on-AI-guardrails--1QF6NeUDZ6g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T22:48:56.000Z",
+   "summary": "As Chinese President Xi prepares for his U.S. visit, Chinese and U.S. representatives are expected to have discussions o…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "中疾控提示：手足口病进入高发期，这样预防别大意",
    "link": "https://www.chinanews.com.cn/jk/2026/09-23/10701920.shtml",
    "source": "中新网滚动",
@@ -4021,6 +4347,27 @@
    "summary": "中秋佳节将至，9月22日，四川商务职业学院组织中外学子开展“沉浸式中秋民俗体验”主题交流活动。老挝留学生与中国学生携手制月饼、话团圆，在互动中感受中华优秀传统文化的魅力。",
    "regions": [
     "四川"
+   ]
+  },
+  {
+   "title": "Xi Jinping sends congratulatory letter to 48th WorldSkills Competition",
+   "link": "https://news.cgtn.com/news/2026-09-22/Xi-Jinping-sends-congratulatory-letter-to-48th-WorldSkills-Competition-1QEuRd0Xpo4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T15:29:05.000Z",
+   "summary": "Chinese President Xi Jinping sent a congratulatory letter on Tuesday to the 48th WorldSkills Competition.",
+   "regions": []
+  },
+  {
+   "title": "Where can China and US find room for cooperation amid competition?",
+   "link": "https://news.cgtn.com/news/2026-09-22/Where-can-China-and-US-find-room-for-cooperation-amid-competition--1QEkKhvaw36/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T15:28:06.000Z",
+   "summary": "As Chinese President Xi Jinping prepares to pay a state visit to the United States from September 23 to 25, experts say …",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
    ]
   },
   {
@@ -4154,6 +4501,33 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "Why China's Five-Year Plan matters for America",
+   "link": "https://news.cgtn.com/news/2026-09-22/Why-China-s-Five-Year-Plan-matters-for-America-1QEbnixJSPC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T14:15:59.000Z",
+   "summary": "As President Xi Jinping arrives in Washington this week for a state visit running September 23 to 25, the commentary in …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Chinese premier calls for expediting development of future industries",
+   "link": "https://news.cgtn.com/news/2026-09-22/Chinese-premier-stresses-faster-development-of-emerging-industries-1QEtQZoSx3i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T14:10:03.000Z",
+   "summary": "Chinese Premier Li Qiang on Tuesday called for efforts to vigorously develop next-generation intelligent manufacturing, …",
+   "regions": []
+  },
+  {
+   "title": "11 ASEAN member states, one expo – What's there to discover?",
+   "link": "https://news.cgtn.com/news/2026-09-22/11-ASEAN-member-states-one-expo-What-s-there-to-discover--1QEvjBhwz8k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T14:06:47.000Z",
+   "summary": "11 ASEAN member states, one expo – What's there to discover?",
+   "regions": []
   },
   {
    "title": "2026年中国农民丰收节山东主场活动启幕",
@@ -4292,6 +4666,14 @@
    ]
   },
   {
+   "title": "I covered Xi’s meetings with three US presidents.",
+   "link": "https://newsus.cgtn.com/news/2026-09-22/I-covered-Xi-s-meetings-with-three-US-presidents--1QEwi24WK6A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T13:53:07.000Z",
+   "summary": "I covered Xi’s meetings with three US presidents.",
+   "regions": []
+  },
+  {
    "title": "新疆首家动物胚胎工厂化生产基地已生产胚胎逾2500枚",
    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701787.shtml",
    "source": "中新网社会",
@@ -4423,6 +4805,14 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "Crossing the snow-capped mountains: Epic of the Long March",
+   "link": "https://news.cgtn.com/news/2026-09-22/Crossing-the-snow-capped-mountains-Epic-of-the-Long-March-1QEmaLGvoys/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T12:59:01.000Z",
+   "summary": "Crossing the snow-capped mountains: Epic of the Long March",
+   "regions": []
   },
   {
    "title": "西藏博物馆改扩建项目获中国土木工程詹天佑奖",
@@ -4684,6 +5074,14 @@
    ]
   },
   {
+   "title": "The Qinggangpo Battle Site: A pivotal chapter of the Long March",
+   "link": "https://news.cgtn.com/news/2026-09-22/The-Qinggangpo-Battle-Site-A-pivotal-chapter-of-the-Long-March-1QEn9y0jRWU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T12:01:45.000Z",
+   "summary": "The Qinggangpo Battle Site: A pivotal chapter of the Long March",
+   "regions": []
+  },
+  {
    "title": "千年唐构与山水视域如何“依法守护”？ 海外华文媒体探访佛光寺",
    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701682.shtml",
    "source": "中新网社会",
@@ -4705,6 +5103,14 @@
    ]
   },
   {
+   "title": "The 48th WorldSkills Competition kicks off in Shanghai",
+   "link": "https://news.cgtn.com/news/2026-09-22/The-48th-WorldSkills-Competition-kicks-off-in-Shanghai-1QEnNmXAQbS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T11:58:55.000Z",
+   "summary": "The 48th WorldSkills Competition kicks off in Shanghai",
+   "regions": []
+  },
+  {
    "title": "“西城大妈”里怎么会有一位美国“大爷”？",
    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701766.shtml",
    "source": "中新网社会",
@@ -4713,6 +5119,17 @@
    "regions": [
     "美洲",
     "北京"
+   ]
+  },
+  {
+   "title": "President Xi's key quotes on China-US people-to-people exchanges",
+   "link": "https://news.cgtn.com/news/2026-09-22/President-Xi-s-key-quotes-on-China-US-people-to-people-exchanges-1QE6Mugop0s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T11:51:36.000Z",
+   "summary": "Chinese President Xi Jinping has on many occasions stressed that fostering friendly exchanges and mutual understanding i…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4735,6 +5152,14 @@
     "美洲",
     "北京"
    ]
+  },
+  {
+   "title": "Decoding 'constructive strategic stability' ahead of Xi's US visit",
+   "link": "https://news.cgtn.com/news/2026-09-22/Decoding-constructive-strategic-stability-ahead-of-Xi-s-US-visit-1QE9pBbWhvW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T11:46:50.000Z",
+   "summary": "What does \"constructive strategic stability\" mean for the future of bilateral ties? How can Beijing and Washington stren…",
+   "regions": []
   },
   {
    "title": "对五棵五千年以上古树立法保护 陕西修订古树名木保护条例",
@@ -4769,6 +5194,17 @@
    ]
   },
   {
+   "title": "Responsible AI: China's policy and practice",
+   "link": "https://news.cgtn.com/news/2026-09-22/Responsible-AI-China-s-policy-and-practice-1QE1bN4PK7e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T11:29:04.000Z",
+   "summary": "Responsible AI: China's policy and practice",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "中国最北铁路一等站新建站房主体封顶",
    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701642.shtml",
    "source": "中新网社会",
@@ -4788,6 +5224,14 @@
    ]
   },
   {
+   "title": "The 2026 Global Sustainable Transport Forum kicks off in Beijing",
+   "link": "https://news.cgtn.com/news/2026-09-22/The-2026-Global-Sustainable-Transport-Forum-kicks-off-in-Beijing-1QEhQqKaHQI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T11:23:55.000Z",
+   "summary": "The 2026 Global Sustainable Transport Forum kicks off in Beijing",
+   "regions": []
+  },
+  {
    "title": "广东预计中秋假期总体出行流量轻微增长",
    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701634.shtml",
    "source": "中新网社会",
@@ -4796,6 +5240,17 @@
    "regions": [
     "广州",
     "广东"
+   ]
+  },
+  {
+   "title": "As AI transforms healthcare, China and the US find common ground",
+   "link": "https://news.cgtn.com/news/2026-09-22/As-AI-transforms-healthcare-China-and-the-US-find-common-ground-1QEeSdIMhbO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T11:15:37.000Z",
+   "summary": "As AI transforms healthcare, China and the US find common ground",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4874,6 +5329,28 @@
    ]
   },
   {
+   "title": "Xi extends greetings ahead of farmers' harvest festival",
+   "link": "https://news.cgtn.com/news/2026-09-22/Xi-extends-greetings-ahead-of-farmers-harvest-festival-1QE7BcfcGmQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T10:26:04.000Z",
+   "summary": "Xi Jinping, general secretary of the Communist Party of China (CPC) Central Committee, has extended festive greetings an…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "SRIFF 2026: Indonesian filmmaker finding her voice on screen",
+   "link": "https://news.cgtn.com/news/2026-09-22/SRIFF-2026-Indonesian-filmmaker-finding-her-voice-on-screen-1QEffZj3g8o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T10:08:33.000Z",
+   "summary": "SRIFF 2026: Indonesian filmmaker finding her voice on screen",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
    "title": "华西多地日照时数不足1小时 月底前秋雨绵绵不断",
    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701604.shtml",
    "source": "中新网社会",
@@ -4896,6 +5373,19 @@
    ]
   },
   {
+   "title": "SRIFF 2026: A shared devotion to art – Italy and China via the lens",
+   "link": "https://news.cgtn.com/news/2026-09-22/SRIFF-2026-A-shared-devotion-to-art-Italy-and-China-via-the-lens-1QEeb8xJ7A4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T10:01:28.000Z",
+   "summary": "SRIFF 2026: A shared devotion to art – Italy and China via the lens",
+   "regions": [
+    "中国",
+    "亚太",
+    "意大利",
+    "欧洲"
+   ]
+  },
+  {
    "title": "企业境外反垄断合规指引修订草案公开征求意见",
    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701599.shtml",
    "source": "中新网中国",
@@ -4904,11 +5394,52 @@
    "regions": []
   },
   {
+   "title": "The American couple who delivered better milk for China's children",
+   "link": "https://news.cgtn.com/news/2026-09-22/The-American-couple-who-delivered-better-milk-for-China-s-children-1QEcGFwKEqA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T10:00:16.000Z",
+   "summary": "The American couple who delivered better milk for China's children",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "铸牢共同体 中华一家亲｜85%背后的绿色接力",
    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701594.shtml",
    "source": "中新网社会",
    "time": "2026-09-22T09:56:46.000Z",
    "summary": "昔日黄沙蔽日，今朝满目青翠！走进乌审旗毛乌素沙地生命共同体科研中心，新旧对比的生态图景扑面而来。鲜活的沙生植物、生动的治沙人物塑像、详实的沙盘数据、动态的生态大数据屏幕，清晰记录着毛乌素沙地从荒漠戈壁到绿洲沃野的惊艳蜕变。9月21日，“铸牢…",
+   "regions": []
+  },
+  {
+   "title": "China's agriculture is well-positioned to tackle El Niño：NDRC",
+   "link": "https://news.cgtn.com/news/2026-09-22/China-s-agriculture-is-well-positioned-to-tackle-El-Ni-o-NDRC-1QEet3Riy4w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T09:53:11.000Z",
+   "summary": "China's agriculture is well-positioned to tackle El Niño：NDRC",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China targets price wars, pushes for quality-driven competition",
+   "link": "https://news.cgtn.com/news/2026-09-22/China-targets-price-wars-pushes-for-quality-driven-competition-1QE5WxLyaJO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T09:51:29.000Z",
+   "summary": "China targets price wars, pushes for quality-driven competition",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Chinese space professionals on change, continuity in the industry",
+   "link": "https://news.cgtn.com/news/2026-09-22/Chinese-space-professionals-on-change-continuity-in-the-industry-1QEdBgfPtyU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T09:50:10.000Z",
+   "summary": "Chinese space professionals on change, continuity in the industry",
    "regions": []
   },
   {
@@ -4949,6 +5480,14 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "SRIFF 2026: A century of animation, bridging two ancient civilizations",
+   "link": "https://news.cgtn.com/news/2026-09-22/SRIFF-2026-A-century-of-animation-bridging-two-ancient-civilizations-1QEd7uOsTTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T09:32:06.000Z",
+   "summary": "SRIFF 2026: A century of animation, bridging two ancient civilizations",
+   "regions": []
   },
   {
    "title": "中国自然资源部：稳步推进约300个能源资源基地建设",
@@ -5031,6 +5570,14 @@
    ]
   },
   {
+   "title": "Silk Road film exchange and promotion highlighted in Xi'an",
+   "link": "https://news.cgtn.com/news/2026-09-22/Silk-Road-film-exchange-and-promotion-highlighted-in-Xi-an-1QE9RN2YTGo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T08:54:37.000Z",
+   "summary": "The 2026 Silk Road Outstanding Films Exchange and Promotion Event opened in Xi'an, Shaanxi Province on September 20 as p…",
+   "regions": []
+  },
+  {
    "title": "习近平主席这样阐释中美相处之道",
    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701476.shtml",
    "source": "中新网中国",
@@ -5038,6 +5585,41 @@
    "summary": "应美利坚合众国总统特朗普邀请，国家主席习近平将于9月23日至25日对美国进行国事访问。",
    "regions": [
     "美洲"
+   ]
+  },
+  {
+   "title": "Drones light up sky at 2026 Mid-Autumn Gala",
+   "link": "https://news.cgtn.com/news/2026-09-22/Drones-light-up-sky-at-2026-Mid-Autumn-Gala-1QE5UcVAfKM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T08:21:06.000Z",
+   "summary": "The night sky over Huainan, Anhui Province, has been transformed into a massive high‑tech canvas for the 2026 Mid‑Autumn…",
+   "regions": []
+  },
+  {
+   "title": "Two Sounds. One Moon",
+   "link": "https://news.cgtn.com/news/2026-09-22/Two-Sounds-One-Moon-1QE62eT7bcQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T08:19:19.000Z",
+   "summary": "What happens when two sounds from different worlds meet \"Colorful Clouds Chasing the Moon?\"",
+   "regions": []
+  },
+  {
+   "title": "Along Beijing's 7.8-kilometer historic axis",
+   "link": "https://news.cgtn.com/news/2026-09-22/Along-Beijing-s-7-8-kilometer-historic-axis-1QE5DLEiX7i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T08:14:00.000Z",
+   "summary": "The 7.8-kilometer Central Axis runs through the heart of Beijing, linking many of the city’s best-known historic sites. …",
+   "regions": []
+  },
+  {
+   "title": "New Shandong guidebook fuels global visitors’ autumn travel trend",
+   "link": "https://news.cgtn.com/news/2026-09-22/New-Shandong-guidebook-fuels-global-visitors-autumn-travel-trend-1QDUsa6Phlu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T08:07:40.000Z",
+   "summary": "This autumn, the viral “China travel” wave is pushing international visitors beyond crowded major-city landmarks and int…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5049,12 +5631,44 @@
    "regions": []
   },
   {
+   "title": "Ningxia marks crab harvest as aquaculture restores saline-alkali land",
+   "link": "https://news.cgtn.com/news/2026-09-22/Ningxia-marks-crab-harvest-as-aquaculture-restores-saline-alkali-land-1QE6uwtPbm8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T08:05:22.000Z",
+   "summary": "In the golden month of September, Helan County in Yinchuan, Ningxia is celebrating a bumper harvest of river crab.",
+   "regions": []
+  },
+  {
    "title": "直播海报：国新办就贯彻落实“十五五”规划，加快推进教育强国建设有关情况举行发布会",
    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701518.shtml",
    "source": "中新网中国",
    "time": "2026-09-22T08:00:35.000Z",
    "summary": "",
    "regions": []
+  },
+  {
+   "title": "Fighting transnational crime opens space for China-US cooperation",
+   "link": "https://news.cgtn.com/news/2026-09-22/Fighting-transnational-crime-opens-space-for-China-US-cooperation-1QDSJUCHHOM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T07:17:52.000Z",
+   "summary": "China and the United States have stepped up law enforcement cooperation in recent months, with joint operations targetin…",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
+   ]
+  },
+  {
+   "title": "How China, US share AI governance beyond the distillation dispute",
+   "link": "https://news.cgtn.com/news/2026-09-22/How-China-US-share-AI-governance-beyond-the-distillation-dispute-1QE275SQvDO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T07:13:18.000Z",
+   "summary": "How China, US share AI governance beyond the distillation dispute",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "辽宁盘锦一小区火灾致2死2伤 当地消防救援局通报",
@@ -5261,6 +5875,25 @@
    "regions": []
   },
   {
+   "title": "China's 12345 hotline: Public service is just one call away",
+   "link": "https://news.cgtn.com/news/2026-09-22/China-s-12345-hotline-Public-service-is-just-one-call-away-1QDV45Kn9te/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T06:17:09.000Z",
+   "summary": "China's 12345 hotline: Public service is just one call away",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Xizang Rhapsody | A Coding Princess",
+   "link": "https://news.cgtn.com/news/2026-09-22/Xizang-Rhapsody-A-Coding-Princess-1QDE0AXmE3C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T06:12:49.000Z",
+   "summary": "Xizang Rhapsody | A Coding Princess",
+   "regions": []
+  },
+  {
    "title": "山西宁武县通报“明长城损毁事件”",
    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701381.shtml",
    "source": "中新网社会",
@@ -5283,6 +5916,14 @@
    ]
   },
   {
+   "title": "Chinese and French musicians share stage at centuries-old opera house",
+   "link": "https://news.cgtn.com/news/2026-09-22/Chinese-and-French-musicians-share-stage-at-centuries-old-opera-house-1QDUFCjmaJO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T05:30:24.000Z",
+   "summary": "Chinese and French musicians share stage at centuries-old opera house",
+   "regions": []
+  },
+  {
    "title": "中越海警第二届党政工作交流活动在广州开幕",
    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701389.shtml",
    "source": "中新网中国",
@@ -5296,6 +5937,17 @@
    ]
   },
   {
+   "title": "China moves to strengthen food security across grain supply chain",
+   "link": "https://news.cgtn.com/news/2026-09-22/China-moves-to-strengthen-food-security-across-grain-supply-chain-1QDIcnoxCEw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T05:02:25.000Z",
+   "summary": "China is moving to strengthen food security over the next five years by enhancing its capacity to coordinate grain produ…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "海南东方CZ8海上风电项目完成海上风机安装",
    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701358.shtml",
    "source": "中新网中国",
@@ -5303,6 +5955,17 @@
    "summary": "中新网海南东方9月22日电 (郎作友)9月21日，海南东方CZ8海上风电场最后一台风机精准吊装就位，标志着项目42台风机全部完成海上安装。",
    "regions": [
     "海南"
+   ]
+  },
+  {
+   "title": "Tax data reveals rapid growth in China's high-tech industries",
+   "link": "https://news.cgtn.com/news/2026-09-22/Tax-data-reveals-rapid-growth-in-China-s-high-tech-industries-1QDDqeN2L8k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T04:53:26.000Z",
+   "summary": "China's high-tech industries and AI-related sectors recorded robust growth in the first eight months of 2026, according …",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5756,6 +6419,17 @@
    "regions": []
   },
   {
+   "title": "How can tensions ease for China-US trade?",
+   "link": "https://newsus.cgtn.com/news/2026-09-23/How-can-tensions-ease-for-China-US-trade--1QF8wpiLWeI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T22:49:20.000Z",
+   "summary": "The U.S.-initiated trade war against China and most other global trading partners has eased since President Donald Trump…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "反向海淘兴起，外国游客的“中国购物清单”越来越长",
    "link": "https://www.chinanews.com.cn/cj/2026/09-23/10701922.shtml",
    "source": "中新网财经",
@@ -6143,6 +6817,17 @@
    "regions": []
   },
   {
+   "title": "Where are China-US trade relations headed?",
+   "link": "https://news.cgtn.com/news/2026-09-22/Where-is-China-US-trade-relations-headed--1QE4ZUNerQs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T12:10:26.000Z",
+   "summary": "CGTN spoke with multiple scholars who shared their thoughts on China-US trade relations.",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "从沈阳到非洲：海外华媒见证辽宁装备制造出海底气",
    "link": "https://www.chinanews.com.cn/cj/2026/09-22/10701669.shtml",
    "source": "中新网财经",
@@ -6159,6 +6844,17 @@
    "time": "2026-09-22T12:03:48.000Z",
    "summary": "中新网北京9月22日电 (记者 陈杭)“十五五”时期，北京市密云区将依托怀柔科学城东区和中关村密云园，集中力量做强新能源汽车、生命健康两大主导产业，因地制宜培育特色潜力产业。",
    "regions": []
+  },
+  {
+   "title": "The Source of AI: Not a Single Rock Goes to Waste",
+   "link": "https://news.cgtn.com/news/2026-09-22/The-Source-of-AI-Not-a-Single-Rock-Goes-to-Waste-1QE5fVt2HD2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-22T12:02:33.000Z",
+   "summary": "AI's hunger to compute starts with chips. And chips start with metal — copper, rare earths, tungsten. Jiangxi, China, is…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "江苏扬州：锚定科创与人才“最大增量” 未来五年实现“六个新”",
@@ -6607,5 +7303,5 @@
    ]
   }
  ],
- "updatedAt": "2026-09-23T01:37:24.830Z"
+ "updatedAt": "2026-09-23T07:12:54.107Z"
 }
