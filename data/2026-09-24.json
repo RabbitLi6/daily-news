@@ -98,6 +98,22 @@
    "regions": []
   },
   {
+   "title": "五引擎微内核架构与分层解耦的工程实践",
+   "link": "https://www.oschina.net/news/502743",
+   "source": "开源中国",
+   "time": "2026-09-24T22:36:22.000Z",
+   "summary": "本文为 55873 生态系统技术白皮书系列第 8 篇（收官之作），面向开发者社区，聚焦开源共建理念与架构设计。 核心问题：如何在开放架构和保护核心证据数据之间找到平衡？如何做到底层永远稳定、业务永远可迭代？如何做到可信 AI 评测、数字资产…",
+   "regions": []
+  },
+  {
+   "title": "Apache 基金会项目 Casbin Gateway 新增 Agent 外发监测，可发现 ZCode 这类整仓上传",
+   "link": "https://www.oschina.net/news/502741",
+   "source": "开源中国",
+   "time": "2026-09-24T17:57:37.000Z",
+   "summary": "九月中旬，智谱的 AI 编程工具 ZCode 被人发现会在后台把整个代码仓库打包上传，而且连 .git 历史一起传。这件事在社区里讨论了好几天（相关报道附在文末）。 我们做的 Casbin Gateway 是 Apache 软件基金会（AS…",
+   "regions": []
+  },
+  {
    "title": "华为乾崑智驾 ADS 5 系统 9 月版本更新亮点公布，升级 AR 人找车、实时对讲等功能",
    "link": "https://www.ithome.com/1/007/047.htm",
    "source": "IT之家",
@@ -295,6 +311,14 @@
    "source": "IT之家",
    "time": "2026-09-24T13:51:44.000Z",
    "summary": "IT之家 9 月 24 日消息，科技媒体 Android Headline 今日发文，放出三星首款耳夹式耳机 Galaxy Buds On 的外观谍照。该机将采用类似耳环的设计，有望支持自动调节音量、语音助手和睡眠检测等功能。 据介绍，该耳…",
+   "regions": []
+  },
+  {
+   "title": "SpringBootBucket 4.1.1 发布，最新 Spring Boot 4.x 全家桶",
+   "link": "https://www.oschina.net/news/502740",
+   "source": "开源中国",
+   "time": "2026-09-24T13:46:55.000Z",
+   "summary": "SpringBootBucket4.x全家桶基于最新版本 Spring Boot 4.x 版本编写。Spring Boot 4.0基于Spring Framework 7.0，全面支持 Java25（含虚拟线程优化）。核心的新特性包括：HT…",
    "regions": []
   },
   {
@@ -7786,5 +7810,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-25T15:23:23.707Z"
+ "updatedAt": "2026-09-25T19:24:07.969Z"
 }
