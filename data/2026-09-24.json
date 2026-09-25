@@ -2093,6 +2093,16 @@
    ]
   },
   {
+   "title": "【地震 M2.9】5 km NNE of Point of Rocks, Wyoming",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txh0",
+   "source": "USGS地震台网",
+   "time": "2026-09-24T21:34:13.611Z",
+   "summary": "美国地质调查局官方监测：5 km NNE of Point of Rocks, Wyoming发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "China-US Pickleball Diplomacy builds lasting ties among students",
    "link": "https://newsus.cgtn.com/news/2026-09-25/China-US-Pickleball-Diplomacy-builds-lasting-ties-among-students-1QImATrVRtu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
    "source": "CGTN国际",
@@ -2488,6 +2498,17 @@
    "source": "USGS地震台网",
    "time": "2026-09-24T16:52:48.055Z",
    "summary": "美国地质调查局官方监测：155 km SW of Nikolski, Alaska发生 3.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】158 km SW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txfy",
+   "source": "USGS地震台网",
+   "time": "2026-09-24T16:52:47.906Z",
+   "summary": "美国地质调查局官方监测：158 km SW of Nikolski, Alaska发生 3.5 级地震，震源深度 未知。",
    "regions": [
     "美国阿拉斯加",
     "美洲"
@@ -7765,5 +7786,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-25T10:22:02.477Z"
+ "updatedAt": "2026-09-25T15:23:23.707Z"
 }
