@@ -2,6 +2,22 @@
  "date": "2026-09-27",
  "tech": [
   {
+   "title": "小米米家智能意式半自动咖啡机 Pro 首销，首发国补价 3395.84 元",
+   "link": "https://www.ithome.com/1/007/615.htm",
+   "source": "IT之家",
+   "time": "2026-09-27T20:59:06.000Z",
+   "summary": "IT之家 9 月 28 日消息，小米米家智能意式半自动咖啡机 Pro 今日正式开售，官方指导价 4999 元，预售前台价 4439 元，叠加国补后 3395.84 元。 京东 米家小米智能意式半自动咖啡机 Pro 冷热双萃 双泵双加热 半自…",
+   "regions": []
+  },
+  {
+   "title": "iQOO Pad Ultra 平板官宣搭载 9020mAh 蓝海电池，8.8 英寸机身轻至 298g",
+   "link": "https://www.ithome.com/1/007/612.htm",
+   "source": "IT之家",
+   "time": "2026-09-27T15:47:01.000Z",
+   "summary": "IT之家 9 月 27 日消息，iQOO Pad Ultra 平板 9 月 27 日官宣搭载 9020mAh 蓝海大电池，8.8 英寸机身轻至 298g，机身厚度仅 5.74mm。 IT之家注意到， iQOO Pad Ultra 小平板已官…",
+   "regions": []
+  },
+  {
    "title": "腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》",
    "link": "https://www.ithome.com/1/007/611.htm",
    "source": "IT之家",
@@ -892,6 +908,400 @@
  ],
  "world": [
   {
+   "title": "伊朗称已为与美战事重开做好准备 但未放弃外交途径",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704637.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-27T22:22:20.000Z",
+   "summary": "据伊朗方面27日消息，伊朗外长阿拉格齐表示，伊朗已做好与美国战事重开的准备，但尚未放弃通过外交途径进行接触。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "塞尔维亚总统武契奇宣布辞职",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704636.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-27T22:20:42.000Z",
+   "summary": "当地时间9月27日晚，塞尔维亚总统武契奇向民众发表讲话，宣布辞职。武契奇在讲话中感谢塞尔维亚民众两次在总统选举中给予他的信任。",
+   "regions": []
+  },
+  {
+   "title": "生产商：MS-21飞机的海外供应或于2032年后开始",
+   "link": "https://sputniknews.cn/20260928/1073405869.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T22:12:11.000Z",
+   "summary": "俄罗斯卫星通讯社伊尔库茨克9月28日电 “雅科夫列夫”股份公司伊尔库茨克航空厂（隶属“俄技”联合飞机制造公司）总经理安德烈·索伊诺夫表示，目前正在讨论向其他国家供应MS-21飞机，可能在2032年后开始，因为在此之前生产商的产能已完全排满。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "伊朗外长称准备好与美国进行谈判也准备与美国爆发新一轮冲突",
+   "link": "https://sputniknews.cn/20260928/1073405765.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T22:04:35.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 伊朗外交部长阿巴斯·阿拉格奇表示，伊朗已准备好与美国进行谈判，也准备好与美爆发新一轮军事冲突，而美国对德黑兰的新一轮侵略将一如既往的无效。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "第二架量产型MS-21飞机的飞行试验预计于10月底开始",
+   "link": "https://sputniknews.cn/20260928/1073405646.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T21:56:04.000Z",
+   "summary": "俄罗斯卫星通讯社伊尔库茨克9月28日电 “雅科夫列夫”股份公司伊尔库茨克航空厂（隶属“俄技”联合飞机制造公司）总经理安德烈·索伊诺夫表示，第二架量产型MS-21飞机的飞行试验预计于10月底开始，该机的首飞计划在接近10月时进行。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】37 km ENE of Chase, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tenrvu",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T21:53:36.911Z",
+   "summary": "美国地质调查局官方监测：37 km ENE of Chase, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】11 km W of Guaymate, Dominican Republic",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0q",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T21:49:47.544Z",
+   "summary": "美国地质调查局官方监测：11 km W of Guaymate, Dominican Republic发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "多米尼加",
+    "拉美"
+   ]
+  },
+  {
+   "title": "媒体：特朗普将会见Anthropic首席执行官",
+   "link": "https://sputniknews.cn/20260928/1073405549.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T21:47:53.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 彭博社援引消息人士报道，美国总统唐纳德·特朗普将会见美国科技公司Anthropic的首席执行官达里奥·阿莫迪，这家公司专门开发人工智能模型。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "国际联盟将所有军事基地移交给伊拉克政府",
+   "link": "https://sputniknews.cn/20260928/1073405255.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T21:33:48.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 伊拉克安全机构新闻处负责人萨阿德·马安表示，由美国领导的国际联盟已将所有军事基地移交给伊拉克武装部队。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "阿联酋向加沙地带运送近500吨人道主义援助物资",
+   "link": "https://sputniknews.cn/20260928/1073405156.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T21:25:07.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 据阿联酋新闻社WAM报道，阿联酋在一周内向加沙地带运送了三支载有458吨人道主义物资的车队。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "特朗普：英国被拘留者意图对美国港口造成“巨大破坏”",
+   "link": "https://sputniknews.cn/20260928/1073405067.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T21:17:58.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 美国总统唐纳德·特朗普称赞英国拘留五名涉嫌人，他们意图在美国用于袭击伊朗的军事基地附近实施犯罪，罪名是违犯“爆炸物法”。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】73 km NNE of Petersville, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026temmhr",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T21:17:13.242Z",
+   "summary": "美国地质调查局官方监测：73 km NNE of Petersville, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】South Sandwich Islands region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0j",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T21:13:33.366Z",
+   "summary": "美国地质调查局官方监测：South Sandwich Islands region发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "欧盟委员会呼吁欧盟国家因能源危机减少电气需求",
+   "link": "https://sputniknews.cn/20260928/1073404959.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T21:12:42.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 据《政治报》援引欧盟能源专员丹·约根森致欧盟部长的一封信报道，欧盟委员会已要求欧盟国家采取措施，在全球能源危机中减少对天然气和电力的需求。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "瑞士拒绝收紧中立政策保留行动自由",
+   "link": "https://sputniknews.cn/20260928/1073404831.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T21:02:21.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 瑞士外交部长伊格纳齐奥·卡西斯表示，拒绝收紧中立政策，瑞士保留了行动的自由。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】259 km S of Severo-Kuril’sk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0g",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T20:49:22.298Z",
+   "summary": "美国地质调查局官方监测：259 km S of Severo-Kuril’sk, Russia发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】28 km NNE of Whakatane, New Zealand",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0e",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T20:49:20.425Z",
+   "summary": "美国地质调查局官方监测：28 km NNE of Whakatane, New Zealand发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "新西兰",
+    "亚太"
+   ]
+  },
+  {
+   "title": "英国警方因费尔福德空军基地事件拘留五人",
+   "link": "https://sputniknews.cn/20260928/1073404725.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T20:48:56.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 英国警方发布消息称，因费尔福德空军基地事件，警方拘留了五人。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "武契奇签署文件辞去塞尔维亚总统职务",
+   "link": "https://sputniknews.cn/20260928/1073404436.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T20:17:38.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 塞尔维亚总统亚历山大·武契奇27日晚签署了一份辞去总统职务的文件。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "亚特兰大动物园：中国大熊猫抵达美国",
+   "link": "https://sputniknews.cn/20260928/1073404332.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T20:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 美国亚特兰大市动物园发布消息称，大熊猫“平平”、“福双”已顺利抵达美国。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】Kermadec Islands region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty06",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T19:33:32.354Z",
+   "summary": "美国地质调查局官方监测：Kermadec Islands region发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】9 km NW of Redwood Valley, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443252",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T19:10:36.830Z",
+   "summary": "美国地质调查局官方监测：9 km NW of Redwood Valley, CA发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】20 km SSE of Chaitén, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty01",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T18:55:43.715Z",
+   "summary": "美国地质调查局官方监测：20 km SSE of Chaitén, Chile发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
+   "title": "媒体：澳政府系统遭入侵后OpenAI与Anthropic负责人被传唤至参议院",
+   "link": "https://sputniknews.cn/20260928/1073404033.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T18:55:00.000Z",
+   "summary": "据《卫报·澳大利亚》（Guardian Australia）报道，澳大利亚参议院委员会已传唤OpenAI首席执行官萨姆·奥尔特曼与Anthropic首席执行官达里奥·阿莫迪，就人工智能及数据中心问题出席听证会。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】78 km N of Daocheng, China",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzx",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T18:30:09.687Z",
+   "summary": "美国地质调查局官方监测：78 km N of Daocheng, China发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "媒体：尼泊尔自然灾害死亡人数升至21人",
+   "link": "https://sputniknews.cn/20260928/1073403914.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T18:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月27日电 尼泊尔Nepal News新闻网援引总理巴伦德拉·沙阿报道，灾难后果导致死亡人数已增至21人。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "美驻华大使：特朗普建议习近平采购美国武器",
+   "link": "https://sputniknews.cn/20260928/1073403808.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T18:02:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月27日电 美国驻华大使大卫·珀杜表示，美国总统唐纳德·特朗普向中国国家主席习近平提议采购美国武器。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "盖茨认为人工智能监管将比核武器更难达成一致",
+   "link": "https://sputniknews.cn/20260928/1073403690.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T17:41:00.000Z",
+   "summary": "微软创始人比尔·盖茨认为，各国就人工智能监管问题将比冷战时期核武器限制问题更难达成一致。",
+   "regions": []
+  },
+  {
+   "title": "美国财长：中国已大幅减少对伊朗的援助",
+   "link": "https://sputniknews.cn/20260928/1073403573.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T17:08:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月27日电 美国财政部长斯科特·贝森特称，中国已“大幅”减少对伊朗的援助。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】65 km ENE of Pedro Bay, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tedvrp",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T16:58:08.186Z",
+   "summary": "美国地质调查局官方监测：65 km ENE of Pedro Bay, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】191 km NW of Oula Xiuma, China",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T16:43:10.268Z",
+   "summary": "美国地质调查局官方监测：191 km NW of Oula Xiuma, China发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "媒体：欧盟各国部长商定制定打击移民涌入的统一机制",
+   "link": "https://sputniknews.cn/20260928/1073403444.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T16:42:00.000Z",
+   "summary": "德国《图片报》援引自己的消息报道，18名负责内政和移民事务的欧盟部长在西班牙休达市移民危机的背景下已商定制定打击移民潮的统一机制。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "特朗普称期望本周将继续与伊朗进行谈判",
+   "link": "https://sputniknews.cn/20260928/1073403326.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T16:10:02.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月27日电 美国总统唐纳德·特朗普表示，他期望本周将与伊朗进行新一轮的谈判。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "哈萨克斯坦总统表示必须进行军事改革",
+   "link": "https://sputniknews.cn/20260927/1073403213.html",
+   "source": "卫星社中文",
+   "time": "2026-09-27T15:54:05.000Z",
+   "summary": "哈萨克斯坦总统卡西姆-若马尔特·托卡耶夫表示，根据国际先进经验武装部队的指挥系统需要进行全面改革，他责成在十天内提交一份旨在打造新型军队的军事改革方案。",
+   "regions": []
+  },
+  {
+   "title": "【地震 M2.5】57 km SSW of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzg",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T15:52:35.119Z",
+   "summary": "美国地质调查局官方监测：57 km SSW of Whites City, New Mexico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】15 km E of Socorro, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txze",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T15:45:09.410Z",
+   "summary": "美国地质调查局官方监测：15 km E of Socorro, New Mexico发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】124 km SSE of Ugashik, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tebiel",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T15:42:39.408Z",
+   "summary": "美国地质调查局官方监测：124 km SSE of Ugashik, Alaska发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M3.5】6 km WSW of Hermosa Beach, CA",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339927",
    "source": "USGS地震台网",
@@ -899,6 +1309,17 @@
    "summary": "美国地质调查局官方监测：6 km WSW of Hermosa Beach, CA发生 3.5 级地震，震源深度 未知。",
    "regions": [
     "国际"
+   ]
+  },
+  {
+   "title": "特朗普称预计本周继续与伊朗谈判",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704632.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-27T15:39:33.000Z",
+   "summary": "据美国方面当地时间9月27日消息，美国总统特朗普接受采访时表示，预计本周将与伊朗继续举行谈判。此前一天，特朗普拒绝了伊朗提出的结束战争方案。",
+   "regions": [
+    "中东",
+    "美洲"
    ]
   },
   {
@@ -1746,6 +2167,16 @@
   }
  ],
  "cn": [
+  {
+   "title": "以技能之桥联通世界 第48届世界技能大赛闭幕",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-28/10704634.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-27T16:01:58.000Z",
+   "summary": "中新社上海9月27日电 (记者 许婧)第48届世界技能大赛27日在上海闭幕。64个赛项最终成绩全部揭晓，中国代表团成功登顶本届大赛金牌榜。本届世界技能大赛，是全球技能青年同台角逐、拼尽全力证明自己的竞技舞台，也是一座跨越国界、联通产教、融通…",
+   "regions": [
+    "上海"
+   ]
+  },
   {
    "title": "戈壁“花木兰” 戎装守边防",
    "link": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/09-27/news1070351.shtml",
@@ -2880,5 +3311,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-27T15:43:31.261Z"
+ "updatedAt": "2026-09-27T22:28:49.240Z"
 }
