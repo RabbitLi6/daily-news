@@ -1078,6 +1078,27 @@
    ]
   },
   {
+   "title": "【地震 M4.5】Fiji region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty1a",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T23:55:48.800Z",
+   "summary": "美国地质调查局官方监测：Fiji region发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "斐济",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】59 km WNW of Toyah, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty16",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T23:45:52.132Z",
+   "summary": "美国地质调查局官方监测：59 km WNW of Toyah, Texas发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "中国连续5届位居世界技能大赛金牌榜榜首",
    "link": "https://sputniknews.cn/20260928/1073406468.html",
    "source": "卫星社中文",
@@ -1176,6 +1197,17 @@
    ]
   },
   {
+   "title": "【地震 M3.5】73 km SSW of Atka, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2n",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T22:09:02.880Z",
+   "summary": "美国地质调查局官方监测：73 km SSW of Atka, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "伊朗外长称准备好与美国进行谈判也准备与美国爆发新一轮冲突",
    "link": "https://sputniknews.cn/20260928/1073405765.html",
    "source": "卫星社中文",
@@ -1238,6 +1270,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科电 彭博社援引消息人士报道，美国总统唐纳德·特朗普将会见美国科技公司Anthropic的首席执行官达里奥·阿莫迪，这家公司专门开发人工智能模型。",
    "regions": [
     "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.3】271 km SE of Sand Point, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2m",
+   "source": "USGS地震台网",
+   "time": "2026-09-27T21:36:20.167Z",
+   "summary": "美国地质调查局官方监测：271 km SE of Sand Point, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
     "美洲"
    ]
   },
@@ -1521,6 +1564,22 @@
    ]
   },
   {
+   "title": "Mauritius denies landing permit to Israeli flight",
+   "link": "https://newsaf.cgtn.com/news/2026-09-28/Mauritius-denies-landing-permit-to-Israeli-flight-1QMHW7AHXDq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T16:18:21.000Z",
+   "summary": "Mauritius has denied landing clearance for a scheduled flight from Israel, forcing its cancellation after authorities fa…",
+   "regions": []
+  },
+  {
+   "title": "Technology transforms Egypt's ancient wonders",
+   "link": "https://newsaf.cgtn.com/news/2026-09-28/Technology-transforms-Egypt-s-ancient-wonders-1QMMuvY9aCc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T16:12:11.000Z",
+   "summary": "Egypt is turning to digital technology to enhance the experience for visitors exploring its ancient heritage. At the Nat…",
+   "regions": []
+  },
+  {
    "title": "特朗普称期望本周将继续与伊朗进行谈判",
    "link": "https://sputniknews.cn/20260928/1073403326.html",
    "source": "卫星社中文",
@@ -1632,6 +1691,14 @@
    ]
   },
   {
+   "title": "Xi's letter for GDI anniversary dialogue draws global acclaim",
+   "link": "https://news.cgtn.com/news/2026-09-27/Xi-s-letter-for-GDI-anniversary-dialogue-draws-global-acclaim-1QMun35AfTy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T14:31:44.000Z",
+   "summary": "Chinese President Xi Jinping's congratulatory letter to a high-level dialogue marking the fifth anniversary of the Globa…",
+   "regions": []
+  },
+  {
    "title": "媒体：过去两天伊朗武装力量在霍尔木兹海峡对19艘船只实施打击",
    "link": "https://sputniknews.cn/20260927/1073402793.html",
    "source": "卫星社中文",
@@ -1678,6 +1745,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Chinese VP: China to work with all countries to build shared future",
+   "link": "https://news.cgtn.com/news/2026-09-27/Chinese-VP-China-to-work-with-all-countries-to-build-shared-future-1QMFxmk073G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T13:58:02.000Z",
+   "summary": "Chinese Vice President Han Zheng on Saturday called on the international community to uphold multilateralism, promote co…",
+   "regions": []
   },
   {
    "title": "（爱知·名古屋亚运会）中国队摘得男、女200米银牌 泰国选手破亚运会纪录",
@@ -1753,6 +1828,14 @@
    ]
   },
   {
+   "title": "12 al-Shabab militants killed in Somali operation",
+   "link": "https://newsaf.cgtn.com/news/2026-09-27/12-al-Shabab-militants-killed-in-Somali-operation-1QMm5kPMYcU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T12:55:21.000Z",
+   "summary": "12 al-Shabab militants were killed in a security operation in the Middle Shabelle region, the Somalia's National Intelli…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.0】71 km WNW of Petersville, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdvrey",
    "source": "USGS地震台网",
@@ -1794,6 +1877,14 @@
    "regions": []
   },
   {
+   "title": "联大高级别周特别报道丨2026年9月27日",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142899",
+   "source": "联合国新闻",
+   "time": "2026-09-27T12:00:00.000Z",
+   "summary": "欢迎收看联合国大会第81届会议高级别周特别报道。本期节目您将看到，中国国家副主席韩正登上联大讲坛，强调大国要带头守规矩、行正道；《发展权利宣言》通过40周年，为什么发展鸿沟依然难以弥合；联大这一周，全球记者最关注的又是什么？",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.8】6 km NNE of Tatums, Oklahoma",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txyi",
    "source": "USGS地震台网",
@@ -1823,6 +1914,14 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "Serbian President Vucic to submit resignation",
+   "link": "https://news.cgtn.com/news/2026-09-27/news-1QMD6lN3M3K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T11:08:51.000Z",
+   "summary": "Serbian President Aleksandar Vucic said on Sunday that he would formally submit his resignation at around 8 p.m. (1800 G…",
+   "regions": []
   },
   {
    "title": "集安组织成员国在俄罗斯开始进行军事演习",
@@ -2002,6 +2101,14 @@
    ]
   },
   {
+   "title": "Experts unpack 'respect, fairness, reciprocity' in China-US relations",
+   "link": "https://news.cgtn.com/news/2026-09-27/Experts-unpack-respect-fairness-reciprocity-in-China-US-relations-1QM6LPuIDw4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T09:20:58.000Z",
+   "summary": "Chinese President Xi Jinping paid a state visit to the United States from September 23 to 25. During his visit, Xi and U…",
+   "regions": []
+  },
+  {
    "title": "消息人士：土耳其期待美国就F-16交付采取行动",
    "link": "https://sputniknews.cn/20260927/1073401005.html",
    "source": "卫星社中文",
@@ -2021,6 +2128,22 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "South Africa launches manhunt after 17 killed in tavern shooting",
+   "link": "https://newsaf.cgtn.com/news/2026-09-27/South-Africa-launches-manhunt-after-17-killed-in-tavern-shooting-1QMl9XhZn6E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T08:52:38.000Z",
+   "summary": "South African police have launched a manhunt after a shooting at a tavern in Wedela township, southwest of Johannesburg,…",
+   "regions": []
+  },
+  {
+   "title": "Afghanistan's defense ministry says 28 terrorists killed",
+   "link": "https://news.cgtn.com/news/2026-09-27/news-1QMterUbMac/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T08:50:44.000Z",
+   "summary": "Afghanistan's defense ministry says 28 terrorists killed",
+   "regions": []
   },
   {
    "title": "日本前外相岩屋毅率国贸促代表团访华",
@@ -2043,6 +2166,14 @@
    ]
   },
   {
+   "title": "Zelenskyy says Russia launched more than 2,200 drones last week",
+   "link": "https://news.cgtn.com/news/2026-09-27/news-1QMqeyRWzks/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T08:08:47.000Z",
+   "summary": "Zelenskyy says Russia launched more than 2,200 drones last week",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.6】Rat Islands, Aleutian Islands, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm",
    "source": "USGS地震台网",
@@ -2059,6 +2190,14 @@
    "source": "卫星社中文",
    "time": "2026-09-27T07:46:10.000Z",
    "summary": "据哈萨克斯坦总统网消息，哈总统托卡耶夫27日签署总统令，解除科萨诺夫的国防部长职务。托卡耶夫任命艾多斯·米尔扎赫梅托夫为该国国防部长。",
+   "regions": []
+  },
+  {
+   "title": "Expert: Xi-Trump summit, a test of 'constructive strategic stability'",
+   "link": "https://news.cgtn.com/news/2026-09-27/Expert-Xi-Trump-summit-a-test-of-constructive-strategic-stability--1QMaF2WJXxu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T07:31:22.000Z",
+   "summary": "Expert: Xi-Trump summit, a test of 'constructive strategic stability'",
    "regions": []
   },
   {
@@ -2090,6 +2229,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "OpenAI pauses training of advanced AI models after latest incident",
+   "link": "https://news.cgtn.com/news/2026-09-27/OpenAI-pauses-training-of-advanced-AI-models-after-latest-incident-1QMhdrkPCXm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T07:08:15.000Z",
+   "summary": "OpenAI pauses training of advanced AI models after latest incident",
+   "regions": []
   },
   {
    "title": "【地震 M4.8】21 km W of Preston, Nevada",
@@ -2128,6 +2275,14 @@
    "source": "卫星社中文",
    "time": "2026-09-27T06:04:36.000Z",
    "summary": "9月27日，据陕西发布消息，近日，陕西省航天育种工程技术研究中心与中科卫星科技集团有限公司在西安文理学院签署合作协议，共建太空生物空间诱变联合实验室，并宣布中国首个商业航天育种专用卫星研制启动。",
+   "regions": []
+  },
+  {
+   "title": "South Africa police launch manhunt after 17 killed in tavern shooting",
+   "link": "https://news.cgtn.com/news/2026-09-27/news-1QMfu9IdshW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T05:38:22.000Z",
+   "summary": "South Africa police launch manhunt after 17 killed in tavern shooting",
    "regions": []
   },
   {
@@ -2187,6 +2342,14 @@
    ]
   },
   {
+   "title": "15th UN Crime Prevention and Criminal Justice Conference opens in UAE",
+   "link": "https://news.cgtn.com/news/2026-09-27/15th-UN-Crime-Prevention-and-Criminal-Justice-Conference-opens-in-UAE-1QM74QC9mr6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T04:41:36.000Z",
+   "summary": "15th UN Crime Prevention and Criminal Justice Conference opens in UAE",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.5】145 km WNW of Lebu, Chile",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
    "source": "USGS地震台网",
@@ -2196,6 +2359,14 @@
     "智利",
     "拉美"
    ]
+  },
+  {
+   "title": "Kazakh president appoints new defense minister after fatal naval drill",
+   "link": "https://news.cgtn.com/news/2026-09-27/news-1QM9767vR0Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T04:09:12.000Z",
+   "summary": "Kazakh President Kassym-Jomart Tokayev signed decrees on Sunday relieving Dauren Kosanov of his duties as the country's …",
+   "regions": []
   },
   {
    "title": "欧盟庇护改革后非法移民仍涌入德国",
@@ -2255,6 +2426,14 @@
    "source": "中新网滚动",
    "time": "2026-09-27T03:34:24.000Z",
    "summary": "",
+   "regions": []
+  },
+  {
+   "title": "Why two giant pandas are heading to the US for 10 years",
+   "link": "https://news.cgtn.com/news/2026-09-27/Why-two-giant-pandas-are-heading-to-the-US-for-10-years-1QLZ6r4URxe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-27T03:34:24.000Z",
+   "summary": "Why two giant pandas are heading to the US for 10 years",
    "regions": []
   },
   {
@@ -2493,6 +2672,19 @@
    ]
   },
   {
+   "title": "Two new giant pandas from China arrive in the United States",
+   "link": "https://newsus.cgtn.com/news/2026-09-28/Two-new-giant-pandas-from-China-arrive-in-the-United-States-1QNq8lf6f6M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T22:36:19.000Z",
+   "summary": "Zoo Atlanta has received the pair of giant pandas, Ping Ping and Fu Shuang, who landed on a FedEx plane from southwest C…",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
+   ]
+  },
+  {
    "title": "虚假宣传、合同欺诈......警惕加盟店“快招”骗局",
    "link": "https://www.chinanews.com.cn/sh/2026/09-28/10704638.shtml",
    "source": "中新网社会",
@@ -2560,6 +2752,14 @@
    "regions": []
   },
   {
+   "title": "Xi's letter for GDI anniversary dialogue draws global acclaim",
+   "link": "https://news.cgtn.com/news/2026-09-27/Xi-s-letter-for-GDI-anniversary-dialogue-draws-global-acclaim-1QMun35AfTy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T14:31:44.000Z",
+   "summary": "Chinese President Xi Jinping's congratulatory letter to a high-level dialogue marking the fifth anniversary of the Globa…",
+   "regions": []
+  },
+  {
    "title": "41金11银4铜 中国创参加世界技能大赛最好成绩",
    "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704613.shtml",
    "source": "中新网社会",
@@ -2584,6 +2784,17 @@
    "time": "2026-09-27T14:15:37.000Z",
    "summary": "“法治同开放相伴而行，对外开放向前推进一步，涉外法治建设就要跟进一步。”2023年11月27日，习近平总书记在二十届中央政治局第十次集体学习时强调。",
    "regions": []
+  },
+  {
+   "title": "Chinese VP: China to work with all countries to build shared future",
+   "link": "https://news.cgtn.com/news/2026-09-27/Chinese-VP-China-to-work-with-all-countries-to-build-shared-future-1QMFxmk073G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T13:58:02.000Z",
+   "summary": "Chinese Vice President Han Zheng on Saturday called on the international community to uphold multilateralism, promote co…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "上海交大“00后”学生李金泽摘得第48届世界技能大赛智慧安防技术项目金牌",
@@ -2877,6 +3088,14 @@
    ]
   },
   {
+   "title": "The art of living together",
+   "link": "https://news.cgtn.com/news/2026-09-27/The-art-of-living-together-1QMAOjXcidy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T10:51:41.000Z",
+   "summary": "The art of living together",
+   "regions": []
+  },
+  {
    "title": "黄友闻夺得亚运会田径男子200米银牌",
    "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704527.shtml",
    "source": "中新网滚动",
@@ -3036,6 +3255,19 @@
    ]
   },
   {
+   "title": "Experts unpack 'respect, fairness, reciprocity' in China-US relations",
+   "link": "https://news.cgtn.com/news/2026-09-27/Experts-unpack-respect-fairness-reciprocity-in-China-US-relations-1QM6LPuIDw4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T09:20:58.000Z",
+   "summary": "Chinese President Xi Jinping paid a state visit to the United States from September 23 to 25. During his visit, Xi and U…",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
+   ]
+  },
+  {
    "title": "“十一”假期前，这些地方有大暴雨、雷暴大风或冰雹！",
    "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704501.shtml",
    "source": "中新网社会",
@@ -3063,6 +3295,25 @@
    "regions": [
     "长沙",
     "湖南"
+   ]
+  },
+  {
+   "title": "Meet the adorable animals at Tangshan Zoo",
+   "link": "https://news.cgtn.com/news/2026-09-27/Meet-the-adorable-animals-at-Tangshan-Zoo-1QMrFD7tmy4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T08:35:11.000Z",
+   "summary": "With a wide variety of animals and lush greenery, Tangshan Zoo in Hebei Province is a popular destination for family out…",
+   "regions": []
+  },
+  {
+   "title": "Various celebrations staged across China to mark Mid-Autumn Festival",
+   "link": "https://news.cgtn.com/news/2026-09-27/Various-celebrations-staged-across-China-to-mark-Mid-Autumn-Festival-1QMnM0IJMI0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T08:33:57.000Z",
+   "summary": "From campfire circle dances in Sichuan to lantern-lit nights in Nanjing and moonlit cruises on Tianjin's Haihe River, Ch…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3115,6 +3366,14 @@
    "regions": []
   },
   {
+   "title": "Into Jinggangshan, the cradle of revolution",
+   "link": "https://news.cgtn.com/news/2026-09-27/Into-Jinggangshan-the-cradle-of-revolution-1QMnOkCNxcY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T07:40:08.000Z",
+   "summary": "Into Jinggangshan, the cradle of revolution",
+   "regions": []
+  },
+  {
    "title": "中国海警位黄岩岛附近海域组织维权执法管控演练",
    "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704441.shtml",
    "source": "中新网中国",
@@ -3123,6 +3382,22 @@
    "regions": [
     "南海"
    ]
+  },
+  {
+   "title": "Expert: Xi-Trump summit, a test of 'constructive strategic stability'",
+   "link": "https://news.cgtn.com/news/2026-09-27/Expert-Xi-Trump-summit-a-test-of-constructive-strategic-stability--1QMaF2WJXxu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T07:31:22.000Z",
+   "summary": "Expert: Xi-Trump summit, a test of 'constructive strategic stability'",
+   "regions": []
+  },
+  {
+   "title": "What a 1928 manifesto reveals about the CPC's revolutionary ideals",
+   "link": "https://news.cgtn.com/news/2026-09-27/What-a-1928-manifesto-reveals-about-the-CPC-s-revolutionary-ideals-1QMci6qVEJy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T07:29:47.000Z",
+   "summary": "The Ten-Point Political Program was adopted at the Sixth National Congress of the CPC, held in 1928. It included calls t…",
+   "regions": []
   },
   {
    "title": "南部战区位黄岩岛周边海空域组织海空联合演训",
@@ -3141,6 +3416,28 @@
    "time": "2026-09-27T06:53:19.000Z",
    "summary": "“女孩子怎么能干这种活？”世赛瓷砖贴面唯一女选手：人生只有一次，不妨大胆试一试",
    "regions": []
+  },
+  {
+   "title": "China Weekly News Quiz: September 21-27, 2026",
+   "link": "https://news.cgtn.com/news/2026-09-27/China-Weekly-News-Quiz-September-21-27-2026-1QMgzQETxmw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T06:45:10.000Z",
+   "summary": "Do you know what happened in China last week? Take our weekly news quiz to test your knowledge and get up to speed on th…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Young Americans share views on China's proposed exchange program",
+   "link": "https://news.cgtn.com/news/2026-09-27/Young-Americans-share-views-on-China-s-proposed-exchange-program-1QMgWJOJ7X2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T06:18:07.000Z",
+   "summary": "Young Americans share views on China's proposed exchange program",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "从十岁的梦想，到上海赛场：威廉·尼科尔用“小笼包”交上“答卷”",
@@ -3219,6 +3516,25 @@
    "regions": []
   },
   {
+   "title": "Asian Games | China wins 100th gold; 36-year-old record falls",
+   "link": "https://news.cgtn.com/news/2026-09-27/Asian-Games-China-wins-100th-gold-36-year-old-record-falls-1QManwC9zUc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T04:44:35.000Z",
+   "summary": "Asian Games | China wins 100th gold; 36-year-old record falls",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "15th UN Crime Prevention and Criminal Justice Conference opens in UAE",
+   "link": "https://news.cgtn.com/news/2026-09-27/15th-UN-Crime-Prevention-and-Criminal-Justice-Conference-opens-in-UAE-1QM74QC9mr6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T04:41:36.000Z",
+   "summary": "15th UN Crime Prevention and Criminal Justice Conference opens in UAE",
+   "regions": []
+  },
+  {
    "title": "中国队获得爱知·名古屋亚运会滑板女子街式金、铜牌",
    "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704392.shtml",
    "source": "中新网滚动",
@@ -3247,6 +3563,14 @@
    ]
   },
   {
+   "title": "Why two giant pandas are heading to the US for 10 years",
+   "link": "https://news.cgtn.com/news/2026-09-27/Why-two-giant-pandas-are-heading-to-the-US-for-10-years-1QLZ6r4URxe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T03:34:24.000Z",
+   "summary": "Why two giant pandas are heading to the US for 10 years",
+   "regions": []
+  },
+  {
    "title": "跨越山海，一窑青瓷烧出“新味道”",
    "link": "https://www.chinanews.com.cn/txy/2026/09-27/10704386.shtml",
    "source": "中新网滚动",
@@ -3255,6 +3579,17 @@
    "regions": [
     "杭州",
     "浙江"
+   ]
+  },
+  {
+   "title": "PLA conducts joint naval-air exercise around China's Huangyan Dao",
+   "link": "https://news.cgtn.com/news/2026-09-27/PLA-conducts-joint-naval-air-exercise-around-China-s-Huangyan-Dao-1QM07EAoTkc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T03:28:12.000Z",
+   "summary": "Naval and air units of the Chinese People's Liberation Army (PLA) Southern Theater Command conducted a joint training ex…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3280,6 +3615,18 @@
    "time": "2026-09-27T03:13:56.000Z",
    "summary": "9月27日，名古屋亚运会滑板女子街式决赛，中国选手朱沅铃夺得金牌！另一位中国选手崔宸曦获得铜牌。",
    "regions": []
+  },
+  {
+   "title": "China's botanicals fuel trans-Pacific innovation",
+   "link": "https://news.cgtn.com/news/2026-09-27/China-s-botanicals-fuel-trans-Pacific-innovation-1QM0bsGGJbi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-27T03:12:07.000Z",
+   "summary": "China's botanicals fuel trans-Pacific innovation",
+   "regions": [
+    "中国",
+    "亚太",
+    "太平洋"
+   ]
   },
   {
    "title": "黄岩岛附近 中国海警开展维权执法管控演练",
@@ -3660,5 +4007,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-28T01:03:55.202Z"
+ "updatedAt": "2026-09-28T07:14:50.811Z"
 }
