@@ -2,6 +2,294 @@
  "date": "2026-09-28",
  "tech": [
   {
+   "title": "小米米家筒灯 / 射灯 3 Pro 新品今日开售：国补价 129.2~169.2 元",
+   "link": "https://www.ithome.com/1/008/071.htm",
+   "source": "IT之家",
+   "time": "2026-09-28T20:59:10.000Z",
+   "summary": "IT之家 9 月 29 日消息，小米上周刚推出的三款米家灯具新品将于今日 10 点开售。IT之家汇总如下： 米家筒灯 3 Pro，首发价 152 元，国补价 129.2 元 米家射灯 3 Pro，首发价 176 元，国补价 149.6 元 …",
+   "regions": []
+  },
+  {
+   "title": "苹果 watchOS 27.0.1 正式版发布",
+   "link": "https://www.ithome.com/1/008/070.htm",
+   "source": "IT之家",
+   "time": "2026-09-28T20:07:11.000Z",
+   "summary": "IT之家 9 月 29 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0.1 更新（内部版本号：24R365），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可…",
+   "regions": []
+  },
+  {
+   "title": "工业外骨骼，人类进化新方向",
+   "link": "http://www.geekpark.net/news/371390",
+   "source": "极客公园",
+   "time": "2026-09-28T18:25:13.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 8 月 9 日 6 月 2 日，人类史上第一位赛博格——彼得·斯科特-摩根去世，享年 64 岁。在 1984 年出版的《机器人革命》中，彼得就曾预言有一天人类会走向「强化人」的…",
+   "regions": []
+  },
+  {
+   "title": "苹果、索尼押注的技术赛道，国内公司如何拔得头筹？",
+   "link": "http://www.geekpark.net/news/371389",
+   "source": "极客公园",
+   "time": "2026-09-28T18:23:44.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 8 月 4 日 虚拟世界注定要成为现实，只是何时到来，如何到来尚未可知。 摆在大家面前的首个难题，是如何将现实世界在数字世界进行数字孪生，以及，如何让大家更好地感受到虚拟世界，…",
+   "regions": []
+  },
+  {
+   "title": "十四岁的区块链，终于在实体经济找到用武之地了",
+   "link": "http://www.geekpark.net/news/371388",
+   "source": "极客公园",
+   "time": "2026-09-28T18:22:14.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 8 月 3 日 虚拟货币已经在某种意义上成了「割韭菜」的代名词了。 前不久，哔哩哔哩的二舅视频刚走红，便有人借此热点以慈善的名义发行了名为 second uncle coin（…",
+   "regions": []
+  },
+  {
+   "title": "中安网星 李佳峰：Web3 时代，图计算如何保护你的网络身份安全？| Founder 100",
+   "link": "http://www.geekpark.net/news/371387",
+   "source": "极客公园",
+   "time": "2026-09-28T18:20:48.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 8 月 1 日 今天的互联网，有变得更安全吗？ 相对于互联网早期的网络攻击频发，如今针对个人用户的网络攻击似乎在变少，熊猫烧香都已经成为了历史，「安全」似乎得到了一定保障。 但…",
+   "regions": []
+  },
+  {
+   "title": "百炼智能 冯是聪：人工智能如何拯救 B2B 行业的地推获客？ | Founder 100",
+   "link": "http://www.geekpark.net/news/371386",
+   "source": "极客公园",
+   "time": "2026-09-28T18:19:20.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 7 月 28 日 针对个人消费者的广告营销如今已经完全智能化了，你的购买行为、社交媒体的言论都有可能被拿来作为推销的数据来源，甚至有些泛滥的趋势，以至于苹果在 iOS 14 的…",
+   "regions": []
+  },
+  {
+   "title": "当不确定性成为新常态，企业如何应对变化？ | Startup Recipes",
+   "link": "http://www.geekpark.net/news/371385",
+   "source": "极客公园",
+   "time": "2026-09-28T18:17:48.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 7 月 25 日 编译来源 ： How to Cultivate Resilience:A Four Part Framework 作者 ： Jason Shen 过去几年对于…",
+   "regions": []
+  },
+  {
+   "title": "星测未来 曹德志：卫星智能化如何解决太空数据应用难题？| Founder 100",
+   "link": "http://www.geekpark.net/news/371384",
+   "source": "极客公园",
+   "time": "2026-09-28T18:16:17.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 7 月 21 日 俄乌战争中，SpaceX 的星链突然成为了大众的关注点。在战争开始后，马斯克迅速为乌克兰开启了星链服务，很多被中断网络服务的地区也因为星链基本恢复了语音和数据…",
+   "regions": []
+  },
+  {
+   "title": "玻色量子 马寅：量子计算+AI，未来已来 | Founder 100",
+   "link": "http://www.geekpark.net/news/371383",
+   "source": "极客公园",
+   "time": "2026-09-28T18:14:44.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 7 月 14 日 摩尔定律正在失效，经典计算机的性能也日益捉襟见肘。单靠堆积硬件的方式，已经无法满足当下骤增的算力需求了。 在这其中，量子计算作为最具潜力、也最受关注的新兴技术…",
+   "regions": []
+  },
+  {
+   "title": "成为印尼最大独角兽之前，Gojek 如何构建企业文化？ | Startup Recipes",
+   "link": "http://www.geekpark.net/news/371382",
+   "source": "极客公园",
+   "time": "2026-09-28T18:13:16.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 7 月 12 日 编译来源 ：The Wisdom List: Kevin Aluwi | The Generalist 作者 ：Mario Gabriele、Kevin Al…",
+   "regions": []
+  },
+  {
+   "title": "​领骏科技 杨文利：自动驾驶商业化时代已经到来 | Founder 100",
+   "link": "http://www.geekpark.net/news/371381",
+   "source": "极客公园",
+   "time": "2026-09-28T18:11:44.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 7 月 11 日 公司 ：领骏科技 领域 ：自动驾驶、无人巴士、无人驾驶、智能网联公交、智慧城市、智能交通 融资状态 ：数千万元 PreA+轮 主要投资人 ：武岳峰资本、满帮集…",
+   "regions": []
+  },
+  {
+   "title": "超次元 陈坚：虚拟人过热，但虚拟赛道将迎来新拐点 | Founder 100",
+   "link": "http://www.geekpark.net/news/371380",
+   "source": "极客公园",
+   "time": "2026-09-28T18:10:05.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 7 月 6 日 公司 ：超次元（海南超次元数码科技有限公司） 领域 ：元宇宙、虚拟活动应用、虚拟直播、虚拟偶像 融资状态 ：A 轮数千万元人民币 主要投资方 ：天图投资、声网、…",
+   "regions": []
+  },
+  {
+   "title": "量子计算、AI 和商业航天领域的创始人都在读什么？ | 创始人书单",
+   "link": "http://www.geekpark.net/news/371379",
+   "source": "极客公园",
+   "time": "2026-09-28T18:08:25.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 7 月 1 日 在 4 月份的 第一期 书单 后，今天送上的是来自创始人的书单推荐第二期。 本期的 10 位创业者，分别来自 AI、量子力学、云游戏、商业航空和自动驾驶等领域，…",
+   "regions": []
+  },
+  {
+   "title": "深蓝航天 霍亮：如何开辟一条 SpaceX 的国产商业化之路？ | Founder 100",
+   "link": "http://www.geekpark.net/news/371378",
+   "source": "极客公园",
+   "time": "2026-09-28T18:06:31.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 6 月 29 日 公司 ：深蓝航天 领域 ：火箭、商业航天 融资状态 ：A 轮融资近 2 亿元，A+轮融资 主要投资人 ：真成投资、德同资本、欧瑞资本、银河系创投、卓源资本、民…",
+   "regions": []
+  },
+  {
+   "title": "念力科技 范子瑜：「高开低走」的云游戏，如今怎么样了？| Founder 100",
+   "link": "http://www.geekpark.net/news/371377",
+   "source": "极客公园",
+   "time": "2026-09-28T18:04:46.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 6 月 27 日 公司 ：念力科技 领域 ：PaaS、云游戏、游戏开发 融资状态 ：800 万美元战略融资 主要投资人 ：莉莉丝游戏、五源资本、奇绩创坛 官方网站 ：https…",
+   "regions": []
+  },
+  {
+   "title": "在硅谷最大独角兽 Stripe，我学到了哪些管理经验？",
+   "link": "http://www.geekpark.net/news/371376",
+   "source": "极客公园",
+   "time": "2026-09-28T18:03:07.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 6 月 22 日 编译来源 ：Operating Well: What I Learned at Stripe 作者 ：Sam Gerstenzang Sam Gerstenz…",
+   "regions": []
+  },
+  {
+   "title": "​艾可萨科技 王玮：航天商业下一步，太空数据中心 | Founder 100",
+   "link": "http://www.geekpark.net/news/371375",
+   "source": "极客公园",
+   "time": "2026-09-28T18:01:39.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 6 月 21 日 公司 ：艾可萨科技 领域 ：航天、数据存储、芯片设计 融资状态 ：数千万元 Pre-A 轮 主要投资人 ：深创投、西安经发创新基金，奇绩创坛 官方网站 ：ht…",
+   "regions": []
+  },
+  {
+   "title": "本源量子 张辉：量子计算到底能做啥？ | Founder 100",
+   "link": "http://www.geekpark.net/news/371374",
+   "source": "极客公园",
+   "time": "2026-09-28T18:00:01.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 6 月 17 日 公司 ：本源量子 领域 ：量子计算、量子芯片 融资状态 ：数亿元 A 轮 主要投资人 ：中国互联网投资基金、国新基金、中金祺智、成都产投、建银国际等 官方网站…",
+   "regions": []
+  },
+  {
+   "title": "解放人类的高空机器人，如何撬开千亿美元的大市场？",
+   "link": "http://www.geekpark.net/news/371373",
+   "source": "极客公园",
+   "time": "2026-09-28T17:58:24.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 6 月 11 日 高空机器人正在逐步取代高空作业的「蜘蛛人」。 与我们所熟知的服务于人类的服务机器人，以及用于生产环境的工业机器人不同，特种机器人自诞生起就是为了将人类从各类高…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iPadOS 26.7.1 正式版发布",
+   "link": "https://www.ithome.com/1/008/069.htm",
+   "source": "IT之家",
+   "time": "2026-09-28T17:58:09.000Z",
+   "summary": "IT之家 9 月 29 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.1 更新，本次更新距离上次发布正式版间隔 19 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般…",
+   "regions": []
+  },
+  {
+   "title": "苹果 visionOS 27.0.1 正式版发布",
+   "link": "https://www.ithome.com/1/008/068.htm",
+   "source": "IT之家",
+   "time": "2026-09-28T17:58:09.000Z",
+   "summary": "IT之家 9 月 29 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0.1 更新（内部版本号：24M372），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可…",
+   "regions": []
+  },
+  {
+   "title": "苹果 macOS 27.0.1 正式版发布",
+   "link": "https://www.ithome.com/1/008/067.htm",
+   "source": "IT之家",
+   "time": "2026-09-28T17:58:09.000Z",
+   "summary": "IT之家 9 月 29 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0.1 更新（内部版本号：26A434），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iOS/iPadOS 27.0.1 正式版发布",
+   "link": "https://www.ithome.com/1/008/066.htm",
+   "source": "IT之家",
+   "time": "2026-09-28T17:58:08.000Z",
+   "summary": "IT之家 9 月 29 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0.1 更新（内部版本号：24A446），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓…",
+   "regions": []
+  },
+  {
+   "title": "四象科技 刘雨婷：遥感技术如何撬动金融业？ | Founder 100",
+   "link": "http://www.geekpark.net/news/371372",
+   "source": "极客公园",
+   "time": "2026-09-28T17:52:48.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 5 月 23 日 公司 ： 四象科技 领域 ：SaaS、遥感卫星、无人机、数据服务 融资状态 ：Pre A+轮 主要投资人 ：厦门建发新兴投资、正轩投资、中科创星、金科君创 官…",
+   "regions": []
+  },
+  {
+   "title": "慧夜科技 渠思源：虚拟人的背后，是服务 | Founder 100",
+   "link": "http://www.geekpark.net/news/371371",
+   "source": "极客公园",
+   "time": "2026-09-28T17:51:12.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 5 月 17 日 公司： 慧夜科技 领域： 人工智能、3D 图形、虚拟人 融资状态： Pre-A 轮，数百万美元 主要投资方： 青山资本、顺为资本 官方网站： https://…",
+   "regions": []
+  },
+  {
+   "title": "大地量子 王驰：AI+ 遥感打造数字全息地球 | Founder 100",
+   "link": "http://www.geekpark.net/news/371370",
+   "source": "极客公园",
+   "time": "2026-09-28T17:49:25.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 5 月 12 日 公司： 大 地量子 领域： PaaS、遥感卫星、无人机、数据服务 融资状态： A+轮（2021.1），A 轮 5000 万人民币（2020.11) 主要投资人…",
+   "regions": []
+  },
+  {
+   "title": "程天科技 王天：外骨骼，人类下一个「器官」 | Founder 100",
+   "link": "http://www.geekpark.net/news/371369",
+   "source": "极客公园",
+   "time": "2026-09-28T17:47:44.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 5 月 10 日 公司： 程天科技 领域： 康复医疗、外骨骼机器人 融资状态： A+轮 1 亿人民币（2021.12） 主要投资方： 达晨财智领投，保利资本、安信证券、蓝驰创投…",
+   "regions": []
+  },
+  {
+   "title": "创邻科技 张晨：「图」将吞噬世界｜Founder 100",
+   "link": "http://www.geekpark.net/news/371368",
+   "source": "极客公园",
+   "time": "2026-09-28T17:46:05.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 5 月 5 日 公司： 创邻科技 领域： 图数据库、认知科技 融资状态： A+轮 主要投资方： 百度风投、腾讯创投、高瓴创投 官方网站： https://galaxybase.…",
+   "regions": []
+  },
+  {
+   "title": "Founder Park 说明书 1.0",
+   "link": "http://www.geekpark.net/news/371367",
+   "source": "极客公园",
+   "time": "2026-09-28T17:44:32.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 4 月 21 日 Hi，欢迎来到 Founder Park :-) 希望这份说明书可以 快速帮助你了解我们是谁 ，未来我们也会用这样的方式和大家持续沟通 Founder Par…",
+   "regions": []
+  },
+  {
+   "title": "双碳政策之下，创业公司的机会是什么？｜Founder 100 碳衡科技 黄彦翔",
+   "link": "http://www.geekpark.net/news/371366",
+   "source": "极客公园",
+   "time": "2026-09-28T17:43:13.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 4 月 19 日 公司： 碳衡科技 领域： 垂直 SaaS、碳中和 融资状态： 天使 轮 数千万人民币（2022.02） 主要投资人： 元禾原点 ， 饿 了 么创始人 汪渊 官…",
+   "regions": []
+  },
+  {
+   "title": "被误解的「营销大师」：杜国楹真正的创业心法是什么？",
+   "link": "http://www.geekpark.net/news/371365",
+   "source": "极客公园",
+   "time": "2026-09-28T17:41:41.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 4 月 11 日 1、 茶行业一个非常明显的痛点是，茶叶具有非标、农产品的属性。杜国楹希望用标准化、工业化的方法，给消费者提供稳定的、高品质的茶。 2、 小罐茶背后的产品方法论…",
+   "regions": []
+  },
+  {
+   "title": "时代变了，传统行业改造互联网思维｜Founder 100（003）",
+   "link": "http://www.geekpark.net/news/371364",
+   "source": "极客公园",
+   "time": "2026-09-28T17:39:55.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 4 月 6 日 公司： 钢蜂科技 领域： 物流信息化、SaaS、产业互联网、车货匹配平台 融资状态： A 轮 1000 万美元（2021.06） 主要投资人： 金沙江创投、GG…",
+   "regions": []
+  },
+  {
+   "title": "刘珂：用 AI 做衣服，让工人多赚钱｜Founder 100（002）",
+   "link": "http://www.geekpark.net/news/371363",
+   "source": "极客公园",
+   "time": "2026-09-28T17:38:20.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 3 月 24 日 公司： 飞榴科技 领域： 柔性供应链、垂直 SaaS、人工智能、服装行业解决方案 融资状态： A2 轮 2 亿人民币（2021.05） 主要投资人： 高瓴资本…",
+   "regions": []
+  },
+  {
+   "title": "A轮融资3000万美元，开源公司怎么赚钱？",
+   "link": "http://www.geekpark.net/news/371362",
+   "source": "极客公园",
+   "time": "2026-09-28T17:23:11.000Z",
+   "summary": "本文首发于 Founder Park 公众号 · 2022 年 3 月 22 日 公司 ：Jina AI 领域 ：人工智能、神经搜索、开源、SaaS 融资状态 ：A 轮 3000 万美元（2021.11） 主要投资人 ：Canaan Par…",
+   "regions": []
+  },
+  {
+   "title": "马斯克 SpaceX 成功完成星舰第 14 次试飞，首次入轨、返回、溅落并部署 26 颗卫星",
+   "link": "https://www.ithome.com/1/008/065.htm",
+   "source": "IT之家",
+   "time": "2026-09-28T15:59:50.000Z",
+   "summary": "IT之家 9 月 28 日消息，北京时间 20 时 48 分，SpaceX 星舰在得克萨斯州星际基地开启第 14 次试飞，首次尝试将上级飞船送入地球轨道。 升空约 6 分 50 秒之后，超重型助推器 B21 按计划完成溅落。随着 S41 刚…",
+   "regions": []
+  },
+  {
    "title": "Manus：正组建团队开发面向国内市场的产品，与国产模型厂商合作稳步进行中",
    "link": "https://www.ithome.com/1/008/064.htm",
    "source": "IT之家",
@@ -1436,6 +1724,253 @@
  ],
  "world": [
   {
+   "title": "【地震 M2.7】23 km SSW of Susitna, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tgirii",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T21:22:37.246Z",
+   "summary": "美国地质调查局官方监测：23 km SSW of Susitna, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "SpaceX公司的“星舰”飞船在降落水面时爆炸",
+   "link": "https://sputniknews.cn/20260929/1073417822.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T21:20:21.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 9月28日，SpaceX公司的“星舰”飞船进行了首次轨道飞行，在被提前数小时引导离轨后于降落水面时发生爆炸。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "媒体：特朗普9月29日将在白宫与人工智能公司负责人举行会晤",
+   "link": "https://sputniknews.cn/20260929/1073417725.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T21:10:00.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 Semafor 网站援引消息人士的话表示，美国总统特朗普9月29日将在白宫与人工智能公司负责人及众议院议长迈克·约翰逊举行会晤。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "普京：俄罗斯正在采用全球独有的最新技术建设核电机组",
+   "link": "https://sputniknews.cn/20260929/1073417621.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T21:03:13.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯总统普京表示，俄罗斯正在采用全球独有的最新技术建设核电机组。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄原子能公司首席执行官：中国正在增加经由北方海路从其港口前往欧洲的定期航次",
+   "link": "https://sputniknews.cn/20260929/1073417322.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T20:53:12.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月28日电 俄罗斯国家原子能公司首席执行官利哈乔夫在克里姆林宫与俄罗斯总统普京举行会晤时表示，中国正在通过北方海路增加从本国港口前往欧洲的定期航班，韩国也已开展试点航行。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "特朗普否认美国驻华大使的说法，表示未向中国领导人提议购买美国武器",
+   "link": "https://sputniknews.cn/20260929/1073417025.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T20:39:47.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国总统特朗普表示否认了美国驻华大使戴维·珀杜的说法，表示自己未提议让中国领导人习近平购买美国武器。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "普京：在法律层面上俄联邦选举组织工作以高水平开展",
+   "link": "https://sputniknews.cn/20260929/1073416923.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T20:21:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯总统普京指出，在法律层面上，俄罗斯近期选举的组织工作以最高水平开展。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄外交部：德国政府向其民众灌输“俄罗斯威胁”迷思为复仇主义辩护",
+   "link": "https://sputniknews.cn/20260929/1073416621.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T20:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外交部副部长柳宾斯基表示，德国政府向普通德国民众灌输所谓的“俄罗斯威胁”迷思，为其自身的复仇主义野心和经济军事化辩护。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】2 km SW of Sakai, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty7u",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T19:45:07.515Z",
+   "summary": "美国地质调查局官方监测：2 km SW of Sakai, Japan发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】45 km N of Charlotte Amalie, U.S. Virgin Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535013",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T19:19:54.480Z",
+   "summary": "美国地质调查局官方监测：45 km N of Charlotte Amalie, U.S. Virgin Islands发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "葡萄牙、意大利和比利时三国名列欧盟饮酒量最高国家榜首",
+   "link": "https://sputniknews.cn/20260929/1073416328.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T18:40:33.000Z",
+   "summary": "欧盟统计局的数据显示，葡萄牙、意大利和比利时三国名列欧盟饮酒量最高国家榜首。这三个国家去年16岁以上人群每日饮酒的比例最高。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】36 km SE of Hualien City, Taiwan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty73",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T18:20:44.330Z",
+   "summary": "美国地质调查局官方监测：36 km SE of Hualien City, Taiwan发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "台湾",
+    "台海"
+   ]
+  },
+  {
+   "title": "俄专家：美国柴油出口禁令将对全球市场造成又一次的重大打击",
+   "link": "https://sputniknews.cn/20260929/1073416077.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T18:06:20.000Z",
+   "summary": "俄罗斯能源公司Implementa负责人叶夫根尼娅·波波娃在接受俄罗斯卫星通讯社采访时表示，美国柴油出口禁令将对全球燃料市场造成又一次的重大打击。这个禁令尤其将会对拉丁美洲和欧洲产生明显的影响。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】13 km NNW of Ninilchik, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tgbuia",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T17:55:53.431Z",
+   "summary": "美国地质调查局官方监测：13 km NNW of Ninilchik, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】155 km NNW of Kilmia, Yemen",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty71",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T17:37:55.108Z",
+   "summary": "美国地质调查局官方监测：155 km NNW of Kilmia, Yemen发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "也门",
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】43 km N of Chase, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tgbcma",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T17:35:06.839Z",
+   "summary": "美国地质调查局官方监测：43 km N of Chase, Alaska发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊朗足球队主教练称球队一直都很高兴来俄罗斯",
+   "link": "https://sputniknews.cn/20260929/1073415967.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T17:34:52.000Z",
+   "summary": "伊朗国家足球队主教练阿米尔·加莱诺埃表示，球队一直都很高兴来俄罗斯。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "欧洲专家解释北方海路为何令美国担忧",
+   "link": "https://sputniknews.cn/20260929/1073415746.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T17:11:00.000Z",
+   "summary": "挪威东南大学政治学家兼教授格伦·迪森认为，美国担忧北方海路发展的原因是这条前景广阔的航线并不在美国的控制之下。",
+   "regions": [
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：中国与西方的不同之处在于其战略视野",
+   "link": "https://sputniknews.cn/20260929/1073415630.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T16:50:02.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月28日电 俄罗斯外交部发言人扎哈罗娃表示，中国与西方的不同之处在于其战略视野，而西方则仅依赖于选举周期。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.6】42 km WSW of Anchor Point, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tfzjzc",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T16:44:00.462Z",
+   "summary": "美国地质调查局官方监测：42 km WSW of Anchor Point, Alaska发生 3.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "联合国表示在黎巴嫩保持国际存在至关重要",
+   "link": "https://sputniknews.cn/20260929/1073415504.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T16:28:00.000Z",
+   "summary": "联合国驻黎巴嫩临时部队（UNIFIL）新闻处发表声明称，在黎巴嫩保持国际存在，有助于推动各方履行联合国安理会决议规定的义务，实现黎巴嫩南部长期和平。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "巴西专家：西方试图控制人工智能供应链",
+   "link": "https://sputniknews.cn/20260929/1073415386.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T16:05:00.000Z",
+   "summary": "巴西南里奥格兰德联邦大学政治学教授法比亚诺·梅尔尼丘克表示，西方国家正试图控制人工智能领域的供应链。",
+   "regions": [
+    "拉美"
+   ]
+  },
+  {
+   "title": "教皇利奥十四世呼吁欧洲为和平牺牲部分立场",
+   "link": "https://sputniknews.cn/20260928/1073415259.html",
+   "source": "卫星社中文",
+   "time": "2026-09-28T15:46:00.000Z",
+   "summary": "俄罗斯卫星通讯社梵蒂冈9月28日电 罗马教皇利奥十四世呼吁欧洲政客展现勇气，做好准备为实现和平牺牲部分立场。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
    "title": "【灾害警报】Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
    "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001330",
    "source": "GDACS灾害监测",
@@ -1530,6 +2065,28 @@
    ]
   },
   {
+   "title": "【地震 M4.7】115 km WSW of Banda Aceh, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty5h",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T14:43:10.687Z",
+   "summary": "美国地质调查局官方监测：115 km WSW of Banda Aceh, Indonesia发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】6 km NNE of Cepitá, Colombia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty5f",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T14:42:31.470Z",
+   "summary": "美国地质调查局官方监测：6 km NNE of Cepitá, Colombia发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
+   ]
+  },
+  {
    "title": "预计伊朗外长28日将与美伊谈判调解方会面",
    "link": "https://www.chinanews.com.cn/gj/2026/09-28/10705164.shtml",
    "source": "中新网国际",
@@ -1569,6 +2126,17 @@
    "summary": "阿根廷核裁军问题专家卡伦·哈尔伯格（Karen Hallberg）表示，就连科学界也无法准确判断可能发生的核冲突会带来何种后果，因此俄中美三国更有必要就核军控和防扩散展开对话。",
    "regions": [
     "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】Izu Islands, Japan region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty5c",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T14:00:41.104Z",
+   "summary": "美国地质调查局官方监测：Izu Islands, Japan region发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
    ]
   },
   {
@@ -1621,6 +2189,19 @@
    "summary": "中新网悉尼9月28日电 中国驻澳大利亚大使刘劲松日前在悉尼和堪培拉分别看望澳大利亚已故著名华裔医生张任谦的遗孀安·张和已故华人名医李腾谦的遗孀贾鸥。",
    "regions": [
     "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.2】275 km W of Indianola, California",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty59",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T13:30:32.105Z",
+   "summary": "美国地质调查局官方监测：275 km W of Indianola, California发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "印度",
+    "亚太",
+    "美国加州",
+    "美洲"
    ]
   },
   {
@@ -1729,6 +2310,26 @@
    "regions": [
     "斐济",
     "亚太"
+   ]
+  },
+  {
+   "title": "朝鲜副外相：朝鲜核武器国家地位已永久确立",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142901",
+   "source": "联合国新闻",
+   "time": "2026-09-28T12:00:00.000Z",
+   "summary": "朝鲜副外相金善敬周一在联合国大会第八十一届会议一般性辩论上发表讲话说，朝鲜的核武器国家地位已在物质上和法律上永久确立，朝鲜将继续以核威慑捍卫国家主权、安全和根本利益。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "阿联酋国务部长：反对胁迫 呼吁和平解决与伊朗争议",
+   "link": "https://news.un.org/feed/view/zh/story/2026/09/1142900",
+   "source": "联合国新闻",
+   "time": "2026-09-28T12:00:00.000Z",
+   "summary": "阿拉伯联合酋长国国务部长哈利法周一在联合国大会第八十一届会议一般性辩论上发表讲话说，阿联酋反对非法使用或威胁使用武力以及胁迫手段，主张通过外交、对话和和平方式解决争端。",
+   "regions": [
+    "中东"
    ]
   },
   {
@@ -4093,6 +4694,28 @@
  ],
  "econ": [
   {
+   "title": "王毅会见日本国际贸易促进协会会长岩屋毅",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705184.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-28T16:33:43.000Z",
+   "summary": "中新社北京9月28日电 中共中央政治局委员、中央外办主任王毅28日在北京会见日本国际贸易促进协会会长岩屋毅。",
+   "regions": [
+    "亚太",
+    "北京"
+   ]
+  },
+  {
+   "title": "王毅会见日本国际贸易促进协会会长岩屋毅",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-28/10705181.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-28T15:53:02.000Z",
+   "summary": "2026年9月28日，中共中央政治局委员、中央外办主任王毅在北京会见日本国际贸易促进协会会长岩屋毅。",
+   "regions": [
+    "亚太",
+    "北京"
+   ]
+  },
+  {
    "title": "巴西市场上调2026年通胀预期至4.99%",
    "link": "https://www.chinanews.com.cn/cj/2026/09-28/10705180.shtml",
    "source": "中新网滚动",
@@ -4668,5 +5291,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-28T15:43:20.852Z"
+ "updatedAt": "2026-09-28T21:32:15.795Z"
 }
