@@ -2,6 +2,238 @@
  "date": "2026-09-29",
  "tech": [
   {
+   "title": "尴尬时刻：OpenAI 全天候 AI 智能体 dots 首次公开演示卡壳",
+   "link": "https://www.ithome.com/1/008/534.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T19:11:25.000Z",
+   "summary": "IT之家 9 月 30 日消息，在今天召开 2026 开发者日活动中， OpenAI 在首次公开演示其全天候智能助理 Dots 时突然停止响应，现场一度陷入尴尬。 演示期间，OpenAI ChatGPT 团队产品负责人 Holly Li 要…",
+   "regions": []
+  },
+  {
+   "title": "2026 OpenAI 开发者日遭 15+ 组织抗议，要求 AI 数据中心设 100 英里安全距离",
+   "link": "https://www.ithome.com/1/008/533.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T19:07:28.000Z",
+   "summary": "IT之家 9 月 30 日消息，科技媒体 The Verge 今天（9 月 30 日）发布博文， 报道称 2026 年度 OpenAI 开发者日（DevDay）在旧金山开幕，现场遭遇大规模抗议活动。 包括湾区抵抗组织（Bay Resista…",
+   "regions": []
+  },
+  {
+   "title": "除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」",
+   "link": "http://www.geekpark.net/news/372003",
+   "source": "极客公园",
+   "time": "2026-09-29T18:59:48.000Z",
+   "summary": "模型越来越便宜，付费给的用量却砍了半 作者｜Alan 北京时间 9 月 30 日凌晨，OpenAI 开完了它口中「迄今规模最大的一届」开发者大会。官方汇总页上一共列了 25 项发布，从新模型、新 API，一路排到给企业买软件用的应用市场。 …",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，AI 加速走向工作场景",
+   "link": "https://www.ithome.com/1/008/532.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T18:47:22.000Z",
+   "summary": "IT之家 9 月 30 日消息，在 2026 开发者日活动中， OpenAI 宣布 ChatGPT 每周活跃用户已超过 12 亿 ，ChatGPT Work 和 Codex 每周用户超过 3,500 万，使用 OpenAI 产品的企业数量达…",
+   "regions": []
+  },
+  {
+   "title": "150 毫秒极速响应：OpenAI 推出 Decisions API，让 AI 从“聊天”走向“实时决策”",
+   "link": "https://www.ithome.com/1/008/531.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T18:35:38.000Z",
+   "summary": "IT之家 9 月 30 日消息，在今天召开的 2026 开发者日活动中，OpenAI 宣布推出 Decisions API，这是一个面向实时、低延迟分类与路由场景的全新 API， 可以大约在 150 毫秒内返回结果 ，比通过常规 API 使…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 推出 ChatGPT 资料空间、动态页面、协作式幻灯片等 AI 协同工具",
+   "link": "https://www.ithome.com/1/008/530.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T18:22:40.000Z",
+   "summary": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 推出了多个 AI 协同工具。IT之家汇总如下： ChatGPT 资料空间 ChatGPT 资料空间是…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI ChatGPT 账号变身“万能钥匙”：可一键登录网站，Notion / GitLab 率先接入",
+   "link": "https://www.ithome.com/1/008/529.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T18:18:18.000Z",
+   "summary": "IT之家 9 月 30 日消息，在今天召开的 2026 开发者日活动中，OpenAI 推出“使用 ChatGPT 登录”（Sign in with ChatGPT）功能， 支持用户直接使用 ChatGPT 账户身份登录支持的外部应用程序，简…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI ChatGPT 插件扩展升级：改进排序与推荐方式，支持 MCP 事件自动化",
+   "link": "https://www.ithome.com/1/008/528.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T18:08:00.000Z",
+   "summary": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布升级插件扩展。 借助插件扩展，开发者可以直接在 ChatGPT 中构建丰富的应用内体验。现在， …",
+   "regions": []
+  },
+  {
+   "title": "同性能下最高性价比 AI 模型：OpenAI 发布 GPT-6.1 Sol，性能媲美 Astra、费用仅为 1/5",
+   "link": "https://www.ithome.com/1/008/527.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T18:06:51.000Z",
+   "summary": "IT之家 9 月 30 日消息，在今天召开的 OpenAI 开发者活动日中，官方正式宣布推出 GPT-6.1 Sol 模型，在性能接近 Astra 的同时，其费用仅为 Astra 的五分之一， 官方称这是“在目前同等性能下性价比最高的模型”…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI Codex CLI 升级支持语音对话，更新终端界面",
+   "link": "https://www.ithome.com/1/008/526.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T17:56:00.000Z",
+   "summary": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布 Codex CLI 迎来焕新升级。 Codex CLI 现已支持语音对话 ，用户可以直接与 C…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 推出每月 500 美元的 Pro 套餐，专享 Astra Ultrafast 最快模型",
+   "link": "https://www.ithome.com/1/008/525.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T17:44:59.000Z",
+   "summary": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布为了满足更高的构建需求， 推出每月 500 美元 （IT之家注：现汇率约合 3,361 元人民币…",
+   "regions": []
+  },
+  {
+   "title": "最高每秒 300 个词元：OpenAI 推出 GPT‑6 Astra Ultrafast 服务",
+   "link": "https://www.ithome.com/1/008/524.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T17:43:14.000Z",
+   "summary": "IT之家 9 月 30 日消息，在今天召开的 2026 年 OpenAI 开发者日活动日中，官方推出 Ultrafast 全新服务层级，在 Codex 中可提供最高 8 倍词元（Token）生成速度，在 API 调用时最高可以实现 6 倍生…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 发布 dots 全天候智能助理：可爱卡通形象，Astra 模型加持",
+   "link": "https://www.ithome.com/1/008/523.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T17:23:22.000Z",
+   "summary": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 发布了 dots。 dots 是一个全天候在线的智能体， 采用四个可爱的卡通形象 ，可以帮助用户规划…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 在 Codex 上线 GPT-6.1 Sol 模型：性能接近 Astra，价格仅为 1/5",
+   "link": "https://www.ithome.com/1/008/522.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T17:20:45.000Z",
+   "summary": "IT之家 9 月 30 日消息，在今天召开的 OpenAI 开发者日活动中，官方在 Codex 和 ChatGPT Work 中推出 GPT 6.1 Sol 模型，官方表示： “GPT-6.1 Sol 在处理复杂任务时，性能接近 Astra…",
+   "regions": []
+  },
+  {
+   "title": "苹果发布 Final Cut Camera 2.4：首次支持 iPhone 18 Pro / Max 可变光圈",
+   "link": "https://www.ithome.com/1/008/520.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T17:09:49.000Z",
+   "summary": "IT之家 9 月 30 日消息，iPhone 专业视频拍摄 App Final Cut Camera 迎来 2.4 版本重大更新， 新增支持 iPhone 18 Pro 可变光圈 ，并随 iOS 27 为创作者带来更多专业选项。新版本今日（…",
+   "regions": []
+  },
+  {
+   "title": "微信鸿蒙版 App 获 8.0.22.35 尝鲜升级，修复了一些已知问题",
+   "link": "https://www.ithome.com/1/008/517.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T15:39:40.000Z",
+   "summary": "IT之家 9 月 29 日消息，继 8.0.22.34 之后，微信鸿蒙版 App 在华为应用市场（App Gallery）紧接着开启了 8.0.22.35 (8394275) 版本尝鲜升级，测试时间为 2026/9/29-2026/10/2…",
+   "regions": []
+  },
+  {
+   "title": "古尔曼：苹果新任 CEO 特努斯着手全面改革，加快产品开发、精简管理层",
+   "link": "https://www.ithome.com/1/008/516.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T15:21:45.000Z",
+   "summary": "IT之家 9 月 29 日消息，彭博社马克 · 古尔曼刚刚报道称，苹果新任 CEO 约翰 · 特努斯（John Ternus）上任不到一个月，便已着手对公司内部展开大刀阔斧的改革。 特努斯希望调整公司组织和产品开发方式， 目标包括加快产品研…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iPhone 18 Pro 售价大涨，越来越多日本人开始考虑二手手机",
+   "link": "https://www.ithome.com/1/008/515.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T15:15:39.000Z",
+   "summary": "IT之家 9 月 29 日消息，苹果本月初推出 iPhone 18 Pro 系列手机。新机带来可变光圈、灵动岛尺寸缩小等一系列升级，售价增长也引发热议。在日本市场， iPhone 18 Pro 与 5 年前同级机型相比 ， 价格几乎翻了一番…",
+   "regions": []
+  },
+  {
+   "title": "RGB 硬件最后一环：英特尔专利提出在 CPU 封装中集成 Micro LED，可用作指示灯或装饰",
+   "link": "https://www.ithome.com/1/008/511.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T15:07:24.000Z",
+   "summary": "IT之家 9 月 29 日消息，TomsHardWare 发现，英特尔本月初公开了一项关于 CPU 封装的新专利，提出将 Micro LED 灯珠直接集成到处理器内部的想法。 这意味着，未来处理器表面不仅可以显示 RGB 灯效，还可以自定义…",
+   "regions": []
+  },
+  {
+   "title": "报道称 OpenAI 年化经常性收入接近 700 亿美元，较三季度初增长超 70%",
+   "link": "https://www.ithome.com/1/008/510.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T15:05:17.000Z",
+   "summary": "IT之家 9 月 29 日消息，据外媒 Axios 今天报道，据知情人士透露， OpenAI 年化经常性收入（ARR）已接近 700 亿美元 （IT之家注：现汇率约合 4,705.11 亿元人民币） 。 据报道，自 2026 年三季度初以来…",
+   "regions": []
+  },
+  {
+   "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用",
+   "link": "https://www.ithome.com/1/008/506.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T14:51:10.000Z",
+   "summary": "IT之家 9 月 29 日消息，根据 Qoder 官方公告，阿里 Qwen3.8-Flash 限时免费活动已延期 —— 原定 2026 年 9 月 30 日 23:59:59 结束，现改为 10 月 1 日起继续免费（结束时间未定）。 该活…",
+   "regions": []
+  },
+  {
+   "title": "别克全新君越 10 月 10 日上市，号称“搭载 50 项豪华升级”",
+   "link": "https://www.ithome.com/1/008/505.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T14:49:25.000Z",
+   "summary": "IT之家 9 月 29 日消息，别克汽车今日宣布，全新君越焕新而来，搭载 50 项豪华升级，10 月 10 日正式上市。 据此前官方预热，全新君越拥有超 5 米车身尺寸，轮距 1.6 米、 轴距 2.9 米 ，均为同级最长或最宽。 IT之家…",
+   "regions": []
+  },
+  {
+   "title": "30 美元：树莓派发布智能显示模块，适配英特尔 SDM 商用屏",
+   "link": "https://www.ithome.com/1/008/504.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T14:47:50.000Z",
+   "summary": "IT之家 9 月 29 日消息，树莓派官方今天宣布推出智能显示模块（Smart Display Module）。该产品适用于 Compute Module 5，可将 CM5 计算模块化身为低功耗、高质量的数字标牌显示设备，售价 30 美元 …",
+   "regions": []
+  },
+  {
+   "title": "吉利登陆葡萄牙市场，三款车型同步亮相",
+   "link": "https://www.ithome.com/1/008/503.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T14:35:36.000Z",
+   "summary": "IT之家 9 月 29 日消息，吉利汽车上周（9 月 24 日）宣布，吉利汽车品牌暨产品上市发布会在葡萄牙波尔图成功举办，标志着 Geely Auto 品牌正式登陆葡萄牙市场。 IT之家从 Geely International 公众号获悉…",
+   "regions": []
+  },
+  {
+   "title": "AMD 霄龙 9006 系列服务器 CPU 发布：旗舰 256 核 EPYC 9996 售 14904 美元",
+   "link": "https://www.ithome.com/1/008/502.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T14:33:48.000Z",
+   "summary": "IT之家 9 月 29 日消息，AMD 今日正式公布了 EPYC 9006 系列服务器 CPU 的定价，从 700 美元到 14,904 美元 （IT之家注：现汇率约合 4,705 元到 10 万元人民币） 不等。 第六代 EPYC 900…",
+   "regions": []
+  },
+  {
+   "title": "千里科技：子公司拟 3443.88 万元购买极氪智能驾驶相关资产",
+   "link": "https://www.ithome.com/1/008/501.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T14:30:20.000Z",
+   "summary": "IT之家 9 月 29 日消息，千里科技今日发布公告，控股子公司重庆千里智驾科技有限公司（以下简称“千里智驾”）拟与浙江极氪汽车研究开发有限公司（以下简称“浙江极氪”）签署《资产转让协议》，向浙江极氪购买智能驾驶业务研发相关的电子设备及设备…",
+   "regions": []
+  },
+  {
+   "title": "暴雪确认《暗黑破坏神 5》游戏推出后，《暗黑破坏神 4》将持续更新赛季",
+   "link": "https://www.ithome.com/1/008/500.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T14:20:47.000Z",
+   "summary": "IT之家 9 月 29 日消息，据外媒 VGC 今天报道，暴雪游戏总监 Brent Gibson 最近确认，他们并不会在《暗黑破坏神 5》推出后，强迫 4 代游戏玩家转移至新作。 IT之家注意到，这名总监表示，《暗黑破坏神 5》正式上线后，…",
+   "regions": []
+  },
+  {
+   "title": "时隔七年重映：漫威《复仇者联盟 4：终局之战（加码臻享版）》电影票房突破 1 亿",
+   "link": "https://www.ithome.com/1/008/499.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T14:18:02.000Z",
+   "summary": "IT之家 9 月 29 日消息，据灯塔专业版，截至 9 月 29 日，《复仇者联盟 4：终局之战（加码臻享版）》重映票房突破 1 亿。 IT之家注意到，漫威《复仇者联盟 4：终局之战》（加码臻享版）于 9 月 25 日起正式登陆全国影院，此…",
+   "regions": []
+  },
+  {
+   "title": "AMD 发布 Adrenalin 26.9.2 肾上腺素驱动：新增《我的世界：地下城 2》等多款游戏支持",
+   "link": "https://www.ithome.com/1/008/498.htm",
+   "source": "IT之家",
+   "time": "2026-09-29T14:15:37.000Z",
+   "summary": "IT之家 9 月 29 日消息，AMD 今日发布了最新的 Adrenalin Edition 26.9.2 可选显卡驱动，本次更新重点带来多款新游戏支持，修复了多个主流游戏运行中的驱动异常问题。 新游戏支持与性能优化 《我的世界：地下城 2…",
+   "regions": []
+  },
+  {
    "title": "微软将优化 Win11 ARM 设备初次开机 OOBE 流程，厂商可延后非关键驱动和固件更新",
    "link": "https://www.ithome.com/1/008/497.htm",
    "source": "IT之家",
@@ -1404,6 +1636,290 @@
  ],
  "world": [
   {
+   "title": "斯卢茨基：基辅当局刻意淡化班德拉分子在娘子谷惨案中的所作所为",
+   "link": "https://sputniknews.cn/20260930/1073429513.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T19:00:00.000Z",
+   "summary": "俄罗斯国家杜马第八届国际事务委员会主席列昂尼德·斯卢茨基向俄罗斯卫星通讯社表示，基辅当局刻意淡化甚至否认班德拉分子在娘子谷惨案中的所作所为，而泽连斯基仍在继续美化纳粹分子。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "消息人士：伊朗与美国的矛盾点集中在放弃施压工具问题上",
+   "link": "https://sputniknews.cn/20260930/1073429399.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T18:40:00.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰9月29日电 伊朗外交界消息人士对俄新社表示，伊朗与美国在霍尔木兹海峡问题上的矛盾集中在双方放弃施压工具这一点上。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "托卡耶夫称普京是欧洲最能接受的俄罗斯领导人",
+   "link": "https://sputniknews.cn/20260930/1073429305.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T18:20:00.000Z",
+   "summary": "哈萨克斯坦总统卡西姆-若马尔特·托卡耶夫表示：“在我看来，普京总统作为政治家、作为俄罗斯领导人，是欧洲乃至全世界最能接受的政治人物。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "消息人士：霍尔木兹海峡及解除封锁的问题是伊美冲突磋商的重点",
+   "link": "https://sputniknews.cn/20260930/1073429196.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T18:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰9月29日电 伊朗外交消息人士向卫星通讯社表示，伊美冲突磋商正在通过调解方进行，霍尔木兹海峡、制裁以及解除对伊经济封锁的问题是磋商的重点。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄总统助理表示习近平主席可能将着手筹备与俄美领导人的会晤",
+   "link": "https://sputniknews.cn/20260930/1073429088.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T17:40:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月29日电 俄罗斯总统助理乌沙科夫表示，中国国家主席习近平可能将着手安排与俄罗斯总统普京、美国总统特朗普举行中、俄、美三国领导人峰会。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "普京会见塞族共和国领导人",
+   "link": "https://sputniknews.cn/20260930/1073428930.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T17:20:00.000Z",
+   "summary": "塞族共和国总统米洛拉德·多迪克和总理萨沃·米尼奇参加了会谈。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "特朗普：美中两国正在人工智能领域争夺领导地位 在这一领域只会有赢家和输家",
+   "link": "https://sputniknews.cn/20260930/1073428794.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T17:00:00.000Z",
+   "summary": "美国总统唐纳德·特朗普周二表示，美中两国正在人工智能领域争夺领导权，在这一领域只会有赢家和输家。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "普京：俄罗斯在多边平台支持塞族共和国",
+   "link": "https://sputniknews.cn/20260930/1073428686.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T16:40:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月29日电 俄罗斯总统普京表示，俄罗斯在包括联合国安理会在内的国际平台始终支持塞族共和国。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "一只北极熊被几只狗从俄罗斯切柳斯金角气象站赶走",
+   "link": "https://sputniknews.cn/20260930/1073428581.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T16:20:00.000Z",
+   "summary": "气象学家因这只危险的邻居已暂停放飞气象气球并且导致两天时间内无法向莫斯科传输数据。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】44 km NNE of Fangale’ounga, Tonga",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tycv",
+   "source": "USGS地震台网",
+   "time": "2026-09-29T16:12:56.037Z",
+   "summary": "美国地质调查局官方监测：44 km NNE of Fangale’ounga, Tonga发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "汤加",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】6 km W of Yountville, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444432",
+   "source": "USGS地震台网",
+   "time": "2026-09-29T16:06:37.410Z",
+   "summary": "美国地质调查局官方监测：6 km W of Yountville, CA发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "意大利完成从伊拉克撤军",
+   "link": "https://sputniknews.cn/20260930/1073428485.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T16:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社罗马9月29日电 意大利国防部宣布，意大利已完成从伊拉克撤军，结束了意大利武装部队在该国长达12年的驻扎。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄军一架图-95战略轰炸机坠毁致6人身亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705946.shtml",
+   "source": "中新网国际",
+   "time": "2026-09-29T15:57:15.000Z",
+   "summary": "中新社莫斯科9月29日电 俄罗斯媒体29日援引俄国防部消息报道称，一架图-95战略轰炸机当天在俄远东地区阿穆尔州执行训练飞行任务时坠毁，造成6名机组人员遇难、1人受伤。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "美国一死囚因DNA不匹配获保释",
+   "link": "https://sputniknews.cn/20260929/1073428393.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T15:40:00.000Z",
+   "summary": "美国法院裁定，一名自1985年起因谋杀罪等待执行死刑的男子准许保释，新的DNA分析结果显示样本不匹配。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】West Chile Rise",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tycz",
+   "source": "USGS地震台网",
+   "time": "2026-09-29T15:31:18.586Z",
+   "summary": "美国地质调查局官方监测：West Chile Rise发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
+   "title": "乌专家：乌克兰今年仅收到国际援助承诺的37%",
+   "link": "https://sputniknews.cn/20260929/1073428272.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T15:20:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月29日电 乌克兰“经济辩论俱乐部“主席奥列格·彭津表示，由于未能履行对援助方承担的义务，乌克兰今年仅收到国际援助承诺总额的37%。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】South Sandwich Islands region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyck",
+   "source": "USGS地震台网",
+   "time": "2026-09-29T15:17:18.348Z",
+   "summary": "美国地质调查局官方监测：South Sandwich Islands region发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green notification for tropical cyclone NINETEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001331",
+   "source": "GDACS灾害监测",
+   "time": "2026-09-29T15:15:39.000Z",
+   "summary": "From 29/09/2026 to 29/09/2026, a Tropical Depression (maximum wind speed of 65 km/h) NINETEEN-E-26 was active in EastPac…",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "商务部新闻发言人就媒体报道欧盟相关成员国推动欧委会打造欧版“301”工具事答记者问",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-29/10705940.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-29T15:09:39.000Z",
+   "summary": "问：近日有媒体报道，部分欧盟成员国正在制定联合文件，呼吁欧委会加快制定欧版“301”工具，对华采取更加强硬措施，请问中方对此有何评论？",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "（爱知·名古屋亚运会）综合消息：中国羽毛球队两金收官 田径赛场“多点开花”",
+   "link": "https://www.chinanews.com.cn/ty/2026/09-29/10705936.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-29T15:05:50.000Z",
+   "summary": "中新社日本名古屋9月29日电 当地时间29日，爱知·名古屋亚运会共决出34枚金牌，羽毛球、田径等多个项目迎来收官。中国羽毛球队当日在混双项目上收获一枚金牌，在男双、女双项目中获得两枚银牌，最终以2金3银3铜结束本届亚运会。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "（爱知·名古屋亚运会）亚运会2金3银3铜收官 中国羽毛球如何突围？",
+   "link": "https://www.chinanews.com.cn/ty/2026/09-29/10705935.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-29T15:01:34.000Z",
+   "summary": "中新社日本名古屋9月29日电 (记者 李志全)爱知·名古屋亚运会羽毛球单项赛29日收官，中国队在本届亚运会羽毛球项目共收获2金3银3铜，其中男单颗粒无收、女单无缘决赛。作为中国队传统优势项目，此役成绩单不尽如人意。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "美媒：特朗普计划通过放松对俄制裁来改善美俄关系",
+   "link": "https://sputniknews.cn/20260929/1073428175.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T15:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿9月29日电 《大西洋》杂志表示，美国总统特朗普计划通过放松对俄罗斯经济的制裁来改善与俄罗斯的关系。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄罗斯将在中国和越南展出新型Garpiya无人机",
+   "link": "https://sputniknews.cn/20260929/1073428063.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T14:45:00.000Z",
+   "summary": "俄罗斯阿尔马兹-安泰公司（Almaz-Antey）研制的出口型无人机Garpiya-A1(E)将在越南防务展（Vietnam Defence Expo）和中国航展（Airshow China）两大国际展会上展出。",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】192 km ESE of Mil’kovo, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tych",
+   "source": "USGS地震台网",
+   "time": "2026-09-29T14:40:28.155Z",
+   "summary": "美国地质调查局官方监测：192 km ESE of Mil’kovo, Russia发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "白宫：俄罗斯总统特使与美国官员继续就乌克兰问题解决方案进行磋商",
+   "link": "https://sputniknews.cn/20260929/1073427968.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T14:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿9月29日电 美国白宫向卫星通讯社表示，负责对外投资和经济合作的俄罗斯总统特别代表基里尔·德米特里耶夫与美国官员在近期的接触中，继续就乌克兰问题解决方案进行磋商。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "消息人士：俄总统特别代表与美方在华盛顿讨论两国经济合作",
+   "link": "https://sputniknews.cn/20260929/1073427526.html",
+   "source": "卫星社中文",
+   "time": "2026-09-29T14:15:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科9月29日电 知情人士向卫星通讯社表示，俄罗斯直接投资基金总裁、负责对外投资和经济合作事务的俄总统特别代表德米特里耶夫在华盛顿与美国财政部和能源部代表等官员讨论了俄美经济合作。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】58 km NW of Pante Makasar, Timor Leste",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc9",
+   "source": "USGS地震台网",
+   "time": "2026-09-29T14:14:06.077Z",
+   "summary": "美国地质调查局官方监测：58 km NW of Pante Makasar, Timor Leste发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "美国防部遭遇大规模数据泄露",
    "link": "https://sputniknews.cn/20260929/1073427409.html",
    "source": "卫星社中文",
@@ -2480,6 +2996,16 @@
  ],
  "tw": [
   {
+   "title": "“外媒看中国”活动走进黑龙江 见证农业“智”变",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705929.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-29T14:10:33.000Z",
+   "summary": "中新社黑龙江佳木斯9月29日电 (记者 王妮娜)“稻田一眼望不到边，看不到人，只有无人驾驶收割机在自动收割水稻，很震撼。”新加坡《海峡时报》记者游润恬29日在黑龙江佳木斯富锦市万亩水稻科技示范园参观时说。",
+   "regions": [
+    "黑龙江"
+   ]
+  },
+  {
    "title": "首届“两岸创新发展周”在上海举行 冀数智科技产业加大合作",
    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705925.shtml",
    "source": "中新网中国",
@@ -2647,6 +3173,34 @@
   }
  ],
  "cn": [
+  {
+   "title": "公安部公布8起新型涉黑恶犯罪典型案例",
+   "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705933.shtml",
+   "source": "中新网中国",
+   "time": "2026-09-29T14:41:55.000Z",
+   "summary": "为深入贯彻落实党中央关于开展深化扫黑除恶专项斗争的决策部署，公安部组织指挥全国公安机关开展集中收网行动，打掉一批犯罪团伙，侦破一批涉黑恶案件。为有力震慑犯罪，今日，公安部公布其中8起新型涉黑恶犯罪典型案例。",
+   "regions": []
+  },
+  {
+   "title": "东西问｜颜海英：古老文明何以对接当代现实？",
+   "link": "https://www.chinanews.com.cn/dxw/2026/09-29/10705922.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-29T14:35:04.000Z",
+   "summary": "中新社北京9月29日电 题：古老文明何以对接当代现实？",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "“外媒看中国”活动走进黑龙江 见证农业“智”变",
+   "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705929.shtml",
+   "source": "中新网社会",
+   "time": "2026-09-29T14:10:33.000Z",
+   "summary": "中新社黑龙江佳木斯9月29日电 (记者 王妮娜)“稻田一眼望不到边，看不到人，只有无人驾驶收割机在自动收割水稻，很震撼。”新加坡《海峡时报》记者游润恬29日在黑龙江佳木斯富锦市万亩水稻科技示范园参观时说。",
+   "regions": [
+    "黑龙江"
+   ]
+  },
   {
    "title": "2026年世界互联网大会乌镇峰会将于11月2日至5日举行",
    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705927.shtml",
@@ -3927,6 +4481,38 @@
  ],
  "econ": [
   {
+   "title": "商务部新闻发言人就媒体报道欧盟相关成员国推动欧委会打造欧版“301”工具事答记者问",
+   "link": "https://www.chinanews.com.cn/cj/2026/09-29/10705940.shtml",
+   "source": "中新网财经",
+   "time": "2026-09-29T15:09:39.000Z",
+   "summary": "问：近日有媒体报道，部分欧盟成员国正在制定联合文件，呼吁欧委会加快制定欧版“301”工具，对华采取更加强硬措施，请问中方对此有何评论？",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "17项合作事项落地 龙粤市场监管协作迈入新阶段",
+   "link": "https://www.chinanews.com.cn/dwq/2026/09-29/10705931.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-29T14:12:25.000Z",
+   "summary": "中新网哈尔滨9月29日电(记者 刘璐)29日，黑龙江省市场监管局、广东省市场监管局“十五五”时期区域协调发展合作签约仪式在哈尔滨市举办。双方围绕执法办案、登记注册、信用监管、消费维权、广告、食品安全等方面的首批17项合作事项开展深度合作。",
+   "regions": [
+    "哈尔滨",
+    "黑龙江"
+   ]
+  },
+  {
+   "title": "广西生育保险政策优化调整 助力生育保障提质增效",
+   "link": "https://www.chinanews.com.cn/jk/2026/09-29/10705930.shtml",
+   "source": "中新网滚动",
+   "time": "2026-09-29T14:11:51.000Z",
+   "summary": "中新网南宁9月29日电(黄艳梅 庞雪娇)广西壮族自治区医疗保障局29日介绍，近日，该部门会同广西壮族自治区财政厅、国家税务总局广西壮族自治区税务局联合印发《关于完善广西生育医疗保障有关政策的通知》(以下简称《通知》)，通过系列惠民举措助力生…",
+   "regions": [
+    "南宁",
+    "广西"
+   ]
+  },
+  {
    "title": "广西侨乡玉林发力运河新经济 壮大临港产业集群",
    "link": "https://www.chinanews.com.cn/cj/2026/09-29/10705926.shtml",
    "source": "中新网滚动",
@@ -4553,5 +5139,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-29T14:12:07.759Z"
+ "updatedAt": "2026-09-29T19:32:04.127Z"
 }
