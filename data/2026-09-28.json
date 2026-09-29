@@ -442,6 +442,14 @@
    "regions": []
   },
   {
+   "title": "scrapy-cookbook 2.19版本发布，Python爬虫框架Scrapy橙皮书",
+   "link": "https://www.oschina.net/news/502775",
+   "source": "开源中国",
+   "time": "2026-09-28T15:18:20.000Z",
+   "summary": "Scrapy 是 Python 开发的著名爬虫框架，目前使用非常广泛。Scrapy橙皮书教程基于最新的 Scrapy 2.19 版本编写，通过实际的例子带领你一步步掌握 Scrapy 核心。 在线阅读: http://scrapy-cook…",
+   "regions": []
+  },
+  {
    "title": "美国 FBI 确认遭黑客袭击：员工姓名、住址及社安号码等信息被泄露",
    "link": "https://www.ithome.com/1/008/061.htm",
    "source": "IT之家",
@@ -986,6 +994,14 @@
    "regions": []
   },
   {
+   "title": "蔚来换电，终于等来了「别人家的车」",
+   "link": "http://www.geekpark.net/news/371233",
+   "source": "极客公园",
+   "time": "2026-09-28T12:40:54.000Z",
+   "summary": "过去一年，蔚来似乎有意在新车发布时不再过分强调「换电」的重要性。以笔者自己的体感而言，无论是新车发布会，还是线下门店里用户的讨论度，换电都不再是「最重要的那一个话题点」。 但换电退到了幕后，却没有影响蔚来的新车销量：第三代 ES8 上市 1…",
+   "regions": []
+  },
+  {
    "title": "中外学者确认最早半水生记录：1.25 亿年前哺乳动物就会游泳",
    "link": "https://www.ithome.com/1/008/015.htm",
    "source": "IT之家",
@@ -1146,6 +1162,22 @@
    "regions": []
   },
   {
+   "title": "不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了",
+   "link": "http://www.geekpark.net/news/371126",
+   "source": "极客公园",
+   "time": "2026-09-28T09:50:05.000Z",
+   "summary": "最近， 一个叫 Jev 的 AI 模型突然在开发者圈子里炸了。更可怕的是，根据最新消息，Jev 最近正在洽谈 10 亿美元融资，最新估值 100 亿美元&mdash;&mdash;而这距离 Jev 推出，还不到 1 个月。 Jev 这个新模…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI，经历了最漫长的一天",
+   "link": "http://www.geekpark.net/news/371123",
+   "source": "极客公园",
+   "time": "2026-09-28T09:45:25.000Z",
+   "summary": "当地时间 9 月 25 日，OpenAI 经历了漫长的一天。 当天， OpenAI 的 AI 智能体擅自访问美国政府网站的事被曝光，涉及教育部、商务部和证券交易委员会 ，OpenAI 确认了其中商务部和 SEC 的情况。 同一天，它承认有 …",
+   "regions": []
+  },
+  {
    "title": "派评 | 近期值得关注的 App",
    "link": "https://sspai.com/post/115094",
    "source": "少数派",
@@ -1162,11 +1194,27 @@
    "regions": []
   },
   {
+   "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线",
+   "link": "http://www.geekpark.net/news/371113",
+   "source": "极客公园",
+   "time": "2026-09-28T09:15:42.000Z",
+   "summary": "「这次骁龙峰会最令人兴奋的地方在于，我认为我们终于步入了一个可以清晰看见 AI 智能手机形态的阶段」高通公司总裁兼 CEO 安蒙在峰会第一天说道。 炎热的美国茂宜岛，早上不到 8 点，会场里已经聚集了来自全球的媒体、开发者、合作伙伴和产业人…",
+   "regions": []
+  },
+  {
    "title": "Strands 开源组装好的 Agent harness，同模型下 token 省 28%",
    "link": "https://www.oschina.net/news/502772/strands-harness",
    "source": "开源中国",
    "time": "2026-09-28T08:35:48.000Z",
    "summary": "很多开发者的 AI Agent 依赖 Claude Code 或 Codex 这类开箱即用的 harness——本地一跑顺畅得很。可一旦要自己搭 agent，就得自己把各种原语拼到「刚刚好」的程度，才能找回那种「it just worked…",
+   "regions": []
+  },
+  {
+   "title": "从超级个体到超级组织，究竟还有多远？",
+   "link": "http://www.geekpark.net/news/371104",
+   "source": "极客公园",
+   "time": "2026-09-28T08:08:56.000Z",
+   "summary": "9 月 22 日上午，阿里巴巴集团 CEO 吴泳铭站在云栖大会主论坛上讲到 AI 时，又一次用了电力作为参照。 今天回头来看，电几乎成为了现代社会最重要的基础设施生产力。 但 1882 年，即便是最负盛名的科学家与商人爱迪生，所能想到的事情…",
    "regions": []
   },
   {
@@ -1976,6 +2024,16 @@
    ]
   },
   {
+   "title": "【地震 M2.5】9 km S of Bogue, Kansas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty8y",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T22:50:25.589Z",
+   "summary": "美国地质调查局官方监测：9 km S of Bogue, Kansas发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "普京签令 俄罗斯武装部队总人数增至244万余人",
    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705188.shtml",
    "source": "中新网国际",
@@ -2026,6 +2084,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科电 波斯尼亚和黑塞哥维那塞族共和国执政党“独立社会民主人士联盟”主席多迪克对媒体表示，计划于9月29日在与俄罗斯总统普京的会晤中讨论此前达成的共识。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】60 km S of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty8l",
+   "source": "USGS地震台网",
+   "time": "2026-09-28T21:58:14.240Z",
+   "summary": "美国地质调查局官方监测：60 km S of Whites City, New Mexico发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
    ]
   },
   {
@@ -2340,6 +2409,14 @@
    ]
   },
   {
+   "title": "Xi's key quotes on cultural diversity, exchanges between civilizations",
+   "link": "https://news.cgtn.com/news/2026-09-28/Xi-s-key-quotes-on-cultural-diversity-exchanges-between-civilizations-1QOj9i6NBq8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T15:14:08.000Z",
+   "summary": "Chinese President Xi Jinping has long championed coexistence, dialogue and mutual learning among diverse civilizations. …",
+   "regions": []
+  },
+  {
    "title": "梅德韦杰夫击败萨菲乌林，晋级杭州赛决赛将战卢布列夫",
    "link": "https://sputniknews.cn/20260928/1073415158.html",
    "source": "卫星社中文",
@@ -2371,6 +2448,22 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "Nishan Forum explores how ancient wisdom can address modern challenges",
+   "link": "https://news.cgtn.com/news/2026-09-28/Nishan-Forum-explores-how-ancient-wisdom-can-address-modern-challenges-1QOwGbv8ZuU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T14:55:14.000Z",
+   "summary": "Nishan Forum explores how ancient wisdom can address modern challenges",
+   "regions": []
+  },
+  {
+   "title": "Why they chose China: From Engst and Hinton to Bethune and Sakolsky",
+   "link": "https://news.cgtn.com/news/2026-09-28/Why-they-chose-China-From-Engst-and-Hinton-to-Bethune-and-Sakolsky-1QOmBaJ4QHm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T14:53:35.000Z",
+   "summary": "The Long March spirit not only resonates across the Chinese nation, but is also a source of inspiration that transcends …",
+   "regions": []
   },
   {
    "title": "2026中国国际孔子文化节在山东曲阜开幕 向世界传递“和合”之道",
@@ -2489,6 +2582,14 @@
    ]
   },
   {
+   "title": "Scientists create 'hot ice' that may explain Uranus' magnetic fields",
+   "link": "https://news.cgtn.com/news/2026-09-28/Scientists-create-hot-ice-that-may-explain-Uranus-magnetic-fields-1QOqdrYG5zy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T13:58:54.000Z",
+   "summary": "Scientists create 'hot ice' that may explain Uranus' magnetic fields",
+   "regions": []
+  },
+  {
    "title": "中国青岛鑫联运公司开通青岛至俄纳霍德卡的集装箱航运服务",
    "link": "https://sputniknews.cn/20260928/1073414392.html",
    "source": "卫星社中文",
@@ -2586,6 +2687,22 @@
    ]
   },
   {
+   "title": "Iran not planning talks with US during delegation's UN visit: media",
+   "link": "https://news.cgtn.com/news/2026-09-28/Iran-not-planning-talks-with-US-during-delegation-s-UN-visit-media-1QOpwMKdK5q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T13:09:45.000Z",
+   "summary": "Iran not planning talks with US during delegation's UN visit: media",
+   "regions": []
+  },
+  {
+   "title": "Nishan Dialogue: The Wisdom of the Analects on Civilization",
+   "link": "https://news.cgtn.com/news/2026-09-28/Nishan-Dialogue-The-Wisdom-of-the-Analects-on-Civilization-1QOixNKrOgM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T13:06:13.000Z",
+   "summary": "Nishan Dialogue: The Wisdom of the Analects on Civilization",
+   "regions": []
+  },
+  {
    "title": "专家：美国因武器短缺无力向沙特提供军事援助",
    "link": "https://sputniknews.cn/20260928/1073413610.html",
    "source": "卫星社中文",
@@ -2597,6 +2714,22 @@
     "欧洲",
     "美洲"
    ]
+  },
+  {
+   "title": "China-US trade talks: A new framework for economic engagement",
+   "link": "https://news.cgtn.com/news/2026-09-28/China-US-trade-talks-A-new-framework-for-economic-engagement-1QOgkXG2F4Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T12:53:05.000Z",
+   "summary": "The shift from negotiations driven by immediate pressure toward dialogue supported by durable mechanisms may become one …",
+   "regions": []
+  },
+  {
+   "title": "How Chinese games are building a global following",
+   "link": "https://news.cgtn.com/news/2026-09-28/How-Chinese-games-are-building-a-global-following-1QOjuSHFQ7m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T12:49:58.000Z",
+   "summary": "How Chinese games are building a global following",
+   "regions": []
   },
   {
    "title": "伊朗最高领袖：伊朗的敌人不敢进入霍尔木兹海峡",
@@ -2652,6 +2785,14 @@
    ]
   },
   {
+   "title": "Are you 'becoming Chinese'? Chinese-European guest unpacks the trend",
+   "link": "https://news.cgtn.com/news/2026-09-28/Are-you-becoming-Chinese-Chinese-European-guest-unpacks-the-trend-1QOl0pjYybu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T12:06:50.000Z",
+   "summary": "Are you 'becoming Chinese'? Chinese-European guest unpacks the trend",
+   "regions": []
+  },
+  {
    "title": "朝鲜副外相：朝鲜核武器国家地位已永久确立",
    "link": "https://news.un.org/feed/view/zh/story/2026/09/1142901",
    "source": "联合国新闻",
@@ -2700,6 +2841,14 @@
    "regions": [
     "中东"
    ]
+  },
+  {
+   "title": "The Hype – China-Europe young leaders shaping a shared future",
+   "link": "https://news.cgtn.com/news/2026-09-28/The-Hype-China-Europe-young-leaders-shaping-a-shared-future-1QOjx0kJ0Tm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T11:47:46.000Z",
+   "summary": "The Hype – China-Europe young leaders shaping a shared future",
+   "regions": []
   },
   {
    "title": "塞尔维亚专家：西方只对自己有利的对话感兴趣",
@@ -2865,6 +3014,14 @@
    ]
   },
   {
+   "title": "From Nishan to world: 'Ask Confucius' cultural dialogue",
+   "link": "https://news.cgtn.com/news/2026-09-28/From-Nishan-to-world-Ask-Confucius-cultural-dialogue-1QO3dRJW2Zi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T09:06:12.000Z",
+   "summary": "From Nishan to world: 'Ask Confucius' cultural dialogue",
+   "regions": []
+  },
+  {
    "title": "瓦尔代年会因参会人数众多从索契移至莫斯科近郊举行",
    "link": "https://sputniknews.cn/20260928/1073412159.html",
    "source": "卫星社中文",
@@ -2967,6 +3124,14 @@
     "多米尼加",
     "拉美"
    ]
+  },
+  {
+   "title": "Sweden's Andersson says she cannot form govt in current situation",
+   "link": "https://news.cgtn.com/news/2026-09-28/news-1QO2Gaq19sY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T07:34:22.000Z",
+   "summary": "Sweden's Andersson says she cannot form govt in current situation",
+   "regions": []
   },
   {
    "title": "泰国多地洪灾已致8人死亡，180万人受灾",
@@ -3106,6 +3271,22 @@
    ]
   },
   {
+   "title": "Strengthening economic ties through constructive strategic stability",
+   "link": "https://news.cgtn.com/news/2026-09-28/Strengthening-economic-ties-through-constructive-strategic-stability-1QNvLpuzS6c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T06:10:44.000Z",
+   "summary": "As the world's two largest economies, China and the United States – despite having distinct development goals and models…",
+   "regions": []
+  },
+  {
+   "title": "China tops gold medal tally at 48th WorldSkills Competition",
+   "link": "https://news.cgtn.com/news/2026-09-28/China-tops-gold-medal-tally-at-48th-WorldSkills-Competition-1QNOg7dAetO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T06:02:51.000Z",
+   "summary": "China topped the gold medal tally at the 48th WorldSkills Competition as the event concluded in Shanghai on Sunday night…",
+   "regions": []
+  },
+  {
    "title": "澳大利亚华人团体协会举办“中澳友好三喜宴会”",
    "link": "https://www.chinanews.com.cn/hr/2026/09-28/10704833.shtml",
    "source": "中新网滚动",
@@ -3216,6 +3397,22 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "Trump expects more US-Iran talks after rejecting truce",
+   "link": "https://news.cgtn.com/news/2026-09-28/Trump-expects-more-US-Iran-talks-after-rejecting-truce-1QNJJlQvldu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T05:24:34.000Z",
+   "summary": "US President Donald Trump said on Sunday that he expects the United States and Iran to hold more talks this week, a day …",
+   "regions": []
+  },
+  {
+   "title": "What message does the China-US consensus send to the world?",
+   "link": "https://news.cgtn.com/news/2026-09-28/What-message-does-the-China-US-consensus-send-to-the-world--1QNGXRqKDBu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-09-28T05:22:43.000Z",
+   "summary": "Chinese President Xi Jinping and US President Donald Trump reached eight deliverables and understandings during the form…",
+   "regions": []
   },
   {
    "title": "“芯片与算法是两条平行线”——中国AI创业者的现场观察",
@@ -3964,6 +4161,41 @@
    "regions": []
   },
   {
+   "title": "Xi's key quotes on cultural diversity, exchanges between civilizations",
+   "link": "https://news.cgtn.com/news/2026-09-28/Xi-s-key-quotes-on-cultural-diversity-exchanges-between-civilizations-1QOj9i6NBq8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T15:14:08.000Z",
+   "summary": "Chinese President Xi Jinping has long championed coexistence, dialogue and mutual learning among diverse civilizations. …",
+   "regions": []
+  },
+  {
+   "title": "Xi Jinping to pay tribute to national heroes on Martyrs' Day",
+   "link": "https://news.cgtn.com/news/2026-09-28/Xi-Jinping-to-pay-tribute-to-national-heroes-on-Martyrs-Day-1QOogteJTGw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T15:12:07.000Z",
+   "summary": "Xi Jinping to pay tribute to national heroes on Martyrs' Day",
+   "regions": []
+  },
+  {
+   "title": "Nishan Forum explores how ancient wisdom can address modern challenges",
+   "link": "https://news.cgtn.com/news/2026-09-28/Nishan-Forum-explores-how-ancient-wisdom-can-address-modern-challenges-1QOwGbv8ZuU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T14:55:14.000Z",
+   "summary": "Nishan Forum explores how ancient wisdom can address modern challenges",
+   "regions": []
+  },
+  {
+   "title": "Why they chose China: From Engst and Hinton to Bethune and Sakolsky",
+   "link": "https://news.cgtn.com/news/2026-09-28/Why-they-chose-China-From-Engst-and-Hinton-to-Bethune-and-Sakolsky-1QOmBaJ4QHm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T14:53:35.000Z",
+   "summary": "The Long March spirit not only resonates across the Chinese nation, but is also a source of inspiration that transcends …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "专家解读晕厥背后潜藏的危机",
    "link": "https://www.chinanews.com.cn/jk/2026/09-28/10705166.shtml",
    "source": "中新网滚动",
@@ -4109,6 +4341,14 @@
    "regions": []
   },
   {
+   "title": "Nishan Dialogue: The Wisdom of the Analects on Civilization",
+   "link": "https://news.cgtn.com/news/2026-09-28/Nishan-Dialogue-The-Wisdom-of-the-Analects-on-Civilization-1QOixNKrOgM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T13:06:13.000Z",
+   "summary": "Nishan Dialogue: The Wisdom of the Analects on Civilization",
+   "regions": []
+  },
+  {
    "title": "江苏昆山：阳澄湖畔蟹为媒，四方“螃”友品江南",
    "link": "https://www.chinanews.com.cn/sh/2026/09-28/10705097.shtml",
    "source": "中新网社会",
@@ -4118,6 +4358,14 @@
     "苏州",
     "江苏"
    ]
+  },
+  {
+   "title": "How Chinese games are building a global following",
+   "link": "https://news.cgtn.com/news/2026-09-28/How-Chinese-games-are-building-a-global-following-1QOjuSHFQ7m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T12:49:58.000Z",
+   "summary": "How Chinese games are building a global following",
+   "regions": []
   },
   {
    "title": "应急管理部针对重庆、陕西启动国家地质灾害四级应急响应",
@@ -4167,6 +4415,22 @@
    "regions": []
   },
   {
+   "title": "Are you 'becoming Chinese'? Chinese-European guest unpacks the trend",
+   "link": "https://news.cgtn.com/news/2026-09-28/Are-you-becoming-Chinese-Chinese-European-guest-unpacks-the-trend-1QOl0pjYybu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T12:06:50.000Z",
+   "summary": "Are you 'becoming Chinese'? Chinese-European guest unpacks the trend",
+   "regions": []
+  },
+  {
+   "title": "How about decorating your desk with Confucius figurines?",
+   "link": "https://news.cgtn.com/news/2026-09-28/How-about-decorating-your-desk-with-Confucius-figurines--1QOkJ26fVio/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T12:06:09.000Z",
+   "summary": "How about decorating your desk with Confucius figurines?",
+   "regions": []
+  },
+  {
    "title": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席",
    "link": "https://www.chinanews.com.cn/gn/2026/09-28/10705085.shtml",
    "source": "中新网中国",
@@ -4184,6 +4448,28 @@
    "summary": "新华社北京9月28日电 中共中央政治局常委、全国政协主席王沪宁28日在京会见全国少数民族参观团。他表示，今年是中国共产党成立105周年，也是“十五五”开局之年。要深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神，学…",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "China's civil aviation sector prepares for National Day travel rush",
+   "link": "https://news.cgtn.com/news/2026-09-28/China-s-civil-aviation-sector-prepares-for-National-Day-travel-rush-1QObVVBNidG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T11:49:18.000Z",
+   "summary": "China's civil aviation sector prepares for National Day travel rush",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "The Hype – China-Europe young leaders shaping a shared future",
+   "link": "https://news.cgtn.com/news/2026-09-28/The-Hype-China-Europe-young-leaders-shaping-a-shared-future-1QOjx0kJ0Tm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T11:47:46.000Z",
+   "summary": "The Hype – China-Europe young leaders shaping a shared future",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4206,6 +4492,14 @@
    "regions": [
     "山西"
    ]
+  },
+  {
+   "title": "Xi stresses public security to safeguard Chinese modernization",
+   "link": "https://news.cgtn.com/news/2026-09-28/Xi-stresses-public-security-to-safeguard-Chinese-modernization-1QOeQFiaLU4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T11:39:29.000Z",
+   "summary": "Xi stresses public security to safeguard Chinese modernization",
+   "regions": []
   },
   {
    "title": "江豚群现身鄱阳湖水系信江水域",
@@ -4241,6 +4535,14 @@
    ]
   },
   {
+   "title": "One step at a time: Retracing the Long March on foot",
+   "link": "https://news.cgtn.com/news/2026-09-28/One-step-at-a-time-Retracing-the-Long-March-on-foot-1QOhtGR2LUQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T11:25:06.000Z",
+   "summary": "One step at a time: Retracing the Long March on foot",
+   "regions": []
+  },
+  {
    "title": "重庆高速集团原党委委员、副总经理穆军被“双开”",
    "link": "https://www.chinanews.com.cn/gn/2026/09-28/10705033.shtml",
    "source": "中新网中国",
@@ -4273,6 +4575,14 @@
    ]
   },
   {
+   "title": "Connecting government and the public through listening and action",
+   "link": "https://news.cgtn.com/news/2026-09-28/Connecting-government-and-the-public-through-listening-and-action-1QOa5Ru9vKE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T10:52:38.000Z",
+   "summary": "Connecting government and the public through listening and action",
+   "regions": []
+  },
+  {
    "title": "让中美建设性战略稳定关系行稳致远",
    "link": "https://www.chinanews.com.cn/gn/2026/09-28/10704994.shtml",
    "source": "中新网中国",
@@ -4289,6 +4599,17 @@
    "time": "2026-09-28T10:27:38.000Z",
    "summary": "习近平就建设更高水平平安中国作出重要指示强调",
    "regions": []
+  },
+  {
+   "title": "China ready to work with US on heads-of-state consensus",
+   "link": "https://news.cgtn.com/news/2026-09-28/China-ready-to-work-with-US-on-heads-of-state-consensus-1QO9bC4pr6E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T10:15:32.000Z",
+   "summary": "China ready to work with US on heads-of-state consensus",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "中华海外联谊会六届三次常务理事会召开 李干杰出席并讲话",
@@ -4317,6 +4638,17 @@
    "regions": []
   },
   {
+   "title": "China is willing to maintain communication with US on AI",
+   "link": "https://news.cgtn.com/news/2026-09-28/China-is-willing-to-maintain-communication-with-US-on-AI-1QO5Wl9rdAY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T09:37:21.000Z",
+   "summary": "China is willing to maintain communication with US on AI",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "广西民族大学原党委书记卞成林被“双开”",
    "link": "https://www.chinanews.com.cn/gn/2026/09-28/10704983.shtml",
    "source": "中新网中国",
@@ -4324,6 +4656,17 @@
    "summary": "中新网9月28日电 据广西壮族自治区纪委监委消息：经广西壮族自治区党委批准，广西壮族自治区纪委监委对广西民族大学原党委书记卞成林严重违纪违法问题进行了立案审查调查。",
    "regions": [
     "广西"
+   ]
+  },
+  {
+   "title": "China's deep-sea drilling capacity reaches 5,000-meter level",
+   "link": "https://news.cgtn.com/news/2026-09-28/China-s-deep-sea-drilling-capacity-reaches-5-000-meter-level-1QO6RKVL4dO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T09:33:12.000Z",
+   "summary": "China's Mengxiang (\"Dream\") ocean drilling vessel has set a national record for deep-sea drilling, elevating its capabil…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4355,6 +4698,14 @@
    "regions": []
   },
   {
+   "title": "From Nishan to world: 'Ask Confucius' cultural dialogue",
+   "link": "https://news.cgtn.com/news/2026-09-28/From-Nishan-to-world-Ask-Confucius-cultural-dialogue-1QO3dRJW2Zi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T09:06:12.000Z",
+   "summary": "From Nishan to world: 'Ask Confucius' cultural dialogue",
+   "regions": []
+  },
+  {
    "title": "直播海报：国新办就“十五五”时期推进科技强国建设有关情况举行新闻发布会",
    "link": "https://www.chinanews.com.cn/gn/2026/09-28/10704965.shtml",
    "source": "中新网中国",
@@ -4378,6 +4729,17 @@
    "summary": "央广网河北9月28日消息(见习记者隋坤)83岁的赤岸村村民张满元坐在家门口的石阶上，向游客讲述着身后一二九师旧址的故事。",
    "regions": [
     "河北"
+   ]
+  },
+  {
+   "title": "The Mind-Blowing Mirror Power Plant in China's Desert",
+   "link": "https://news.cgtn.com/news/2026-09-28/The-Mind-Blowing-Mirror-Power-Plant-in-China-s-Desert-1QO1lu5e1BC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T08:32:09.000Z",
+   "summary": "Historically Dunhuang, on the northeastern edge of the Taklimakan Desert, was a Han Dynasty commandery and a hub on the …",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4446,6 +4808,14 @@
    "source": "中新网社会",
    "time": "2026-09-28T07:01:15.000Z",
    "summary": "法治在线丨半分钟广告弹窗近20次 防不胜防的手机广告弹窗该如何治？",
+   "regions": []
+  },
+  {
+   "title": "Tsinghua team uses AI to revive Chinese Shadow Puppetry",
+   "link": "https://news.cgtn.com/news/2026-09-28/Tsinghua-team-uses-AI-to-revive-Chinese-Shadow-Puppetry-1QO01nfqyhq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T06:58:34.000Z",
+   "summary": "For centuries, shadow puppetry has lived on white screens in village theaters — a craft where every cut and every perfor…",
    "regions": []
   },
   {
@@ -4585,6 +4955,17 @@
    ]
   },
   {
+   "title": "China tops gold medal tally at 48th WorldSkills Competition",
+   "link": "https://news.cgtn.com/news/2026-09-28/China-tops-gold-medal-tally-at-48th-WorldSkills-Competition-1QNOg7dAetO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T06:02:51.000Z",
+   "summary": "China topped the gold medal tally at the 48th WorldSkills Competition as the event concluded in Shanghai on Sunday night…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "西康高铁正式开通运营 陕西“米”字形高铁网基本成型",
    "link": "https://www.chinanews.com.cn/cj/2026/09-28/10704827.shtml",
    "source": "中新网滚动",
@@ -4682,6 +5063,17 @@
    "time": "2026-09-28T05:39:42.000Z",
    "summary": "“现在热门大馆一票难求，反倒愿意找一些专题小馆慢慢逛，安安静静读懂一段历史。” 一位受访游客表示。记者在走访中注意到，相比人潮拥挤的综合性博物馆，越来越多人将观展目光投向主题鲜明、个性突出的小众博物馆。这股观展转向并非简单的打卡猎奇，背后是…",
    "regions": []
+  },
+  {
+   "title": "What message does the China-US consensus send to the world?",
+   "link": "https://news.cgtn.com/news/2026-09-28/What-message-does-the-China-US-consensus-send-to-the-world--1QNGXRqKDBu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T05:22:43.000Z",
+   "summary": "Chinese President Xi Jinping and US President Donald Trump reached eight deliverables and understandings during the form…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "长城内外，何以是一个整体？",
@@ -4919,6 +5311,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "The Long March memory: Straw sandals and Xiao Nandou's family craft",
+   "link": "https://news.cgtn.com/news/2026-09-28/The-Long-March-memory-Straw-sandals-and-Xiao-Nandou-s-family-craft-1QMF0hvQVI4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T03:11:48.000Z",
+   "summary": "The Long March memory: Straw sandals and Xiao Nandou's family craft",
+   "regions": []
   },
   {
    "title": "赓续长征精神 奋进复兴征程丨重走长征路 湘江岸边忆忠魂",
@@ -5442,11 +5842,38 @@
    "regions": []
   },
   {
+   "title": "China's Mid-Autumn Festival box office surpasses $40 million",
+   "link": "https://news.cgtn.com/news/2026-09-28/China-s-Mid-Autumn-Festival-box-office-surpasses-40-million-1QO7vq2KsRa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T08:53:07.000Z",
+   "summary": "China's Mid-Autumn Festival holiday box office surpassed 270 million yuan (around $40.2 million), warming up the country…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Walk into an oil painting on Pamir's Golden Grassland",
+   "link": "https://news.cgtn.com/news/2026-09-28/Walk-into-an-oil-painting-on-Pamir-s-Golden-Grassland-1QO1fU3DgEo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T08:30:23.000Z",
+   "summary": "During the Mid-Autumn holiday, Xinjiang's Pamir Scenic Area is drawing tourists with its early autumn beauty.",
+   "regions": []
+  },
+  {
    "title": "按图索骥沉浸式解锁“秋日限定”美景 “南北互换”“大迁徙”成为假日“新”风景",
    "link": "https://www.chinanews.com.cn/sh/2026/09-28/10704914.shtml",
    "source": "中新网社会",
    "time": "2026-09-28T08:21:10.000Z",
    "summary": "央视网消息：随着秋意渐浓，赏秋经济也逐渐升温。各地依托自身优势，持续丰富文旅产品供给。",
+   "regions": []
+  },
+  {
+   "title": "Sichuan's Largest Grotto Complex",
+   "link": "https://news.cgtn.com/news/2026-09-28/Sichuan-s-Largest-Grotto-Complex-1QO0zGfazdK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T08:09:28.000Z",
+   "summary": "The first carvings at the Thousand-Buddha Cliff in Guangyuan, on the east bank of the Jialing River, date from the late …",
    "regions": []
   },
   {
@@ -5488,6 +5915,19 @@
    "time": "2026-09-28T06:16:56.000Z",
    "summary": "中新网9月28日电 据“市说新语”微信公众号消息，2025年3月，《中共中央办公厅 国务院办公厅关于进一步强化食品安全全链条监管的意见》印发以来，各地区各有关部门积极推动全链条监管落地落实，涌现出一批有力度、有深度、有效度的创新做法。为持续…",
    "regions": []
+  },
+  {
+   "title": "Strengthening economic ties through constructive strategic stability",
+   "link": "https://news.cgtn.com/news/2026-09-28/Strengthening-economic-ties-through-constructive-strategic-stability-1QNvLpuzS6c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-09-28T06:10:44.000Z",
+   "summary": "As the world's two largest economies, China and the United States – despite having distinct development goals and models…",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
+   ]
   },
   {
    "title": "西康高铁正式开通运营 陕西“米”字形高铁网基本成型",
@@ -5751,5 +6191,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-09-29T01:25:33.644Z"
+ "updatedAt": "2026-09-29T07:12:28.348Z"
 }
