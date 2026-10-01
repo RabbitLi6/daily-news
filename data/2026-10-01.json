@@ -1,0 +1,20 @@
+{
+ "date": "2026-10-01",
+ "tech": [],
+ "world": [
+  {
+   "title": "【地震 M3.1】21 km ESE of Anza, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341279",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T00:01:59.650Z",
+   "summary": "美国地质调查局官方监测：21 km ESE of Anza, CA发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  }
+ ],
+ "tw": [],
+ "cn": [],
+ "econ": [],
+ "updatedAt": "2026-10-01T00:05:59.168Z"
+}
