@@ -1,7 +1,917 @@
 {
  "date": "2026-10-01",
- "tech": [],
+ "tech": [
+  {
+   "title": "超 AI.com 成史上最大域名交易：消息称 Shopify 豪掷 1 亿美元收购 SHOP.COM",
+   "link": "https://www.ithome.com/1/009/059.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T06:10:42.000Z",
+   "summary": "IT之家 10 月 1 日消息，Market America Worldwide 公司于 9 月 28 日宣布已完成一笔域名交易，将 SHOP.COM 域名出售给 Shopify 公司，官方并未披露交易金额 ，不过诸多可靠信源称本次交易是有…",
+   "regions": []
+  },
+  {
+   "title": "广汽昊铂埃安 BU 宣布 9 月销量 35494 辆同比增长 21.91%，连续 7 个月逆势正增长",
+   "link": "https://www.ithome.com/1/009/058.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T06:06:27.000Z",
+   "summary": "IT之家 10 月 1 日消息，今天（1 日）下午，@埃安AION 官微宣布，广汽昊铂埃安 BU 的 9 月销量为 35494 辆，连续 7 个月逆势正增长。具体来看，当月同比涨幅为 21.91%，其中 i60 车型的订单突破 2 万辆。 …",
+   "regions": []
+  },
+  {
+   "title": "【一图知】华为 Mate 90 系列及全场景新品发布会：麒麟 τ 芯片旗舰登场，外挂“巨炮”相机",
+   "link": "https://www.ithome.com/1/009/057.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T06:01:23.000Z",
+   "summary": "IT之家 10 月 1 日消息，华为今日（10 月 1 日）举行了 Mate 90 系列及全场景新品发布会 。 本次发布会历时 2 小时， 发布了华为 Mate 90 系列手机 ，带来 Mate 90 Pro Max 典藏版、Mate 90…",
+   "regions": []
+  },
+  {
+   "title": "“大空头”伯里：为了人类的利益，市场应该狠跌一次，别让 OpenAI 和 Anthropic 上市",
+   "link": "https://www.ithome.com/1/009/055.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T05:38:59.000Z",
+   "summary": "IT之家 10 月 1 日消息，据《商业内幕》今天（1 日）凌晨报道，知名做空投资者、《大空头》原型迈克尔 · 伯里认为，如果市场来一场足以阻止 OpenAI 和 Anthropic 上市的暴跌，对人类反而是好事。“ 为了人类的利益，市场应…",
+   "regions": []
+  },
+  {
+   "title": "Omdia 报告 2026Q2 印度平板出货量：三星同比增 2.6%、苹果增 34.5%，联想增 89.9%",
+   "link": "https://www.ithome.com/1/009/054.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T05:29:16.000Z",
+   "summary": "IT之家 10 月 1 日消息，市场调查机构 Omdia 今天（10 月 1 日）发布博文，由于提前购买和零部件成本上涨等多重因素影响， 预估 2026 年下半年印度 PC 市场同比下滑 22%。 报告指出 2026 年第二季度印度 PC …",
+   "regions": []
+  },
+  {
+   "title": "英飞凌推出 USB-C 20Gbps PCIe 扩展卡参考设计，助力该接口工业应用",
+   "link": "https://www.ithome.com/1/009/053.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T05:22:07.000Z",
+   "summary": "IT之家 10 月 1 日消息，Infineon（英飞凌）当地时间昨日宣布推出 USB 3.2 Gen 2×2 (20Gbps) Type-C 接口扩展 PCIe AIC 参考设计，旨在加速这一接口在工业领域的应用。 这张附加卡上行侧为 P…",
+   "regions": []
+  },
+  {
+   "title": "华为鸿蒙星河互联 App 升级 2.0.0 版本：液态玻璃上线、新增双机互联，Mate 90 系列首发支持",
+   "link": "https://www.ithome.com/1/009/052.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T05:21:54.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会结束后， 鸿蒙星河互联 App 迎来 2.0.0 版本升级 ，新增双机互联功能。 IT之家附更新内容如下： 1.新增双机互联功能（ 对端华为手机版本需升级至…",
+   "regions": []
+  },
+  {
+   "title": "消息称赛力斯、华为合作模式再调整：有望基于问界“专属专营”新模式进一步升级",
+   "link": "https://www.ithome.com/1/009/051.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T05:16:29.000Z",
+   "summary": "IT之家 10 月 1 日消息，鸿蒙智行在今年 9 月 15 日宣布，与问界合作调整。随后在今天（1 日）午间，据第一财经爆料，赛力斯、华为双方近日开启了新一轮谈判， 合作模式预计将再调整 。双方将于今天晚些时候 再次发布联合声明 。 知情…",
+   "regions": []
+  },
+  {
+   "title": "Crew-13 载人任务今天发射，有望刷新美国从发射到对接最快太空旅行纪录",
+   "link": "https://www.ithome.com/1/009/050.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T05:13:48.000Z",
+   "summary": "IT之家 10 月 1 日消息，美国宇航局宣布将于美国东部时间 10 月 1 日 11 时 10 分（IT之家注：北京时间 10 月 1 日 23 点 10 分）发射 Crew-13 载人航天任务，从佛罗里达州卡纳维拉尔角太空军基地的 SL…",
+   "regions": []
+  },
+  {
+   "title": "SK 海力士重申：尚未决定 Solidigm 未来资本利用规划",
+   "link": "https://www.ithome.com/1/009/048.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T05:10:18.000Z",
+   "summary": "IT之家 10 月 1 日消息，SK 海力士 (SK hynix) 韩国当地时间今日进一步澄清，重申旗下企业级固态硬盘企业 Solidigm （思得）仍在就增强竞争力的各项可能举措进行评估， 截至目前尚未做出任何决定 。 Solidigm …",
+   "regions": []
+  },
+  {
+   "title": "技嘉推出 AI TOP 100 B850 台式整机，支持 5090 单卡或 R9700 双卡",
+   "link": "https://www.ithome.com/1/009/046.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T05:01:12.000Z",
+   "summary": "IT之家 10 月 1 日消息，技嘉 (GIGABYTE) 昨日宣布推出 AI TOP 100 B850 台式整机。这一工作站级本地 AI 系统支持 1 张 NVIDIA GeForce RTX 5090 或 2 张 AMD Radeon …",
+   "regions": []
+  },
+  {
+   "title": "比尔 · 盖茨：用机器人替代人类工作的公司也应纳税",
+   "link": "https://www.ithome.com/1/009/044.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T05:00:06.000Z",
+   "summary": "IT之家 10 月 1 日消息，据《商业内幕》今天（1 日）报道，微软联合创始人、亿万富翁慈善家比尔 · 盖茨认为，如果 AI 大规模取代人类工作，可以通过 向机器人征税 ，让失业者仍有收入保障。即使 AI 把人挤出就业市场，社会仍“有权决…",
+   "regions": []
+  },
+  {
+   "title": "马斯克沉寂数月的 AI 维基百科 Grokipedia 推出 v0.3 版本：界面更新，恢复内容编辑",
+   "link": "https://www.ithome.com/1/009/043.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:58:57.000Z",
+   "summary": "IT之家 10 月 1 日消息，由 SpaceXAI 推出、对标维基百科的人工智能百科项目 Grokipedia 近期重新恢复接收内容编辑。如今该平台又迎来 v0.3 版本更新，进行了多项界面设计调整：启用全新标识，同时对首页与实时编辑页面…",
+   "regions": []
+  },
+  {
+   "title": "华为余承东宣布麒麟开启「芯」纪元：旗舰 τ / 逻辑折叠 τ 芯片发布，Mate 90 全系搭载",
+   "link": "https://www.ithome.com/1/009/042.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:57:08.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate 90 系列年度旗舰手机。 余承东在发布会现场宣布，麒麟芯片，开启「芯…",
+   "regions": []
+  },
+  {
+   "title": "三星发布其首款夹式耳机 Galaxy Buds On：满电续航 9.5 小时，支持点头 / 摇头控制通话",
+   "link": "https://www.ithome.com/1/009/041.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:51:19.000Z",
+   "summary": "IT之家 10 月 1 日消息，三星今天（10 月 1 日）发布公告， 宣布推出其首款耳夹式耳机 Galaxy Buds On，主打户外佩戴舒适与环境音感知。 外观方面，Galaxy Buds On 采用夹式（clip-on）结构，环绕耳廓…",
+   "regions": []
+  },
+  {
+   "title": "小鹏汽车 9 月交付新车 41256 台，环比增长 5 %",
+   "link": "https://www.ithome.com/1/009/038.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:38:40.000Z",
+   "summary": "IT之家 10 月 1 日消息，据小鹏汽车官方消息，9 月，小鹏集团共交付新车 41,256 台，环比增长 5 %；第三季度累计交付新车 118,390 台，环比增长 15 %。 IT之家注意到，9 月 17 日，黄金大五座科技旗舰小鹏 G…",
+   "regions": []
+  },
+  {
+   "title": "蔚来公司 9 月交付新车 37408 辆，同比增长 7.7%",
+   "link": "https://www.ithome.com/1/009/037.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:25:59.000Z",
+   "summary": "IT之家 10 月 1 日消息，2026 年 9 月，蔚来公司交付新车 37,408 辆，同比增长 7.7%。 蔚来品牌交付新车 21,318 辆，同比增长 55.3%； 乐道品牌交付新车 8,763 辆； firefly 萤火虫品牌交付新…",
+   "regions": []
+  },
+  {
+   "title": "上汽通用五菱 9 月销量 132045 辆，1-9 月全球销量超 105 万辆",
+   "link": "https://www.ithome.com/1/009/036.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:23:10.000Z",
+   "summary": "IT之家 10 月 1 日消息，据上汽通用五菱官方发布的销售数据，2026 年 1—9 月，上汽通用五菱全球累计销量达 1,058,169 辆，其中 9 月单月销量为 132,045 辆。值得一提的是，新能源车型 1—9 月累计销量达 56…",
+   "regions": []
+  },
+  {
+   "title": "华为余承东：Mate 90 系列是中国半导体行业的时代答卷，也是中国操作系统产业的创新答卷",
+   "link": "https://www.ithome.com/1/009/035.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:22:51.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate 90 年度旗舰新机。 在发布会上半场的结尾，余承东进行了总结。他表示…",
+   "regions": []
+  },
+  {
+   "title": "【视频】华为 Mate 90 Pro Max典藏版首发体验，屏幕、性能、影像全面升级",
+   "link": "https://www.ithome.com/1/009/034.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:20:25.000Z",
+   "summary": "刚刚发布的华为 Mate 90 Pro Max典藏版 IT之家已经体验过了，这次主要有三个维度的主要升级，看视频一起来了解一下吧。 点击关注IT之家B站账号",
+   "regions": []
+  },
+  {
+   "title": "东风本田 9 月全系销量 17932 辆，环比增长 19%",
+   "link": "https://www.ithome.com/1/009/033.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:16:53.000Z",
+   "summary": "IT之家 10 月 1 日消息，今天（1 日）上午，东风本田宣布，9 月全系销量 17932 辆，环比增长 19%。 具体到车型上，官方称当月“双 V（IT之家注：CR-V 和 HRV 两款 SUV 车型）”稳步发力，其中 CR-V 当月销…",
+   "regions": []
+  },
+  {
+   "title": "2027 款极氪 001 计划明年一季度上市，将延续经典原创猎装造型",
+   "link": "https://www.ithome.com/1/009/032.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:08:03.000Z",
+   "summary": "IT之家 10 月 1 日消息，极氪今日发布“极氪 001 车型更新计划预告”，正式宣布 2027 款极氪 001 计划于 2027 年第一季度上市。同时，焕新极氪 001 公布 10 月限时购车权益。 官方表示，焕新极氪 001 上市已近…",
+   "regions": []
+  },
+  {
+   "title": "交通运输部：国庆假期全国高速公路日均流量约 6280 万辆次，今天很可能是车流量最大一天",
+   "link": "https://www.ithome.com/1/009/031.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T04:03:17.000Z",
+   "summary": "IT之家 10 月 1 日消息，据央视新闻，交通运输部昨天（9 月 30 日）发布了国庆假期全国公路网运行研判。假期里全国高速公路 日均流量约 6280 万辆次 ，今天很可能是 假期高速车流量最大的一天 。 国庆节假期出行以跨区域长线旅游、…",
+   "regions": []
+  },
+  {
+   "title": "Meta 否认 AI 智能体 Muse 未经许可读取用户私信：必须手动开多层权限才行",
+   "link": "https://www.ithome.com/1/009/029.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:55:40.000Z",
+   "summary": "IT之家 10 月 1 日消息，针对一名记者提出的指控，即 Meta 的 AI 智能体 Muse 在未经许可的情况下读取用户私人消息，Meta 予以反驳。 IT之家注意到，此前《Inc.》杂志专栏作家杰森 · 阿滕（Jason Aten）发…",
+   "regions": []
+  },
+  {
+   "title": "极氪 9 月交付新车 37216 辆，同比增长 103.85%",
+   "link": "https://www.ithome.com/1/009/028.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:44:53.000Z",
+   "summary": "IT之家 10 月 1 日消息，今日极氪公布销量数据：9 月交付新车 37216 辆，连续 8 个月同环比双增长，同比增 103.85%，1-9 月共交付 28.84 万辆，同比增 100.84%。 其中，随着五座版产能攀升、交付加速，上市…",
+   "regions": []
+  },
+  {
+   "title": "华为 Mate 90 系列手机积木壳发布：139 元起，联名印花背板 59 元起",
+   "link": "https://www.ithome.com/1/009/027.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:44:12.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今日举行的华为 Mate 90 系列及全场景新品发布会上，华为 Mate 90 系列积木壳发布， 售价 139 元起 ： Mate 90/90 Pro 积木壳：139 元 Mate 90 Pro Max 积…",
+   "regions": []
+  },
+  {
+   "title": "华为新品 12:08 正式开抢：Mate 90 / Pro / Pro Max / RS 12 期免息",
+   "link": "https://www.ithome.com/1/009/026.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:43:56.000Z",
+   "summary": "华为新品 12:08 正式开抢，有需求的小伙伴可以蹲蹲看，支持 12 期免息。 京东 HUAWEI Mate 90 Pro Max 麒麟 9050 系列 9499 元起 直达链接 京东 HUAWEI Mate 90 Pro Max 典藏版 …",
+   "regions": []
+  },
+  {
+   "title": "旗下智能体被指试图入侵加拿大政府网站，OpenAI 回应称正审查并已通报",
+   "link": "https://www.ithome.com/1/009/025.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:41:50.000Z",
+   "summary": "IT之家 10 月 1 日消息，据《华盛顿邮报》今天（1 日）上午报道，研究人员披露，AI 智能体曾在没有收到指令的情况下试图入侵加拿大政府网站。 目前的类似事件不断增加，许多与 OpenAI 有关的 AI 智能体都曾自行探测或入侵企业及政…",
+   "regions": []
+  },
+  {
+   "title": "零跑汽车 9 月全球交付 105656 台，同比增长 59%",
+   "link": "https://www.ithome.com/1/009/024.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:40:42.000Z",
+   "summary": "IT之家 10 月 1 日消息，零跑汽车今日公布 9 月全球交付量，9 月，零跑全球交付量达 105656 台，同比增长 59%，实现连续三个月月销超 10 万台，再创新高。 IT之家注意到，零跑汽车 9 月海外出口超 2.7 万台，202…",
+   "regions": []
+  },
+  {
+   "title": "“好奇号”探索运行超 5000 个火星日，美国宇航局发布“火星明信片”",
+   "link": "https://www.ithome.com/1/009/023.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:38:55.000Z",
+   "summary": "IT之家 10 月 1 日消息，科技媒体 scitechdaily 昨日（9 月 30 日）发布博文， 报道称美国宇航局（NASA）为庆祝“好奇号”（Curiosity）火星车运行超过 5,000 个火星日，推出一组特别的全景影像，被形容为…",
+   "regions": []
+  },
+  {
+   "title": "淘宝补贴 30 元：WPS 京东 PLUS 联合会员发车，仅需 72 元 / 年",
+   "link": "https://www.ithome.com/1/009/022.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:31:32.000Z",
+   "summary": "WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，叠加淘宝平台补贴后，仅需 288 元即可入手。 联合会员含： 京东 PLUS / 喜马拉雅 / 优酷视频 / 网易云音乐等。 天猫 WPS 超级会员 3 年 +…",
+   "regions": []
+  },
+  {
+   "title": "截至今年 8 月，华为无线耳机累计发货量突破一亿台",
+   "link": "https://www.ithome.com/1/009/021.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:27:24.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为宣布截至今年 8 月，华为无线耳机累计发货量已经突破一亿台。 在本次发布会上，华为发布了 FreeBuds Neo 耳机，IT之家注意到， 该耳机前…",
+   "regions": []
+  },
+  {
+   "title": "从数据到智能，再到进化：Agent正在重写AI基础设施",
+   "link": "http://www.geekpark.net/news/372065",
+   "source": "极客公园",
+   "time": "2026-10-01T03:21:33.000Z",
+   "summary": "一个工程师写完数据处理代码，点下提交，然后去喝了杯咖啡。十几分钟甚至几十分钟之后，他才回到屏幕前看结果、改代码、再提交。这条「等待&mdash; 反馈」的空隙，过去一直是数据平台默认的节奏。 Agent 没有这个空隙。它拿到一次结果，立刻验…",
+   "regions": []
+  },
+  {
+   "title": "华为 Mate90 系列手机升级鸿蒙 AI：小艺帮记滑一滑轻松记忆、图库助手实现一句话成片...",
+   "link": "https://www.ithome.com/1/009/019.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:17:31.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天（10 月 1 日）召开的 Mate90 系列及全场景新品发布会上， 华为围绕着智能助手、智能影像和智感交互三个方面，进一步深化鸿蒙 AI 体验。 在智能助手方面，小艺帮记是屏幕智能笔记工具，用户在浏览…",
+   "regions": []
+  },
+  {
+   "title": "华为 Mate 90 Pro Max 典藏版旗舰手机发布：麒麟 9050 Pro 逻辑折叠 τ 芯片、6800mAh 电池，10999 元起",
+   "link": "https://www.ithome.com/1/009/018.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:16:08.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate 90 Pro Max 典藏版旗舰手机， 定价 10999 元起 。 …",
+   "regions": []
+  },
+  {
+   "title": "售价 12999 元起，华为 Mate 90 RS 非凡大师手机发布",
+   "link": "https://www.ithome.com/1/009/017.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:15:54.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了华为 Mate 90 RS | ULTIMATE DESIGN（非凡大师）手机，…",
+   "regions": []
+  },
+  {
+   "title": "华为 Mate 90 Pro 手机发布：首发麒麟 9035 旗舰 τ 芯片，6999 元起",
+   "link": "https://www.ithome.com/1/009/016.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:14:06.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了华为 Mate 90 Pro 手机， 首发麒麟 9035 旗舰 τ 芯片 ， 定…",
+   "regions": []
+  },
+  {
+   "title": "华为 Mate 90 手机发布：麒麟 9030 旗舰 τ 芯片，5999 元起",
+   "link": "https://www.ithome.com/1/009/015.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:13:45.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今日举行的华为 Mate 90 系列及全场景新品发布会上，华为 Mate 90 手机正式发布，售价 5999 元起： 12GB+256GB：售价 5999 元 12GB+512GB：售价 6999 元 12…",
+   "regions": []
+  },
+  {
+   "title": "9499 元起华为 Mate 90 Pro Max 手机发布：麒麟 9050 Pro、连续可变光圈主摄、双层 OLED 面板",
+   "link": "https://www.ithome.com/1/009/014.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:13:22.000Z",
+   "summary": "IT之家 10 月 1 日消息，在目前正在进行的 HUAWEI Mate 90 系列及全场景新品发布会中，华为 Mate 90 Pro Max 手机正式发布，定价 9499 元起。 12GB RAM + 512GB 存储空间（麒麟 9050…",
+   "regions": []
+  },
+  {
+   "title": "离 1 亿再进一步！华为余承东官宣鸿蒙 HarmonyOS 6 | HarmonyOS 7 终端设备数突破 9000 万",
+   "link": "https://www.ithome.com/1/009/012.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:04:43.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布， 鸿蒙 HarmonyOS 6 | HarmonyOS 7 终端设备数突破 9000…",
+   "regions": []
+  },
+  {
+   "title": "华为 Mate90 系列手机引入广电级直播能力、带来专属直播模式",
+   "link": "https://www.ithome.com/1/009/011.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T03:00:23.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天（10 月 1 日）召开的 Mate90 系列及全场景新品发布会上， 华为宣布为 Mate90 系列引入广电级直播能力，并为主播引入专属的直播模式。 新机带来广电级直播能力，兼顾专业、便捷、稳定三大特性…",
+   "regions": []
+  },
+  {
+   "title": "5999 元华为睿影 Z10 模块化相机发布：覆盖 24-240mm 焦段支持 10 倍连续光学变焦，为 Mate 90 Pro Max 典藏版机型而生",
+   "link": "https://www.ithome.com/1/009/009.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:53:28.000Z",
+   "summary": "IT之家 10 月 1 日消息，在目前正在进行的 HUAWEI Mate 90 系列及全场景新品发布会中，华为 Mate 90 Pro Max 典藏版“睿影 Z10 模块化相机”正式发布，定价 5999 元。搭配 Mate 90 Pro M…",
+   "regions": []
+  },
+  {
+   "title": "Mate 90 系列搭载华为睿影 XMAGE 影像体系，配备连续可变光圈、第三代红枫原色摄像头",
+   "link": "https://www.ithome.com/1/009/007.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:47:25.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东公布了华为 Mate 90 系列的影像配置信息。 IT之家注意到，作为华为影像技术的集大成…",
+   "regions": []
+  },
+  {
+   "title": "华为 Mate 90 系列手机多款配色亮相，官方同步公布“积木壳”保护壳支持高度自定义",
+   "link": "https://www.ithome.com/1/009/006.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:42:26.000Z",
+   "summary": "IT之家 10 月 1 日消息，在目前正在进行的 HUAWEI Mate 90 系列及全场景新品发布会中，华为 Mate 90 系列手机多款配色亮相。 Mate 90 标准版 提供晶格绿、晶格粉、零度白、曜石黑配色 Mate 90 Pro …",
+   "regions": []
+  },
+  {
+   "title": "eSIM + 实体卡：华为 Mate 90 Pro Max 旗舰手机官宣业界首发四卡三待功能",
+   "link": "https://www.ithome.com/1/009/005.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:41:41.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，通过 eSIM + 实体卡， 华为 Mate 90 Pro Max 旗舰手机业界首发…",
+   "regions": []
+  },
+  {
+   "title": "消息称顽皮狗正筹备《神秘海域》新作，游戏角色德雷克有望出现",
+   "link": "https://www.ithome.com/1/009/004.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:39:20.000Z",
+   "summary": "IT之家 10 月 1 日消息，游戏媒体 mp1st 昨日（9 月 30 日）发布博文，爆料称 顽皮狗（Naughty Dog）工作室正在开发一款全新的《神秘海域》（Uncharted）游戏， 项目由《神秘海域：失落的遗产》总监肖恩 · 埃…",
+   "regions": []
+  },
+  {
+   "title": "深蓝汽车 9 月全球销量 30185 辆：年内累计销量超 25 万辆，品牌第 100 万辆整车下线",
+   "link": "https://www.ithome.com/1/009/003.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:39:07.000Z",
+   "summary": "IT之家 10 月 1 日消息，今日上午，深蓝汽车公布 9 月销量成绩单：9 月全球销量 30185 辆；2026 年 1-9 月全球累计销量达 252213 辆，同比增长 8.59%。就在 9 月 28 日，深蓝汽车迎来品牌里程碑时刻 —…",
+   "regions": []
+  },
+  {
+   "title": "麒麟性能新巅峰：华为 Mate 90 Pro Max 搭载麒麟 9050 Pro 逻辑折叠 τ 芯片，晶体管个数达 2.38 亿 / mm²",
+   "link": "https://www.ithome.com/1/009/002.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:35:48.000Z",
+   "summary": "IT之家 10 月 1 日消息，华为 Mate 90 系列及全场景新品发布会正在进行中，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，麒麟性能新巅峰 —— 华为 Mate 90 Pro Max 旗舰手机搭载麒麟 905…",
+   "regions": []
+  },
+  {
+   "title": "华为 Mate 90 Pro 手机首发麒麟 9035 旗舰 τ 芯片，对比麒麟 9030 处理器 NPU 提升 51%",
+   "link": "https://www.ithome.com/1/009/001.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:28:58.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布， Mate 90 Pro 手机首发搭载麒麟 9035 旗舰 τ 芯片 。 据介绍，这…",
+   "regions": []
+  },
+  {
+   "title": "华为 Mate 90 标准版手机官宣搭载麒麟 9030 旗舰 τ 芯片",
+   "link": "https://www.ithome.com/1/008/999.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:24:30.000Z",
+   "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布， Mate 90 标准版手机搭载麒麟 9030 旗舰 τ 芯片 。 据介绍，这块芯片…",
+   "regions": []
+  },
+  {
+   "title": "三星 Galaxy S27 Pro / Ultra 手机曝光：横向矩阵相机单元，有望内置 Qi2 磁吸",
+   "link": "https://www.ithome.com/1/008/998.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:24:09.000Z",
+   "summary": "IT之家 10 月 1 日消息，科技媒体 sammyguru 于 9 月 28 日发布博文，分享了一组渲染图，展示了适用于三星 Galaxy S27 Ultra 的手机壳， 再次表明该旗舰手机弃用垂直独立相机单元设计，改为横向矩阵相机单元方…",
+   "regions": []
+  },
+  {
+   "title": "理想汽车 9 月交付新车 31817 辆，历史累计交付量突破 183 万辆",
+   "link": "https://www.ithome.com/1/008/997.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:20:06.000Z",
+   "summary": "IT之家 10 月 1 日消息，今日，理想汽车公布 2026 年 9 月交付数据。2026 年 9 月，理想汽车交付新车 31,817 辆。截至 2026 年 9 月 30 日，理想汽车历史累计交付量为 1,833,651 辆。 理想汽车董…",
+   "regions": []
+  },
+  {
+   "title": "机械师 14 Ultra 轻薄本 X7 358H 款上架：1.1kg，到手价 7224.15 元",
+   "link": "https://www.ithome.com/1/008/996.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:19:56.000Z",
+   "summary": "IT之家 10 月 1 日消息，机械师 (MACHENIKE) 现已在电商平台上架搭载英特尔酷睿 Ultra X7 处理器 358H 的机械师 14 Ultra 轻薄笔记本电脑。 其配备 32GB LPDDR5X 内存、1TB PCIe G…",
+   "regions": []
+  },
+  {
+   "title": "应对 AI 爬虫：Reddit 将关停 RSS 订阅、终止公共 API 访问",
+   "link": "https://www.ithome.com/1/008/995.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:14:31.000Z",
+   "summary": "IT之家 10 月 1 日消息，当地时间周三，Reddit 公布了多项面向版主与开发者的更新，与此同时，对于希望互联网保持更高开放度的支持者而言有一则坏消息：Reddit 即将停止对 RSS 订阅源的支持。 Reddit 方面表示，RSS …",
+   "regions": []
+  },
+  {
+   "title": "HBM4 基片 4nm 工艺需求增长带动，曝三星晶圆代工 2026 亏损同比收窄 41.8%",
+   "link": "https://www.ithome.com/1/008/994.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T02:13:52.000Z",
+   "summary": "IT之家 10 月 1 日消息，集邦咨询综合 digitaltoday 等多家媒体报道，称受 HBM4 基片 4nm 工艺需求增长， 三星电子晶圆代工与系统级芯片（System LSI）业务 2026 年合并营业亏损同比收窄 42%。 HB…",
+   "regions": []
+  },
+  {
+   "title": "苹果首款智能家居中枢前瞻：8GB 内存、homeOS 系统、6 英寸屏，10 月 13 日发布",
+   "link": "https://www.ithome.com/1/008/992.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T01:50:49.000Z",
+   "summary": "IT之家 10 月 1 日消息，科技媒体 MacRumors 今天（10 月 1 日）发布博文，汇总梳理现有爆料信息，详细介绍了苹果智能家居中枢，该产品预估 10 月 13 日发布，配备 6 英寸屏幕，提供壁挂与桌面两款形态。 产品形态方面…",
+   "regions": []
+  },
+  {
+   "title": "AI 储能红利预期落空，福特股价此前 45% 涨幅尽数回吐",
+   "link": "https://www.ithome.com/1/008/991.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T01:48:27.000Z",
+   "summary": "IT之家 10 月 1 日消息，据彭博社报道，福特汽车公司此前一波迅猛的股价上涨行情已经彻底消退。一方面，美国汽车厂商面临的经济压力不断加大；另一方面，市场对于这家企业能够借着人工智能热潮大发一笔意外之财的期待也逐步落空。 IT之家注意到，…",
+   "regions": []
+  },
+  {
+   "title": "2026 年 9 月汽车销量 / 交付汇总（持续更新）：小鹏汽车 41256 辆，蔚来公司 37408 辆",
+   "link": "https://www.ithome.com/1/008/990.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T01:36:55.000Z",
+   "summary": "IT之家 10 月 1 日消息，各大车企今日起陆续交出了 2026 年 9 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。 上汽通用五菱 ：132,045 辆，同比下降 15.13%，环比增长 0.9%（备注：2026 年 1…",
+   "regions": []
+  },
+  {
+   "title": "HAVN HS 360 机箱发售：标准版 999 元，VGPU 套装 1499 元",
+   "link": "https://www.ithome.com/1/008/989.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T01:35:11.000Z",
+   "summary": "IT之家 10 月 1 日消息，HAVN（辉帆）现已在电商平台销售 HS 360 机箱，标准版 999 元、显卡竖装套件（含 PCIe Gen5 延长线、风道导流板）的 VGPU 套装 1499 元。 HS 360 机箱三维 490.9 ×…",
+   "regions": []
+  },
+  {
+   "title": "Take-Two 新协议曝光：XBOX“Project Helix”并非单台主机，而是硬件全家桶",
+   "link": "https://www.ithome.com/1/008/988.htm",
+   "source": "IT之家",
+   "time": "2026-10-01T01:32:12.000Z",
+   "summary": "IT之家 10 月 1 日消息，《GTA 6》的发行商 Take‑Two 已经签署了一份全新协议。根据这份协议，Take‑Two 有权在全部 XBOX 设备上制作并销售适配 XBOX 平台的新款游戏。这进一步说明，代号为“Project H…",
+   "regions": []
+  },
+  {
+   "title": "谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%",
+   "link": "http://www.geekpark.net/news/372064",
+   "source": "极客公园",
+   "time": "2026-10-01T00:28:44.000Z",
+   "summary": "苹果即将发布「智能家居中枢」新品 据彭博社报道，苹果公司计划于 10 月 13 日推进其拖延已久的智能家居市场布局，这是该公司在新任 CEO 约翰&middot;特努斯领导下的一次关键产品扩张。 据知情人士透露，该战略的核心是一款代号为 J…",
+   "regions": []
+  }
+ ],
  "world": [
+  {
+   "title": "俄国防部：俄军在敖德萨州击中一艘向乌军运送军用物资的干货船",
+   "link": "https://sputniknews.cn/20261001/1073458932.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T06:10:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月1日电 俄罗斯国防部发布消息表示，俄军在切尔诺莫尔斯克港击中了一艘向乌军运送军用物资的干货船。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "世界技能大赛“冠军中的冠军”：成功源于勤奋",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706691.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T06:07:36.000Z",
+   "summary": "中新网长春10月1日电 (高龙安 李彦国)长期握工具、搬重物，“05后”女孩何晓嫚的手比常人更显粗糙。这是记者在长春见到她的第一印象。",
+   "regions": [
+    "长春"
+   ]
+  },
+  {
+   "title": "俄国防部：俄军在基辅击中设立无人艇生产车间的物流中心",
+   "link": "https://sputniknews.cn/20261001/1073458832.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T05:42:25.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月1日电 俄罗斯国防部发布消息表示，俄军在基辅市击中了一个运输物流中心，在该中心内设立无人艇生产车间。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】38 km WSW of Palimbang, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T05:34:10.634Z",
+   "summary": "美国地质调查局官方监测：38 km WSW of Palimbang, Philippines发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
+   ]
+  },
+  {
+   "title": "美防长宣布组建“自主作战司令部”",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706642.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-01T05:33:57.000Z",
+   "summary": "中新社华盛顿10月1日电(记者 陈孟统)美国国防部长赫格塞思9月30日宣布组建“自主作战司令部”，以提升美军规模化自主及机器人作战能力。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "美国宣布正式结束国际联盟部队在伊拉克军事任务",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706640.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-01T05:33:09.000Z",
+   "summary": "中新社华盛顿9月30日电(记者 陈孟统)美国五角大楼发言人肖恩·帕内尔9月30日发表声明称，由美国主导的打击极端组织“伊斯兰国”国际联盟部队当天正式结束在伊拉克的任务。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "迪拜航空因驾驶舱冲突事件暂停往返以色列航班",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706639.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-01T05:32:33.000Z",
+   "summary": "中新社北京10月1日电 综合消息：阿联酋迪拜航空公司当地时间9月30日发表声明，称在当日该公司一航班发生驾驶舱冲突事件后，决定暂停往返以色列的航班，等待有关方面对事件展开调查。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "中国驻美大使谢锋：中美合作是双行道，永远在进行时",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706675.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-01T05:30:57.000Z",
+   "summary": "中新社华盛顿10月1日电 (记者 陈孟统)中国驻美大使谢锋9月30日在华盛顿表示，中美双方要加快把新定位的愿景转化为行动，朝着合作为主、竞争有度、分歧可控、和平可期的方向努力，跨越“修昔底德陷阱”，走出中美正确相处之道。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "韩国总统李在明承诺缓解韩朝军事紧张",
+   "link": "https://sputniknews.cn/20261001/1073458732.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T05:13:57.000Z",
+   "summary": "据韩联社报道，韩国总统李在明10月1日在忠清南道陆海空总部所在地鸡龙台出席第78个国军日纪念仪式并致辞称，政府将坚持采取缓解韩朝军事紧张的实质性措施，希望朝鲜也能重返对话之路，携手推动恢复互信。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】280 km SW of Houma, Tonga",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000typy",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T04:41:16.232Z",
+   "summary": "美国地质调查局官方监测：280 km SW of Houma, Tonga发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "汤加",
+    "亚太"
+   ]
+  },
+  {
+   "title": "国际原子能机构总干事：普京与特朗普的接触对推进乌克兰和平进程是必要的",
+   "link": "https://sputniknews.cn/20261001/1073458530.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T04:38:00.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿10月1日电 国际原子能机构总干事拉斐尔·格罗西在接受卫星通讯社采访时表示，俄罗斯总统普京与美国总统特朗普的最高级别接触，对于推动解决乌克兰冲突是必要的。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "普京就中华人民共和国成立77周年向习近平致贺电",
+   "link": "https://sputniknews.cn/20261001/1073458413.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T04:32:26.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月1日电 俄罗斯总统弗拉基米尔·普京就中华人民共和国成立77周年向中国国家主席习近平致贺电，贺电内容发布在克里姆林宫网站上。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "美媒：鲁比奥要求伊朗代表团立即离开美国",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706633.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-01T03:59:01.000Z",
+   "summary": "中新网10月1日电 据美国阿克西奥斯新闻网站9月30日报道，一名美国官员和另一位知情人士透露，在美伊双方谈判陷入僵局后，美国务卿鲁比奥9月28日曾要求伊朗外长阿拉格齐率领的代表团立即离开美国。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "记者手记：从会场到街巷 在开罗感受中阿文明交流互鉴",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706614.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-01T03:46:02.000Z",
+   "summary": "中新网开罗10月1日电 题：记者手记：从会场到街巷 在开罗感受中阿文明交流互鉴",
+   "regions": []
+  },
+  {
+   "title": "【地震 M3.4】23 km NW of Nanwalek, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tkmymd",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T03:29:08.123Z",
+   "summary": "美国地质调查局官方监测：23 km NW of Nanwalek, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】38 km WNW of Anchor Point, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tkmsuy",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T03:22:33.462Z",
+   "summary": "美国地质调查局官方监测：38 km WNW of Anchor Point, Alaska发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "前副总理：塞尔维亚的抗议活动由西方非政府组织资助和操控",
+   "link": "https://sputniknews.cn/20261001/1073458276.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T03:20:07.000Z",
+   "summary": "俄罗斯卫星通讯社贝尔格莱德10月1日电 塞尔维亚前副总理、塞尔维亚“社会主义者运动”党创始人亚历山大·武林在接受俄罗斯卫星通讯社采访时表示，塞尔维亚的大学生和反对派抗议活动是通过西方非政府组织资助和操控的。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "英国军情五处警告：中国借学术合作提升间谍能力",
+   "link": "https://sputniknews.cn/20261001/1073458176.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T03:16:34.000Z",
+   "summary": "据路透社报道，英国军情五处9月30日首次单独发布“间谍活动警报”，指认中国通用技术研究院（CGTRI）受中国国家安全部委托，资助人工智能等领域学术研究，以提升中方间谍活动技术能力。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "英首相称有充分迹象表明伊朗参与英空军基地事件 伊方回应",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706629.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-01T03:15:45.000Z",
+   "summary": "中新网10月1日电 综合英国广播公司、美国《华尔街日报》当地时间9月30日报道，英国首相安迪·伯纳姆表示，英国政府认为伊朗“参与了英国空军费尔福德基地发生的事情”。",
+   "regions": [
+    "中东",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄科院院长：俄激光武器展现优异性能",
+   "link": "https://sputniknews.cn/20261001/1073458042.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T03:11:12.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月1日电 俄罗斯科学院院长根纳季·克拉斯尼科夫在接受俄罗斯卫星通讯社采访时表示，俄罗斯的激光武器展现出优异性能，学术界的科学家们正积极参与其改进工作。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "金正恩致电习近平祝贺新中国成立77周年：朝中友谊绝不会改变",
+   "link": "https://sputniknews.cn/20261001/1073457926.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T02:44:42.000Z",
+   "summary": "据朝中社报道，朝鲜劳动党总书记金正恩10月1日致电中共中央总书记、国家主席习近平，祝贺中华人民共和国成立77周年。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】2 km S of Guánica, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535248",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T02:41:42.980Z",
+   "summary": "美国地质调查局官方监测：2 km S of Guánica, Puerto Rico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】Fiji region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000typ7",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T02:40:40.210Z",
+   "summary": "美国地质调查局官方监测：Fiji region发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "斐济",
+    "亚太"
+   ]
+  },
+  {
+   "title": "US regulator probes Anthropic and OpenAI over AI safety",
+   "link": "https://news.cgtn.com/news/2026-10-01/US-regulator-probes-Anthropic-and-OpenAI-over-AI-safety-1QSEf4P9afe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-01T02:40:32.000Z",
+   "summary": "The US Federal Trade Commission (FTC) has launched a broad investigation into artificial intelligence (AI) safety practi…",
+   "regions": []
+  },
+  {
+   "title": "南奥塞梯外交部：格鲁吉亚谋求加入北约是对南奥塞梯的威胁",
+   "link": "https://sputniknews.cn/20261001/1073457814.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T02:28:34.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月1日电 南奥塞梯共和国外交部长阿赫萨尔·吉奥耶夫对卫星通讯社表示，格鲁吉亚继续奉行加入北约的方针，这是对南奥塞梯安全的威胁。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】272 km WSW of Tual, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000typ5",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T02:09:19.068Z",
+   "summary": "美国地质调查局官方监测：272 km WSW of Tual, Indonesia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "媒体：近半数俄罗斯人考虑在远东和俄罗斯北部地区工作",
+   "link": "https://sputniknews.cn/20261001/1073457506.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T02:06:44.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月1日电 俄罗斯《公报》援引“俄罗斯——机遇之国”调查报告称，近半数俄罗斯人考虑在远东或俄罗斯北部地区工作的机会，并认为舒适的住房、体面的薪资和优质的医疗服务是影响此类决定的重要因素。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "2026全球南方现代化论坛在埃及开罗举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706605.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-01T02:05:18.000Z",
+   "summary": "中新社开罗9月30日电 9月30日，2026全球南方现代化论坛在埃及开罗举行，本次论坛主题是“人工智能浪潮：全球南方现代化的机遇与挑战”。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "火山学家发出警告冰岛卡特拉火山存在突然喷发的风险",
+   "link": "https://sputniknews.cn/20261001/1073457392.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T01:55:35.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月1日电 冰岛火山学家向卫星通讯社表示，位于冰岛南部的卡特拉（Katla）冰川下火山有可能突然喷发。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "Brazil, US agree to form working group on tariffs",
+   "link": "https://news.cgtn.com/news/2026-10-01/Brazil-US-agree-to-form-working-group-on-tariffs-1QStBruICME/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-01T01:51:01.000Z",
+   "summary": "Brazil and the United States have agreed to form a working group to discuss US tariffs on Brazilian goods and other bila…",
+   "regions": []
+  },
+  {
+   "title": "美防长宣布：组建“自主作战司令部”，马斯克参与研究“未来战争形态”",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706602.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-01T01:38:38.000Z",
+   "summary": "中新网10月1日电 综合路透社、美国《空天军杂志》、《华尔街日报》等外媒报道，美国国防部长赫格塞思9月30日宣布组建“自主作战司令部”，以提升美军规模化自主及机器人作战能力。该司令部预计2027年10月投入运作。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普威胁轰炸伊朗并称很快就冲突作出决定",
+   "link": "https://sputniknews.cn/20261001/1073456993.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T01:33:15.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿10月1日电 美国总统特朗普威胁说，如果美国与伊朗无法达成协议，他将轰炸伊朗，并表示对伊朗作出决定的时间正在临近。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】45 km ENE of Luwuk, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000typ0",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T01:31:23.443Z",
+   "summary": "美国地质调查局官方监测：45 km ENE of Luwuk, Indonesia发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】7 km ESE of Baghlān, Afghanistan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T01:29:20.694Z",
+   "summary": "美国地质调查局官方监测：7 km ESE of Baghlān, Afghanistan发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "阿富汗",
+    "中东"
+   ]
+  },
+  {
+   "title": "格罗西：国际原子能机构正协调局部停火以修复扎波罗热核电站线路",
+   "link": "https://sputniknews.cn/20261001/1073456683.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T01:13:41.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿10月1日电 国际原子能机构总干事拉斐尔·格罗西在接受卫星通讯社采访时表示，该机构正与俄罗斯和乌克兰协调修复扎波罗热核电站受损供电线路所必需的局部停火。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普：美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706596.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-01T00:58:12.000Z",
+   "summary": "中新网10月1日电 综合报道，美国总统特朗普当地时间9月30日在社交媒体发文称，美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美国中央司令部：美军已改变125艘商船航向以确保对伊朗封锁",
+   "link": "https://sputniknews.cn/20261001/1073456576.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T00:41:37.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿10月1日电 美国中央司令部（CENTCOM）9月30日表示，美军已改变中东地区125艘商船的航向，以确保对伊朗的封锁。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】northern Mid-Atlantic Ridge",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp",
+   "source": "USGS地震台网",
+   "time": "2026-10-01T00:28:22.644Z",
+   "summary": "美国地质调查局官方监测：northern Mid-Atlantic Ridge发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "Chinese envoy calls for improving global human rights governance",
+   "link": "https://news.cgtn.com/news/2026-10-01/Chinese-envoy-calls-for-improving-global-human-rights-governance-1QSsUdZCIKI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-01T00:27:26.000Z",
+   "summary": "China called on the international community to establish a just, equitable, and inclusive global human rights governance…",
+   "regions": []
+  },
+  {
+   "title": "俄政府：2027年最低生活保障将提高6.8%至20227卢布",
+   "link": "https://sputniknews.cn/20261001/1073456465.html",
+   "source": "卫星社中文",
+   "time": "2026-10-01T00:25:07.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月1日电 俄罗斯政府新闻处表示，根据联邦预算草案，2027年最低生活保障标准将提高6.8%，达到20227卢布。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "US defense secretary unveils new 'Autonomous Warfare Command'",
+   "link": "https://news.cgtn.com/news/2026-10-01/US-defense-secretary-unveils-new-Autonomous-Warfare-Command--1QStmGmeRUI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-01T00:22:22.000Z",
+   "summary": "US Secretary of Defense Pete Hegseth said on Wednesday that the department is creating the \"Autonomous Warfare Command,\"…",
+   "regions": []
+  },
   {
    "title": "【地震 M3.1】21 km ESE of Anza, CA",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41341279",
@@ -13,8 +923,573 @@
    ]
   }
  ],
- "tw": [],
- "cn": [],
- "econ": [],
- "updatedAt": "2026-10-01T00:05:59.168Z"
+ "tw": [
+  {
+   "title": "何超琼称遭骚扰恐吓，获批永久禁制令",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706677.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-01T05:51:44.000Z",
+   "summary": "香港高等法院原讼法庭暂委法官周昭雯，于9月30日颁布裁决理由，就何超琼起诉陈芃余骚扰、恐吓民事诉讼一案，对陈芃余批出永久禁制令。",
+   "regions": []
+  },
+  {
+   "title": "澳门特区政府举行国庆升旗仪式 护旗队首次以中式步操亮相",
+   "link": "https://www.chinanews.com.cn/dwq/2026/10-01/10706673.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:33:45.000Z",
+   "summary": "中新社澳门10月1日电 (记者 郑嘉伟)澳门特区政府1日在金莲花广场举行升旗仪式，庆祝中华人民共和国成立77周年。护旗队和仪仗队首次以中式步操亮相。",
+   "regions": []
+  }
+ ],
+ "cn": [
+  {
+   "title": "国庆假期第一天铁路迎客流最高峰 最新出行提示→",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706699.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T06:11:48.000Z",
+   "summary": "根据国铁集团消息，今天(1日)为客流高峰日，预计发送旅客2480万人次，预计加开列车2324列。目前，全国铁路的运行情况如何？有哪些出行新特点？",
+   "regions": []
+  },
+  {
+   "title": "国庆假期琼州海峡迎出行高峰 海事部门高效护航",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706683.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T06:11:00.000Z",
+   "summary": "中新网海口10月1日电 (高磊 吕东星)10月1日，国庆假期开启，琼州海峡、三亚陆岛水域迎来出行高峰。据海南海事局披露，假期琼州海峡预计运送旅客57.5万人次、车辆16万台次，三亚陆岛运输预计运送旅客30.4万人次。",
+   "regions": [
+    "南海",
+    "海口",
+    "三亚"
+   ]
+  },
+  {
+   "title": "2026年全国科普月：中国科技馆主场多元模式打造沉浸式科普体验",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706685.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-01T06:09:52.000Z",
+   "summary": "中新网北京10月1日电 (记者 孙自法)刚刚过去的9月，2026年全国科普月为公众献上持续一个月的科普“盛宴”。作为全国科普月主场之一，中国科技馆推出一系列丰富多彩活动，融前沿科技、学风建设与人文关怀于一体，以“科学+艺术+联动+交流”的多…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "中国雪乡“十一”迎来今秋首场瑞雪",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706689.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T06:08:22.000Z",
+   "summary": "中新网牡丹江10月1日电 (记者 王琳)10月1日凌晨4时左右，位于龙江森工大海林林业局有限公司双峰林场的中国雪乡风景区降下今秋首场瑞雪，为秋色增添了一抹温柔又清冽的浪漫。",
+   "regions": []
+  },
+  {
+   "title": "世界技能大赛“冠军中的冠军”：成功源于勤奋",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706691.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T06:07:36.000Z",
+   "summary": "中新网长春10月1日电 (高龙安 李彦国)长期握工具、搬重物，“05后”女孩何晓嫚的手比常人更显粗糙。这是记者在长春见到她的第一印象。",
+   "regions": [
+    "长春"
+   ]
+  },
+  {
+   "title": "山西首单离境退税业务落地 助力“山西游、山西购”",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706687.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T06:02:53.000Z",
+   "summary": "中新网太原10月1日电 (杨静 席劲佳)记者10月1日从太原海关获悉，太原海关所属太原机场海关近日顺利办结山西首单境外旅客购物离境退税业务，标志着境外旅客购物离境退税政策在山西正式落地实施。",
+   "regions": [
+    "太原",
+    "山西"
+   ]
+  },
+  {
+   "title": "聚焦AI时代科普变革 2026年全国科普月系列主题活动共探科普转型",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706680.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-01T06:01:37.000Z",
+   "summary": "中新网北京10月1日电 (记者 孙自法)刚刚过去的2026年全国科普月期间，在国家科技传播中心举办的人工智能(AI)时代科普变革系列主题活动颇受关注。聚焦科普方法创新、AI技术冲击与场景变革，科普界、教育界及产业界多位专家学者代表，应邀共同…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "尼泊尔多迪市代表团参访云南福贡 冀深化户外文旅合作",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706678.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:59:43.000Z",
+   "summary": "中新网云南怒江10月1日电 (时文枝)“尼泊尔多迪市与云南省福贡县在地形地貌、民族文化、户外资源等方面非常相似，合作前景广阔。”近日，尼泊尔甘达基省拉姆琼县多迪市市政主席尤巴·拉吉·阿迪卡里接受中新网采访时表示，他将把此行在云南的所见所闻带…",
+   "regions": [
+    "云南"
+   ]
+  },
+  {
+   "title": "国庆长假首日 成都出城道路车流增大",
+   "link": "https://www.chinanews.com.cn/tp/2026/10-01/10706667.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:43:24.000Z",
+   "summary": "10月1日，国庆长假首日，四川成都剑南大道出城方向车辆明显增多，交通出现拥堵。中新社记者 张浪 摄 10月1日，国庆长假首日，四川成都剑南大道出城方向车辆明显增多，交通出现拥堵。中新社记者 张浪 摄",
+   "regions": [
+    "成都",
+    "四川"
+   ]
+  },
+  {
+   "title": "西藏拉萨布达拉宫广场举行升国旗仪式",
+   "link": "https://www.chinanews.com.cn/tp/2026/10-01/10706660.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:41:20.000Z",
+   "summary": "10月1日上午，西藏自治区庆祝中华人民共和国成立77周年“升国旗、唱国歌”仪式在拉萨市布达拉宫广场举行。中新社记者 贡嘎来松 摄 10月1日上午，西藏自治区庆祝中华人民共和国成立77周年“升国旗、唱国歌”仪式在拉萨市布达拉宫广场举行。图为国…",
+   "regions": [
+    "拉萨",
+    "西藏"
+   ]
+  },
+  {
+   "title": "江西南昌举行国庆升旗仪式",
+   "link": "https://www.chinanews.com.cn/tp/2026/10-01/10706648.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:39:12.000Z",
+   "summary": "10月1日，江西南昌八一广场举行升旗仪式，庆祝中华人民共和国成立77周年。中新社记者 刘力鑫 摄 10月1日，江西南昌八一广场举行升旗仪式，庆祝中华人民共和国成立77周年。中新社记者 刘力鑫 摄 10月1日，江西南昌八一广场举行升旗仪式，庆…",
+   "regions": [
+    "南昌",
+    "江西"
+   ]
+  },
+  {
+   "title": "奏响“流动的江南”乐章 江苏无锡映月里水岸音乐艺术季启幕",
+   "link": "https://www.chinanews.com.cn/tp/2026/10-01/10706645.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:37:57.000Z",
+   "summary": "9月30日傍晚，江苏无锡，音乐人在小提琴造型的船上演唱歌曲。中新社记者 泱波 摄 9月30日傍晚，江苏无锡，音乐人在小提琴造型的船上演唱歌曲。中新社记者 泱波 摄 9月30日傍晚，江苏无锡，游客乘坐小船游览映月里。中新社记者 泱波 摄 9月…",
+   "regions": [
+    "无锡",
+    "江苏"
+   ]
+  },
+  {
+   "title": "“庆国庆·颂祖国”主题快闪活动亮相京沪高铁列车",
+   "link": "https://www.chinanews.com.cn/tp/2026/10-01/10706644.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:34:51.000Z",
+   "summary": "图为旅客和乘务员在铁路上海虹桥站站台上合影。中新社记者 殷立勤 摄 图为旅客用手机拍摄乘务员表演。中新社记者 殷立勤 摄 图为孩子参与知识问答环节。中新社记者 殷立勤 摄 图为旅客和乘务员在铁路上海虹桥站站台上合影。中新社记者 殷立勤 摄 …",
+   "regions": [
+    "上海"
+   ]
+  },
+  {
+   "title": "中国驻美大使谢锋：中美合作是双行道，永远在进行时",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706675.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:30:57.000Z",
+   "summary": "中新社华盛顿10月1日电 (记者 陈孟统)中国驻美大使谢锋9月30日在华盛顿表示，中美双方要加快把新定位的愿景转化为行动，朝着合作为主、竞争有度、分歧可控、和平可期的方向努力，跨越“修昔底德陷阱”，走出中美正确相处之道。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "（走进中国乡村）一块浪板“撬动”新活力 浙江苍南小渔村“逐浪”新生",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706672.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T05:29:55.000Z",
+   "summary": "中新社浙江温州10月1日电 题：一块浪板“撬动”新活力 浙江苍南小渔村“逐浪”新生",
+   "regions": [
+    "温州",
+    "浙江"
+   ]
+  },
+  {
+   "title": "雕塑家梁明诚百余代表作亮相芜湖 一展中西交融的艺术生涯",
+   "link": "https://www.chinanews.com.cn/cul/2026/10-01/10706663.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:29:31.000Z",
+   "summary": "中新网芜湖10月1日电 “明心诚意——梁明诚雕塑艺术展”日前在芜湖·中国雕塑学会艺术馆开幕，展出艺术家各时期代表作品106件，呈现其跨越半个多世纪的艺术生涯。",
+   "regions": []
+  },
+  {
+   "title": "湖南成立大张家界国际旅游区产业发展联盟 助力建设世界知名旅游目的地",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706664.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:28:33.000Z",
+   "summary": "中新网湘西10月1日电 (唐小晴 贺鹏)9月30日晚，湖南大张家界国际旅游区产业发展联盟在湘西州芙蓉镇景区成立。",
+   "regions": [
+    "湖南"
+   ]
+  },
+  {
+   "title": "（乡村行·看振兴）紫菜养殖装上智能“晴雨表” 浙江洞头数据赋能民生增收",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706662.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:27:53.000Z",
+   "summary": "中新网温州10月1日电(周健 何琰 郑树)浙江温州洞头区霓屿街道素有“中国紫菜之乡”的美誉。眼下，霓屿海域的万亩紫菜已完成采苗下苗，正进入分网养护关键生长期。为精准护航紫菜养殖、降低种养风险，当地联动自然资源部温州海洋中心，在核心养殖区布设…",
+   "regions": [
+    "温州",
+    "浙江"
+   ]
+  },
+  {
+   "title": "轨迹露出马脚 一艘“渔船”牵出千万元走私案",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706665.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T05:27:15.000Z",
+   "summary": "中新网杭州10月1日电 (钱晨菲 江林海)10月1日，浙江海警局发布消息称，日前浙江宁波海警局联合宁波市公安局、宁波边检站、宁波市海洋与渔业执法队在象山渔山海域成功查获一艘走私船舶，当场抓获犯罪嫌疑人4名，查获牛板筋等冻品150余吨，涉案金…",
+   "regions": [
+    "杭州",
+    "宁波"
+   ]
+  },
+  {
+   "title": "实现海上发电就地制氢 中国团队首提交流电直接电解海水制氢新策略",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706659.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-01T05:17:58.000Z",
+   "summary": "中新网北京10月1日电 (记者 孙自法)记者10月1日从中国科学院理化技术研究所(理化所)获悉，该所低温科学与技术全国重点实验室最近首次提出以交流电替代传统直流电驱动直接电解海水制氢策略，实现海上发电就地制氢，从根源上破解了海水电解制氢的沉…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "“庆国庆·颂祖国”主题快闪活动亮相京沪高铁列车",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706654.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T05:15:26.000Z",
+   "summary": "中新网上海10月1日电 (记者 殷立勤)9月30日晚，由中国铁路上海局集团有限公司上海客运段担当的G30次列车从铁路上海虹桥站缓缓驶出。9号车厢内横幅、窗花相映成趣，节日氛围扑面而来。一场“庆国庆·颂祖国”主题快闪活动在飞驰的高铁列车上拉开…",
+   "regions": [
+    "上海"
+   ]
+  },
+  {
+   "title": "秦岭山野间“她力量”接续守护大熊猫",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706653.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T05:14:04.000Z",
+   "summary": "中新网陕西佛坪10月1日电 题：秦岭山野间“她力量”接续守护大熊猫",
+   "regions": [
+    "陕西"
+   ]
+  },
+  {
+   "title": "广州从化救援队员高速路救出起火车辆被困人员",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706650.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T05:12:28.000Z",
+   "summary": "中新网广州10月1日电 (记者 张璐)记者10月1日从广州市从化区飞翔应急救援协会获悉，近日，该协会7名队员在结束潜水技能培训后，驱车返回从化。返程行至京珠高速往韶关方向钟落潭路段时，一辆白色小轿车发生事故，车头起火，副驾驶人员受伤被困。危…",
+   "regions": [
+    "广州",
+    "韶关"
+   ]
+  },
+  {
+   "title": "金秋十月星月相伴 猎户座流星雨浪漫来袭",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706646.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T05:07:48.000Z",
+   "summary": "中新网南京10月1日电 (记者 徐珊珊)据中国科学院紫金山天文台9月30日消息，金秋十月，天宇将迎来多场精彩天象。猎户座流星雨将在下旬登场，火星、木星等行星也接连与月亮相伴，为秋夜星空增添浪漫气息。",
+   "regions": [
+    "南京"
+   ]
+  },
+  {
+   "title": "让游客“打分”变“点赞” 三亚织密旅游消费“放心网”",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706643.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T05:05:30.000Z",
+   "summary": "中新网海口10月1日电 (记者 张茜翼)一杆海鲜秤，称出市场诚意；一通离岛维权电话，连着城市口碑。如何让游客从“打分”变“点赞”？三亚正织密覆盖“吃住行游购娱”的旅游消费“放心网”。",
+   "regions": [
+    "海口",
+    "三亚"
+   ]
+  },
+  {
+   "title": "逾10万民众天安门广场观升旗为祖国庆生",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706641.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T05:04:30.000Z",
+   "summary": "中新社北京10月1日电 (记者 徐婧)北京天安门广场10月1日举行升旗仪式，10.1万余名来自五湖四海的民众齐聚广场，共庆中华人民共和国成立77周年。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "“铁路畅行”积分可换车票 这些隐藏福利你了解吗",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706632.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T03:56:37.000Z",
+   "summary": "如今，乘坐火车已经是很多人的出行选择。铁路部门从2017年12月推出“铁路畅行”常旅客会员服务，坐火车能攒积分、兑车票。虽然这项服务已经推出9年多，但仍有不少旅客没摸清门道：积分到底怎么攒？兑车票有什么规则？还有哪些隐藏福利？详细了解↓",
+   "regions": []
+  },
+  {
+   "title": "国庆假期打算去哪玩？这份天气指南请查收",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706631.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T03:50:33.000Z",
+   "summary": "今早天安门广场升旗，不少观旗群众都穿上了羽绒服、大衣，能明显感受到寒意。国庆假期天气如何，是否适宜出行？气温方面有什么需要注意？",
+   "regions": []
+  },
+  {
+   "title": "中俄两大界江进入20天秋季禁渔期 700余艘渔船撤离作业水域",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706621.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-01T03:09:40.000Z",
+   "summary": "中新社哈尔滨10月1日电 10月1日0时起，中俄界江黑龙江、乌苏里江开启为期20天的秋季禁渔期，重点守护大马哈鱼跨境洄游繁殖。两条界江全年禁渔各55天，分为伏季、秋季两个阶段落实。",
+   "regions": [
+    "哈尔滨",
+    "黑龙江"
+   ]
+  },
+  {
+   "title": "今天全国铁路预计发送旅客2480万人次",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706616.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T02:30:50.000Z",
+   "summary": "今天是国庆假期第一天，预计铁路将迎来假期客流最高峰。今天全国铁路预计发送旅客2480万人次，加开旅客列车2324列。",
+   "regions": []
+  },
+  {
+   "title": "今起高速免费 哪些做法容易多花钱？把握好这两个时间点",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706606.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T02:00:54.000Z",
+   "summary": "国庆假期，全国实施7座及以下小客车免收通行费政策，免费通行时段为10月1日0时到10月7日24时。高速免费通行政策一直是节假日车主关注的焦点。提前上高速、临近免费截止时段仍在途中、选错上下高速车道、车型不符合免费标准是往年国庆假期车主遇到通…",
+   "regions": []
+  },
+  {
+   "title": "国庆假期两股冷空气接连来袭 西南地区阴雨超长待机",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706603.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T01:28:24.000Z",
+   "summary": "中国天气网讯 国庆假期首日(10月1日)，冷空气将继续东移南下，南方多地也将加入降温行列，3日起，新一股冷空气又将登场。两股冷空气接连影响下，南北方多地气温将创今年下半年来新低，江南多地也将开启入秋进程。国庆假期前半段，南方降雨范围较大，西…",
+   "regions": []
+  },
+  {
+   "title": "重庆贵州等地局地有暴雨 江南华南有分散雷阵雨",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706591.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-01T00:51:49.000Z",
+   "summary": "中新网10月1日电 据中央气象台网站消息，昨日，重庆、贵州、湖北、湖南、浙江等地出现较强降雨，内蒙古、华北、东北等地出现大风降温天气。预计未来三天，青藏高原东部至南方大部地区多阴雨天气，贵州、重庆、湖南等局地有强降雨，关注对交通、旅游安全的…",
+   "regions": [
+    "重庆",
+    "浙江"
+   ]
+  },
+  {
+   "title": "习言道｜让老百姓过上更好的日子",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706590.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-01T00:47:39.000Z",
+   "summary": "10月1日出版的《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。",
+   "regions": []
+  },
+  {
+   "title": "庆祝祖国77周年华诞：“77”的回答",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706593.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-01T00:37:40.000Z",
+   "summary": "“77”的回答",
+   "regions": []
+  },
+  {
+   "title": "Flag-raising ceremony held to mark 77th founding anniversary of PRC",
+   "link": "https://news.cgtn.com/news/2026-10-01/Flag-raising-ceremony-held-to-mark-77th-founding-anniversary-of-PRC-1QSuJl293A4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-01T00:30:57.000Z",
+   "summary": "Flag-raising ceremony held to mark 77th founding anniversary of PRC",
+   "regions": []
+  },
+  {
+   "title": "Chinese envoy calls for improving global human rights governance",
+   "link": "https://news.cgtn.com/news/2026-10-01/Chinese-envoy-calls-for-improving-global-human-rights-governance-1QSsUdZCIKI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-01T00:27:26.000Z",
+   "summary": "China called on the international community to establish a just, equitable, and inclusive global human rights governance…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  }
+ ],
+ "econ": [
+  {
+   "title": "平陆运河打通南向出海通道 广西岑溪外向型经济蓄势待发",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706686.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T06:03:45.000Z",
+   "summary": "中新网广西梧州10月1日电(张广权 黄列霖)秋日，广西梧州港赤水圩作业区码头，来自梧州岑溪市的瓷砖、电子元器件等货物在堆场集中码放，货运车辆往来穿梭，起重机将集装箱吊装上船。这些货物从梧州港中转出海，是岑溪外向型产业拓展海外市场的缩影。",
+   "regions": [
+    "广西"
+   ]
+  },
+  {
+   "title": "8万吨多用途粮食运输船“国强海”轮在大连命名",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706681.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T06:03:09.000Z",
+   "summary": "中新网大连10月1日电 (记者 杨毅)9月30日，大连中远海运重工为中远海运发展建造的第九艘80000吨多用途粮食运输船“国强海”轮正式命名。该船型由我国自主研发设计，是全球首型适配粮食专业化运输的多用途船型。",
+   "regions": [
+    "大连"
+   ]
+  },
+  {
+   "title": "山西首单离境退税业务落地 助力“山西游、山西购”",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706687.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T06:02:53.000Z",
+   "summary": "中新网太原10月1日电 (杨静 席劲佳)记者10月1日从太原海关获悉，太原海关所属太原机场海关近日顺利办结山西首单境外旅客购物离境退税业务，标志着境外旅客购物离境退税政策在山西正式落地实施。",
+   "regions": []
+  },
+  {
+   "title": "尼泊尔多迪市代表团参访云南福贡 冀深化户外文旅合作",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706678.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T05:59:43.000Z",
+   "summary": "中新网云南怒江10月1日电 (时文枝)“尼泊尔多迪市与云南省福贡县在地形地貌、民族文化、户外资源等方面非常相似，合作前景广阔。”近日，尼泊尔甘达基省拉姆琼县多迪市市政主席尤巴·拉吉·阿迪卡里接受中新网采访时表示，他将把此行在云南的所见所闻带…",
+   "regions": []
+  },
+  {
+   "title": "9月中国百城新房价格上涨 二手房价下跌",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706676.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T05:57:05.000Z",
+   "summary": "中新社北京10月1日电 (记者 庞无忌)9月份中国主要城市新房价格同环比结构性上涨，二手房价同环比下跌。",
+   "regions": []
+  },
+  {
+   "title": "湖南成立大张家界国际旅游区产业发展联盟 助力建设世界知名旅游目的地",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706664.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T05:28:33.000Z",
+   "summary": "中新网湘西10月1日电 (唐小晴 贺鹏)9月30日晚，湖南大张家界国际旅游区产业发展联盟在湘西州芙蓉镇景区成立。",
+   "regions": []
+  },
+  {
+   "title": "（乡村行·看振兴）紫菜养殖装上智能“晴雨表” 浙江洞头数据赋能民生增收",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706662.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T05:27:53.000Z",
+   "summary": "中新网温州10月1日电(周健 何琰 郑树)浙江温州洞头区霓屿街道素有“中国紫菜之乡”的美誉。眼下，霓屿海域的万亩紫菜已完成采苗下苗，正进入分网养护关键生长期。为精准护航紫菜养殖、降低种养风险，当地联动自然资源部温州海洋中心，在核心养殖区布设…",
+   "regions": []
+  },
+  {
+   "title": "北疆国门钢铁驼队不息 百年边陲小站筑就欧亚通衢",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706661.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T05:26:41.000Z",
+   "summary": "中新网满洲里10月1日电 题：北疆国门钢铁驼队不息 百年边陲小站筑就欧亚通衢",
+   "regions": []
+  },
+  {
+   "title": "（乡村行·看振兴）广东东源大洋洲淡水蓝龙虾出塘 铺就产业致富新路",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706657.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-01T05:17:36.000Z",
+   "summary": "中新网河源10月1日电 (张璐 田红秀)近日，广东省东源县仙塘镇仙塘村养殖示范基地(简称“基地”)2026年首批大洋洲淡水蓝龙虾(红螯螯虾)正式出塘上市。依托东江优质活水生态资源，该基地培育的蓝龙虾凭借饱满品相、紧实鲜甜的优质肉质抢占市场，…",
+   "regions": [
+    "河源",
+    "广东"
+   ]
+  },
+  {
+   "title": "“玲龙一号”装料在即 海南核电详解全球首堆安全逻辑",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706655.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T05:16:12.000Z",
+   "summary": "中新网海南昌江10月1日电 (记者 王晓斌)海南昌江核电基地内，备受关注的“玲龙一号”全球首堆目前正处于热态性能试验阶段，向年内装料、并网发电目标冲刺。",
+   "regions": []
+  },
+  {
+   "title": "深化市场监管制度创新 海南厚植经营主体发展土壤",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706652.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T05:12:54.000Z",
+   "summary": "中新网海口10月1日电 (记者 张茜翼)营商环境好不好，经营主体感受最直接。从准入到监管再到执法，海南正以全链条制度创新，持续优化营商环境，为各类经营主体在琼发展厚植土壤。",
+   "regions": []
+  },
+  {
+   "title": "聚焦提质增效 新世界超额完成2026财年销售目标 黄少媚带领团队锚定新增长",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706638.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T05:02:30.000Z",
+   "summary": "当前，房地产行业正处于深度调整和结构转型关键期，加快构建房地产发展新模式、推动行业迈向高质量发展，是促进房地产市场平稳健康运行的重要着力点。",
+   "regions": []
+  },
+  {
+   "title": "十年一酱，劲牌茅台镇酒业用“全透明”回答酱酒长期主义",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706637.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T04:59:13.000Z",
+   "summary": "当酱酒行业褪去热度回归理性，不少品牌着力挖掘文化叙事、讲述品牌故事之时，劲牌选择另一条路——敞开劲牌茅台镇酒业大门，邀请媒体走进生产一线，以一场“透明劲牌·探源寻真”溯源活动，把酱酒酿造全流程摊开在聚光灯下，用实际行动诠释劲牌原酒品质长期主…",
+   "regions": []
+  },
+  {
+   "title": "我国秋粮收获过两成",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706634.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T04:05:00.000Z",
+   "summary": "新华社北京10月1日电(记者韩佳诺)记者10月1日从农业农村部获悉，农业农村部最新农情调度显示，我国秋粮收获过两成，其中西南已收六成半，长江中下游过四成，黄淮海近两成，西北近三成，东北零星收获。",
+   "regions": []
+  },
+  {
+   "title": "价格“大跳水”！你爱吃的“它”卖爆了",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706630.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T03:37:06.000Z",
+   "summary": "国庆假期来临，全国多地农产品批发市场迎来节日消费旺季，海鲜、时令水果、新鲜蔬菜集中上市。记者近日走访北京、广东深圳、河南郑州、山东青岛了解到，市场品类齐全、库存充足，果蔬、水产价格稳中有降。其中，北京新发地市场的皮皮虾、梭子蟹价格明显回落，…",
+   "regions": []
+  },
+  {
+   "title": "《国铁集团铁路货物运输规程》今起实施",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706628.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T03:15:47.000Z",
+   "summary": "记者从国铁集团获悉，《国铁集团铁路货物运输规程》今天(10月1日)起正式实施。规程进一步明确了承运人、托运人等铁路货物运输各方权责关系，对既有铁路货物运输制度办法进行了修订，将“承运人确定重量”改为“谁装车谁确定重量，承运人有权复核”；将超…",
+   "regions": []
+  },
+  {
+   "title": "从“冲超”到“世界杯”：海南琼中女足谋划“十五五”新篇",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706625.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T03:12:53.000Z",
+   "summary": "中新网海口10月1日电(记者 符宇群)从大山深处踢向全国赛场，从青训苗圃走向国际舞台——“琼中女足”这张属于琼中、也属于海南的“亮丽名片”，正在谋划下一段“新赛程”。",
+   "regions": []
+  },
+  {
+   "title": "服务嵌入发展全链条 海南三篇“文章”激发经营主体活力",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706626.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T03:09:02.000Z",
+   "summary": "中新网海口10月1日电 (记者 张茜翼)经营主体高质量发展，是营商环境的“试金石”，更是自贸港建设的“动力源”。海南把服务嵌入经营主体发展全链条，做好高效审批、全程护航、信用赋能三篇“文章”，让经营主体在自贸港安心经营、加快成长。",
+   "regions": []
+  },
+  {
+   "title": "国庆出行图景折射经济转型新态势",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706620.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T03:05:26.000Z",
+   "summary": "“9月30日从北京到许昌逛胖东来，接着回湖南老家参加亲戚的婚礼，最后再去武汉玩一趟。”这是白领周女士的国庆假期安排。",
+   "regions": []
+  },
+  {
+   "title": "海南琼中“十五五”蓝图：“六个新高地”作答山区县高质量发展",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706612.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T02:20:19.000Z",
+   "summary": "中新网海口10月1日电 (记者 符宇群)海南省琼中黎族苗族自治县委副书记、县长郑达峰9月30日在海南省新闻办公室举行的发布会上表示，立足自贸港封关运作新起点，琼中将以建设“六个新高地”为总体框架，加快建设“一区三地”，奋力打造海南自贸港“两…",
+   "regions": []
+  },
+  {
+   "title": "海南发布“十五五”市场监管高质量发展规划 锚定一流营商环境",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706611.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T02:18:09.000Z",
+   "summary": "中新网海口10月1日电 (记者 张茜翼)海南省新闻办公室9月30日举行“开局起步‘十五五’”系列主题新闻发布会，就《海南省“十五五”市场监管高质量发展规划》(下称《规划》)进行介绍。《规划》聚焦市场准入、公平竞争、质量提升、安全监管、知识产…",
+   "regions": []
+  },
+  {
+   "title": "海南中部山区县琼中锚定“一区三地”打造自贸港“绿色蓄水池”",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706610.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-01T02:14:55.000Z",
+   "summary": "中新网海口10月1日电(记者 符宇群)雨林叠翠、江河流转，地处海南岛中部的琼中，正为自贸港积蓄一池“绿色活水”。在海南省新闻办公室9月30日举行的新闻发布会上，琼中黎族苗族自治县委常委、县人民政府常务副县长卢勇辉介绍，“十五五”时期琼中锚定…",
+   "regions": []
+  }
+ ],
+ "updatedAt": "2026-10-01T06:18:14.495Z"
 }
