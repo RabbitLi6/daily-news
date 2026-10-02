@@ -2,6 +2,30 @@
  "date": "2026-10-02",
  "tech": [
   {
+   "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
+   "link": "https://www.ithome.com/1/009/373.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T16:16:55.000Z",
+   "summary": "IT之家 10 月 3 日消息，Microsoft（微软）当地时间 1 日通过 DirectX 开发者博客宣布，高级着色器交付 (ASD) 将在本月扩展到高通、英特尔、英伟达硬件上。 由于 AMD 的 \"RDNA\" 家族已率先支持 ASD，…",
+   "regions": []
+  },
+  {
+   "title": "AMD“锐龙 9 5900X3D”处理器工程样品现身，配备 32MB + 96MB L3 缓存",
+   "link": "https://www.ithome.com/1/009/372.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T15:36:05.000Z",
+   "summary": "IT之家 10 月 2 日消息，Chiphell 论坛用户 @灵乌路空 9 月 28 日分享了一款 AMD Socket AM4 平台处理器工程样品的信息。 该处理器代号 \"100-000000652\"，属于 \"Zen 3\" 微架构的 \"V…",
+   "regions": []
+  },
+  {
+   "title": "焕新极氪 001 配色上新：推出哑光岩灰车色、冰川灰内饰",
+   "link": "https://www.ithome.com/1/009/371.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T15:30:57.000Z",
+   "summary": "IT之家 10 月 2 日消息，极氪汽车今日宣布焕新极氪 001 色彩上新，推出全新外饰色“哑光岩灰”以及全新内饰色“冰川灰”。2026 年 10 月 1 日-10 月 31 日，下定焕新极氪 001 可享更多限时权益。 IT之家注意到，焕…",
+   "regions": []
+  },
+  {
    "title": "韩国全胜卫冕亚运会《英雄联盟》项目冠军，中国台北收获第二",
    "link": "https://www.ithome.com/1/009/370.htm",
    "source": "IT之家",
@@ -1028,6 +1052,229 @@
  ],
  "world": [
   {
+   "title": "2027年乌克兰国防开支将占预算支出的67.2%",
+   "link": "https://sputniknews.cn/20261003/1073481529.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T19:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月2日电 乌克兰财政部发布消息称，2027年乌克兰军队开支将达到1083亿美元，占所有预算支出的67.2%。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美媒：台湾25年来首次从美国接收F-16战机",
+   "link": "https://sputniknews.cn/20261003/1073481675.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T18:40:00.000Z",
+   "summary": "据美国媒体报道，台湾从美国接收了首批2架最新型的、属于计划交付的66架战机中的F-16C Block 70战机。",
+   "regions": [
+    "台海",
+    "美洲"
+   ]
+  },
+  {
+   "title": "“天竺葵-5”无人机可搭载最高90公斤的作战载荷，航程可达900公里",
+   "link": "https://sputniknews.cn/20261003/1073481787.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T18:33:06.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月2日电 根据俄罗斯总统弗拉基米尔·普京在车里雅宾斯克州切巴尔库尔斯基训练场观摩武器展时听取的汇报，“天竺葵-5”喷气式无人机最高时速450公里，可携带最高90公斤的作战载荷，航程可达900公里。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】179 km SSE of Vilyuchinsk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz7b",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T18:25:20.940Z",
+   "summary": "美国地质调查局官方监测：179 km SSE of Vilyuchinsk, Russia发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "朝鲜领导人之妹：朝鲜不会与敌对国家讨论军事主权问题",
+   "link": "https://sputniknews.cn/20261003/1073481432.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T18:15:00.000Z",
+   "summary": "朝鲜领导人金正恩的妹妹、朝鲜劳动党中央委员会部长金与正回应韩国当局提议就军事分界线分歧见面沟通时表示，朝鲜不会与敌对国家讨论军事主权问题。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】5 km WSW of Volcano, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048472",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T17:55:58.410Z",
+   "summary": "美国地质调查局官方监测：5 km WSW of Volcano, Hawaii发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "专家：西方随着世界新力量中心的出现正在丧失地位",
+   "link": "https://sputniknews.cn/20261003/1073480567.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T17:50:00.000Z",
+   "summary": "世界秩序正逐步从集中于有限数量国家的体系转向多力量中心模式，黎巴嫩俄罗斯问题专家艾哈迈德·哈吉·阿里在评论俄罗斯总统弗拉基米尔·普京在瓦尔代国际辩论俱乐部全体会议上的讲话时向卫星通讯社表达了这一观点。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】30 km NNW of Valparaíso, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz75",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T17:28:18.887Z",
+   "summary": "美国地质调查局官方监测：30 km NNW of Valparaíso, Chile发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄国防部称已袭击一艘正将军用装备运往敖德萨港的干货船",
+   "link": "https://sputniknews.cn/20261003/1073480400.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T17:25:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月2日电 俄罗斯国防部10月2日发布消息称，俄军袭击了一艘正将军事装备运往乌克兰敖德萨港的干货船。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄政府：2026年俄罗斯天然气对华平均价格将为247.9美元",
+   "link": "https://sputniknews.cn/20261003/1073481090.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T16:58:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月2日电 根据2027年联邦预算草案以及2028年和2029年规划期的相关资料，俄罗斯政府预计，今年俄罗斯天然气对华年均价格为每千立方米247.9美元。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569129",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-02T16:56:41.000Z",
+   "summary": "On 10/2/2026 4:34:41 PM, an earthquake occurred in Russia potentially affecting Few people affected in MMI III. The eart…",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M5.8】165 km SSE of Vilyuchinsk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz62",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T16:34:41.010Z",
+   "summary": "美国地质调查局官方监测：165 km SSE of Vilyuchinsk, Russia发生 5.8 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】26 km SSW of Güiria, Venezuela",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz5h",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T16:31:25.762Z",
+   "summary": "美国地质调查局官方监测：26 km SSW of Güiria, Venezuela发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "委内瑞拉",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄军对尼古拉耶夫市负责乌军网站运维的数据中心实施打击",
+   "link": "https://sputniknews.cn/20261003/1073480301.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T16:25:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月2日电 俄罗斯国防部表示，俄军对尼古拉耶夫市RX-Name数据中心实施打击，该中心负责为乌军负责为乌军提供数据处理和网站存储服务。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "（爱知·名古屋亚运会）综合消息：中国“金花”包揽网球女单冠亚军 中国女足无缘领奖台",
+   "link": "https://www.chinanews.com.cn/ty/2026/10-03/10707339.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-02T16:03:05.000Z",
+   "summary": "中新社日本名古屋10月2日电 爱知·名古屋亚运会2日共决出51枚金牌。网球赛场，王曦雨2:0战胜张帅夺得女单冠军，中国队包揽金银牌并实现六连冠。女足铜牌赛中，中国队0:1不敌韩国队，位列第四，无缘领奖台。",
+   "regions": [
+    "朝鲜半岛",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】5 km NNE of Korumburra, Australia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1y",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T16:01:39.581Z",
+   "summary": "美国地质调查局官方监测：5 km NNE of Korumburra, Australia发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "澳大利亚",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄外交部：俄罗斯欢迎美国及其盟友的军队从伊拉克撤军",
+   "link": "https://sputniknews.cn/20261003/1073481211.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T16:01:29.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月2日电 俄罗斯外交部发言人玛丽亚·扎哈罗娃表示，莫斯科欢迎美军及其盟军从伊拉克撤军。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "白俄罗斯、中国、蒙古、巴基斯坦军人参加“中央-2026”演习",
+   "link": "https://sputniknews.cn/20261002/1073480810.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T15:50:45.000Z",
+   "summary": "据克里姆林宫关于俄罗斯总统弗拉基米尔·普京赴车里雅宾斯克州工作访问的参考材料，白俄罗斯、中国、吉尔吉斯斯坦、蒙古、巴基斯坦、塔吉克斯坦六国向“中央-2026”演习和“协作-2026”指挥参谋演习派出了各自军事分队，哈萨克斯坦和刚果则以作战小…",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "专家：普京在瓦尔代论坛上的讲话是构建新世界秩序的宣言",
+   "link": "https://sputniknews.cn/20261002/1073480074.html",
+   "source": "卫星社中文",
+   "time": "2026-10-02T15:35:00.000Z",
+   "summary": "经济学副博士、首家俄越合资企业\"俄越石油\"（Rusvietpetro）前副总经理阮英芳在俄罗斯卫星通讯社的评论中强调，弗拉基米尔·普京在瓦尔代论坛上的讲话勾勒出了对未来世界格局的宏观愿景。专家认为，此次发言反映了向全球南方大规模转移的趋势，…",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "泰国洪灾形势有所缓解 政府要求防范新一轮降雨",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707338.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-02T15:29:05.000Z",
+   "summary": "中新社曼谷10月2日电 (梁峻祥 李映民)泰国总理府公共关系部2日发布消息说，总理阿努廷当天上午在国家防灾减灾指挥部会议后表示，各部门要做好应对10月5日起可能增强降雨的准备，尤其要关注泰国南部地区。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "七国集团就推动主要炼油国家增产增加柴油供应达成一致",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707337.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-02T15:24:43.000Z",
+   "summary": "当地时间10月2日，七国集团领导人召开视频会议，应对油价飙升及能源供应压力，同意采取协调行动，稳定市场、缓解家庭和企业负担，并增强能源体系长期韧性。",
+   "regions": []
+  },
+  {
    "title": "法国总统：G7同意向市场投放1亿桶燃油",
    "link": "https://sputniknews.cn/20261002/1073480207.html",
    "source": "卫星社中文",
@@ -1036,6 +1283,17 @@
    "regions": [
     "俄乌",
     "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】78 km WSW of San Nicolas, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1q",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T15:10:19.729Z",
+   "summary": "美国地质调查局官方监测：78 km WSW of San Nicolas, Philippines发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
    ]
   },
   {
@@ -1496,6 +1754,16 @@
    "source": "USGS地震台网",
    "time": "2026-10-02T09:43:17.130Z",
    "summary": "美国地质调查局官方监测：53 km NW of Toyah, Texas发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】53 km NW of Toyah, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tjshuj",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T09:43:16.734Z",
+   "summary": "美国地质调查局官方监测：53 km NW of Toyah, Texas发生 2.7 级地震，震源深度 未知。",
    "regions": [
     "国际"
    ]
@@ -3283,6 +3551,14 @@
  ],
  "econ": [
   {
+   "title": "七国集团就推动主要炼油国家增产增加柴油供应达成一致",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707337.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-02T15:24:43.000Z",
+   "summary": "当地时间10月2日，七国集团领导人召开视频会议，应对油价飙升及能源供应压力，同意采取协调行动，稳定市场、缓解家庭和企业负担，并增强能源体系长期韧性。",
+   "regions": []
+  },
+  {
    "title": "万亿级车轮经济跑出新动能",
    "link": "https://www.chinanews.com.cn/cj/2026/10-02/10707331.shtml",
    "source": "中新网滚动",
@@ -3608,5 +3884,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-02T15:17:30.405Z"
+ "updatedAt": "2026-10-02T20:02:48.822Z"
 }
