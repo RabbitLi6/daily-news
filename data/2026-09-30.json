@@ -850,6 +850,14 @@
    "regions": []
   },
   {
+   "title": "dummyscheme，轻量 scheme 解释器，支持 r5rs，基于字节码和寄存器寻址",
+   "link": "https://www.oschina.net/news/502824",
+   "source": "开源中国",
+   "time": "2026-09-30T07:19:00.000Z",
+   "summary": "受Lua启发，支持R5RS，基于字节码和寄存器寻址的Scheme 解释器 字节码编译器，指令集基于寄存器 尾调用优化 一等公民延续（call/cc），multi-short、不限长度，用 callframe 的 copy-on-write …",
+   "regions": []
+  },
+  {
    "title": "小米“米家冰箱 Pro 439L 法式自动制冰”开售，4999 元",
    "link": "https://www.ithome.com/1/008/759.htm",
    "source": "IT之家",
@@ -6050,5 +6058,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-01T23:18:40.908Z"
+ "updatedAt": "2026-10-02T02:24:28.364Z"
 }
