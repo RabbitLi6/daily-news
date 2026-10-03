@@ -2,6 +2,94 @@
  "date": "2026-10-02",
  "tech": [
   {
+   "title": "部分 Win11 用户反馈安装微软 9 月可选更新后同时播放多个 MP3 文件触发崩溃",
+   "link": "https://www.ithome.com/1/009/384.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T23:56:49.000Z",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 BornCity 今天（10 月 3 日）发布博文，报道称微软推送 9 月 Windows 11 可选更新 KB5124010 存在 Bug， 部分用户反馈同时播放多个 MP3 文件时，可能触发系统…",
+   "regions": []
+  },
+  {
+   "title": "奔驰大幅精简车型阵容，EQE、迈巴赫 EQS 680 SUV 等电车即将停产",
+   "link": "https://www.ithome.com/1/009/383.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T23:53:35.000Z",
+   "summary": "IT之家 10 月 3 日消息，奔驰将大幅精简车型阵容，纯电车型是调整重点。至少三款车型将在 2027 款停产。 奔驰发言人向外媒《Car and Driver》证实， EQE 轿车及其 AMG 版本、AMG S 63 E PERFORMA…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 1003：三星上调国行 S26 售价；问界 M6 推 3 年 0 息购车方案；曝 Anthropic 最早 11 月中旬上市；苹果预计本月发布触控 OLED 屏 MacBook...",
+   "link": "https://www.ithome.com/1/009/382.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T23:50:59.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 3 日星期六，今天的重要科技资讯有： 1. 三星上调 Galaxy S26 系列手机建议零售价：涨 800-1800 元，7799 元起 三星官网显示，三星上调了国行 Galaxy …",
+   "regions": []
+  },
+  {
+   "title": "苹果收紧 macOS 27 等完全磁盘访问权限，降低 AI 智能体操控风险",
+   "link": "https://www.ithome.com/1/009/381.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T23:47:28.000Z",
+   "summary": "IT之家 10 月 3 日消息，苹果开发者网站昨日（10 月 2 日）发布公告，宣布将升级 macOS 27 等系统的隐私管控，要求用户通过更明确的操作，才能授予应用“完全磁盘访问权限”。 苹果表示，“完全磁盘访问权限”原本用于支持备份应用…",
+   "regions": []
+  },
+  {
+   "title": "苹果 homeOS 前瞻：整合 iOS / iPadOS / watchOS 特性，主打 Siri AI 交互",
+   "link": "https://www.ithome.com/1/009/380.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T23:34:15.000Z",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，综合彭博社马克 · 古尔曼（Mark Gurman）、@itspdfu 等诸多消息源， 梳理整合苹果 homeOS 系统相关信息。 名称方面，hom…",
+   "regions": []
+  },
+  {
+   "title": "初代 M3 上市 40 年，宝马 M 车型迎来百万辆下线里程碑",
+   "link": "https://www.ithome.com/1/009/379.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T23:29:31.000Z",
+   "summary": "IT之家 10 月 3 日消息，当地时间 2 日，宝马集团旗下高性能品牌 M 的累计产量正式突破 100 万辆，第 100 万辆车型是一辆在德国慕尼黑工厂下线的 M3，采用个性化定制 Fire Orange III 车漆，慕尼黑工厂负责人彼…",
+   "regions": []
+  },
+  {
+   "title": "苹果回应少数美国运营商 AT&T 版 iPhone 18 Pro Max 出现 SOS 通信故障",
+   "link": "https://www.ithome.com/1/009/378.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T23:20:42.000Z",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，报道称美国电信运营商 AT&amp;T 和苹果公司分别发布声明， 表示少量美版 iPhone 18 Pro Max 存在蜂窝网络问题。 IT之家曾于…",
+   "regions": []
+  },
+  {
+   "title": "亚马逊云科技 CEO 加尔曼强势回应数据中心反对声浪：后果或影响数代人",
+   "link": "https://www.ithome.com/1/009/377.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T23:17:50.000Z",
+   "summary": "IT之家 10 月 3 日消息，据《商业内幕》今天（3 日）凌晨报道，亚马逊云科技 CEO 马特 · 加尔曼警告，美国各地针对数据中心建设的反对声浪不断扩大，可能让美国在全球 AI 竞争中失去优势。 加尔曼发表了一篇 3000 多词的博文称…",
+   "regions": []
+  },
+  {
+   "title": "Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”",
+   "link": "https://www.ithome.com/1/009/376.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T23:03:54.000Z",
+   "summary": "IT之家 10 月 3 日消息，Anthropic 计划投入 1 亿美元 （IT之家注：现汇率约合 6.71 亿元人民币） 培训 1 万名工程师，帮助企业把 AI 项目从构想真正推进到业务应用。 当地时间 2 日，Anthropic 宣布推…",
+   "regions": []
+  },
+  {
+   "title": "下载体验了 Muse 后，我清仓了 Airbnb，加仓了 Meta",
+   "link": "https://www.ithome.com/1/009/375.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T23:03:19.000Z",
+   "summary": "IT之家 10 月 3 日消息，9 月 29 日作客财经播客《The Synopsis》时，资深独立股票分析师 Mostly Borrowed Ideas（下文简称 MBI）表示： 在下载体验了 Muse 后，我清仓了 Airbnb，加仓了…",
+   "regions": []
+  },
+  {
+   "title": "微软发布 Win11 Beta 和 Experimental 频道多版本预览版，支持 Unicode 17.0 文本、优化设置主页性能",
+   "link": "https://www.ithome.com/1/009/374.htm",
+   "source": "IT之家",
+   "time": "2026-10-02T17:05:18.000Z",
+   "summary": "IT之家 10 月 3 日消息，微软昨天（10 月 2 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次推送版本如下： B…",
+   "regions": []
+  },
+  {
    "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
    "link": "https://www.ithome.com/1/009/373.htm",
    "source": "IT之家",
@@ -1052,6 +1140,149 @@
  ],
  "world": [
   {
+   "title": "【地震 M4.6】174 km SSE of Vilyuchinsk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9t",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T23:59:26.824Z",
+   "summary": "美国地质调查局官方监测：174 km SSE of Vilyuchinsk, Russia发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】153 km SSE of Vilyuchinsk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9s",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T23:54:13.503Z",
+   "summary": "美国地质调查局官方监测：153 km SSE of Vilyuchinsk, Russia发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "G20 trade ministers meet in Wisconsin amid trade tensions",
+   "link": "https://newsus.cgtn.com/news/2026-10-03/G20-trade-ministers-meet-in-Wisconsin-amid-trade-tensions-1QVKjH6nf7a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T23:12:25.000Z",
+   "summary": "G20 trade ministers meet in Wisconsin amid trade tensions",
+   "regions": []
+  },
+  {
+   "title": "Chinese manufacturers dominate Latin America's bus fleet",
+   "link": "https://newsus.cgtn.com/news/2026-10-03/Chinese-manufacturers-dominate-Latin-America-s-bus-fleet-1QVJH8MyuYg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T23:11:26.000Z",
+   "summary": "Chinese manufacturers dominate Latin America's bus fleet",
+   "regions": []
+  },
+  {
+   "title": "马克龙：七国集团成员国将释放至多1亿桶战略石油储备",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-02T22:44:20.000Z",
+   "summary": "中新社巴黎10月2日电 (记者 李洋)法国总统马克龙当地时间2日表示，七国集团成员国及其伙伴将立即启动在4个月内释放至多1亿桶战略石油储备。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "美国9月非农就业增加2.9万 失业率4.2%",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-02T22:42:06.000Z",
+   "summary": "中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百分点。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "美国联邦航空管理局：波音737 MAX软件故障不构成安全威胁",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707345.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-02T22:40:20.000Z",
+   "summary": "中新社华盛顿10月2日电 (记者 沙晗汀)美国联邦航空管理局(FAA)当地时间2日表示，波音公司737 MAX部分机型出现的软件故障不构成安全威胁。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "今年9月欧元区通胀率升至3.8%创近三年新高",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707342.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-02T22:40:14.000Z",
+   "summary": "中新社布鲁塞尔10月2日电 (记者 德永健)欧盟统计局2日公布的数据显示，由于能源价格持续飙升，今年9月欧元区通胀率升至3.8%，创2023年9月以来新高。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】52 km WSW of Paratunka, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8q",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T21:05:06.532Z",
+   "summary": "美国地质调查局官方监测：52 km WSW of Paratunka, Russia发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】171 km SE of Vilyuchinsk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8l",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T20:54:15.391Z",
+   "summary": "美国地质调查局官方监测：171 km SE of Vilyuchinsk, Russia发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M5.1】199 km SSE of Vilyuchinsk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8c",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T20:27:27.120Z",
+   "summary": "美国地质调查局官方监测：199 km SSE of Vilyuchinsk, Russia发生 5.1 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】67 km ESE of Kokopo, Papua New Guinea",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8b",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T20:26:02.878Z",
+   "summary": "美国地质调查局官方监测：67 km ESE of Kokopo, Papua New Guinea发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "巴布亚新几内亚",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】136 km SSE of Vilyuchinsk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8a",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T20:25:29.894Z",
+   "summary": "美国地质调查局官方监测：136 km SSE of Vilyuchinsk, Russia发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】Kermadec Islands region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz7t",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T19:43:20.760Z",
+   "summary": "美国地质调查局官方监测：Kermadec Islands region发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "2027年乌克兰国防开支将占预算支出的67.2%",
    "link": "https://sputniknews.cn/20261003/1073481529.html",
    "source": "卫星社中文",
@@ -1170,6 +1401,17 @@
    ]
   },
   {
+   "title": "【地震 M3.2】7 km NNW of Korumburra, Australia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzaj",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T16:56:33.461Z",
+   "summary": "美国地质调查局官方监测：7 km NNW of Korumburra, Australia发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "澳大利亚",
+    "亚太"
+   ]
+  },
+  {
    "title": "【地震 M5.8】165 km SSE of Vilyuchinsk, Russia",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz62",
    "source": "USGS地震台网",
@@ -1224,6 +1466,14 @@
    ]
   },
   {
+   "title": "UN unveils $160M aid for underfunded humanitarian crises",
+   "link": "https://newsaf.cgtn.com/news/2026-10-03/UN-unveils-160M-aid-for-underfunded-humanitarian-crises-1QV7PeE1jGg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T16:01:30.000Z",
+   "summary": "The United Nations has released $160 million in emergency funding for 12 underfunded humanitarian crises, including eigh…",
+   "regions": []
+  },
+  {
    "title": "俄外交部：俄罗斯欢迎美国及其盟友的军队从伊拉克撤军",
    "link": "https://sputniknews.cn/20261003/1073481211.html",
    "source": "卫星社中文",
@@ -1234,6 +1484,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Heads of State head to Egypt for inaugural Alamein Africa Forum",
+   "link": "https://newsaf.cgtn.com/news/2026-10-02/Heads-of-State-head-to-Egypt-for-inaugural-Alamein-Africa-Forum-1QV7X8klu0M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T15:54:43.000Z",
+   "summary": "African leaders, government officials, investors and financial institutions are gathering in Egypt’s New Alamein City fo…",
+   "regions": []
   },
   {
    "title": "白俄罗斯、中国、蒙古、巴基斯坦军人参加“中央-2026”演习",
@@ -1297,6 +1555,22 @@
    ]
   },
   {
+   "title": "South African tavern massacre victims remembered",
+   "link": "https://newsaf.cgtn.com/news/2026-10-02/South-African-tavern-massacre-victims-remembered-1QV4Uh7Q2UU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T15:02:17.000Z",
+   "summary": "Families and friends gather to remember the 18 people killed in the Wedela tavern massacre in Carletonville, west of Joh…",
+   "regions": []
+  },
+  {
+   "title": "Ebola deaths in the DR Congo hits 4000 mark",
+   "link": "https://newsaf.cgtn.com/news/2026-10-02/Ebola-deaths-in-the-DR-Congo-hits-4000-mark-1QV5eHA2R3y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T14:58:54.000Z",
+   "summary": "Government figures show that the Ebola outbreak has killed more than 4,000 people, with about 8,300 confirmed cases acro…",
+   "regions": []
+  },
+  {
    "title": "特朗普：欧洲国家同意立即放出大量柴油燃料到市场",
    "link": "https://sputniknews.cn/20261002/1073479974.html",
    "source": "卫星社中文",
@@ -1307,6 +1581,14 @@
     "欧洲",
     "美洲"
    ]
+  },
+  {
+   "title": "Loki the sea cucumber among 57 new species found off Argentina",
+   "link": "https://news.cgtn.com/news/2026-10-02/Loki-the-sea-cucumber-among-57-new-species-found-off-Argentina-1QV13uZIDYI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T14:43:24.000Z",
+   "summary": "Loki the sea cucumber among 57 new species found off Argentina",
+   "regions": []
   },
   {
    "title": "俄罗斯副总理：包括中国在内的一些国家禁止柴油出口以保障自身能源安全",
@@ -1439,6 +1721,14 @@
    ]
   },
   {
+   "title": "UN Security Council set to vote on Sudan sanctions",
+   "link": "https://newsaf.cgtn.com/news/2026-10-02/UN-Security-Council-set-to-vote-on-Sudan-sanctions-1QUJojpZ0nC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T13:05:41.000Z",
+   "summary": "The UN Security Council is expected to vote on October 8 on whether to renew sanctions against Sudan, amid divisions ove…",
+   "regions": []
+  },
+  {
    "title": "俄别尔哥罗德医生：乌军在弹药中装填钨球弹丸",
    "link": "https://sputniknews.cn/20261002/1073479033.html",
    "source": "卫星社中文",
@@ -1447,6 +1737,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "African Union urges restraint amid Ethiopia-Eritrea-Egypt tensions",
+   "link": "https://newsaf.cgtn.com/news/2026-10-02/African-Union-urges-restraint-amid-Ethiopia-Eritrea-Egypt-tensions-1QUInOcM42Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T13:01:19.000Z",
+   "summary": "In a statement, the AU said it was closely following developments among the three countries, warning that further escala…",
+   "regions": []
   },
   {
    "title": "中国一人户家庭占比低于大多数发达国家",
@@ -1477,6 +1775,22 @@
    "regions": [
     "朝鲜半岛"
    ]
+  },
+  {
+   "title": "Australian state reports second OpenAI website breach",
+   "link": "https://news.cgtn.com/news/2026-10-02/Australian-state-reports-second-OpenAI-website-breach-1QV0AKVrEM8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T12:48:54.000Z",
+   "summary": "Australian state reports second OpenAI website breach",
+   "regions": []
+  },
+  {
+   "title": "IMF hails China-US trade consensus as boost for trade predictability",
+   "link": "https://news.cgtn.com/news/2026-10-02/IMF-hails-China-US-trade-consensus-as-boost-for-trade-predictability-1QV0DpvFvLq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T12:47:09.000Z",
+   "summary": "The International Monetary Fund (IMF) on Thursday welcomed positive outcomes from the latest China-US economic and trade…",
+   "regions": []
   },
   {
    "title": "俄总理：欧亚经济联盟国家与非洲国家合作前景广阔",
@@ -1565,6 +1879,62 @@
    ]
   },
   {
+   "title": "【世界进行时】2026年10月2日",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142935",
+   "source": "联合国新闻",
+   "time": "2026-10-02T12:00:00.000Z",
+   "summary": "本期要点：一般性辩论结束，联大主席强调重建信任必须通过言行一致来赢得；核武器风险正在加剧，推动裁军并消除核武器乃当务之急；人权高专谴责缅甸若开邦市场致命空袭；瑞士、瑞典、美国等位居全球创新指数前列，人工智能推动创新投资回升；有组织犯罪利润率…",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "世卫组织：全球卫生格局持续变化 非传染性疾病负担上升",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142933",
+   "source": "联合国新闻",
+   "time": "2026-10-02T12:00:00.000Z",
+   "summary": "世界卫生组织周五发布最新《全球健康估算》报告，指出，全球卫生格局持续变化。新冠疫情后，全球预期寿命已恢复至接近疫情前水平，但非传染性疾病在死亡总数中所占比例持续上升，糖尿病、痴呆症、心理健康问题和药物滥用障碍带来的疾病负担也在发生变化。",
+   "regions": []
+  },
+  {
+   "title": "难民署：580万难民儿童仍无法上学 资金削减威胁教育进展",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142932",
+   "source": "联合国新闻",
+   "time": "2026-10-02T12:00:00.000Z",
+   "summary": "联合国难民署周五发布最新年度教育报告《通往未来之路：教育、机遇与自力更生》，指出，2025年全球1310万学龄难民儿童中，有580万人、占44%未能入学。难民署警告，日益加剧的资金削减可能导致更多儿童无法进入课堂，并使难民教育领域多年来取得…",
+   "regions": []
+  },
+  {
+   "title": "人权高专：乌克兰战争加剧人权灾难 海地帮派暴力持续扩大",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142931",
+   "source": "联合国新闻",
+   "time": "2026-10-02T12:00:00.000Z",
+   "summary": "联合国人权事务高级专员蒂尔克周五向人权理事会通报乌克兰和海地人权状况，指出乌克兰战争持续造成平民伤亡和严重人权侵犯，海地黑帮暴力仍在扩大。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "受天气和运输受阻影响 粮农组织食品价格指数9月上涨",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142930",
+   "source": "联合国新闻",
+   "time": "2026-10-02T12:00:00.000Z",
+   "summary": "联合国粮食及农业组织周五发布最新数据显示，2026年9月，国际食品价格指数上涨，运输受阻及天气担忧限制供应，作物类商品组价格均有所上涨。",
+   "regions": []
+  },
+  {
+   "title": "联合国中央应急基金拨款1.6亿美元 缓解12个人道主义危机",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142929",
+   "source": "联合国新闻",
+   "time": "2026-10-02T12:00:00.000Z",
+   "summary": "联合国周五从中央应急基金中拨款1.6亿美元，用于支持非洲、亚洲、拉丁美洲和中东地区12个资金最为匮乏的人道主义危机中的救生援助。",
+   "regions": [
+    "中东",
+    "美洲",
+    "非洲"
+   ]
+  },
+  {
    "title": "中国外交部：中国欢迎普京出席亚太经合组织峰会",
    "link": "https://sputniknews.cn/20261002/1073478219.html",
    "source": "卫星社中文",
@@ -1650,6 +2020,22 @@
    ]
   },
   {
+   "title": "Xi's visit makes history, marks milestone in China-US ties: ambassador",
+   "link": "https://news.cgtn.com/news/2026-10-02/Xi-s-visit-makes-history-marks-milestone-in-China-US-ties-ambassador-1QUQhhelFCg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T10:59:42.000Z",
+   "summary": "President Xi Jinping and US President Donald Trump have reaffirmed the strategic value of the China-US relationship in t…",
+   "regions": []
+  },
+  {
+   "title": "UAE presidential adviser calls Flydubai incident 'terrorist act'",
+   "link": "https://news.cgtn.com/news/2026-10-02/news-1QUUrg42Wty/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T10:52:18.000Z",
+   "summary": "The United Arab Emirates (UAE) presidential adviser Anwar Gargash said on Friday that the incident aboard a Flydubai fli…",
+   "regions": []
+  },
+  {
    "title": "巴基斯坦安全部队在反恐行动中击毙7名恐怖分子",
    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707238.shtml",
    "source": "中新网国际",
@@ -1705,6 +2091,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "US-China tariff cuts may ease costs for American consumers",
+   "link": "https://news.cgtn.com/news/2026-10-02/US-China-tariff-cuts-may-ease-costs-for-American-consumers-1QUKYIQAIsE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T10:06:12.000Z",
+   "summary": "Many Americans start their mornings by popping a slice of bread into the toaster and switching on the coffee maker. But …",
+   "regions": []
   },
   {
    "title": "【地震 M3.7】10 km WSW of South Lake Tahoe, CA",
@@ -1839,6 +2233,14 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "Chinese embassy: Facts undeniable in ex-SDF officer's intrusion case",
+   "link": "https://news.cgtn.com/news/2026-10-02/Chinese-embassy-Facts-undeniable-in-ex-SDF-officer-s-intrusion-case-1QUHPOhQy8o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T08:44:37.000Z",
+   "summary": "A spokesperson for the Chinese Embassy in Japan said Thursday that the case of Kodai Murata, who has been charged with i…",
+   "regions": []
   },
   {
    "title": "特朗普：美国民主党在中期选举中获胜后将发起弹劾",
@@ -1990,6 +2392,14 @@
    ]
   },
   {
+   "title": "Energy prices, cost of living top ASEAN energy transition concerns",
+   "link": "https://news.cgtn.com/news/2026-10-02/Energy-prices-cost-of-living-top-ASEAN-energy-transition-concerns-1QUAE3i67PW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T06:43:07.000Z",
+   "summary": "Energy prices, cost of living top ASEAN energy transition concerns",
+   "regions": []
+  },
+  {
    "title": "俄国防部：俄防空系统夜间摧毁646架乌克兰无人机",
    "link": "https://sputniknews.cn/20261002/1073475171.html",
    "source": "卫星社中文",
@@ -2039,6 +2449,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "Japan poll: 57% urge Takaichi to improve ties with China",
+   "link": "https://news.cgtn.com/news/2026-10-02/Japan-poll-57-urge-Takaichi-to-improve-ties-with-China-1QUo3C4KjZu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T06:00:17.000Z",
+   "summary": "A majority of Japanese respondents believe Prime Minister Sanae Takaichi should make greater efforts to improve relation…",
+   "regions": []
   },
   {
    "title": "俄州长：罗斯托夫州上空过去一日摧毁超110架无人机",
@@ -2095,6 +2513,14 @@
    "source": "中新网国际",
    "time": "2026-10-02T05:09:06.000Z",
    "summary": "中新网10月2日电 近日，中国驻外使领馆使团在全球多地举办招待会等活动，隆重庆祝中华人民共和国成立77周年。多国政要出席活动，向中国政府和人民致以诚挚祝贺，高度评价中国发展成就，期待与中国加深互利合作。",
+   "regions": []
+  },
+  {
+   "title": "Xie Zhenye backs China's young sprinters to shine on world stage",
+   "link": "https://news.cgtn.com/news/2026-10-02/Xie-Zhenye-backs-China-s-young-sprinters-to-shine-on-world-stage-1QUkbCV8cDe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T04:52:54.000Z",
+   "summary": "Xie Zhenye backs China's young sprinters to shine on world stage",
    "regions": []
   },
   {
@@ -2165,6 +2591,14 @@
    ]
   },
   {
+   "title": "Fashion designer brings Chinese heritage to Milan Fashion Week",
+   "link": "https://news.cgtn.com/news/2026-10-02/Fashion-designer-brings-Chinese-heritage-to-Milan-Fashion-Week--1QUqSR4dJiU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T04:06:05.000Z",
+   "summary": "A fashion designer from has brought a touch of Chinese culture to Milan Fashion Week. Designer Zhao Huizhou presented it…",
+   "regions": []
+  },
+  {
    "title": "伊朗副外长：伊朗、俄罗斯和中国应共同抵制对国际法的侵犯",
    "link": "https://sputniknews.cn/20261002/1073473431.html",
    "source": "卫星社中文",
@@ -2184,6 +2618,14 @@
    "regions": [
     "非洲"
    ]
+  },
+  {
+   "title": "How Chinese technology supports esports competition at the Asian Games",
+   "link": "https://news.cgtn.com/news/2026-10-02/How-Chinese-technology-supports-esports-competition-at-the-Asian-Games-1QUjFV0bj5S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-02T03:25:17.000Z",
+   "summary": "How Chinese technology supports esports competition at the Asian Games",
+   "regions": []
   },
   {
    "title": "厄立特里亚宣布与埃塞俄比亚断交",
@@ -2423,6 +2865,17 @@
    ]
   },
   {
+   "title": "Hong Kong sets 2030 deadline to phase out substandard subdivided units",
+   "link": "https://news.cgtn.com/news/2026-10-02/Hong-Kong-sets-2030-deadline-to-phase-out-substandard-subdivided-units-1QSXSdSHeus/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T10:17:16.000Z",
+   "summary": "Hong Kong sets 2030 deadline to phase out substandard subdivided units",
+   "regions": [
+    "香港",
+    "亚太"
+   ]
+  },
+  {
    "title": "台胞李兴忠“冰城”哈尔滨创业 卤肉饭香飘两岸情",
    "link": "https://www.chinanews.com.cn/tp/2026/10-02/10707172.shtml",
    "source": "中新网滚动",
@@ -2505,6 +2958,44 @@
   }
  ],
  "cn": [
+  {
+   "title": "Chinese manufacturers dominate Latin America's bus fleet",
+   "link": "https://newsus.cgtn.com/news/2026-10-03/Chinese-manufacturers-dominate-Latin-America-s-bus-fleet-1QVJH8MyuYg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T23:11:26.000Z",
+   "summary": "Chinese manufacturers dominate Latin America's bus fleet",
+   "regions": []
+  },
+  {
+   "title": "候补购票、买“加速包”……这些“抢票偏方”真的靠谱吗？",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707346.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-02T22:48:01.000Z",
+   "summary": "真相来了丨候补购票、买“加速包”……这些“抢票偏方”真的靠谱吗？",
+   "regions": []
+  },
+  {
+   "title": "China's domestic holiday travel turns to immersive, local experiences",
+   "link": "https://news.cgtn.com/news/2026-10-02/China-s-domestic-holiday-travel-turns-to-immersive-local-experiences-1QUM2eoBKOk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T15:22:34.000Z",
+   "summary": "China's domestic holiday travel turns to immersive, local experiences",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China's first renewables mega-base in the desert goes fully online",
+   "link": "https://news.cgtn.com/news/2026-10-02/China-s-first-renewables-mega-base-in-the-desert-goes-fully-online-1QV1hlOwFP2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T14:31:48.000Z",
+   "summary": "China's first renewables mega-base in the desert goes fully online",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
   {
    "title": "2026年中国—东盟教育交流周匹克球邀请赛落幕",
    "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-02/10707324.shtml",
@@ -2700,6 +3191,17 @@
    ]
   },
   {
+   "title": "China develops new lithium battery material for faster charging",
+   "link": "https://news.cgtn.com/news/2026-10-02/China-develops-new-lithium-battery-material-for-faster-charging-1QUUZkH3H9e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T11:44:01.000Z",
+   "summary": "China develops new lithium battery material for faster charging",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "青春华章·学以报国｜山河为卷，云岭青年接力作答",
    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707253.shtml",
    "source": "中新网社会",
@@ -2707,6 +3209,28 @@
    "summary": "中国青年网讯(记者 宋莉 张亚云)9月29日，“青春华章·学以报国”网络主题活动分享会在云南师范大学举行。现场，张伯苓的“爱国三问”穿越九十余载岁月再次响起：“你是中国人吗？你爱中国吗？你愿意中国好吗？”",
    "regions": [
     "云南"
+   ]
+  },
+  {
+   "title": "Xi's visit makes history, marks milestone in China-US ties: ambassador",
+   "link": "https://news.cgtn.com/news/2026-10-02/Xi-s-visit-makes-history-marks-milestone-in-China-US-ties-ambassador-1QUQhhelFCg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T10:59:42.000Z",
+   "summary": "President Xi Jinping and US President Donald Trump have reaffirmed the strategic value of the China-US relationship in t…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China connects first 100-MW CO2 energy storage project to grid",
+   "link": "https://news.cgtn.com/news/2026-10-02/China-connects-first-100-MW-CO2-energy-storage-project-to-grid-1QUO1slnfDW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T10:56:29.000Z",
+   "summary": "China connects first 100-MW CO2 energy storage project to grid",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2727,6 +3251,22 @@
     "西双版纳",
     "云南"
    ]
+  },
+  {
+   "title": "A pair of straw sandals: A testament to love stories in wartime",
+   "link": "https://news.cgtn.com/news/2026-10-02/A-pair-of-straw-sandals-A-testament-to-love-stories-in-wartime-1QUJKZbgiic/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T10:20:57.000Z",
+   "summary": "A pair of straw sandals: A testament to love stories in wartime",
+   "regions": []
+  },
+  {
+   "title": "RCEP enters new phase of expansion and upgrading",
+   "link": "https://news.cgtn.com/news/2026-10-02/RCEP-enters-new-phase-of-expansion-and-upgrading-1QTyNROvSHS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T10:19:56.000Z",
+   "summary": "RCEP enters new phase of expansion and upgrading",
+   "regions": []
   },
   {
    "title": "守护“深蓝”：“海巡22”船长的“在线”假期",
@@ -2838,6 +3378,50 @@
    "regions": []
   },
   {
+   "title": "A glimpse of autumn in rural China",
+   "link": "https://news.cgtn.com/news/2026-10-02/A-glimpse-of-autumn-in-rural-China-1QUMJk2kovu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T09:09:34.000Z",
+   "summary": "From golden fields to quiet villages, rural China shows a different side in autumn.",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China's National Day holiday box office sizzles with new experiences",
+   "link": "https://news.cgtn.com/news/2026-10-02/China-s-National-Day-holiday-box-office-sizzles-with-new-experiences-1QULxKGXhxS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T09:02:28.000Z",
+   "summary": "China's box office got off to a strong start during the country's National Day holiday, with ticket sales (including pre…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China's railway passenger trips hit record single-day high",
+   "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T08:51:31.000Z",
+   "summary": "China's railway network handled 25.204 million passenger trips on October 1, the first day of the week-long National Day…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Chinese embassy: Facts undeniable in ex-SDF officer's intrusion case",
+   "link": "https://news.cgtn.com/news/2026-10-02/Chinese-embassy-Facts-undeniable-in-ex-SDF-officer-s-intrusion-case-1QUHPOhQy8o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T08:44:37.000Z",
+   "summary": "A spokesperson for the Chinese Embassy in Japan said Thursday that the case of Kodai Murata, who has been charged with i…",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
    "title": "英烈倒下的地方 长出守护的力量",
    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707190.shtml",
    "source": "中新网社会",
@@ -2875,6 +3459,22 @@
     "亚太",
     "上海"
    ]
+  },
+  {
+   "title": "Fireworks light up Urumqi as ethnic groups celebrate national day",
+   "link": "https://news.cgtn.com/news/2026-10-02/Fireworks-light-up-Urumqi-as-ethnic-groups-celebrate-national-day-1QUK1geHjtC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T08:27:45.000Z",
+   "summary": "A firework show lit up Urumqi Culture Park on Oct. 1, as people of all ethnic groups gathered to celebrate the 77th anni…",
+   "regions": []
+  },
+  {
+   "title": "A flight over Jilin's golden mountains",
+   "link": "https://news.cgtn.com/news/2026-10-02/A-flight-over-Jilin-s-golden-mountains-1QUHMIWvhOU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T08:19:26.000Z",
+   "summary": "Autumn turns northeast Chinese Province of Jilin into a sea of colors, with golden forests stretching across its mountai…",
+   "regions": []
   },
   {
    "title": "上海：游客在市集中感受国庆假期户外生活",
@@ -3101,6 +3701,17 @@
    ]
   },
   {
+   "title": "Travel surges on China's National Day holiday as tourists hit the road",
+   "link": "https://news.cgtn.com/news/2026-10-02/Travel-surges-on-China-s-National-Day-holiday-as-tourists-hit-the-road-1QUsGgTeMQE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T06:37:16.000Z",
+   "summary": "China's National Day holiday is in full swing, and the second day has seen travelers fan out across the country, from bu…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "全国秋粮收获过三成",
    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707136.shtml",
    "source": "中新网中国",
@@ -3189,6 +3800,14 @@
    ]
   },
   {
+   "title": "How a discussion platform helps voices be heard and issues solved",
+   "link": "https://news.cgtn.com/news/2026-10-02/How-a-discussion-platform-helps-voices-be-heard-and-issues-solved-1QTuNXs3aHC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T05:54:12.000Z",
+   "summary": "In Maizidian Street, Chaoyang District of Beijing, commercial areas interweave with residential compounds. Home to resid…",
+   "regions": []
+  },
+  {
    "title": "（长征胜利90周年）遵义会议纪念馆：一棵“活文物”承载历史",
    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707077.shtml",
    "source": "中新网中国",
@@ -3238,6 +3857,22 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "Urban scenery at Hainan's north and south ends",
+   "link": "https://news.cgtn.com/news/2026-10-02/Urban-scenery-at-Hainan-s-north-and-south-ends-1QUrl2s1F4I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T04:06:57.000Z",
+   "summary": "The growing popularity of cultural landmarks is enriching the cultural tourism offerings around them. Now, let's visit H…",
+   "regions": []
+  },
+  {
+   "title": "Fashion designer brings Chinese heritage to Milan Fashion Week",
+   "link": "https://news.cgtn.com/news/2026-10-02/Fashion-designer-brings-Chinese-heritage-to-Milan-Fashion-Week--1QUqSR4dJiU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T04:06:05.000Z",
+   "summary": "A fashion designer from has brought a touch of Chinese culture to Milan Fashion Week. Designer Zhao Huizhou presented it…",
+   "regions": []
   },
   {
    "title": "国庆假期首日 重庆火车站发送旅客量创历史新高",
@@ -3290,6 +3925,14 @@
    "regions": [
     "浙江"
    ]
+  },
+  {
+   "title": "How Chinese technology supports esports competition at the Asian Games",
+   "link": "https://news.cgtn.com/news/2026-10-02/How-Chinese-technology-supports-esports-competition-at-the-Asian-Games-1QUjFV0bj5S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T03:25:17.000Z",
+   "summary": "How Chinese technology supports esports competition at the Asian Games",
+   "regions": []
   },
   {
    "title": "西藏波密消防救援机动大队开展国庆防火宣传",
@@ -3551,6 +4194,22 @@
  ],
  "econ": [
   {
+   "title": "“99元租豪车”靠谱吗？假期租车自驾避坑指南请收",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707348.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-02T22:52:07.000Z",
+   "summary": "真相来了丨“99元租豪车”靠谱吗？假期租车自驾避坑指南请收好",
+   "regions": []
+  },
+  {
+   "title": "国庆假期第二天全社会跨区域人员流动量超3亿人次",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707347.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-02T22:49:45.000Z",
+   "summary": "今天(3日)是国庆假期第三天，各地出行需求旺盛。而在昨天，也就是国庆假期第二天，全社会跨区域人员流动量预计超3亿人次，中短途出行增长明显。",
+   "regions": []
+  },
+  {
    "title": "七国集团就推动主要炼油国家增产增加柴油供应达成一致",
    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707337.shtml",
    "source": "中新网滚动",
@@ -3594,6 +4253,17 @@
    "time": "2026-10-02T12:48:39.000Z",
    "summary": "中新社杭州10月2日电 (奚金燕)据杭州贝壳研究院10月2日发布数据，9月杭州二手房市场迎来亮眼“金九”行情，成交规模创下2021年以来近六年同期新高。",
    "regions": []
+  },
+  {
+   "title": "IMF hails China-US trade consensus as boost for trade predictability",
+   "link": "https://news.cgtn.com/news/2026-10-02/IMF-hails-China-US-trade-consensus-as-boost-for-trade-predictability-1QV0DpvFvLq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T12:47:09.000Z",
+   "summary": "The International Monetary Fund (IMF) on Thursday welcomed positive outcomes from the latest China-US economic and trade…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "（走进中国乡村）从地中海到天津蓟州：“洋蔬菜”菊苣扎根中国乡村",
@@ -3682,6 +4352,17 @@
    "time": "2026-10-02T08:51:44.000Z",
    "summary": "据海口海关统计，今年国庆假期首日，海南离岛免税购物金额达1.07亿元，共有1.89万人次参与离岛免税购物，累计购买离岛免税商品8.30万件。离岛免税购物金额、人数、件数同比分别增长21.17%、13.81%、11.24%。",
    "regions": []
+  },
+  {
+   "title": "CGTN poll: Golden week shows the power of China's holiday economy",
+   "link": "https://news.cgtn.com/news/2026-10-02/CGTN-poll-Golden-week-shows-the-power-of-China-s-holiday-economy-1QUAFPdYfcc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-02T07:51:32.000Z",
+   "summary": "CGTN poll: Golden week shows the power of China's holiday economy",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "全域文旅融合释自贸港活力 海南国庆假日旅游“开门红”",
@@ -3884,5 +4565,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-02T20:02:48.822Z"
+ "updatedAt": "2026-10-03T03:29:34.228Z"
 }
