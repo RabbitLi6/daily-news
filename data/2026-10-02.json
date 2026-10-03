@@ -1240,6 +1240,17 @@
    ]
   },
   {
+   "title": "【地震 M4.5】86 km E of Noda, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8f",
+   "source": "USGS地震台网",
+   "time": "2026-10-02T20:34:56.862Z",
+   "summary": "美国地质调查局官方监测：86 km E of Noda, Japan发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
    "title": "【地震 M5.1】199 km SSE of Vilyuchinsk, Russia",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8c",
    "source": "USGS地震台网",
@@ -4565,5 +4576,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-03T09:23:32.792Z"
+ "updatedAt": "2026-10-03T14:22:46.591Z"
 }
