@@ -2,6 +2,22 @@
  "date": "2026-10-04",
  "tech": [
   {
+   "title": "内存涨价倒逼系统瘦身：微软详解 Win11 为何要降低 RAM 占用",
+   "link": "https://www.ithome.com/1/009/738.htm",
+   "source": "IT之家",
+   "time": "2026-10-04T23:09:37.000Z",
+   "summary": "IT之家 10 月 5 日消息，随着内存成本持续上涨，微软正将“降低 Windows 11 内存占用”列为 2026 年剩余时间的重要工作之一。 微软 Windows 与设备业务负责人帕万 · 达武卢里（Pavan Davuluri）在官方…",
+   "regions": []
+  },
+  {
+   "title": "1nm 之后晶体管怎么走？泛林集团探索 SA-CFET 架构，SRAM 单元面积较 N3 缩小 52.7%",
+   "link": "https://www.ithome.com/1/009/737.htm",
+   "source": "IT之家",
+   "time": "2026-10-04T22:55:36.000Z",
+   "summary": "IT之家 10 月 5 日消息，随着先进制程不断向 1nm 及以下节点推进，传统 GAA 纳米片晶体管在漏电、迁移率、寄生电阻以及制造工艺波动等方面面临越来越大的挑战。 当地时间 9 月 29 日，全球前三的晶圆制造设备厂商泛林集团（Lam…",
+   "regions": []
+  },
+  {
    "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
    "link": "https://www.ithome.com/1/009/736.htm",
    "source": "IT之家",
@@ -860,6 +876,292 @@
  ],
  "world": [
   {
+   "title": "博索纳罗得票率过半 有望首轮直接胜出",
+   "link": "https://sputniknews.cn/20261005/1073493384.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T22:49:10.000Z",
+   "summary": "俄罗斯卫星通讯社布宜诺斯艾利斯10月5日电 巴西总统选举计票12.45%的结果显示，右翼候选人弗拉维奥·博索纳罗得票率已超过50%。巴西总统选举首轮胜选门槛为得票过半。",
+   "regions": [
+    "俄乌",
+    "拉美"
+   ]
+  },
+  {
+   "title": "泰国洪灾持续 政府启动大范围救助",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-05/10707997.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-04T22:43:25.000Z",
+   "summary": "中新社曼谷10月4日电 (李映民 王茜)泰国防灾减灾厅10月4日公布的数据显示，截至4日6时，泰国首都曼谷及27个府仍持续受到洪灾影响，约117.1万个家庭、326.3万人被波及。泰国政府正加紧开展灾害救助，并部署应对未来数日可能出现的强降…",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "巴西总统选举开启首轮投票",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-05/10707998.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-04T22:42:41.000Z",
+   "summary": "中新社圣保罗10月4日电 (记者 林春茵)巴西利亚时间4日8时，巴西2026年总统选举开启首轮投票。首轮结果预计在当天投票结束后的数小时内揭晓。",
+   "regions": [
+    "拉美"
+   ]
+  },
+  {
+   "title": "中网综合：萨巴伦卡爆冷出局 德约科维奇逆转兹维列夫",
+   "link": "https://www.chinanews.com.cn/ty/2026/10-05/10707999.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-04T22:42:09.000Z",
+   "summary": "中新社北京10月4日电 (刘梦青)2026中国网球公开赛4日在国家网球中心继续进行。女单赛场再爆冷门，白俄罗斯名将、2号种子萨巴伦卡0:2不敌26号种子巴尔通科娃，本届中网女单前两号种子均已出局。男单赛场，6号种子德约科维奇逆转战胜头号种子…",
+   "regions": [
+    "俄乌",
+    "北京"
+   ]
+  },
+  {
+   "title": "沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708002.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-04T22:41:27.000Z",
+   "summary": "当地时间10月4日，沙特阿拉伯主导的多国联军司令部发表声明称，联军将继续向也门政府及其武装部队提供全面作战支持，以“恢复国家”。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "初步调查显示迪拜航空袭击者系单独作案",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708001.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-04T22:39:39.000Z",
+   "summary": "据以色列方面4日消息，初步调查显示，在迪拜航空公司客机驾驶舱中袭击机长的副驾驶系单独作案。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "统计：俄军一周内在特别军事行动区域解放14个居民点",
+   "link": "https://sputniknews.cn/20261005/1073493101.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T22:31:39.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月5日电 俄罗斯卫星通讯社研究俄国防部数据后统计，俄军在过去一周内解放了特别军事行动区域的14个居民点。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "普京向俄罗斯教师致以节日祝贺",
+   "link": "https://sputniknews.cn/20261005/1073492804.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T22:13:44.000Z",
+   "summary": "俄罗斯俄罗斯卫星通讯社莫斯科10月5日电 俄罗斯总统弗拉基米尔·普京向全国教师致以节日祝贺。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】off the coast of Oregon",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzl0",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T22:13:27.981Z",
+   "summary": "美国地质调查局官方监测：off the coast of Oregon发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】5 km ENE of Pinnacles, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444446",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T21:50:15.900Z",
+   "summary": "美国地质调查局官方监测：5 km ENE of Pinnacles, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "巴西总统选举首批开票结果：前总统之子弗拉维奥·博索纳罗暂时领先",
+   "link": "https://sputniknews.cn/20261005/1073492524.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T21:42:29.000Z",
+   "summary": "俄罗斯卫星通讯社布宜诺斯艾利斯10月5日电 根据已统计的1.61%选票的首批数据，前总统雅伊尔·博索纳罗的长子弗拉维奥在巴西总统选举中领先。",
+   "regions": [
+    "俄乌",
+    "拉美"
+   ]
+  },
+  {
+   "title": "内塔尼亚胡下令对外国航空公司飞行员进行全面检查",
+   "link": "https://sputniknews.cn/20261005/1073492240.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T21:01:53.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 以色列总理本杰明·内塔尼亚胡在发生迪拜航空袭击事件后，指示国家安全委员会任命一名监察员，对飞往以色列的外国航空公司进行全面安全检查。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "媒体 ：FZ1073航班副驾驶妄图让飞机撞上本古里安机场航站楼",
+   "link": "https://sputniknews.cn/20261005/1073492135.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T20:53:35.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 以色列第12电视频道记者阿米特·塞加尔发文称，FZ1073航班的副驾驶涉嫌在从迪拜飞往特拉维夫的途中夺取飞机控制权，并计划让飞机撞向本古里安机场的航站楼。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "马斯克将为SpaceXAI公司更名",
+   "link": "https://sputniknews.cn/20261005/1073492023.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T20:44:53.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 美国企业家埃隆·马斯克宣布，美国总统唐纳德·特朗普签署“超级智能”行政令后，航天公司SpaceX的人工智能部门SpaceXAI将更名为SpaceXSI。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美国正等待关于新法规定期限前是否对俄实施制裁的决定",
+   "link": "https://sputniknews.cn/20261005/1073491909.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T20:36:24.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 美国能源部长克里斯·赖特表示，美国当局在特朗普总统签署的法律规定的截止日期前，可能不做出实施新一轮反俄制裁的决定。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】32 km SSE of Jurm, Afghanistan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T20:27:25.597Z",
+   "summary": "美国地质调查局官方监测：32 km SSE of Jurm, Afghanistan发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "阿富汗",
+    "中东"
+   ]
+  },
+  {
+   "title": "媒体：以色列在FZ1073航班起飞前就掌握飞行员的详细信息",
+   "link": "https://sputniknews.cn/20261005/1073491805.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T20:23:54.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 据美联社援引地区官员报道，以色列当局在FZ1073航班起飞前就已从阿联酋获得了关于Flydubai航班机组人员的详细信息，包括飞行员。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】279 km ENE of Kuril’sk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkm",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T20:16:27.253Z",
+   "summary": "美国地质调查局官方监测：279 km ENE of Kuril’sk, Russia发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "塞族共和国执政党领袖多迪克宣布在选举中获胜",
+   "link": "https://sputniknews.cn/20261005/1073491692.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T20:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 波黑塞族共和国执政党“独立社会民主党联盟”领导人米洛拉德·多迪克宣布，他在大选中获胜。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "德国政治家：默茨为抬高支持率几乎准备把德国拖入与俄罗斯的战争",
+   "link": "https://sputniknews.cn/20261005/1073491558.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T19:00:00.000Z",
+   "summary": "德国“莎拉·瓦根克内希特联盟—理性与公正”的外交政策专家塞维姆·达格德伦认为，德国总理弗里德里希·默茨为了提升自己的支持率，实际上已经做好了将国家拖入与俄罗斯战争的准备。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.2】off the coast of Oregon",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzka",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T18:56:14.005Z",
+   "summary": "美国地质调查局官方监测：off the coast of Oregon发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄罗斯国防部：“天竺葵-4 西克尔”无人机班组在切尔诺莫斯克港击中四艘乌军干货船",
+   "link": "https://sputniknews.cn/20261005/1073491455.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T18:40:00.000Z",
+   "summary": "俄罗斯国防部周日通报称，“天竺葵-4 西克尔”无人机班组在切尔诺莫尔斯克港、布格河口湾以及黑海水域，击中了四艘供乌克兰武装部队使用的干货船。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "法国教育部称因抗议活动24所学校被纵火和打砸",
+   "link": "https://sputniknews.cn/20261005/1073491345.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T18:10:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月4日电 法国教育部长爱德华·盖弗尔表示，法国有24所学校在高中生大规模抗议期间被纵火或打砸。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "美国大使馆：美国航母按计划访问普吉岛",
+   "link": "https://sputniknews.cn/20261005/1073491236.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T17:40:00.000Z",
+   "summary": "美国驻泰国大使馆在一份专门新闻稿中称，美国海军第10航母打击群旗舰尼米兹级航空母舰“乔治·H·W·布什”号和阿利·伯克级导弹驱逐舰“德尔伯特·D·布莱克”号已按计划抵达普吉岛进行访问。",
+   "regions": [
+    "美洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】21 km E of Feke, Turkey",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzjy",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T17:28:13.722Z",
+   "summary": "美国地质调查局官方监测：21 km E of Feke, Turkey发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "土耳其",
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】13 km N of Xunchang, China",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzjw",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T17:19:53.148Z",
+   "summary": "美国地质调查局官方监测：13 km N of Xunchang, China发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】27 km NNW of Pāhala, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75049762",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T17:15:00.280Z",
+   "summary": "美国地质调查局官方监测：27 km NNW of Pāhala, Hawaii发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
    "title": "胡塞武装宣布对阿美石油公司在利雅得和库赖斯的设施进行攻击",
    "link": "https://sputniknews.cn/20261005/1073491116.html",
    "source": "卫星社中文",
@@ -913,6 +1215,17 @@
    ]
   },
   {
+   "title": "【地震 M4.3】20 km ESE of Feke, Turkey",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzjn",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T16:00:26.211Z",
+   "summary": "美国地质调查局官方监测：20 km ESE of Feke, Turkey发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "土耳其",
+    "中东"
+   ]
+  },
+  {
    "title": "中尼科学家开展跨境巨灾应急联合科考",
    "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707996.shtml",
    "source": "中新网国际",
@@ -960,6 +1273,17 @@
    "regions": [
     "美国阿拉斯加",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】65 km SW of Tambolaka, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzjg",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T14:59:44.179Z",
+   "summary": "美国地质调查局官方监测：65 km SW of Tambolaka, Indonesia发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
    ]
   },
   {
@@ -1911,6 +2235,16 @@
   }
  ],
  "cn": [
+  {
+   "title": "中国选手吴宜泽获得2026世界斯诺克·深圳公开赛冠军",
+   "link": "https://www.chinanews.com.cn/ty/2026/10-05/10708000.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-04T22:40:19.000Z",
+   "summary": "中新社深圳10月5日电 (记者 张璐)2026世界斯诺克·深圳公开赛决赛10月4日在深圳举行，中国选手吴宜泽发挥出色，以10:5战胜袁思俊，获得冠军。",
+   "regions": [
+    "深圳"
+   ]
+  },
   {
    "title": "中外剧作家在沪谈AI：可辅助创作，难以替代舞台艺术",
    "link": "https://www.chinanews.com.cn/cul/2026/10-04/10707983.shtml",
@@ -3220,5 +3554,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-04T17:15:05.962Z"
+ "updatedAt": "2026-10-04T23:25:00.789Z"
 }
