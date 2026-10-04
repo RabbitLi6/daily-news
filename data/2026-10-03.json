@@ -2,6 +2,118 @@
  "date": "2026-10-03",
  "tech": [
   {
+   "title": "AI 仅用 5 天做出《辐射：纽约》游戏，被贝塞斯达发函叫停",
+   "link": "https://www.ithome.com/1/009/595.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:58:43.000Z",
+   "summary": "IT之家 10 月 4 日消息，眼下玩家群体正在放开手脚使用人工智能，依靠它打造各类全新的融合游戏作品，同时借助重编译突破老游戏原有的限制。不过这股风潮或许即将迎来来自 IP 持有企业更强的阻力。 据IT之家了解，《辐射：纽约》是一款完全依…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店铺未开业先收差评”；苹果 homeOS 细节曝光；联通 eSIM 线上办理资格开启“抽奖”模式...",
+   "link": "https://www.ithome.com/1/009/594.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:51:59.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 4 日星期日，今天的重要科技资讯有： 1. 华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型 在 10 月 1 …",
+   "regions": []
+  },
+  {
+   "title": "微软承认 Win11 26H2 更新后会导致部分游戏和应用崩溃，KB5124010 存在音频解码问题",
+   "link": "https://www.ithome.com/1/009/593.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:46:26.000Z",
+   "summary": "IT之家 10 月 4 日消息，微软已确认，2026 年 9 月的可选更新 KB5124010 会导致部分依赖系统内置 AC-3（杜比数字）音频解码的应用和游戏崩溃。 据 Windows Report 报道，该问题影响 Windows 11…",
+   "regions": []
+  },
+  {
+   "title": "Rockstar 联合创始人丹 · 豪瑟公布两款新作：开放世界喜剧与失控 AI 反乌托邦科幻游戏",
+   "link": "https://www.ithome.com/1/009/592.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:43:14.000Z",
+   "summary": "IT之家 10 月 4 日消息，《GTA 6》将于下个月在全球发售，玩家对这款作品的期待已经达到顶峰。Rockstar Games 为这款即将面世的开放世界游戏设立了很高的目标，表示希望交出超出玩家预期的成果。 虽然绝大多数玩家都期待《GT…",
+   "regions": []
+  },
+  {
+   "title": "卡普空公布 REX 升级计划：将 RE 引擎打造成面向 AI 时代的游戏引擎",
+   "link": "https://www.ithome.com/1/009/590.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:32:36.000Z",
+   "summary": "IT之家 10 月 4 日消息，3A 游戏的开发成本正变得越来越高，开发周期也不断拉长，就连卡普空（Capcom）这类根基稳固的工作室也感受到了由此带来的连锁冲击。眼下许多工作室开始把人工智能引入游戏开发以及游戏引擎当中，借此跟上行业节奏。…",
+   "regions": []
+  },
+  {
+   "title": "索尼 PlayStation 前高管：开发者很难靠微软 Game Pass 盈利",
+   "link": "https://www.ithome.com/1/009/589.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:25:41.000Z",
+   "summary": "IT之家 10 月 4 日消息，关于 Game Pass 究竟能否为 XBOX 以及入驻该平台的游戏工作室创造足够利润的争论已经持续很久了。相关数据显示，这项订阅服务的发展已经陷入停滞，一位前 PlayStation 高管就此发表了自己的看…",
+   "regions": []
+  },
+  {
+   "title": "苹果 Apple TV 为美国用户免费直播 2026 F1 巴林大奖赛：无需订阅即可观看，维斯塔潘、汉密尔顿排位前二",
+   "link": "https://www.ithome.com/1/009/588.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:24:08.000Z",
+   "summary": "IT之家 10 月 4 日消息，2026 年 F1 巴林大奖赛将于今天 15:00 在马来西亚雪邦国际赛车场举行。苹果 Apple TV 宣布将免费直播本周末的巴林大奖赛，用户无需购买订阅即可观赛，覆盖练习赛、排位赛和正赛的完整赛程。 美国…",
+   "regions": []
+  },
+  {
+   "title": "索尼 PlayStation 之父久多良木健：游戏行业陷入停滞，开发者应当保有更强的好奇心",
+   "link": "https://www.ithome.com/1/009/587.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:19:13.000Z",
+   "summary": "IT之家 10 月 4 日消息，不少人认为如今的游戏行业已经不如过去那样富有创新活力，随着开发成本不断走高，裁员与工作室关闭的阴影步步逼近，开发者大多倾向于稳妥行事。PlayStation 之父久多良木健（Ken Kutaragi）也持有相…",
+   "regions": []
+  },
+  {
+   "title": "苹果 MacBook Pro 外接 iPhone 17 Pro Max 运行 AI 模型，预填充性能最高提升 44%",
+   "link": "https://www.ithome.com/1/009/586.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:10:40.000Z",
+   "summary": "IT之家 10 月 4 日消息，Qwen3.8‑27B 是一款性能不错的人工智能模型，但前提是设备拥有足够的显存与系统内存。搭载 M4 Pro 芯片的 MacBook Pro 仅有 24GB 统一内存，在运行该 AI 模型时，预填充速度会因…",
+   "regions": []
+  },
+  {
+   "title": "Anthropic 被曝密会宗教领袖讨论 Claude 意识问题，OpenAI 奥尔特曼发声批评",
+   "link": "https://www.ithome.com/1/009/585.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:10:20.000Z",
+   "summary": "IT之家 10 月 4 日消息，OpenAI CEO 萨姆 · 奥尔特曼（Sam Altman）昨日在 X 上发帖，对将 AI 模型视为“宗教力量”的倾向表达了明确反对。 他表示：“对于人们试图赋予 AI 模型某种宗教力量、或是放弃人类自身…",
+   "regions": []
+  },
+  {
+   "title": "马斯克改口：特斯拉 AI5 芯片内存由 72GB 上调至 96GB",
+   "link": "https://www.ithome.com/1/009/584.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T23:03:51.000Z",
+   "summary": "IT之家 10 月 4 日消息，特斯拉首席执行官埃隆 · 马斯克（Elon Musk）做出说明，该公司的 AI5 芯片不会采用 72GB 的 DDR5 内存，而是改用 96GB 内存。这样做是为了避免只有特斯拉一家为驱动擎天柱（Optimu…",
+   "regions": []
+  },
+  {
+   "title": "索尼 PS5 破解后成功运行初代 Xbox 游戏，微软 Xbox 360 与 PC 游戏支持也在开发中",
+   "link": "https://www.ithome.com/1/009/583.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T22:59:03.000Z",
+   "summary": "IT之家 10 月 4 日消息，据 VideoCardz 今日报道，XPSemu 已将开源初代 Xbox 模拟器 xemu 移植至破解 PS5，可在主机上运行部分初代 Xbox 游戏。与此同时，Xbox 360 模拟以及基于 Wine / …",
+   "regions": []
+  },
+  {
+   "title": "索尼等好莱坞制片厂争夺 EA《战地》电影改编权，迈克尔 ·B· 乔丹制片并有望参演",
+   "link": "https://www.ithome.com/1/009/582.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T22:51:29.000Z",
+   "summary": "IT之家 10 月 4 日消息，据《好莱坞报道》《综艺》和 TheWrap 昨日报道，索尼影业正在洽谈收购《战地》游戏改编电影项目，或者说索尼影业目前是该项目最有希望的买家。 该片改编自艺电旗下《战地》系列游戏，由克里斯托弗 · 麦奎里负责…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 前安全部门员工：AI 模型迭代部署太激进，公司的文化已经崩坏",
+   "link": "https://www.ithome.com/1/009/581.htm",
+   "source": "IT之家",
+   "time": "2026-10-03T22:43:56.000Z",
+   "summary": "IT之家 10 月 4 日消息，据路透社报道，一名近期辞职的前 OpenAI 安全部门员工批评了该公司对待人工智能安全的做法，他认为一味追求快速开发的高压企业文化会提高系统发生故障的风险。 IT之家注意到，戴维 · 鲁宾森（David Ro…",
+   "regions": []
+  },
+  {
    "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
    "link": "https://www.ithome.com/1/009/580.htm",
    "source": "IT之家",
@@ -311,6 +423,14 @@
    "source": "IT之家",
    "time": "2026-10-03T09:12:42.000Z",
    "summary": "IT之家 10 月 3 日消息，消息源 smashx_60 现已曝光了 HMD M-Kopa X4e 运营商定制机型规格信息，该机基于 HMD Luma2 手机打造，但规格更为精简。 该机配备一块 90Hz IPS LCD 面板，匹配 8M…",
+   "regions": []
+  },
+  {
+   "title": "🔥 AI 员工支持知识库文档引用：开源 AI 无代码平台 NocoBase",
+   "link": "https://www.oschina.net/news/502842",
+   "source": "开源中国",
+   "time": "2026-10-03T09:07:27.000Z",
+   "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本，推荐安装此版本。 next： 包含即将发布的新功能，经过初步测试…",
    "regions": []
   },
   {
@@ -1002,6 +1122,14 @@
    "regions": []
   },
   {
+   "title": "破釜沉舟奔向 1.0：Zig 0.17.0 正式发布",
+   "link": "https://www.oschina.net/news/502841",
+   "source": "开源中国",
+   "time": "2026-10-03T01:05:58.000Z",
+   "summary": "经过 5 个月的密集迭代，汇集全球 206 位贡献者的 925 次代码提交，底层系统编程语言 Zig 迎来了关键的里程碑版本——Zig 0.17.0。对于关注现代编译器技术与底层软件架构的开发者而言，这并不是一次按部就班的常规升级，而是一场…",
+   "regions": []
+  },
+  {
    "title": "微软工程师探究 Win11 滚动条“Shift+ 点击”直达操作，因生态碎片化应用无法完全支持",
    "link": "https://www.ithome.com/1/009/391.htm",
    "source": "IT之家",
@@ -1023,6 +1151,14 @@
    "source": "IT之家",
    "time": "2026-10-03T00:32:30.000Z",
    "summary": "IT之家 10 月 3 日消息，据英国 BBC 当地时间 1 日报道，斯洛文尼亚国家域名注册机构 Register.si 称，美国总统唐纳德 · 特朗普推动将人工智能（AI）改称“超级智能（SI）”，或是带动该国域名注册量“前所未有”地激增…",
+   "regions": []
+  },
+  {
+   "title": "从 PyQt6 到 Electron：一款英语字帖生成器的跨平台重构实战与踩坑全记录",
+   "link": "https://www.oschina.net/news/502840",
+   "source": "开源中国",
+   "time": "2026-10-03T00:31:43.000Z",
+   "summary": "原文项目：钟毓英语衡水体字帖生成器 重构前后：PyQt6 v1.1.1 → Electron v2.0.x（跨平台 Windows / macOS / Linux） 关键词：electron-vite、Canvas 2D、tesseract…",
    "regions": []
   },
   {
@@ -1059,6 +1195,125 @@
   }
  ],
  "world": [
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.6M, Depth:69.726km) in Indonesia 03/10/2026 23:37 UTC, 1.1 million in MMI IV.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569335",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-03T23:55:14.000Z",
+   "summary": "On 10/3/2026 11:37:35 PM, an earthquake occurred in Indonesia potentially affecting 1.1 million in MMI IV. The earthquak…",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.6】80 km S of Banda Aceh, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
+   "source": "USGS地震台网",
+   "time": "2026-10-03T23:37:35.621Z",
+   "summary": "美国地质调查局官方监测：80 km S of Banda Aceh, Indonesia发生 5.6 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "印尼东努沙登加拉省发生6.1级地震 震源深度10公里",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707676.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-03T23:29:40.000Z",
+   "summary": "据印尼气象、气候和地球物理局消息，当地时间10月4日5时55分，印尼东努沙登加拉省西南松巴县西南14公里处发生6.1级地震，震源深度为10公里。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄安全会议副主席：霍尔木兹海峡是伊朗对抗美国的“热核武器”",
+   "link": "https://sputniknews.cn/20261004/1073486815.html",
+   "source": "卫星社中文",
+   "time": "2026-10-03T23:26:58.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月4日电 俄罗斯联邦安全会议副主席德米特里·梅德韦杰夫称，霍尔木兹海峡是伊朗对抗美国威胁的“热核武器”。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】293 km SSE of Tabiauan, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
+   "source": "USGS地震台网",
+   "time": "2026-10-03T23:14:35.782Z",
+   "summary": "美国地质调查局官方监测：293 km SSE of Tabiauan, Philippines发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569326",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-03T23:14:32.000Z",
+   "summary": "On 10/3/2026 10:55:55 PM, an earthquake occurred in Indonesia potentially affecting 130 thousand in MMI V. The earthquak…",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "金正恩观摩中程战略导弹发射训练",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707675.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-03T23:07:23.000Z",
+   "summary": "据朝鲜方面4日消息，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练。朝鲜劳动党总书记、国务委员长金正恩现场观摩训练。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M5.9】39 km WSW of Tambolaka, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer",
+   "source": "USGS地震台网",
+   "time": "2026-10-03T22:55:55.358Z",
+   "summary": "美国地质调查局官方监测：39 km WSW of Tambolaka, Indonesia发生 5.9 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "伊朗革命卫队近日对7艘“违规”油轮采取行动",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-03T22:52:47.000Z",
+   "summary": "当地时间10月3日，据伊朗方面消息，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】188 km SE of Perryville, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tprqrm",
+   "source": "USGS地震台网",
+   "time": "2026-10-03T22:48:05.739Z",
+   "summary": "美国地质调查局官方监测：188 km SE of Perryville, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.6】82 km SE of Atka, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tpowrn",
+   "source": "USGS地震台网",
+   "time": "2026-10-03T21:25:22.801Z",
+   "summary": "美国地质调查局官方监测：82 km SE of Atka, Alaska发生 3.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
   {
    "title": "【地震 M2.7】53 km E of Huslia, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tponmw",
@@ -2033,6 +2288,16 @@
  ],
  "tw": [
   {
+   "title": "伊朗革命卫队近日对7艘“违规”油轮采取行动",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-03T22:52:47.000Z",
+   "summary": "当地时间10月3日，据伊朗方面消息，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
    "title": "（爱知·名古屋亚运会）专访中国香港代表团团长：香港和内地运动员赛场内外情谊深厚",
    "link": "https://www.chinanews.com.cn/ty/2026/10-03/10707651.shtml",
    "source": "中新网滚动",
@@ -2088,6 +2353,16 @@
   }
  ],
  "cn": [
+  {
+   "title": "中网综合：莱巴金娜首战爆冷出局 郑钦文、孙心然晋级女单32强",
+   "link": "https://www.chinanews.com.cn/ty/2026/10-04/10707670.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-03T22:36:37.000Z",
+   "summary": "中新社北京10月3日电 (刘梦青)2026中国网球公开赛3日在国家网球中心继续进行。女单赛场爆出大冷门，头号种子、新科世界第一莱巴金娜遭世界排名第118位的查拉耶娃逆转淘汰。中国选手郑钦文、孙心然携手晋级32强。男单赛场，商竣程不敌头号种子…",
+   "regions": [
+    "北京"
+   ]
+  },
   {
    "title": "WTT中国大满贯赛：国乒七名选手获得正赛席位",
    "link": "https://www.chinanews.com.cn/ty/2026/10-03/10707669.shtml",
@@ -3020,6 +3295,14 @@
  ],
  "econ": [
   {
+   "title": "工业母机产业链如何高质量发展？院士专家共议新路径",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707667.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-03T14:30:26.000Z",
+   "summary": "中新网嘉兴10月3日电 (钟余)工业母机产业如何实现开道超车、跨越发展？中国机械工程学会荣誉理事长、中国工程院院士周济日前指出，以新一代智能制造为主攻方向，用新一代人工智能赋能数控机床，是我国工业母机创新发展要走的技术路线。",
+   "regions": []
+  },
+  {
    "title": "国际能源署：已释放约3.25亿桶战略石油储备",
    "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707668.shtml",
    "source": "中新网滚动",
@@ -3499,5 +3782,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-03T21:37:15.690Z"
+ "updatedAt": "2026-10-04T00:19:10.516Z"
 }
