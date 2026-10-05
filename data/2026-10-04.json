@@ -2,6 +2,38 @@
  "date": "2026-10-04",
  "tech": [
   {
+   "title": "IT早报 1005：乐山大佛“掏耳朵”视频系 AI 合成；央视曝光外卖“明厨亮灶”造假；余承东称华为已量产 381 款 τ 芯片；马斯克确认 SpaceXAI 将更名 SpaceXSI...",
+   "link": "https://www.ithome.com/1/009/742.htm",
+   "source": "IT之家",
+   "time": "2026-10-04T23:49:22.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 5 日星期一，今天的重要科技资讯有： 1. 乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物” 网传视频显示文保工人给大佛掏耳朵、掏鼻孔，还出现猴子抢…",
+   "regions": []
+  },
+  {
+   "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+   "link": "https://www.ithome.com/1/009/741.htm",
+   "source": "IT之家",
+   "time": "2026-10-04T23:40:33.000Z",
+   "summary": "IT之家 10 月 5 日消息，美国上周逮捕了一名嫌疑人，此人被控走私含有受出口管制的英伟达芯片的高端计算机服务器进入中国。 美国司法部于当地时间上周四发布新闻稿，指控 38 岁的格雷格 · 刘（Greg Lui）使用虚假文件掩盖一批货值超…",
+   "regions": []
+  },
+  {
+   "title": "再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%",
+   "link": "https://www.ithome.com/1/009/740.htm",
+   "source": "IT之家",
+   "time": "2026-10-04T23:29:15.000Z",
+   "summary": "IT之家 10 月 5 日消息，韩媒 ddaily 于 10 月 2 日发布博文，报道称 在决定上调 10%~20% 基础上 ，台积电计划 2027 年第一季度针对最先进晶圆出货价格， 再次上调约 6%~8%， 理由是制造成本和电力费用上涨…",
+   "regions": []
+  },
+  {
+   "title": "华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代",
+   "link": "https://www.ithome.com/1/009/739.htm",
+   "source": "IT之家",
+   "time": "2026-10-04T23:26:12.000Z",
+   "summary": "IT之家 10 月 5 日消息，半导体分析机构 Kurnal Insights 于当地时间 9 月 30 日发布了华为麒麟 9050 Pro 芯片的裸片（Die Shot）显微照，首次从物理层面展示了这款芯片的内部结构。 照片显示，麒麟 9…",
+   "regions": []
+  },
+  {
    "title": "内存涨价倒逼系统瘦身：微软详解 Win11 为何要降低 RAM 占用",
    "link": "https://www.ithome.com/1/009/738.htm",
    "source": "IT之家",
@@ -875,6 +907,69 @@
   }
  ],
  "world": [
+  {
+   "title": "高市早苗就驻日美军涉嫌杀人案表示“极为遗憾”",
+   "link": "https://sputniknews.cn/20261005/1073493932.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T23:54:07.000Z",
+   "summary": "据共同社报道，日本首相高市早苗4日就驻日美军涉嫌杀人案在社交平台上发帖称，发生如此残忍凶恶的案件令人极为遗憾。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】78 km S of Acajutla, El Salvador",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlf",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T23:36:30.683Z",
+   "summary": "美国地质调查局官方监测：78 km S of Acajutla, El Salvador发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "萨尔瓦多",
+    "拉美"
+   ]
+  },
+  {
+   "title": "英国拟对中国电动汽车加征关税",
+   "link": "https://sputniknews.cn/20261005/1073493821.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T23:35:45.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月5日电 据《泰晤士报》报道，英国政府正考虑对中国电动汽车加征进口关税，计划效仿欧盟的做法。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "亚运会闭幕，中国代表团连续12届位居亚运会金牌榜首位",
+   "link": "https://sputniknews.cn/20261005/1073493678.html",
+   "source": "卫星社中文",
+   "time": "2026-10-04T23:26:09.000Z",
+   "summary": "据中国媒体报道，爱知·名古屋亚运会4日落下帷幕。本届赛事设43个大项、469个小项，中国队参加其中38个大项、369个小项，代表团共收获169枚金牌、89枚银牌、83枚铜牌，共计341枚奖牌收官，创境外参加亚运会最佳战绩。",
+   "regions": []
+  },
+  {
+   "title": "【地震 M4.4】142 km NE of Tual, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzl7",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T23:05:18.727Z",
+   "summary": "美国地质调查局官方监测：142 km NE of Tual, Indonesia发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】14 km ESE of Feke, Turkey",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzl3",
+   "source": "USGS地震台网",
+   "time": "2026-10-04T22:51:30.983Z",
+   "summary": "美国地质调查局官方监测：14 km ESE of Feke, Turkey发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "土耳其",
+    "中东"
+   ]
+  },
   {
    "title": "博索纳罗得票率过半 有望首轮直接胜出",
    "link": "https://sputniknews.cn/20261005/1073493384.html",
@@ -2236,6 +2331,22 @@
  ],
  "cn": [
   {
+   "title": "多地推进景区结婚登记 在风景里说“我愿意”",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-05/10708005.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-04T23:32:09.000Z",
+   "summary": "多地推进景区结婚登记",
+   "regions": []
+  },
+  {
+   "title": "今起至假期结束我国大部晴好 总体利于外出与返程",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-05/10708004.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-04T23:27:34.000Z",
+   "summary": "昨天是整个国庆假期大范围降水的最后阶段。从今天起到7日，我国大部地区降水稀少，晴或多云天气成为主流，总体利于假期外出和返程。",
+   "regions": []
+  },
+  {
    "title": "中国选手吴宜泽获得2026世界斯诺克·深圳公开赛冠军",
    "link": "https://www.chinanews.com.cn/ty/2026/10-05/10708000.shtml",
    "source": "中新网滚动",
@@ -3256,6 +3367,14 @@
  ],
  "econ": [
   {
+   "title": "“八分饱”对新能源车有影响吗？假期返程充电避开这些繁忙时段",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-05/10708006.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-04T23:38:33.000Z",
+   "summary": "国庆假期",
+   "regions": []
+  },
+  {
    "title": "人均带三个空箱来华购物的“China Haul”火了",
    "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707978.shtml",
    "source": "中新网财经",
@@ -3554,5 +3673,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-04T23:25:00.789Z"
+ "updatedAt": "2026-10-05T02:13:45.151Z"
 }
