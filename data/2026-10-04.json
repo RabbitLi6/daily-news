@@ -50,6 +50,14 @@
    "regions": []
   },
   {
+   "title": "SmartCall v1.0.7 发布，新增模型以及音色管理",
+   "link": "https://www.oschina.net/news/502844",
+   "source": "开源中国",
+   "time": "2026-10-04T19:06:04.000Z",
+   "summary": ":book: 项目简介 SmartCall 是一套基于 AI 大模型 + Asterisk 通信引擎构建的新一代智能客服呼叫中心系统。系统深度融合了 AI 语音机器人、智能 IVR 流程编排、端到端双工对话模型、实时语音识别（ASR）、语音…",
+   "regions": []
+  },
+  {
    "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
    "link": "https://www.ithome.com/1/009/736.htm",
    "source": "IT之家",
@@ -79,6 +87,14 @@
    "source": "IT之家",
    "time": "2026-10-04T14:26:26.000Z",
    "summary": "IT之家 10 月 4 日消息，《生化危机：爆发夜》游改真人电影将于明日在中国内地上映，该电影将以 CINITY、IMAX、中国巨幕、4DX、SCREENX 多制式上映，让影迷感受扑面而来的惊悚感。值得一提的是，这也是《生化危机》系列时隔九…",
+   "regions": []
+  },
+  {
+   "title": "BlackGit，按需下载仓库文件以及提供文件 Lock 功能，还有对应 Skills 方便操作",
+   "link": "https://www.oschina.net/news/502843",
+   "source": "开源中国",
+   "time": "2026-10-04T14:18:30.000Z",
+   "summary": "仓库地址：https://github.com/zhuzhonghua/blackgit 使用blackgit按需下载仓库文件，并且服务端提供文件锁定功能 BlackGit由客户端和服务器两部分组成，并且前后端解耦，可以分开使用 Cli-稀…",
    "regions": []
   },
   {
@@ -908,6 +924,14 @@
  ],
  "world": [
   {
+   "title": "Lula, Flavio Bolsonaro head to runoff in Brazil presidential election",
+   "link": "https://news.cgtn.com/news/2026-10-05/news-1QZ8scMvcdy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T23:58:51.000Z",
+   "summary": "Brazil's presidential election is headed for a runoff after no candidate secured a majority in the first round, accordin…",
+   "regions": []
+  },
+  {
    "title": "高市早苗就驻日美军涉嫌杀人案表示“极为遗憾”",
    "link": "https://sputniknews.cn/20261005/1073493932.html",
    "source": "卫星社中文",
@@ -1082,6 +1106,14 @@
     "俄乌",
     "拉美"
    ]
+  },
+  {
+   "title": "Ambassador Xie Feng Attended \"ShanghaiEye Night\" Events",
+   "link": "https://newsus.cgtn.com/news/2026-10-05/Ambassador-Xie-Feng-Attended-ShanghaiEye-Night-Events-1QYXjEpOV4A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T21:23:37.000Z",
+   "summary": "Ambassador Xie Feng Attended \"ShanghaiEye Night\" Events",
+   "regions": []
   },
   {
    "title": "内塔尼亚胡下令对外国航空公司飞行员进行全面检查",
@@ -1360,6 +1392,14 @@
    ]
   },
   {
+   "title": "China responds to US criticism of Starbucks' Xinjiang expansion",
+   "link": "https://news.cgtn.com/news/2026-10-04/China-responds-to-US-group-s-criticism-of-Starbucks-Xinjiang-expansion-1QYuNGquJEI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T15:04:48.000Z",
+   "summary": "The Chinese Foreign Ministry on Saturday dismissed allegations from a US congressional committee concerning northwest Ch…",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.5】60 km SSE of Perryville, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tqyehr",
    "source": "USGS地震台网",
@@ -1540,6 +1580,14 @@
    ]
   },
   {
+   "title": "Oromo elders call for peace and unity at Irreecha festival",
+   "link": "https://newsaf.cgtn.com/news/2026-10-04/Oromo-elders-call-for-peace-and-unity-at-Irreecha-festival-1QYnCOEzUqI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T13:17:39.000Z",
+   "summary": "The calls came during the annual Irreecha thanksgiving festival, where hundreds of thousands gathered to celebrate Oromo…",
+   "regions": []
+  },
+  {
    "title": "俄罗斯国防部：过去一昼夜内乌军损失近1200名军人",
    "link": "https://sputniknews.cn/20261004/1073489234.html",
    "source": "卫星社中文",
@@ -1591,6 +1639,14 @@
    ]
   },
   {
+   "title": "Eritrean president visits Egypt amid regional tensions",
+   "link": "https://newsaf.cgtn.com/news/2026-10-04/Eritrean-president-visits-Egypt-amid-regional-tensions-1QY8nSlzs3u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T12:38:40.000Z",
+   "summary": "During the visit, Afwerki will participate in a summit of heads of state on collective security, stability, and partners…",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.6】110 km S of Dampit, Indonesia",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz",
    "source": "USGS地震台网",
@@ -1630,6 +1686,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Egypt, Somalia leaders discuss bilateral ties, regional stability",
+   "link": "https://newsaf.cgtn.com/news/2026-10-04/Egypt-Somalia-leaders-discuss-bilateral-ties-regional-stability-1QY8XdjS6yc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T12:14:34.000Z",
+   "summary": "The two presidents exchanged views on regional developments of mutual concern and agreed on the importance of continued …",
+   "regions": []
   },
   {
    "title": "【地震 M4.2】77 km ESE of Ollagüe, Chile",
@@ -1761,6 +1825,14 @@
    ]
   },
   {
+   "title": "Voting begins in Brazil's presidential election",
+   "link": "https://news.cgtn.com/news/2026-10-04/news-1QYeSEY4DWU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T11:01:10.000Z",
+   "summary": "Voting in the first round of Brazil's 2026 presidential election officially began at 8 a.m. (1100 GMT) on Sunday, with p…",
+   "regions": []
+  },
+  {
    "title": "克宫：那些计划对俄罗斯发动毁灭性打击的人，将为此付出代价",
    "link": "https://sputniknews.cn/20261004/1073488691.html",
    "source": "卫星社中文",
@@ -1769,6 +1841,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Japan's food price surge: high inflation squeezes household budgets",
+   "link": "https://news.cgtn.com/news/2026-10-04/-Japan-s-food-price-surge-high-inflation-squeezes-household-budgets-1QY8rBpU7Sw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T10:58:53.000Z",
+   "summary": "In October, 195 major Japanese food manufacturers raised prices on 3,153 food and beverage items, mainly products for ho…",
+   "regions": []
   },
   {
    "title": "【地震 M4.8】43 km N of Ruteng, Indonesia",
@@ -1917,6 +1997,14 @@
    ]
   },
   {
+   "title": "Japan protests to US over Marine's alleged robbery-murder in Okinawa",
+   "link": "https://news.cgtn.com/news/2026-10-04/Japan-protests-to-US-over-Marine-s-alleged-robbery-murder-in-Okinawa-1QY1nJsK1KE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T08:29:21.000Z",
+   "summary": "A 20-year-old US Marine stationed in Japan's southernmost prefecture of Okinawa was arrested by local police on Sunday o…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.0】68 km N of Charlotte Amalie, U.S. Virgin Islands",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535688",
    "source": "USGS地震台网",
@@ -1958,6 +2046,14 @@
    ]
   },
   {
+   "title": "Iran clarifies position on US response to seven-day plan",
+   "link": "https://news.cgtn.com/news/2026-10-04/news-1QY1LL5V3yg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T07:57:42.000Z",
+   "summary": "Iran clarifies position on US response to seven-day plan",
+   "regions": []
+  },
+  {
    "title": "俄国防部：俄军打击敖德萨地区物流中心、数据中心及军用干货船",
    "link": "https://sputniknews.cn/20261004/1073487918.html",
    "source": "卫星社中文",
@@ -1984,6 +2080,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "World Animal Day: China's rare species show signs of recovery",
+   "link": "https://news.cgtn.com/news/2026-10-04/World-Animal-Day-China-s-rare-species-show-signs-of-recovery-1QXEGDWT5GU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T06:10:51.000Z",
+   "summary": "World Animal Day: China's rare species show signs of recovery",
+   "regions": []
   },
   {
    "title": "俄国防部：防空部队一夜间拦截并摧毁559架乌克兰无人机",
@@ -2027,6 +2131,22 @@
     "欧洲",
     "美洲"
    ]
+  },
+  {
+   "title": "Rising prices, weak spending put Japan's policymakers in tight spot",
+   "link": "https://news.cgtn.com/news/2026-10-04/Rising-prices-weak-spending-put-Japan-s-policymakers-in-tight-spot-1QXHBfcprMs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T05:30:41.000Z",
+   "summary": "Rising prices, weak spending put Japan's policymakers in tight spot",
+   "regions": []
+  },
+  {
+   "title": "China plays constructive role at G20 trade ministers' meeting",
+   "link": "https://news.cgtn.com/news/2026-10-04/China-plays-constructive-role-at-G20-trade-ministers-meeting-1QXMzLUJSXC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-04T05:22:09.000Z",
+   "summary": "China's Ministry of Commerce said on Sunday that China played a constructive role at the G20 trade ministers' meeting, h…",
+   "regions": []
   },
   {
    "title": "美国青年的“中国假期”：好奇为桥 包容作舟",
@@ -2357,6 +2477,25 @@
    ]
   },
   {
+   "title": "Ambassador Xie Feng Attended \"ShanghaiEye Night\" Events",
+   "link": "https://newsus.cgtn.com/news/2026-10-05/Ambassador-Xie-Feng-Attended-ShanghaiEye-Night-Events-1QYXjEpOV4A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T21:23:37.000Z",
+   "summary": "Ambassador Xie Feng Attended \"ShanghaiEye Night\" Events",
+   "regions": []
+  },
+  {
+   "title": "China responds to US criticism of Starbucks' Xinjiang expansion",
+   "link": "https://news.cgtn.com/news/2026-10-04/China-responds-to-US-group-s-criticism-of-Starbucks-Xinjiang-expansion-1QYuNGquJEI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T15:04:48.000Z",
+   "summary": "The Chinese Foreign Ministry on Saturday dismissed allegations from a US congressional committee concerning northwest Ch…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "中外剧作家在沪谈AI：可辅助创作，难以替代舞台艺术",
    "link": "https://www.chinanews.com.cn/cul/2026/10-04/10707983.shtml",
    "source": "中新网滚动",
@@ -2570,6 +2709,14 @@
    ]
   },
   {
+   "title": "Over 300 Long March relics debut for 90th anniversary exhibition",
+   "link": "https://news.cgtn.com/news/2026-10-04/Over-300-Long-March-relics-debut-for-90th-anniversary-exhibition-1QYhfhmO1t6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T12:39:29.000Z",
+   "summary": "More than 300 artifacts and historical documents related to the Long March are being exhibited for the first time at a m…",
+   "regions": []
+  },
+  {
    "title": "国庆假期 四川乐山大佛景区游人如织",
    "link": "https://www.chinanews.com.cn/tp/2026/10-04/10707932.shtml",
    "source": "中新网滚动",
@@ -2577,6 +2724,17 @@
    "summary": "10月4日，国庆假期第四天，四川乐山大佛景区游人如织、秩序井然，八方游客或排队观佛，或乘船游览，驻足领略千年大佛雄姿，远眺三江汇流的壮阔风光。图为乐山大佛景区东坡楼前的“南安汉境·凌云入梦”NPC活动吸引不少游客围观。中新社记者 刘忠俊 摄…",
    "regions": [
     "四川"
+   ]
+  },
+  {
+   "title": "Beyond the tourist trail: China's holiday travel takes new turns",
+   "link": "https://news.cgtn.com/news/2026-10-04/Beyond-the-tourist-trail-China-s-holiday-travel-takes-new-turns-1QY8eiWyPTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T12:31:49.000Z",
+   "summary": "Four days into China's seven-day National Day holiday, the country is still on the move, with travelers doing far more t…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2693,6 +2851,17 @@
    "regions": [
     "苏州",
     "常州"
+   ]
+  },
+  {
+   "title": "Gold shopping picks up in China as gold prices pull back",
+   "link": "https://news.cgtn.com/news/2026-10-04/Gold-shopping-picks-up-in-China-as-gold-prices-pull-back-1QWFpD9iTGo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T11:18:00.000Z",
+   "summary": "Gold shopping picks up in China as gold prices pull back",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2841,6 +3010,19 @@
    "regions": []
   },
   {
+   "title": "Finding answers: How foreign youth are living and growing in China",
+   "link": "https://news.cgtn.com/news/2026-10-04/Finding-answers-How-foreign-youth-are-living-and-growing-in-China-1QY5pKZAqli/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T09:32:08.000Z",
+   "summary": "Back in his hometown in the United States, Connor Burke reflected on his life-changing decision: leaving behind his job …",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
+   ]
+  },
+  {
    "title": "全球媒体聚焦 | 拉美民众缘何对中国影响力的评价更积极",
    "link": "https://www.chinanews.com.cn/gn/2026/10-04/10707863.shtml",
    "source": "中新网中国",
@@ -2852,6 +3034,17 @@
    ]
   },
   {
+   "title": "'China in the Classics' kicks off its new season",
+   "link": "https://news.cgtn.com/news/2026-10-04/-China-in-the-Classics-kicks-off-its-new-season--1QY6T0FcfZe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T09:15:34.000Z",
+   "summary": "A new season of \"China in the Classics,\" a cultural program produced by China Media Group (CMG), will premiere at 20:00 …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "追光的你 | “不停歇”的守护撑起城市祥和与繁华",
    "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707860.shtml",
    "source": "中新网社会",
@@ -2860,6 +3053,14 @@
    "regions": [
     "天津"
    ]
+  },
+  {
+   "title": "Yang Yang shares her thoughts on OCA Refugee Team at Asian Games",
+   "link": "https://news.cgtn.com/news/2026-10-04/Yang-Yang-shares-her-thoughts-on-OCA-Refugee-Team-at-Asian-Games-1QXWOEXhZTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T09:07:47.000Z",
+   "summary": "Yang Yang shares her thoughts on OCA Refugee Team at Asian Games",
+   "regions": []
   },
   {
    "title": "10月3日，全社会跨区域人员流动量30356.8万人次",
@@ -2979,6 +3180,58 @@
    ]
   },
   {
+   "title": "China reaches 169 Asian Games gold medals, sets new overseas record",
+   "link": "https://news.cgtn.com/news/2026-10-04/China-reaches-169-Asian-Games-gold-medals-sets-new-overseas-record-1QXM1DaxKiQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T06:55:58.000Z",
+   "summary": "China reaches 169 Asian Games gold medals, sets new overseas record",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Puche reflects on China's Asian Games football bronze",
+   "link": "https://news.cgtn.com/news/2026-10-04/Puche-reflects-on-China-s-Asian-Games-football-bronze-1QXQwmq2UmY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T06:54:17.000Z",
+   "summary": "Puche reflects on China's Asian Games football bronze",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China sees nearly 3 million EV charging sessions on highways",
+   "link": "https://news.cgtn.com/news/2026-10-04/China-sees-nearly-3-million-EV-charging-sessions-on-highways-1QXVfweG5Ta/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T06:51:17.000Z",
+   "summary": "China sees nearly 3 million EV charging sessions on highways",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China's first offshore CO2 injection platform completed",
+   "link": "https://news.cgtn.com/news/2026-10-04/China-s-first-offshore-CO2-injection-platform-completed-1QXT4ns2d20/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T06:40:49.000Z",
+   "summary": "China's first offshore CO2 injection platform completed",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Hot Take: How 63,000 mirrors turn sunlight into electricity",
+   "link": "https://news.cgtn.com/news/2026-10-04/Hot-Take-How-63-000-mirrors-turn-sunlight-into-electricity-1QXG72F1jEY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T06:18:23.000Z",
+   "summary": "Hot Take: How 63,000 mirrors turn sunlight into electricity",
+   "regions": []
+  },
+  {
    "title": "山东百年古村落焕新颜 乡村慢生活体验游兴起",
    "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707801.shtml",
    "source": "中新网社会",
@@ -2987,6 +3240,17 @@
    "regions": [
     "青岛",
     "山东"
+   ]
+  },
+  {
+   "title": "World Animal Day: China's rare species show signs of recovery",
+   "link": "https://news.cgtn.com/news/2026-10-04/World-Animal-Day-China-s-rare-species-show-signs-of-recovery-1QXEGDWT5GU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T06:10:51.000Z",
+   "summary": "World Animal Day: China's rare species show signs of recovery",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3479,6 +3743,17 @@
    "regions": []
   },
   {
+   "title": "Pet travel warms up Zhejiang, showing how 'pet-friendly' works",
+   "link": "https://news.cgtn.com/news/2026-10-04/Pet-travel-warms-up-Zhejiang-showing-how-pet-friendly-works-1QY47qFqwOA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T08:39:43.000Z",
+   "summary": "China's urban cat and dog market reached 312.6 billion yuan (around US$44 billion) in 2025, catering to around 126 milli…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "【在希望的田野上】我国秋粮迎来大面积收获 进度过三成",
    "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707842.shtml",
    "source": "中新网财经",
@@ -3527,6 +3802,17 @@
    "regions": []
   },
   {
+   "title": "How a phone call helped an Indian traveler get his unpaid refund",
+   "link": "https://news.cgtn.com/news/2026-10-04/How-a-phone-call-helped-an-Indian-traveler-get-his-unpaid-refund-1QXFeOF8Kek/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T06:58:10.000Z",
+   "summary": "With no need for translation and no resistance to providing aid, the 12345 hotline, originally designated for Chinese ci…",
+   "regions": [
+    "印度",
+    "亚太"
+   ]
+  },
+  {
    "title": "星巴克化身星巴扎，扎了谁的心？",
    "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707804.shtml",
    "source": "中新网财经",
@@ -3541,6 +3827,17 @@
    "time": "2026-10-04T05:40:11.000Z",
    "summary": "中新网10月4日电 据国家能源局微信公众号消息，国庆假期前3天新能源汽车充电需求旺盛，高速公路充电基础设施运行平稳。10月1日0时至10月3日24时，通过对纳入国家充电设施监测服务平台的6.27万个高速公路充电设施(枪)进行统计分析，今年国…",
    "regions": []
+  },
+  {
+   "title": "China plays constructive role at G20 trade ministers' meeting",
+   "link": "https://news.cgtn.com/news/2026-10-04/China-plays-constructive-role-at-G20-trade-ministers-meeting-1QXMzLUJSXC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-04T05:22:09.000Z",
+   "summary": "China's Ministry of Commerce said on Sunday that China played a constructive role at the G20 trade ministers' meeting, h…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "中国商务部介绍G20贸易部长会议及相关情况",
@@ -3673,5 +3970,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-05T02:13:45.151Z"
+ "updatedAt": "2026-10-05T09:23:50.680Z"
 }
