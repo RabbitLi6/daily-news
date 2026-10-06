@@ -1269,6 +1269,16 @@
    ]
   },
   {
+   "title": "【地震 M2.5】31 km SW of Dana Point, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343799",
+   "source": "USGS地震台网",
+   "time": "2026-10-05T22:06:16.160Z",
+   "summary": "美国地质调查局官方监测：31 km SW of Dana Point, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "胡塞武装称袭击利雅得机场和阿美石油公司设施",
    "link": "https://sputniknews.cn/20261006/1073503423.html",
    "source": "卫星社中文",
@@ -4446,5 +4456,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-06T14:20:19.100Z"
+ "updatedAt": "2026-10-06T19:39:57.971Z"
 }

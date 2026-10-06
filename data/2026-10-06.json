@@ -2,6 +2,38 @@
  "date": "2026-10-06",
  "tech": [
   {
+   "title": "德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批",
+   "link": "https://www.ithome.com/1/010/124.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T15:06:34.000Z",
+   "summary": "IT之家 10 月 6 日消息，据外媒 Golem 今天报道，德国联邦交通部长施特芬 · 比尔格表示， 他希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟范围内获批 ，他认为欧盟能够统一审批类似系统具有积极意义。 比尔格表示，特斯拉 FSD…",
+   "regions": []
+  },
+  {
+   "title": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线",
+   "link": "https://www.ithome.com/1/010/123.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T14:49:57.000Z",
+   "summary": "IT之家 10 月 6 日消息，鹰角网络今日发布《明日方舟：终末地》「丹青渡」版本前瞻视频， 确认本作即将支持搭载英伟达 RTX Spark 处理器的笔记本 。 据介绍，《明日方舟：终末地》将在更新后支持即将上市的英伟达 RTX Spark…",
+   "regions": []
+  },
+  {
+   "title": "AMD 股价创历史新高！CEO 苏姿丰称 AI 芯片需求非常旺盛，将持续大幅扩产",
+   "link": "https://www.ithome.com/1/010/114.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T14:30:54.000Z",
+   "summary": "IT之家 10 月 6 日消息，AMD 盘初涨近 3%，报 649.88 美元 （IT之家注：现汇率约合 4,364 元人民币） ， 创历史新高 ，市值达 1.06 万亿美元 （现汇率约合 7.12 万亿元人民币） 。 开盘后 AMD 股价…",
+   "regions": []
+  },
+  {
+   "title": "特斯拉在印度市场交付超一年，仅注册不到 1000 辆汽车",
+   "link": "https://www.ithome.com/1/010/111.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T14:20:44.000Z",
+   "summary": "IT之家 10 月 6 日消息，据 electrek 报道，根据印度电动汽车刊物 ElecTree 汇总的注册数据，特斯拉自 2025 年 9 月在印度开始交付以来， 仅注册了 993 辆汽车 。 上述数据覆盖了 2025 年 9 月至 2…",
+   "regions": []
+  },
+  {
    "title": "日本半导体光刻设备制造商 Gigaphoton 推出 hTGM 新型氖气回收系统，号称回收率达 50%",
    "link": "https://www.ithome.com/1/010/110.htm",
    "source": "IT之家",
@@ -71,6 +103,14 @@
    "source": "IT之家",
    "time": "2026-10-06T13:08:05.000Z",
    "summary": "IT之家 10 月 6 日消息，据游戏媒体 EuroGamer 今天报道，《战争机器：事变日》是微软 Xbox 第一方游戏，登陆 PC 和 Xbox Series X|S 平台。由于 XSS 相比 XSX 计算性能有限，开发团队必须做好优化…",
+   "regions": []
+  },
+  {
+   "title": "英伟达发布 617.42 Game Ready 显卡驱动：优化《使命召唤：现代战争 4》等新作",
+   "link": "https://www.ithome.com/1/010/098.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T13:03:37.000Z",
+   "summary": "IT之家 10 月 6 日消息，英伟达 GeForce Game Ready 驱动 617.42 正式发布，本次驱动为多款支持 DLSS 和 RTX 技术的新作提供优化，同时修复了已发现的游戏崩溃问题。 IT之家附官方公告链接（ https…",
    "regions": []
   },
   {
@@ -916,6 +956,365 @@
  ],
  "world": [
   {
+   "title": "佩斯科夫谈及对普京而言生日当天最重要的是什么",
+   "link": "https://sputniknews.cn/20261007/1073511745.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T19:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月6日电 俄罗斯总统新闻秘书佩斯科夫表示，对俄罗斯总统普京而言，生日当天最重要的事情，莫过于收到亲朋好友的祝福。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】40 km E of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxwsq",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T18:53:23.676Z",
+   "summary": "美国地质调查局官方监测：40 km E of Nikolski, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569807",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-06T18:35:52.000Z",
+   "summary": "On 10/6/2026 6:34:37 PM, an earthquake occurred in United States potentially affecting 70 thousand in MMI III. The earth…",
+   "regions": [
+    "美国",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.5】92 km NNW of Aleneva, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T18:34:31.760Z",
+   "summary": "美国地质调查局官方监测：92 km NNW of Aleneva, Alaska发生 5.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄总统助理：乌兹别克将于2027年1月1日起担任独联体轮值主席国",
+   "link": "https://sputniknews.cn/20261007/1073513594.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T18:20:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月6日电 俄罗斯总统助理乌沙科夫表示，乌兹别克将于2027年1月1日起担任独联体轮值主席国，这一决定将在土库曼斯坦独联体国家元首理事会会议上作出。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】128 km SW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuwrij",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T18:17:15.628Z",
+   "summary": "美国地质调查局官方监测：128 km SW of Adak, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄总统助理：普京和佩泽希齐扬计划在会晤期间讨论中东局势问题",
+   "link": "https://sputniknews.cn/20261007/1073513488.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T18:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月6日电 俄罗斯总统助理乌沙科夫表示，俄罗斯总统普京和伊朗总统佩泽希齐扬计划在10月9日土库曼斯坦会晤期间讨论中东局势及双边合作问题。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】18 km W of Preston, Nevada",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925376",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T17:43:42.249Z",
+   "summary": "美国地质调查局官方监测：18 km W of Preston, Nevada发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄总统助理：举行普京、习近平和特朗普三方会晤的想法很有趣",
+   "link": "https://sputniknews.cn/20261007/1073513382.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T17:40:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月6日电 俄罗斯总统助理乌沙科夫表示，在亚太经合组织峰会期间举行普京、习近平和特朗普三方会晤的想法很有意思，目前这一构想已经形成。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】62 km ESE of Chignik, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuvccy",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T17:29:38.354Z",
+   "summary": "美国地质调查局官方监测：62 km ESE of Chignik, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "乌沙科夫：习近平及其他领导人已向普京致以生日祝福",
+   "link": "https://sputniknews.cn/20261007/1073513284.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T17:20:00.000Z",
+   "summary": "俄罗斯总统助理尤里·乌沙科夫表示，中国国家主席习近平及其他领导人已向俄罗斯总统弗拉基米尔·普京致以生日祝福。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.9M, Depth:26.047km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI IV.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569799",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-06T17:10:20.000Z",
+   "summary": "On 10/6/2026 4:48:21 PM, an earthquake occurred in Russia potentially affecting Few people affected in MMI IV. The earth…",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "媒体：特朗普计划美国海军潜艇新造船厂投资66亿美元",
+   "link": "https://sputniknews.cn/20261007/1073512912.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T17:00:00.000Z",
+   "summary": "News Nation新闻网援引美国官员的消息报道，美国总统唐纳德·特朗普计划与国防公司安杜里尔合作投资66亿美元在马里兰州建造一座生产潜艇的造船厂。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.1】34 km NNW of Bāgeshwar, India",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T16:53:11.296Z",
+   "summary": "美国地质调查局官方监测：34 km NNW of Bāgeshwar, India发生 5.1 级地震，震源深度 未知。",
+   "regions": [
+    "印度",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.9】264 km SSW of Severo-Kuril’sk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T16:48:21.805Z",
+   "summary": "美国地质调查局官方监测：264 km SSW of Severo-Kuril’sk, Russia发生 5.9 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "土耳其教育部长：伊斯坦布尔校园袭击致一名女学生死亡",
+   "link": "https://sputniknews.cn/20261007/1073512524.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T16:40:00.000Z",
+   "summary": "土耳其教育部长优素福·泰金周二表示，伊斯坦布尔一名女学生在学校发生持刀袭击事件中死亡。",
+   "regions": []
+  },
+  {
+   "title": "2032布里斯班奥运会和残奥会会徽揭晓",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708562.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T16:34:40.000Z",
+   "summary": "2032年布里斯班奥组委日前发布奥运会与残奥会会徽。会徽以澳大利亚本土鸟类为核心主体，融入昆士兰州、圣火和当地文化元素。其中彩冠凤头鹦鹉代表奥运会，葵花鹦鹉代表残奥会。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄总统助理：普京10月8日-9日将访问土库曼斯坦出席独联体峰会",
+   "link": "https://sputniknews.cn/20261007/1073512788.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T16:13:09.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月6日电 俄罗斯总统助理乌沙科夫表示，俄罗斯总统普京将于10月8日至9日访问土库曼斯坦，出席独联体国家领导人峰会。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "澜湄合作专项基金支持泰缅边境洪水预警项目",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708560.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T16:11:57.000Z",
+   "summary": "中新社曼谷10月6日电 (王茜 李映民)泰国总理府副发言人拉丽达6日表示，泰国将获得澜湄合作专项基金支持，用于实施包括泰缅边境洪水预警在内的两项水资源合作项目，相关项目旨在提升泰缅两国有关地区应对洪灾和极端天气的能力。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄总统助理：普京将在亚太经合组织峰会期间与习近平主席举行双边会谈",
+   "link": "https://sputniknews.cn/20261007/1073512664.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T16:07:57.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月6日电 俄罗斯总统助理乌沙科夫表示，俄罗斯总统普京将在深圳亚太经合组织峰会期间与中国国家主席习近平举行双边会晤。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "海地总统和议会选举被无限期推迟",
+   "link": "https://sputniknews.cn/20261007/1073512402.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T16:00:00.000Z",
+   "summary": "海地AlterPresse 新闻社援引海地临时选举委员会发布的公报报道，海地总统和议会选举已被无限期推迟。",
+   "regions": []
+  },
+  {
+   "title": "【地震 M4.1】19 km S of Yacuiba, Bolivia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0d2",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T15:57:24.056Z",
+   "summary": "美国地质调查局官方监测：19 km S of Yacuiba, Bolivia发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "玻利维亚",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】7 km NNW of Trujillo Alto, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535908",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T15:42:06.800Z",
+   "summary": "美国地质调查局官方监测：7 km NNW of Trujillo Alto, Puerto Rico发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "以色列国防部长表示已做好准备应对与巴勒斯坦权力机构爆发战争的可能性",
+   "link": "https://sputniknews.cn/20261006/1073512293.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T15:40:00.000Z",
+   "summary": "俄罗斯卫星通讯社特拉维夫10月6日电 以色列国放部长卡茨表示，以色列国防军正在为巴勒斯坦民族权力机构安全部队在约旦河西岸袭击以军人员的情况做准备。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】25 km WNW of Preston, Nevada",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925363",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T15:34:29.755Z",
+   "summary": "美国地质调查局官方监测：25 km WNW of Preston, Nevada发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "德国莱茵金属公司启动卫星批量生产以满足联邦国防军需求",
+   "link": "https://sputniknews.cn/20261006/1073512127.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T15:20:00.000Z",
+   "summary": "德国军工集团莱茵金属公司宣布，已为德国联邦国防军启动雷达卫星的批量生产。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "国际货币基金组织：对冲基金快速扩张或放大市场风险",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708558.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T15:17:31.000Z",
+   "summary": "国际货币基金组织(IMF)在6日公布的《全球金融稳定报告》第二章中指出，应警惕对冲基金可能对宏观金融稳定带来的风险。报告说，全球对冲基金资产规模增速过快，在资本市场波动中容易放大价格错位和流动性紧张，一旦遭遇严重负面冲击，可能引发系统性风险…",
+   "regions": []
+  },
+  {
+   "title": "【地震 M4.7】Chagos Archipelago region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u01m",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T15:12:09.822Z",
+   "summary": "美国地质调查局官方监测：Chagos Archipelago region发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "以色列政府发出旅行警告 提醒海外公民防范潜在安全风险",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708557.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T15:11:55.000Z",
+   "summary": "当地时间6日，以色列总理办公室通过社交媒体发布官方通知称，在2023年10月7日新一轮巴以冲突爆发三周年来临之际，提醒海外以色列公民提高安全防范意识，以应对潜在的袭击风险和示威活动。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "WTT中国大满贯赛：王曼昱晋级16强 中国选手陈熠三线全胜",
+   "link": "https://www.chinanews.com.cn/ty/2026/10-06/10708555.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-06T15:08:53.000Z",
+   "summary": "中新社北京10月6日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛6日在北京继续进行。中国名将王曼昱以3:1击败印度选手巴特拉，闯入女单16强。中国选手陈熠在女单、女双和混双中保持全胜，晋级下一轮。",
+   "regions": [
+    "亚太",
+    "北京"
+   ]
+  },
+  {
+   "title": "媒体：欧洲军费支出在5年内增长一倍",
+   "link": "https://sputniknews.cn/20261006/1073512026.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T15:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月6日电 据斯德哥尔摩国际和平研究所和北约的数据显示，欧洲军费总支出在5年内增长了103%，2026年增至5740亿欧元。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "拉脱维亚总统委托总理组建新内阁",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708554.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T14:56:38.000Z",
+   "summary": "当地时间6日，拉脱维亚总统林克维奇斯宣布委托现任总理安德里斯·库尔贝格斯组建新内阁。库尔贝格斯领导的政党联盟“联合名单”在议会选举中赢得了最多席位。总统希望新政府能在11月前组建完成，但并未设定具体期限。(总台记者 朱赫)",
+   "regions": []
+  },
+  {
+   "title": "英媒：英国BP公司因柴油价格暴涨，将柴油产量提升至最高水平",
+   "link": "https://sputniknews.cn/20261006/1073511846.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T14:45:00.000Z",
+   "summary": "据《泰晤士报》援引英国石油天然气公司（BP）首席执行官梅格·奥尼尔的话报道， 该公司在全球柴油价格急剧上涨后，已将柴油产量提升至最高水平。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "专家：俄东正教会的努力有助于遏制中东的政治冲突",
+   "link": "https://sputniknews.cn/20261006/1073511643.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T14:30:00.000Z",
+   "summary": "俄罗斯东正教会代表团此前访问了黎巴嫩并与当地官员举行了会晤。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.9】209 km SSE of Atka, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0jh",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T14:22:26.014Z",
+   "summary": "美国地质调查局官方监测：209 km SSE of Atka, Alaska发生 3.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "普京：俄罗斯将与外国伙伴在电池生产技术领域开展合作",
    "link": "https://sputniknews.cn/20261006/1073511526.html",
    "source": "卫星社中文",
@@ -988,6 +1387,16 @@
    ]
   },
   {
+   "title": "【地震 M4.5】Kermadec Islands region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzwi",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T13:26:22.092Z",
+   "summary": "美国地质调查局官方监测：Kermadec Islands region发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "军备控制是否正在成为历史？",
    "link": "https://sputniknews.cn/20261006/1073510710.html",
    "source": "卫星社中文",
@@ -1031,6 +1440,17 @@
    ]
   },
   {
+   "title": "【地震 M4.4】50 km SW of Tambolaka, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzwb",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T12:40:23.290Z",
+   "summary": "美国地质调查局官方监测：50 km SW of Tambolaka, Indonesia发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
    "title": "俄总理：不友好国家最终将与俄罗斯在技术领域合作",
    "link": "https://sputniknews.cn/20261006/1073510327.html",
    "source": "卫星社中文",
@@ -1048,6 +1468,16 @@
    "summary": "10月6日，外交部发言人郭嘉昆答记者问。",
    "regions": [
     "台海"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】8 km ESE of Smiley, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026trgpil",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T12:25:46.949Z",
+   "summary": "美国地质调查局官方监测：8 km ESE of Smiley, Texas发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
    ]
   },
   {
@@ -1107,6 +1537,46 @@
    "summary": "英国《经济学人》杂志（The Economist）认为，巴黎和柏林提出建立新型贸易战的、可能针对中国的经济工具的相关倡议可能表明，欧洲已接近\"精神崩溃\"。",
    "regions": [
     "欧洲"
+   ]
+  },
+  {
+   "title": "俄罗斯疑似鼠疫死亡病例正在接受检测和监测",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142950",
+   "source": "联合国新闻",
+   "time": "2026-10-06T12:00:00.000Z",
+   "summary": "世界卫生组织周二表示，俄罗斯西伯利亚地区一名实验室工作人员的死亡引发了人们对可能出现鼠疫病例的担忧，并补充说该组织正在密切关注事态发展。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "非洲和平与安全挑战要求加强联合国与非盟伙伴关系",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142949",
+   "source": "联合国新闻",
+   "time": "2026-10-06T12:00:00.000Z",
+   "summary": "联合国秘书长驻非洲联盟特别代表兼联合国驻非洲联盟办事处主任奥南加-安扬加周二在安理会会议上表示，当前非洲和平与安全挑战的规模和复杂性要求建立更强大的伙伴关系，将共同承诺转化为迅速、可预测且负责任的行动。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "肯尼亚确诊首例输入性本迪布焦型埃博拉病例",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142948",
+   "source": "联合国新闻",
+   "time": "2026-10-06T12:00:00.000Z",
+   "summary": "肯尼亚卫生当局10月6日确认该国首例输入性本迪布焦病毒病埃博拉病例。世界卫生组织正与肯尼亚政府合作，加强病例调查、接触者监测和入境筛查等防控措施，防止病毒进一步传播。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "儿基会：埃博拉夺走儿童所依赖的人",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142946",
+   "source": "联合国新闻",
+   "time": "2026-10-06T12:00:00.000Z",
+   "summary": "联合国儿童基金会周二表示，刚果民主共和国东部的埃博拉疫情正在夺走儿童所依赖的人，一些儿童自身也死于这种致命疾病。",
+   "regions": [
+    "非洲"
    ]
   },
   {
@@ -1350,6 +1820,16 @@
    "regions": [
     "巴布亚新几内亚",
     "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】4 km NNW of Big Bear City, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343975",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T08:40:14.530Z",
+   "summary": "美国地质调查局官方监测：4 km NNW of Big Bear City, CA发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
    ]
   },
   {
@@ -1902,6 +2382,16 @@
  ],
  "tw": [
   {
+   "title": "香港继续获评为全球最自由经济体",
+   "link": "https://www.chinanews.com.cn/dwq/2026/10-06/10708544.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-06T14:18:39.000Z",
+   "summary": "中新社香港10月6日电 加拿大智库菲沙研究所(Fraser Institute)6日发布《世界经济自由度2026年度报告》，香港继续获评为全球最自由经济体。在5个评估大项中，香港在“国际贸易自由”蝉联首位，“监管”方面维持全球第二。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
    "title": "15名中国香港运动员将出战达喀尔青奥会参与12个项目角逐",
    "link": "https://www.chinanews.com.cn/dwq/2026/10-06/10708538.shtml",
    "source": "中新网滚动",
@@ -1982,6 +2472,43 @@
   }
  ],
  "cn": [
+  {
+   "title": "《只此青绿》千场纪念在北京上演 足迹已达海内外近90城",
+   "link": "https://www.chinanews.com.cn/cul/2026/10-06/10708546.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-06T15:08:41.000Z",
+   "summary": "中新社北京10月6日电 (记者 应妮)舞蹈诗剧《只此青绿》千场纪念首场演出6日在国家游泳中心“水立方”上演。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-06/10708545.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-06T15:06:15.000Z",
+   "summary": "中新社合肥10月6日电 题：安徽“千年矾都”工业遗产蝶变文旅新地标",
+   "regions": [
+    "合肥",
+    "安徽"
+   ]
+  },
+  {
+   "title": "10岁孩子玩飞拉达攀岩不慎脱手！带娃游玩这些坑别踩",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708552.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-06T14:41:01.000Z",
+   "summary": "国庆假期，不少家庭选择带娃出游，孩子玩得开心，安全更容不得半点大意。社交平台上，高空秋千、飞拉达攀岩这些“网红项目”持续刷屏，低龄孩子到底能不能玩？网上流传的“儿童独自乘坐高铁攻略”，真的可行吗？维生素B1驱蚊、含姜片防晕车这些“带娃出行偏…",
+   "regions": []
+  },
+  {
+   "title": "秋季山野出行提示：科学规划防险情，远离网红野游路线谨防失温",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708550.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-06T14:16:23.000Z",
+   "summary": "山野风险不容小觑，不论是否有户外徒步经验，都要提前科学规划，量力而行。一旦遇到突发状况该如何自救？来看专业人员的提示。",
+   "regions": []
+  },
   {
    "title": "外交部：希望欧方同中方相向而行，通过对话协商解决彼此关切",
    "link": "https://www.chinanews.com.cn/gn/2026/10-06/10708541.shtml",
@@ -2774,6 +3301,25 @@
  ],
  "econ": [
   {
+   "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-06/10708545.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-06T15:06:15.000Z",
+   "summary": "中新社合肥10月6日电 题：安徽“千年矾都”工业遗产蝶变文旅新地标",
+   "regions": []
+  },
+  {
+   "title": "中国商务部回应法德要求欧盟强化贸易防御等保护主义工具",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-06/10708543.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-06T14:45:11.000Z",
+   "summary": "中新社北京10月6日电 就法德要求欧盟强化贸易防御等保护主义工具，中国商务部新闻发言人6日表示，保护主义提升不了竞争力，“脱钩断链”只会损人不利己。",
+   "regions": [
+    "欧洲",
+    "北京"
+   ]
+  },
+  {
    "title": "国庆返程必看！高速免费看出口时间 千万别卡点下高速",
    "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708549.shtml",
    "source": "中新网社会",
@@ -3026,5 +3572,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-06T14:20:19.097Z"
+ "updatedAt": "2026-10-06T19:39:57.968Z"
 }
