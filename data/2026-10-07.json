@@ -2,6 +2,198 @@
  "date": "2026-10-07",
  "tech": [
   {
+   "title": "华硕推出 ProArt P14/P16 笔记本：搭载英伟达 RTX Spark 超级芯片",
+   "link": "https://www.ithome.com/1/010/334.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T22:27:55.000Z",
+   "summary": "IT之家 10 月 8 日消息，太平洋夏令时 10 月 7 日 11 点（北京时间 10 月 8 日凌晨 2 点）举办的活动中，华硕推出 ProArt RTX Spark AI PC 系列， 涵盖 ProArt P16、ProArt P14…",
+   "regions": []
+  },
+  {
+   "title": "Anthropic 最快、最便宜模型：Claude Haiku 5.5 登场，运行成本较 4.5 低约 75%",
+   "link": "https://www.ithome.com/1/010/333.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T22:26:08.000Z",
+   "summary": "IT之家 10 月 8 日消息，Anthropic 昨日（10 月 7 日）发布博文，宣布推出 Claude Haiku 5.5 模型，称其为目前速度最快、最便宜、功能最强的 Haiku 系列小型模型。 定价方面，IT之家援引博文介绍，附上…",
+   "regions": []
+  },
+  {
+   "title": "微软 Win10/Win11 新版 Outlook 本月将上线自动拼写检查，发送前自动校对",
+   "link": "https://www.ithome.com/1/010/332.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T22:26:08.000Z",
+   "summary": "IT之家 10 月 8 日消息，科技媒体 NeoWin 昨日（10 月 7 日）发布博文，报道称微软计划 10 月开始， 面向新版 Outlook（Windows 版与网页版）推出自动拼写检查功能，用户可在发送前自动完成拼写校对。 IT之家…",
+   "regions": []
+  },
+  {
+   "title": "Rust 实现渐进渲染：谷歌官宣 Chrome 155 浏览器支持解码 JPEG XL 图片格式",
+   "link": "https://www.ithome.com/1/010/331.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T22:20:08.000Z",
+   "summary": "IT之家 10 月 8 日消息，谷歌开发者博客于 10 月 6 日发布博文， 宣布在谷歌 Chrome 155 浏览器中，解码支持 JPEG XL (.jxl) 图片格式。 官方介绍称 JPEG XL 是一种新一代图片格式，旨在满足现代 W…",
+   "regions": []
+  },
+  {
+   "title": "GitHub Copilot 不再纯云端 AI 模型：Surface Laptop Ultra 本地推理吞吐量最高每秒 63 词元",
+   "link": "https://www.ithome.com/1/010/330.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T22:17:08.000Z",
+   "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，微软宣布 GitHub Copilot 将在本月底前支持本地 AI 模型推理， 开发者可在云端模…",
+   "regions": []
+  },
+  {
+   "title": "10 年内预估仅 5%：诺奖经济学家背书，AI 不会大规模抢走你的饭碗",
+   "link": "https://www.ithome.com/1/010/329.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T22:16:08.000Z",
+   "summary": "IT之家 10 月 8 日消息，微软 AI 首席执行官穆斯塔法 · 苏莱曼（Mustafa Suleyman）于 10 月 6 日在 X 平台发布推文，援引诺贝尔经济学奖得主达龙 · 阿西莫格鲁（Daron Acemoglu）的预测称， 未…",
+   "regions": []
+  },
+  {
+   "title": "戴尔推出 XPS 16 Creator Edition 笔记本：16 英寸触控屏、18 核 RTX Spark",
+   "link": "https://www.ithome.com/1/010/328.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T22:11:16.000Z",
+   "summary": "IT之家 10 月 8 日消息，戴尔今天（10 月 8 日）在 X 平台发布博文，宣布推出 XPS 16 Creator Edition 笔记本， 配备英伟达 RTX Spark 平台芯片，32GB 内存 +512 GB 尺寸版本售价为 3…",
+   "regions": []
+  },
+  {
+   "title": "周活超 12 亿用户：OpenAI ChatGPT 升级 GPT-6 模型，互动式 AI 教你打麻将",
+   "link": "https://www.ithome.com/1/010/327.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T22:10:08.000Z",
+   "summary": "IT之家 10 月 8 日消息，OpenAI 今天（10 月 8 日）在 X 平台发布推文，宣布面向所有 ChatGPT 用户， 推出 GPT-6 系列模型以及智能（Intelligent UI）。 OpenAI 的 ChatGPT 全球每…",
+   "regions": []
+  },
+  {
+   "title": "堵截恶意安装包攻击，微软 Win10/Win11 新版 Outlook 下月起默认屏蔽 MSIX 附件",
+   "link": "https://www.ithome.com/1/010/326.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T22:08:08.000Z",
+   "summary": "IT之家 10 月 8 日消息，微软在 Microsoft 365 消息中心发布公告，宣布将于 2026 年 11 月开始， Windows 和网页版 Outlook 将默认屏蔽 .msix 与 .msixbundle 附件。 根据公告内容…",
+   "regions": []
+  },
+  {
+   "title": "微软发布 VS Code v1.141：清理“僵尸”Agent 会话等",
+   "link": "https://www.ithome.com/1/010/325.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T21:56:07.000Z",
+   "summary": "IT之家 10 月 8 日消息，微软昨日（10 月 7 日）更新推出 Visual Studio Code 1.141，本次更新聚焦 AI 智能体（Agent）工作流管理， 重点改进会话存储清理、跨平台沙盒安全、多会话并排布局，以及多 Gi…",
+   "regions": []
+  },
+  {
+   "title": "微软 10 月 Win11 累积更新前瞻：改善文件管理器、支持最大化打开应用等",
+   "link": "https://www.ithome.com/1/010/324.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T21:54:07.000Z",
+   "summary": "IT之家 10 月 8 日消息，科技媒体 Windows Central 昨日（10 月 7 日）发布博文，前瞻了适用于 Windows 11 的 10 月累积更新（将于 10 月 13 日发布），盘点了值得关注的 7 项新功能 / 新特性…",
+   "regions": []
+  },
+  {
+   "title": "微软发布 Win11 Beta / Experimental 多版本预览更新：全新搜索体验、电池状态小组件",
+   "link": "https://www.ithome.com/1/010/317.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T19:33:30.000Z",
+   "summary": "IT之家 10 月 8 日消息，微软昨天（10 月 7 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次推送包含多个不同分…",
+   "regions": []
+  },
+  {
+   "title": "微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB-C 接口",
+   "link": "https://www.ithome.com/1/010/323.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T19:00:29.000Z",
+   "summary": "IT之家 10 月 8 日消息，科技媒体 The Verge 今天（10 月 8 日）发布博文，通过探访微软实验室，介绍了微软是如何打造 Surface Laptop Ultra 过程，其设计迭代超过 300 次，从而更好地和苹果 MacB…",
+   "regions": []
+  },
+  {
+   "title": "微软描绘 Autopilot 全新蓝图：让 Windows AI 从“回答问题”走向“执行任务”",
+   "link": "https://www.ithome.com/1/010/321.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T18:38:21.000Z",
+   "summary": "IT之家 10 月 8 日消息，微软今天召开 Surface 新品发布会，现场展示 Autopilot 未来方向。根据其设想，这款智能体将让 Windows AI 进一步实现自主化执行任务。 在微软的设想下，Autopilot 不再只是根据…",
+   "regions": []
+  },
+  {
+   "title": "微软 Surface Laptop Ultra 售价公布：起价 21988 元，128GB 内存顶配售 48388 元",
+   "link": "https://www.ithome.com/1/010/320.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T18:33:19.000Z",
+   "summary": "IT之家 10 月 8 日消息，微软中国商城今天（10 月 8 日）上架 Surface Laptop Ultra， 共有亮铂金和夜幕色两种颜色，起售价为 21,988 元，128GB 内存顶配售价为 48,388 元。 官方介绍如下： 更…",
+   "regions": []
+  },
+  {
+   "title": "英伟达黄仁勋回忆微软 Win95 往昔：没有 Windows 的话，CUDA 就不会诞生",
+   "link": "https://www.ithome.com/1/010/319.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T18:28:39.000Z",
+   "summary": "IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，CEO 纳德拉、Windows 负责人帕万 · 达武鲁里均登台演讲，英伟达 CEO 黄仁勋后半段压轴登场。 黄仁勋登台时，特意将自己的手机交给了助理，所以我们今天没办…",
+   "regions": []
+  },
+  {
+   "title": "英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑",
+   "link": "https://www.ithome.com/1/010/318.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T18:22:04.000Z",
+   "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，黄仁勋表示英伟达正推动一种以本地设备为核心的 AI 计算模式。 黄仁勋称：“ 这是全球唯一一台能…",
+   "regions": []
+  },
+  {
+   "title": "黄仁勋：英伟达当初正是因 Windows 而诞生",
+   "link": "https://www.ithome.com/1/010/315.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T18:11:32.000Z",
+   "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，英伟达首席执行官黄仁勋表示： “英伟达当初正是因 Windows 而诞生”。 在本次活动中，微软…",
+   "regions": []
+  },
+  {
+   "title": "《使命召唤》系列游戏明年登陆 RTX Spark 平台",
+   "link": "https://www.ithome.com/1/010/314.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T18:10:13.000Z",
+   "summary": "IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，推出 Surface Laptop Ultra 笔记本新品。虽然这场活动是以商务应用、AI 为主，但微软并没有忘记提起游戏。 微软 Windows 和设备部门负责人帕…",
+   "regions": []
+  },
+  {
+   "title": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存",
+   "link": "https://www.ithome.com/1/010/313.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T17:56:19.000Z",
+   "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，英伟达发布 DGX Station for Windows， 定位为桌面级 AI 超级计算机，旨…",
+   "regions": []
+  },
+  {
+   "title": "2599 美元 / 5999 美元：微软 Surface Laptop Ultra 笔记本、Surface RTX Spark Dev Box 开发机价格公布",
+   "link": "https://www.ithome.com/1/010/312.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T17:52:04.000Z",
+   "summary": "IT之家 10 月 8 日消息，微软今日在 Surface 新品发布会公布 Surface Laptop Ultra 笔记本的售价， 新品定价 2,599 美元 （IT之家注：现汇率约合 17,444 元人民币） ，即日起开订。 微软还公布…",
+   "regions": []
+  },
+  {
+   "title": "微软展示全新 Win11 搜索体验：从查找文件转向理解用户意图",
+   "link": "https://www.ithome.com/1/010/311.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T17:47:26.000Z",
+   "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，微软展示全新的 Windows 搜索体验，计划借助 AI 让用户以更自然的方式查找信息、文件和应…",
+   "regions": []
+  },
+  {
+   "title": "微软：Meta Muse 智能体将登陆 Windows 平台",
+   "link": "https://www.ithome.com/1/010/310.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T17:45:35.000Z",
+   "summary": "IT之家 10 月 8 日消息，微软今天在 Surface 新品发布会展示了多款第三方智能体工具。其中，Perplexity 的“便携电脑”工具能够端侧执行多种复杂 AI 任务，无需消耗 Perplexity 云积分。 IT之家注意到，微软…",
+   "regions": []
+  },
+  {
+   "title": "微软提出“混合智能”新路线，协同本地 / 云端 AI 灵活处理 Win11 用户任务",
+   "link": "https://www.ithome.com/1/010/309.htm",
+   "source": "IT之家",
+   "time": "2026-10-07T17:42:01.000Z",
+   "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，微软提出“混合智能”（hybrid intelligence）理念，强调通过混合架构，结合云端 …",
+   "regions": []
+  },
+  {
    "title": "MAI Code 1.1 Flash 模型将整合到微软 Win11：上下文窗口 256K、130B 参数",
    "link": "https://www.ithome.com/1/010/308.htm",
    "source": "IT之家",
@@ -1028,6 +1220,255 @@
  ],
  "world": [
   {
+   "title": "美媒：美方可能以涉嫌实施酷刑为由对马杜罗提出新指控",
+   "link": "https://sputniknews.cn/20261008/1073529418.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T22:32:20.000Z",
+   "summary": "俄罗斯卫星通讯社纽约10月8日电 据美国有线电视新闻网援引消息人士的话10月7日报道，美国政府预计将以涉嫌对美国公民实施酷刑为由，对委内瑞拉领导人马杜罗及其妻子弗洛雷斯提出新的指控。",
+   "regions": [
+    "俄乌",
+    "美洲",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄专家：中国汽车出口新规将使对俄发货变得更加透明 但也更加复杂且耗时",
+   "link": "https://sputniknews.cn/20261008/1073529273.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T22:17:06.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯-亚洲工业家和企业家联盟主席曼克维奇在接受卫星通讯社采访时表示，针对向中国出口汽车和摩托车的新许可规定，将使发往俄罗斯市场的货物运输更加透明，但同时也变得更加复杂且耗时。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄水电集团和北京苔极科技公司已同俄罗斯泥炭开采企业签署4项协议",
+   "link": "https://sputniknews.cn/20261008/1073529169.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T22:08:55.000Z",
+   "summary": "俄罗斯卫星通讯社圣彼得堡电 全俄水利工程科学研究院总经理阿列克谢·维诺格拉多夫的演示文稿内容表示，俄罗斯水电集团旗下的全俄水利工程科学研究院与北京苔极科技公司已同俄罗斯泥炭生产企业签署了4份合作备忘录，另有2份正在筹备签署。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "帕特鲁舍夫将在中国讨论俄中海事合作问题",
+   "link": "https://sputniknews.cn/20261008/1073529062.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T21:58:43.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 据俄罗斯海事委员会新闻处消息，俄罗斯总统助理、海事委员会主席帕特鲁舍夫将于10月8日至12日访问中国。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "媒体：中国拒绝接受欧盟提出减少向其市场出口混合动力汽车的请求",
+   "link": "https://sputniknews.cn/20261008/1073528935.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T21:50:06.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 《金融时报》援引消息人士的话报道，中国拒绝接受欧盟提出的减少向欧盟市场出口混合动力汽车的请求。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "沙特阿拉伯民航总局:沙特阿拉伯艾卜哈和利雅得机场遭袭造成3人死亡",
+   "link": "https://sputniknews.cn/20261008/1073528835.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T21:08:41.000Z",
+   "summary": "俄罗斯卫星通讯社多哈电 沙特阿拉伯民航总局在社交平台X上表示，也门在两天内对沙特阿拉伯阿卜哈和利雅得两座城市的机场发动袭击，造成3人死亡、36人受伤。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "成龙主演的电影《龙兄虎弟4：最后通牒》在哈萨克斯坦的拍摄工作已经结束",
+   "link": "https://sputniknews.cn/20261008/1073528552.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T20:48:33.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 哈萨克斯坦文化和信息部新闻处表示，由成龙主演的电影《龙兄虎弟4：最后通牒》在哈萨克斯坦的拍摄工作已经结束。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄外交部：欧盟的国防投入与二战爆发前不相上下",
+   "link": "https://sputniknews.cn/20261008/1073528343.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T20:41:29.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外交部欧洲事务司司长马斯连尼科夫向卫星通讯社表示， 欧盟在国防领域的财政投入规模与二战前不相上下。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "格总理：今年上半年中国对格鲁吉亚的直接投资额达2.36亿美元",
+   "link": "https://sputniknews.cn/20261008/1073528446.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T20:40:17.000Z",
+   "summary": "俄罗斯卫星通讯社第比利斯电 格鲁吉亚总理伊拉克利·科巴希泽在政府会议上表示，今年上半年，中国对格鲁吉亚的直接投资总额达到2.36亿美元。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄副外长：俄罗斯尊重巴西人民在总统选举中的决定",
+   "link": "https://sputniknews.cn/20261008/1073528239.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T20:23:17.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外交部副部长谢尔盖·里亚布科夫表示，俄罗斯尊重巴西人民在总统选举中做出的选择，希望进一步发展与巴西的关系。",
+   "regions": [
+    "俄乌",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄外交部表示欧盟正转变为军事政治集团",
+   "link": "https://sputniknews.cn/20261008/1073528135.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T20:00:48.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外交部欧洲事务司司长马斯连尼科夫在接受卫星通讯社采访时表示，欧盟转变为攻击性军事政治集团已是不争的事实。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】13 km SE of Yokoshiba, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0u7",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T19:13:47.589Z",
+   "summary": "美国地质调查局官方监测：13 km SE of Yokoshiba, Japan发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "特朗普在与媒体交流期间提到了普京的生日",
+   "link": "https://sputniknews.cn/20261008/1073527747.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T19:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月7日电 美国总统特朗普在与记者交流期间提到10月7日是俄罗斯总统普京的生日。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】16 km WSW of Anchor Point, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twucys",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T18:59:56.119Z",
+   "summary": "美国地质调查局官方监测：16 km WSW of Anchor Point, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "消息人士：格林斯潘继续领跑联合国秘书长竞选",
+   "link": "https://sputniknews.cn/20261008/1073527522.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T18:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月7日电 联合国消息人士透露，哥斯达黎加前副总统、联合国贸易和发展会议（UNCTAD）负责人丽贝卡·格林斯潘在联合国秘书长第五轮摸底投票中继续领跑。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】194 km S of Ust’-Kamchatsk Staryy, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0tm",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T18:15:04.107Z",
+   "summary": "美国地质调查局官方监测：194 km S of Ust’-Kamchatsk Staryy, Russia发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】south of the Fiji Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0tl",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T18:13:13.966Z",
+   "summary": "美国地质调查局官方监测：south of the Fiji Islands发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "斐济",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄青年事务署署长强调与中国共青团保持联系的重要性",
+   "link": "https://sputniknews.cn/20261008/1073527630.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T18:07:18.000Z",
+   "summary": "俄罗斯青年事务署署长格里戈里·古罗夫指出青年政策是俄中合作的重要领域之一，并表示愿加强与中国共产主义青年团的联系。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄军控谈判代表团团长：基辅阻拦俄罗斯船只的企图将导致欧洲燃料价格上涨",
+   "link": "https://sputniknews.cn/20261008/1073527425.html",
+   "source": "卫星社中文",
+   "time": "2026-10-07T18:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社维也纳10月7日电 俄罗斯维也纳军事安全和军控谈判代表团团长尤利娅·日达诺娃10月7日表示，基辅封锁俄罗斯在黑海的航运并破坏燃料出口的企图将导致欧洲燃料价格上涨。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】Volcano Islands, Japan region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0tk",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T17:59:03.884Z",
+   "summary": "美国地质调查局官方监测：Volcano Islands, Japan region发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】148 km SSE of Alcan Border, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ti",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T17:54:56.525Z",
+   "summary": "美国地质调查局官方监测：148 km SSE of Alcan Border, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.3】22 km SW of Hope, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twrpqs",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T17:45:15.499Z",
+   "summary": "美国地质调查局官方监测：22 km SW of Hope, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】48 km SSW of Angoram, Papua New Guinea",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0te",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T17:36:13.751Z",
+   "summary": "美国地质调查局官方监测：48 km SSW of Angoram, Papua New Guinea发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "巴布亚新几内亚",
+    "亚太"
+   ]
+  },
+  {
    "title": "联合国：2025年3万名移民儿童抵达欧洲 其中2万人无监护人陪同",
    "link": "https://sputniknews.cn/20261008/1073527318.html",
    "source": "卫星社中文",
@@ -1044,6 +1485,16 @@
    "source": "USGS地震台网",
    "time": "2026-10-07T17:17:08.844Z",
    "summary": "美国地质调查局官方监测：9 km SSW of Coyanosa, Texas发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M3.6】10 km SW of Coyanosa, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ttlzei",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T17:17:08.236Z",
+   "summary": "美国地质调查局官方监测：10 km SW of Coyanosa, Texas发生 3.6 级地震，震源深度 未知。",
    "regions": [
     "国际"
    ]
@@ -1067,6 +1518,17 @@
    "summary": "美国地质调查局官方监测：16 km W of Preston, Nevada发生 2.5 级地震，震源深度 未知。",
    "regions": [
     "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】85 km ESE of Akutan, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twqenx",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T17:02:35.940Z",
+   "summary": "美国地质调查局官方监测：85 km ESE of Akutan, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -1430,6 +1892,16 @@
    "summary": "战争爆发三年后，数字显示出加沙地带所遭受损失的规模：数万人死亡和受伤，医院、学校和住房被毁或受损，供水、供电和通讯状况严重恶化，人道主义需求不断增长，民众对人道主义援助的依赖也在加深。",
    "regions": [
     "中东"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】south of the Aleutian Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twhacm",
+   "source": "USGS地震台网",
+   "time": "2026-10-07T12:26:19.043Z",
+   "summary": "美国地质调查局官方监测：south of the Aleutian Islands发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
    ]
   },
   {
@@ -3715,5 +4187,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-07T17:38:52.872Z"
+ "updatedAt": "2026-10-07T22:33:58.551Z"
 }
