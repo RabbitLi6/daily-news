@@ -2,6 +2,134 @@
  "date": "2026-10-06",
  "tech": [
   {
+   "title": "AI 颠覆担忧消退，美国软件股创 2026 年阶段新高",
+   "link": "https://www.ithome.com/1/010/141.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:58:45.000Z",
+   "summary": "IT之家 10 月 7 日消息，据路透社报道，受盈利预期大幅上调的推动，美国软件类股票正创出 2026 年阶段新高；多位分析师据此认为，此前市场对于人工智能将颠覆整个软件行业的担忧很大程度上被夸大了。 IT之家注意到，标普 500 软件与服…",
+   "regions": []
+  },
+  {
+   "title": "微软回应称考虑将 WinXP 经典游戏《三维弹球》带回 Win11",
+   "link": "https://www.ithome.com/1/010/140.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:53:58.000Z",
+   "summary": "IT之家 10 月 7 日消息，科技媒体 Windows Latest 昨日（10 月 6 日）发布博文，报道称微软 Windows 负责人帕万 · 达武鲁里（Pavan Davuluri）表示， Windows XP 经典游戏《三维弹球》…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 1007：余承东详解华为 Mate 90“拼好网”功能；杨利伟称中国空间站下半年迎来首批外籍航天员；余承东官宣鸿蒙出海；2026 年诺贝尔物理学奖揭晓...",
+   "link": "https://www.ithome.com/1/010/139.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:53:37.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 7 日星期三，今天的重要科技资讯有： 1. 余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发 华为常务董事、产品投资评审委员会主任、终端 BG 董…",
+   "regions": []
+  },
+  {
+   "title": "消息称微软 XBOX 拿下《GTA 6》独家云串流权，PC 玩家首发即可云端游玩",
+   "link": "https://www.ithome.com/1/010/138.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:48:01.000Z",
+   "summary": "IT之家 10 月 7 日消息，据报道，微软 XBOX 已经拿下了《GTA 6》的独家云串流权，这或许意味着 PC 玩家在游戏首发阶段就能够借助云服务游玩本作。 The Verge 报道称，首发期间 XBOX 将是《GTA 6》唯一的云串流…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 发布又一批 AI 数学研究成果，攻破数百个悬而未决难题",
+   "link": "https://www.ithome.com/1/010/137.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:42:31.000Z",
+   "summary": "IT之家 10 月 7 日消息，OpenAI 在一批包含 722 份手稿、涵盖 372 个结果家族的文件中，公布了某款未发布的前沿模型解决的多项长期存在的数学难题。 IT之家注意到，这一举措延续了其一系列突破性成果，这些成果既给数学界部分人…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iOS 27.2 Beta 3 用户反馈汇总：运行更流畅、改善蜂窝网络连接等",
+   "link": "https://www.ithome.com/1/010/136.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:36:39.000Z",
+   "summary": "IT之家 10 月 7 日消息，科技媒体 macobserver 昨日（10 月 6 日）发布博文，梳理了 Reddit 社区、X 平台等用户反馈， 盘点了 iPhone 18 Pro 等用户对 iOS 27.2 Beta 3 更新的反馈。…",
+   "regions": []
+  },
+  {
+   "title": "落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”",
+   "link": "https://www.ithome.com/1/010/135.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:31:29.000Z",
+   "summary": "IT之家 10 月 7 日消息，路透社看到的一份备忘录显示，美国司法部于当地时间周二向内部工作人员下达指示：在绝大多数场合提及这项技术时（包括法庭相关文书当中），应当使用“超级智能”，而不再使用“人工智能”一词。 代理副总检察长特伦特 · …",
+   "regions": []
+  },
+  {
+   "title": "消息称 SpaceX 计划募资 400 亿美元，用于采购英伟达 AI 芯片",
+   "link": "https://www.ithome.com/1/010/134.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:24:50.000Z",
+   "summary": "IT之家 10 月 7 日消息，据《金融时报》报道，埃隆 · 马斯克（Elon Musk）旗下的 SpaceX 正计划募资 400 亿美元 （IT之家注：现汇率约合 2,685.79 亿元人民币） 。本轮融资由阿波罗全球管理（Apollo …",
+   "regions": []
+  },
+  {
+   "title": "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型",
+   "link": "https://www.ithome.com/1/010/132.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:19:20.000Z",
+   "summary": "IT之家 10 月 7 日消息，如果你正在寻找一款不使用人工智能的文档编辑软件，LibreOffice 或许正是适合你的选择。 开发这款开源文档编辑软件 LibreOffice 的非营利机构文档基金会（The Document Founda…",
+   "regions": []
+  },
+  {
+   "title": "库克交棒后首次：苹果新任 CEO 特努斯将主持 2026 财年第 4 财季财报会议",
+   "link": "https://www.ithome.com/1/010/131.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:14:00.000Z",
+   "summary": "IT之家 10 月 7 日消息，科技媒体 AppleInsider 昨日（10 月 6 日）发布博文，报道称苹果公司确认将于美国东部时间 11 月 2 日公布苹果公司 2026 财年（2025 年 9 月 28 日至 2026 年 9 月 …",
+   "regions": []
+  },
+  {
+   "title": "微软 Microsoft 365 遇冷：荷兰税务部门拟在 2028 年前寻找开源协作方案",
+   "link": "https://www.ithome.com/1/010/130.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T23:01:20.000Z",
+   "summary": "IT之家 10 月 7 日消息，科技媒体 NeoWin 昨日（10 月 6 日）发布博文， 报道称荷兰税务海关总署计划将邮件和日历从 Microsoft 365 云端迁至本地服务器，并在 2027~2028 年评估欧洲开源存储与协作方案。 …",
+   "regions": []
+  },
+  {
+   "title": "消息称苹果发力智能家居：将与 LG 联合开发智能门铃、门锁以及恒温器",
+   "link": "https://www.ithome.com/1/010/129.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T22:59:12.000Z",
+   "summary": "IT之家 10 月 7 日消息，据彭博社马克 · 古尔曼报道，苹果公司即将发力智能家居设备赛道，其中将包含门铃、恒温器以及其他配件，这批产品是通过与 LG 电子开展一次不同寻常的合作所开发的。 知情人士透露，这批产品将归入一套设备生态体系，…",
+   "regions": []
+  },
+  {
+   "title": "iFixit 拆解苹果 Apple Watch Series 12：电池更易拆，屏幕仍是维修难点",
+   "link": "https://www.ithome.com/1/010/128.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T22:53:22.000Z",
+   "summary": "IT之家 10 月 7 日消息，国外维修团队 iFixit 昨日（10 月 6 日）发布视频， 拆解苹果 Apple Watch Series 12 与 Apple Watch Ultra 4 两款智能手表，最终打出 4/10 可维修得分。…",
+   "regions": []
+  },
+  {
+   "title": "已挖出十几万漏洞，Anthropic 向更多安全团队开放其最强 Claude 模型",
+   "link": "https://www.ithome.com/1/010/127.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T22:50:13.000Z",
+   "summary": "IT之家 10 月 7 日消息，据路透社报道，Anthropic 正在扩大一项计划，允许经过审核的网络安全专业人员在更少安全防护的情况下测试其最强大的人工智能模型，此前该公司的“玻璃翼计划（Project Glasswing）”今年已帮助发…",
+   "regions": []
+  },
+  {
+   "title": "谷歌推出 EmbeddingGemma 2：支持多模态、7.4 亿参数量化手机端运行只需 191MB 内存",
+   "link": "https://www.ithome.com/1/010/125.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T22:41:19.000Z",
+   "summary": "IT之家 10 月 7 日消息，去年谷歌推出了 EmbeddingGemma，为开发者提供轻量高质量的文本嵌入方案，下载量已超 2000 万次，广泛应用于端侧搜索工具和隐私优先检索增强生成（ RAG ）管线。 如今谷歌正式推出 Embedd…",
+   "regions": []
+  },
+  {
+   "title": "小米米家智能晾衣机 3 Max 今日开售：首创柔烘除菌专区，首发国补价 2699 元",
+   "link": "https://www.ithome.com/1/010/126.htm",
+   "source": "IT之家",
+   "time": "2026-10-06T20:59:09.000Z",
+   "summary": "IT之家 10 月 7 日消息，米家智能晾衣机 3 Max 今日 20:00 正式开售，首发国补价 2698.75 元。 京东 米家【重磅新品】电动晾衣架 3 Max 柔烘除菌超薄隐形阳台智能升降晾衣机 2698.75 元 直达链接 该机是…",
+   "regions": []
+  },
+  {
    "title": "德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批",
    "link": "https://www.ithome.com/1/010/124.htm",
    "source": "IT之家",
@@ -956,6 +1084,448 @@
  ],
  "world": [
   {
+   "title": "俄南千岛群岛附近发生4.6级地震",
+   "link": "https://sputniknews.cn/20261007/1073516401.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T23:56:05.000Z",
+   "summary": "俄罗斯卫星通讯社南萨哈林斯克10月7日电 俄罗斯南萨哈林斯克地震台台长谢苗诺娃向卫星通讯社表示，10月7日，南千岛群岛附近发生4.6级地震，希科坦岛有震感。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.9】24 km WSW of Fry, Greece",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0md",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T23:43:58.171Z",
+   "summary": "美国地质调查局官方监测：24 km WSW of Fry, Greece发生 3.9 级地震，震源深度 未知。",
+   "regions": [
+    "希腊",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "朝中社社评批美涉台举动：台湾问题怎么解决完全是中国人民自己的事情",
+   "link": "https://sputniknews.cn/20261007/1073516262.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T23:43:39.000Z",
+   "summary": "据朝中社报道，朝鲜国际问题评论家金明哲发表文章“美国正在轻举妄动”，批评美国涉台举动。",
+   "regions": [
+    "台海",
+    "朝鲜半岛",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄联邦委员会主席呼吁联合国现实化中立国地位",
+   "link": "https://sputniknews.cn/20261007/1073516152.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T23:34:02.000Z",
+   "summary": "俄罗斯卫星通讯社土库曼巴希10月7日电 据卫星通讯社记者报道，俄罗斯联邦委员会主席马特维延科呼吁联合国分析其文件并使中立国地位切合现实，使其不再只是装饰性地位。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "特朗普承诺美国将用无与伦比的新型无人机震惊世界",
+   "link": "https://sputniknews.cn/20261007/1073516036.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T23:25:46.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿10月7日电 美国总统特朗普10月6日表示，美国正准备部署一系列新型军用无人机，其质量将超越世界上所有现有同类产品。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "中方回应法德鼓动欧盟强化保护主义工具：保护主义提升不了竞争力",
+   "link": "https://sputniknews.cn/20261007/1073515897.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T23:15:16.000Z",
+   "summary": "就法德要求欧盟强化贸易防御等保护主义工具，中国商务部新闻发言人10月6日表示，保护主义提升不了竞争力，“脱钩断链”只会损人不利己。中国外交部发言人当日也指出，希望欧方同中方相向而行，通过对话协商解决彼此关切，共同维护全球产供链稳定畅通，推动…",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "金正恩向普京致生日贺电，重申对普京和俄罗斯始终不变的支持",
+   "link": "https://sputniknews.cn/20261007/1073515786.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T23:12:55.000Z",
+   "summary": "据朝中社报道，朝鲜最高领导人金正恩在俄罗斯总统普京10月7日生日之际致贺电，向他致以亲切的祝贺和祝愿。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "世界银行下调柬埔寨2026年经济增长预期至3.5%",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708566.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T22:56:22.000Z",
+   "summary": "中新社金边10月6日电 (杨强 张堰林)世界银行10月6日发布最新报告，将柬埔寨2026年经济增长预期下调至3.5%。从中期来看，该报告预测柬埔寨经济增长将在2027年反弹至4.0%，并在2028年达到5.0%。",
+   "regions": []
+  },
+  {
+   "title": "德国8月工业新订单环比大幅下降",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708565.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T22:55:50.000Z",
+   "summary": "中新社柏林10月6日电 (记者 马秀秀)德国联邦统计局6日公布的数据显示，经季节和日历调整后，德国8月工业新订单环比下降10.6%，创下今年年初以来最大降幅。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "德国选择党成员首次担任联邦州议会议长",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708564.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T22:55:09.000Z",
+   "summary": "中新社柏林10月6日电 德国萨克森-安哈尔特州(萨安州)新一届议会6日在州首府马格德堡举行首次会议。德国极右翼政党德国选择党议员托比亚斯·劳施当选为议会议长。这是德国首次由选择党成员担任联邦州议会议长。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄科学院院长：俄罗斯正按计划推进月球研究计划",
+   "link": "https://sputniknews.cn/20261007/1073515674.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T22:54:18.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月7日电 俄罗斯科学院院长克拉斯尼科夫在接受卫星通讯社采访时表示，俄罗斯正按计划推进月球研究计划。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "Solar power transforms lives in remote Amazon communities",
+   "link": "https://newsus.cgtn.com/news/2026-10-07/Solar-power-transforms-lives-in-remote-Amazon-communities-1R2nwLgEGhq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T22:53:08.000Z",
+   "summary": "Solar power transforms lives in remote Amazon communities",
+   "regions": []
+  },
+  {
+   "title": "政府军加大攻势 胡塞武装称实施“毁灭性”打击 也门冲突或陷入拉锯",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708569.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T22:45:27.000Z",
+   "summary": "近日，也门政府军与胡塞武装的交火进一步升级，沙特主导的多国联军也加大对胡塞武装的打击，冲突呈现出战线扩大、烈度上升的态势。胡塞武装6日表示，当天在也门南部拉赫季省对“沙特支持的武装人员集结地”发动数十次袭击，造成对方200多人伤亡，并称这一…",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "驻日美军涉嫌抢劫杀人案细节曝出 嫌疑人拒认罪",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708568.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T22:43:09.000Z",
+   "summary": "日本媒体6日披露驻日美军涉嫌抢劫杀人案细节，引发民众愤慨。警方怀疑，涉案美军士兵用酒店客房内的电话线将一名日本女性杀害，抢走钱包等物品后逃走，并更换衣物试图躲避追捕。被捕后，嫌疑人面对讯问均回答“不知道”，拒绝认罪。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "美国8月贸易逆差达1056亿美元 创一年多来最高值",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708563.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-06T22:41:47.000Z",
+   "summary": "中新社华盛顿10月6日电 (记者 沙晗汀)美国商务部当地时间6日公布数据显示，美国8月商品和服务贸易逆差升至1056亿美元，是自2025年3月以来的最高值。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄北千岛群岛附近发生6.1级地震",
+   "link": "https://sputniknews.cn/20261007/1073515568.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T22:37:12.000Z",
+   "summary": "俄罗斯卫星通讯社南萨哈林斯克10月7日电 俄罗斯南萨哈林斯克地震台台长谢苗诺娃向卫星通讯社表示，北千岛群岛海岸附近7日凌晨记录到6.1级地震，帕拉穆希尔岛有震感。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】161 km ESE of Chignik, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvffdw",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T22:33:02.530Z",
+   "summary": "美国地质调查局官方监测：161 km ESE of Chignik, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】10 km SSW of Pa‘auilo, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051227",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T22:30:03.880Z",
+   "summary": "美国地质调查局官方监测：10 km SSW of Pa‘auilo, Hawaii发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊拉克一名警察在“伊斯兰国”武装分子袭击中身亡",
+   "link": "https://sputniknews.cn/20261007/1073515460.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T22:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月7日电 伊拉克国家警察局新闻处10月6日发布消息表示，该国基尔库克省的一名警察因“伊斯兰国”（在俄被禁的恐怖组织）武装分子袭击身亡，另有四人受伤。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】Kermadec Islands, New Zealand",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ll",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T22:12:46.267Z",
+   "summary": "美国地质调查局官方监测：Kermadec Islands, New Zealand发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "新西兰",
+    "亚太"
+   ]
+  },
+  {
+   "title": "特朗普称他已安排与普京的通话",
+   "link": "https://sputniknews.cn/20261007/1073515343.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T22:06:08.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿10月7日电 美国总统特朗普表示，他已经安排了近期与俄罗斯总统普京的通话。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】10 km SSW of Pa‘auilo, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051202",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T21:59:39.650Z",
+   "summary": "美国地质调查局官方监测：10 km SSW of Pa‘auilo, Hawaii发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】10 km SSW of Pa‘auilo, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051197",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T21:57:56.860Z",
+   "summary": "美国地质调查局官方监测：10 km SSW of Pa‘auilo, Hawaii发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】189 km SW of Abepura, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0le",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T21:56:43.985Z",
+   "summary": "美国地质调查局官方监测：189 km SW of Abepura, Indonesia发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄联邦委员会主席：欧盟正在滑向军事集团",
+   "link": "https://sputniknews.cn/20261007/1073515202.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T21:52:55.000Z",
+   "summary": "俄罗斯卫星通讯社土库曼巴希10月7日电 俄罗斯联邦委员会主席马特维延科在回答卫星通讯社提问时表示，欧盟正在滑向军事集团，尽管它当初是作为统一的经济共同体而建立的。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "伊朗伊斯兰革命卫队在伊朗东南部消灭8名武装分子",
+   "link": "https://sputniknews.cn/20261007/1073514907.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T21:40:18.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰10月7日电 伊朗伊斯兰革命卫队新闻处10月6日表示，伊朗伊斯兰革命卫队在伊朗东南部锡斯坦-俾路支斯坦省开展的两次行动中，消灭了恐怖组织8名武装分子。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄外交部：亚美尼亚试图将俄方可能撤出久姆里基地的责任归咎于俄罗斯",
+   "link": "https://sputniknews.cn/20261007/1073514791.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T21:28:17.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外交部独联体国家第四司司长米哈伊尔·卡卢金在接受俄罗斯卫星通讯社采访时表示，亚美尼亚正试图将俄罗斯可能撤出久姆里军事基地的责任归咎于俄方。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "警方在巴黎学生示威行动中使用震撼弹和催泪瓦斯",
+   "link": "https://sputniknews.cn/20261007/1073514694.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T21:15:57.000Z",
+   "summary": "俄罗斯卫星通讯社巴黎电 俄罗斯卫星通讯社记者在示威行动现场发回报道，巴黎大规模学生示威行动期间爆发冲突，警方向示威者使用了震撼弹和催泪瓦斯。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】8 km S of Pa‘auilo, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051102",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T21:09:44.330Z",
+   "summary": "美国地质调查局官方监测：8 km S of Pa‘auilo, Hawaii发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "一艘悬挂利比里亚国旗的油轮在黑海遭无人艇袭击",
+   "link": "https://sputniknews.cn/20261007/1073514410.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T21:04:05.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯交通部表示，一艘悬挂利比里亚国旗的阿芙拉型油轮“里奥”号在黑海沿岸遭到无人艇袭击。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.729 million .",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001334",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-06T21:01:35.000Z",
+   "summary": "From 06/10/2026 to 07/10/2026, a Tropical Depression (maximum wind speed of 157 km/h) NINE-26 was active in Atlantic. Th…",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】197 km SE of Chiniak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvbicf",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T20:36:34.972Z",
+   "summary": "美国地质调查局官方监测：197 km SE of Chiniak, Alaska发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】198 km SE of Perryville, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvbgrt",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T20:34:34.739Z",
+   "summary": "美国地质调查局官方监测：198 km SE of Perryville, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】160 km SW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvbfeo",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T20:32:59.569Z",
+   "summary": "美国地质调查局官方监测：160 km SW of Nikolski, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.3】19 km W of Preston, Nevada",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925389",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T20:16:51.387Z",
+   "summary": "美国地质调查局官方监测：19 km W of Preston, Nevada发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】14 km NE of Mataram, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0km",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T20:15:28.171Z",
+   "summary": "美国地质调查局官方监测：14 km NE of Mataram, Indonesia发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "胡塞表示已挫败亲政府武装向曼德海峡发起的所有进攻",
+   "link": "https://sputniknews.cn/20261007/1073513944.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T20:13:00.000Z",
+   "summary": "俄罗斯卫星通讯社多哈电 也门北部的什叶派政治军事运动“安萨尔·安拉”（胡塞武装）表示，已击退亲政府武装向曼德海峡方向发起的所有进攻。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "以色列总理：以色列已消灭10月7日袭击该国的6000名哈马斯成员中的4000人",
+   "link": "https://sputniknews.cn/20261007/1073513837.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T20:07:00.000Z",
+   "summary": "俄罗斯卫星通讯社特拉维夫电 以色列总理内塔尼亚胡在哈马斯袭击事件三周年纪念日前夕表示，在加沙地带长达三年的战争中，以色列军队已消灭2023年10月7日袭击该国的6000名哈马斯成员中的4000人。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄外长：俄罗斯推动巴基斯坦与阿富汗关系正常化",
+   "link": "https://sputniknews.cn/20261007/1073513728.html",
+   "source": "卫星社中文",
+   "time": "2026-10-06T20:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外长谢尔盖•拉夫罗夫表示，阿富汗和巴基斯坦显然都希望实现关系正常化，俄罗斯正在推动这些问题的解决。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】297 km SSE of Tabiauan, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0kh",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T19:59:15.341Z",
+   "summary": "美国地质调查局官方监测：297 km SSE of Tabiauan, Philippines发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】296 km ENE of Dawson City, Canada",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0k1",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T19:08:40.492Z",
+   "summary": "美国地质调查局官方监测：296 km ENE of Dawson City, Canada发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "加拿大",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】43 km WNW of Bengkulu, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0k2",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T19:01:59.145Z",
+   "summary": "美国地质调查局官方监测：43 km WNW of Bengkulu, Indonesia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
    "title": "佩斯科夫谈及对普京而言生日当天最重要的是什么",
    "link": "https://sputniknews.cn/20261007/1073511745.html",
    "source": "卫星社中文",
@@ -1020,6 +1590,17 @@
    ]
   },
   {
+   "title": "【地震 M4.9】114 km SW of Turpan, China",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0jq",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T18:15:34.402Z",
+   "summary": "美国地质调查局官方监测：114 km SW of Turpan, China发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "俄总统助理：普京和佩泽希齐扬计划在会晤期间讨论中东局势问题",
    "link": "https://sputniknews.cn/20261007/1073513488.html",
    "source": "卫星社中文",
@@ -1027,6 +1608,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科10月6日电 俄罗斯总统助理乌沙科夫表示，俄罗斯总统普京和伊朗总统佩泽希齐扬计划在10月9日土库曼斯坦会晤期间讨论中东局势及双边合作问题。",
    "regions": [
     "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】85 km ENE of Shikotan, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ji",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T17:47:04.306Z",
+   "summary": "美国地质调查局官方监测：85 km ENE of Shikotan, Russia发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
     "俄乌"
    ]
   },
@@ -1049,6 +1641,17 @@
    "regions": [
     "俄乌",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】273 km SSW of Severo-Kuril’sk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0j2",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T17:32:11.057Z",
+   "summary": "美国地质调查局官方监测：273 km SSW of Severo-Kuril’sk, Russia发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
    ]
   },
   {
@@ -1132,6 +1735,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Nigeria mourns victims of military plane crash",
+   "link": "https://newsaf.cgtn.com/news/2026-10-07/Nigeria-mourns-victims-of-military-plane-crash-1R1nCIUQWA0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T16:32:34.000Z",
+   "summary": "President Bola Tinubu has declared three days of national mourning following the crash of a Nigerian military aircraft i…",
+   "regions": []
   },
   {
    "title": "俄总统助理：普京10月8日-9日将访问土库曼斯坦出席独联体峰会",
@@ -1325,6 +1936,30 @@
    ]
   },
   {
+   "title": "Gaza three years on: International push for two-state solution stalls",
+   "link": "https://news.cgtn.com/news/2026-10-06/Gaza-three-years-on-International-push-for-two-state-solution-stalls-1R1B52wAf2E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T14:06:17.000Z",
+   "summary": "Three years into the latest Israeli-Palestinian conflict, a ceasefire has reduced fighting, but key issues needed to end…",
+   "regions": []
+  },
+  {
+   "title": "China urges France, Germany not to push EU toward protectionism",
+   "link": "https://news.cgtn.com/news/2026-10-06/China-urges-France-Germany-not-to-push-EU-toward-protectionism-1R1K95qO6qI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T14:05:45.000Z",
+   "summary": "A spokesperson for China's Ministry of Commerce on Tuesday urged France and Germany, as major global economies, to uphol…",
+   "regions": []
+  },
+  {
+   "title": "CMG documentary reveals China's crackdown on telecom fraud in Myanmar",
+   "link": "https://news.cgtn.com/news/2026-10-06/CMG-documentary-reveals-China-s-crackdown-on-telecom-fraud-in-Myanmar-1R1C0jdaJlm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T14:05:18.000Z",
+   "summary": "CMG documentary reveals China's crackdown on telecom fraud in Myanmar",
+   "regions": []
+  },
+  {
    "title": "法国凡尔赛宫因大规模停电暂时关闭",
    "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708548.shtml",
    "source": "中新网国际",
@@ -1333,6 +1968,14 @@
    "regions": [
     "欧洲"
    ]
+  },
+  {
+   "title": "Lithuanian parliament backs lifting nuclear weapons ban",
+   "link": "https://news.cgtn.com/news/2026-10-06/Lithuanian-parliament-backs-lifting-nuclear-weapons-ban-1R1GrpwZiSI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T14:01:49.000Z",
+   "summary": "Lithuania's parliament has backed a constitutional amendment that would remove a ban on the deployment of weapons of mas…",
+   "regions": []
   },
   {
    "title": "冯德莱恩：袭击黑海民用船只的行为不可接受",
@@ -1353,6 +1996,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Trump suggests Iran can 'take out' LA, San Diego, draws backlash",
+   "link": "https://news.cgtn.com/news/2026-10-06/Trump-suggests-Iran-can-take-out-LA-San-Diego-draws-backlash-1R1FU0eBavu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T13:59:06.000Z",
+   "summary": "US President Donald Trump suggested to a crowd of his supporters in Nebraska that Iran could \"take out\" ‌a major US city…",
+   "regions": []
   },
   {
    "title": "伊朗国防部：伊朗与俄中的防务合作加强",
@@ -1500,6 +2151,14 @@
     "俄乌",
     "亚太"
    ]
+  },
+  {
+   "title": "Kenya confirms first Ebola case",
+   "link": "https://newsaf.cgtn.com/news/2026-10-06/Kenya-confirms-first-Ebola-case-1R1rxfwah8Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T12:13:27.000Z",
+   "summary": "Kenya has confirmed its first imported case of Ebola after a Kenyan citizen who had been living in the Democratic Republ…",
+   "regions": []
   },
   {
    "title": "世卫组织：受访欧洲年轻人中三分之二经历过童年逆境",
@@ -1740,6 +2399,22 @@
    ]
   },
   {
+   "title": "Francis Halzen wins 2026 Nobel Physics Prize for IceCube neutrino work",
+   "link": "https://news.cgtn.com/news/2026-10-06/news-1R1tuHsNFIs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T09:48:29.000Z",
+   "summary": "Francis Halzen wins 2026 Nobel Physics Prize for IceCube neutrino work",
+   "regions": []
+  },
+  {
+   "title": "France test-fires new nuclear-capable missile without warhead carried",
+   "link": "https://news.cgtn.com/news/2026-10-06/news-1R1sVlm6uVG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T09:40:31.000Z",
+   "summary": "France on Tuesday test-fired a strategic ballistic missile without a nuclear warhead from a submarine off the coast of F…",
+   "regions": []
+  },
+  {
    "title": "印尼一商贸中心发生的强烈爆炸致近60栋建筑受损",
    "link": "https://sputniknews.cn/20261006/1073507979.html",
    "source": "卫星社中文",
@@ -1781,6 +2456,14 @@
    ]
   },
   {
+   "title": "Yemen's Houthis claim missile strike on Saudi Arabia's Abha airport",
+   "link": "https://news.cgtn.com/news/2026-10-06/news-1R1rqaKhzdS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T09:19:29.000Z",
+   "summary": "Yemen's Houthi group said on Tuesday it had launched a fresh ballistic missile strike on Abha International Airport in s…",
+   "regions": []
+  },
+  {
    "title": "俄国防部：俄防空系统过去一昼夜击落乌军1750架无人机和17枚“火烈鸟”导弹",
    "link": "https://sputniknews.cn/20261006/1073507720.html",
    "source": "卫星社中文",
@@ -1801,6 +2484,30 @@
    ]
   },
   {
+   "title": "A hotline to call when you have an issue – Meet China's 12345",
+   "link": "https://news.cgtn.com/news/2026-10-06/-A-hotline-to-call-when-you-have-an-issue-Meet-China-s-12345-1R1nyL17wmQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T09:05:15.000Z",
+   "summary": "A hotline to call when you have an issue – Meet China's 12345",
+   "regions": []
+  },
+  {
+   "title": "Gaza after three years: Why stopping the war is easier than ending it",
+   "link": "https://news.cgtn.com/news/2026-10-06/Gaza-after-three-years-Why-stopping-the-war-is-easier-than-ending-it-1R16WLa2cDK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T09:02:29.000Z",
+   "summary": "Gaza after three years: Why stopping the war is easier than ending it",
+   "regions": []
+  },
+  {
+   "title": "MSF warns of Ebola surge in DRC's North Kivu province",
+   "link": "https://newsaf.cgtn.com/news/2026-10-06/MSF-warns-of-Ebola-surge-in-DRC-s-North-Kivu-province-1R1nUuaes2A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T08:57:06.000Z",
+   "summary": "As of October 2, the World Health Organization had recorded 8,463 cases and 4,082 deaths since the emergence of the Bund…",
+   "regions": []
+  },
+  {
    "title": "特朗普：伊朗在冲突中或摧毁洛杉矶和圣迭戈",
    "link": "https://sputniknews.cn/20261006/1073507498.html",
    "source": "卫星社中文",
@@ -1810,6 +2517,14 @@
     "中东",
     "美洲"
    ]
+  },
+  {
+   "title": "UN rights council condemns attacks on civilians in Sudan",
+   "link": "https://newsaf.cgtn.com/news/2026-10-06/UN-rights-council-condemns-attacks-on-civilians-in-Sudan-1R1hD2zb7Bm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T08:49:49.000Z",
+   "summary": "The UN Human Rights Council on Monday condemned attacks on civilians in Sudan, including indiscriminate aerial bombardme…",
+   "regions": []
   },
   {
    "title": "【地震 M4.9】55 km ESE of Kokopo, Papua New Guinea",
@@ -1898,6 +2613,22 @@
    ]
   },
   {
+   "title": "Three years on, Gaza faces heavy losses and an uncertain future",
+   "link": "https://news.cgtn.com/news/2026-10-06/Three-years-on-Gaza-faces-heavy-losses-and-an-uncertain-future-1R1dWVi4wbS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T07:36:24.000Z",
+   "summary": "October 7 marks three years since the conflict began. Gaza is now devastated, with rubble strewn across much of the terr…",
+   "regions": []
+  },
+  {
+   "title": "International Geodiversity Day: Silent force sustaining life on Earth",
+   "link": "https://news.cgtn.com/news/2026-10-06/International-Geodiversity-Day-Silent-force-sustaining-life-on-Earth-1R1f4gZxGCs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T07:01:14.000Z",
+   "summary": "Tuesday marks the International Geodiversity Day. Every year on October 6, it highlights the crucial role of geodiversit…",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.5】60 km WNW of Colchani, Bolivia",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzva",
    "source": "USGS地震台网",
@@ -1979,6 +2710,14 @@
    ]
   },
   {
+   "title": "Flydubai attack: Questions mount as Israeli sources cite Gaza motive",
+   "link": "https://news.cgtn.com/news/2026-10-06/Flydubai-attack-Questions-mount-as-Israeli-sources-cite-Gaza-motive--1R148xelEWY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T05:53:56.000Z",
+   "summary": "The co-pilot accused of attacking the captain of a flydubai flight to Tel Aviv is assessed to have acted alone, accordin…",
+   "regions": []
+  },
+  {
    "title": "北约将在土耳其举行跨两海Nusret演习",
    "link": "https://sputniknews.cn/20261006/1073506284.html",
    "source": "卫星社中文",
@@ -2008,6 +2747,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Japan protests after US Marine arrested over Okinawa killing",
+   "link": "https://news.cgtn.com/news/2026-10-06/Japan-protests-after-US-Marine-arrested-over-Okinawa-killing-1R14o6a0KuA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T05:01:12.000Z",
+   "summary": "Japan protests after US Marine arrested over Okinawa killing",
+   "regions": []
   },
   {
    "title": "【地震 M4.9】State of Yap, Federated States of Micronesia",
@@ -2075,6 +2822,14 @@
    ]
   },
   {
+   "title": "Pakistan, Türkiye agree to deploy forces to Saudi Arabia",
+   "link": "https://news.cgtn.com/news/2026-10-06/Pakistan-T-rkiye-agree-to-deploy-forces-to-Saudi-Arabia-1R0VOzWedZS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T03:50:05.000Z",
+   "summary": "Pakistan and Türkiye have agreed to provide military forces and capabilities and ensure their rapid deployment to Saudi …",
+   "regions": []
+  },
+  {
    "title": "沙特主导联军空袭胡塞武装遭反击",
    "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708377.shtml",
    "source": "中新网国际",
@@ -2094,6 +2849,14 @@
     "印尼",
     "亚太"
    ]
+  },
+  {
+   "title": "New York declares disaster emergency over measles outbreak",
+   "link": "https://news.cgtn.com/news/2026-10-06/New-York-declares-disaster-emergency-over-measles-outbreak-1R0Xk5HJxLO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T03:36:05.000Z",
+   "summary": "New York State Governor Kathy Hochul issued an executive order on Monday declaring a \"State Disaster Emergency\" over a r…",
+   "regions": []
   },
   {
    "title": "五角大楼将测试用于拦截无人机的作战激光和微波武器",
@@ -2125,6 +2888,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "How can the world build a sustainable future? Start with engineers",
+   "link": "https://news.cgtn.com/news/2026-10-06/How-can-the-world-build-a-sustainable-future-Start-with-engineers-1QSZW2ncewU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-06T03:11:37.000Z",
+   "summary": "How can the world build a sustainable future? Start with engineers",
+   "regions": []
   },
   {
    "title": "莫斯科市长：10月5日晚至6日凌晨650架无人机飞向莫斯科地区",
@@ -2392,6 +3163,32 @@
    ]
   },
   {
+   "title": "Foreign Ministry: Taiwan question brooks no external interference",
+   "link": "https://news.cgtn.com/news/2026-10-06/Foreign-Ministry-Taiwan-question-brooks-no-external-interference-1R1HTHN2zzq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T14:06:23.000Z",
+   "summary": "The Taiwan question is China's internal affair, and resolving the Taiwan question is a matter for the Chinese people the…",
+   "regions": [
+    "台湾",
+    "台海",
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China firmly opposes US arms sales to China's Taiwan region",
+   "link": "https://news.cgtn.com/news/2026-10-06/China-firmly-opposes-US-arms-sales-to-China-s-Taiwan-region-1R1HnMjBpT2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T14:02:26.000Z",
+   "summary": "China firmly opposes US arms sales to China's Taiwan region",
+   "regions": [
+    "台湾",
+    "台海",
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "15名中国香港运动员将出战达喀尔青奥会参与12个项目角逐",
    "link": "https://www.chinanews.com.cn/dwq/2026/10-06/10708538.shtml",
    "source": "中新网滚动",
@@ -2473,6 +3270,14 @@
  ],
  "cn": [
   {
+   "title": "Atlanta zoo to debut new pandas and habitat",
+   "link": "https://newsus.cgtn.com/news/2026-10-07/Atlanta-zoo-to-debut-new-pandas-and-habitat--1R2e8bQYiNq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T22:54:38.000Z",
+   "summary": "Atlanta zoo to debut new pandas and habitat",
+   "regions": []
+  },
+  {
    "title": "《只此青绿》千场纪念在北京上演 足迹已达海内外近90城",
    "link": "https://www.chinanews.com.cn/cul/2026/10-06/10708546.shtml",
    "source": "中新网滚动",
@@ -2508,6 +3313,42 @@
    "time": "2026-10-06T14:16:23.000Z",
    "summary": "山野风险不容小觑，不论是否有户外徒步经验，都要提前科学规划，量力而行。一旦遇到突发状况该如何自救？来看专业人员的提示。",
    "regions": []
+  },
+  {
+   "title": "CMG documentary reveals China's crackdown on telecom fraud in Myanmar",
+   "link": "https://news.cgtn.com/news/2026-10-06/CMG-documentary-reveals-China-s-crackdown-on-telecom-fraud-in-Myanmar-1R1C0jdaJlm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T14:05:18.000Z",
+   "summary": "CMG documentary reveals China's crackdown on telecom fraud in Myanmar",
+   "regions": [
+    "缅甸",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "China urges EU to keep industrial, supply chains stable with China",
+   "link": "https://news.cgtn.com/news/2026-10-06/China-urges-EU-to-keep-industrial-supply-chains-stable-with-China-1R1FMZVbLe8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T14:01:19.000Z",
+   "summary": "A Chinese Foreign Ministry spokesperson on Tuesday expressed hope that the EU will work with China in the same direction…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China urges Philippines to stop provocations in South China Sea",
+   "link": "https://news.cgtn.com/news/2026-10-06/China-urges-Philippines-to-stop-provocations-in-South-China-Sea-1R1GFps5Tmo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T13:59:50.000Z",
+   "summary": "A Chinese Foreign Ministry spokesperson on Tuesday urged the Philippine side to immediately stop its infringement and pr…",
+   "regions": [
+    "菲律宾",
+    "南海",
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "外交部：希望欧方同中方相向而行，通过对话协商解决彼此关切",
@@ -2702,6 +3543,44 @@
    ]
   },
   {
+   "title": "Northeast China boosts rural development through agritourism",
+   "link": "https://news.cgtn.com/news/2026-10-06/Northeast-China-boosts-rural-development-through-agritourism-1R0XKWcnTzy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T11:13:43.000Z",
+   "summary": "Northeast China boosts rural development through agritourism",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "How digital intelligence makes urban governance smarter",
+   "link": "https://news.cgtn.com/news/2026-10-06/How-digital-intelligence-makes-urban-governance-smarter-1R1jBQS5kWI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T11:11:04.000Z",
+   "summary": "How digital intelligence makes urban governance smarter",
+   "regions": []
+  },
+  {
+   "title": "When residents call: A day with a community worker",
+   "link": "https://news.cgtn.com/news/2026-10-06/When-residents-call-A-day-with-a-community-worker-1R1iHpX1iqA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T11:08:31.000Z",
+   "summary": "When residents call: A day with a community worker",
+   "regions": []
+  },
+  {
+   "title": "Hotline delivers: Road repairs make travel safer for residents",
+   "link": "https://news.cgtn.com/news/2026-10-06/Hotline-delivers-Road-repairs-make-travel-safer-for-residents-1R1j6le918k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T10:57:50.000Z",
+   "summary": "Luxian County in southwest China's Sichuan Province has been seeking to make its 12345 hotline more than a channel for h…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "沿黄九省（区）联动打造黄河全域多元业态自驾旅游廊道",
    "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708489.shtml",
    "source": "中新网社会",
@@ -2711,6 +3590,14 @@
     "西宁",
     "青海"
    ]
+  },
+  {
+   "title": "When cities make room for growing older",
+   "link": "https://news.cgtn.com/news/2026-10-06/When-cities-make-room-for-growing-older-1R1wJOnym1a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T10:45:38.000Z",
+   "summary": "When cities make room for growing older",
+   "regions": []
   },
   {
    "title": "全国青少年无人机创新教育竞赛广东省选拔赛在河源举行",
@@ -2750,6 +3637,17 @@
    "regions": []
   },
   {
+   "title": "A hotline to call when you have an issue – Meet China's 12345",
+   "link": "https://news.cgtn.com/news/2026-10-06/-A-hotline-to-call-when-you-have-an-issue-Meet-China-s-12345-1R1nyL17wmQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T09:05:15.000Z",
+   "summary": "A hotline to call when you have an issue – Meet China's 12345",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "国庆假期广西特色民俗游“热”力足",
    "link": "https://www.chinanews.com.cn/gn/2026/10-06/10708452.shtml",
    "source": "中新网中国",
@@ -2771,6 +3669,17 @@
    ]
   },
   {
+   "title": "Bronze statue and twin pagodas reveal Hainan’s hidden cultural depth",
+   "link": "https://news.cgtn.com/news/2026-10-06/Bronze-statue-and-twin-pagodas-reveal-Hainan-s-hidden-cultural-depth-1R1kzWvP7KE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T08:45:32.000Z",
+   "summary": "Hainan Province in southern China is known for its coconut palms and coastal scenery. But beneath that familiar image li…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "学习手记 | 过一个风清气正的节日",
    "link": "https://www.chinanews.com.cn/gn/2026/10-06/10708449.shtml",
    "source": "中新网中国",
@@ -2786,6 +3695,17 @@
    "summary": "重庆石柱县华溪村，地处群山深处。",
    "regions": [
     "重庆"
+   ]
+  },
+  {
+   "title": "Tradition comes alive in China's ancient towns on National Day holiday",
+   "link": "https://news.cgtn.com/news/2026-10-06/Tradition-comes-alive-in-China-s-ancient-towns-on-National-Day-holiday-1R1jvHDnEBi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T07:57:31.000Z",
+   "summary": "Ancient towns and historic blocks across China have rolled out a range of activities combining traditional folk customs …",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2835,6 +3755,33 @@
    "regions": []
   },
   {
+   "title": "Chaka Salt Lake welcomes National Day holiday crowds",
+   "link": "https://news.cgtn.com/news/2026-10-06/Chaka-Salt-Lake-welcomes-National-Day-holiday-crowds-1R1iq1uWzBe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T07:44:51.000Z",
+   "summary": "Chaka Salt Lake in Wulan County, Qinghai Province saw a surge in visitors during the first five days of the National Day…",
+   "regions": []
+  },
+  {
+   "title": "Music, dance and colorful costumes: Thousands join a age-old tradition",
+   "link": "https://news.cgtn.com/news/2026-10-06/Music-dance-and-colorful-costumes-Thousands-join-a-age-old-tradition-1R01Weo4s0M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T07:44:41.000Z",
+   "summary": "Music, dance and colorful costumes: Thousands join a age-old tradition",
+   "regions": []
+  },
+  {
+   "title": "Shajiabang: A historic wetland of wartime heroism",
+   "link": "https://news.cgtn.com/news/2026-10-06/Shajiabang-A-historic-wetland-of-wartime-heroism-1R1hHc0MTRe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T07:43:18.000Z",
+   "summary": "Amid the misty reed marshes by Yangcheng Lake, Shajiabang in Changshu, east China's Jiangsu Province is a famous histori…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "爱打太极拳的意大利姑娘：把假期留给中国山水和乡村",
    "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708440.shtml",
    "source": "中新网社会",
@@ -2854,6 +3801,14 @@
    "regions": [
     "上海"
    ]
+  },
+  {
+   "title": "International Geodiversity Day: Silent force sustaining life on Earth",
+   "link": "https://news.cgtn.com/news/2026-10-06/International-Geodiversity-Day-Silent-force-sustaining-life-on-Earth-1R1f4gZxGCs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T07:01:14.000Z",
+   "summary": "Tuesday marks the International Geodiversity Day. Every year on October 6, it highlights the crucial role of geodiversit…",
+   "regions": []
   },
   {
    "title": "从“好人成林”到“好人森林” 泰州市海陵区厚植“好人文化”引领时代新风",
@@ -2893,6 +3848,14 @@
    "regions": [
     "河南"
    ]
+  },
+  {
+   "title": "Hollow-core fiber: A new highway for AI data transmission",
+   "link": "https://news.cgtn.com/news/2026-10-06/Hollow-core-fiber-A-new-highway-for-AI-data-transmission-1R18v2mYufC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T06:41:05.000Z",
+   "summary": "Hollow-core fiber: A new highway for AI data transmission",
+   "regions": []
   },
   {
    "title": "厦门点面结合布局AI应用 赋能千行百业转型升级",
@@ -3116,6 +4079,14 @@
    ]
   },
   {
+   "title": "How can the world build a sustainable future? Start with engineers",
+   "link": "https://news.cgtn.com/news/2026-10-06/How-can-the-world-build-a-sustainable-future-Start-with-engineers-1QSZW2ncewU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T03:11:37.000Z",
+   "summary": "How can the world build a sustainable future? Start with engineers",
+   "regions": []
+  },
+  {
    "title": "10万游客涌入5万人口的高原小城，面对超预期客流当地如何应对？",
    "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708375.shtml",
    "source": "中新网社会",
@@ -3301,6 +4272,14 @@
  ],
  "econ": [
   {
+   "title": "部分高速服务区推行充电“八分饱” 会成为常态吗？",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-07/10708570.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-06T22:49:15.000Z",
+   "summary": "今天是国庆假期的最后一天。这两天，不少自驾车主开始陆续返程。交通运输部预计，今年国庆假期，新能源车平均出行量是日常的1.8倍，服务区充电桩再次经历大考。为了缓解排队压力，部分高速公路服务区在高峰时段推行充电“八分饱”，也就是当电量达到80%…",
+   "regions": []
+  },
+  {
    "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
    "link": "https://www.chinanews.com.cn/cj/2026/10-06/10708545.shtml",
    "source": "中新网财经",
@@ -3326,6 +4305,20 @@
    "time": "2026-10-06T14:11:47.000Z",
    "summary": "国庆假期，全国7座及7座以下小客车从10月1日0时到10月7日24时免收高速公路通行费。假期最后一天的返程计费问题也是很多车主的高频踩坑点，交通运输部提醒，千万别为省钱冒险“踩零点”驶离高速。",
    "regions": []
+  },
+  {
+   "title": "China urges France, Germany not to push EU toward protectionism",
+   "link": "https://news.cgtn.com/news/2026-10-06/China-urges-France-Germany-not-to-push-EU-toward-protectionism-1R1K95qO6qI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T14:05:45.000Z",
+   "summary": "A spokesperson for China's Ministry of Commerce on Tuesday urged France and Germany, as major global economies, to uphol…",
+   "regions": [
+    "中国",
+    "亚太",
+    "法国",
+    "欧洲",
+    "德国"
+   ]
   },
   {
    "title": "专家：RCEP为中小企业深耕亚太市场创造机遇",
@@ -3374,6 +4367,17 @@
    "summary": "中新网10月6日电 据商务部网站消息，商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问。",
    "regions": [
     "欧洲"
+   ]
+  },
+  {
+   "title": "China's National Day holiday box office tops 950 million yuan",
+   "link": "https://news.cgtn.com/news/2026-10-06/China-s-National-Day-holiday-box-office-tops-950-million-yuan-1R1DFeIL2Qo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T12:21:33.000Z",
+   "summary": "China's National Day holiday box office tops 950 million yuan",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3436,6 +4440,25 @@
    "source": "中新网财经",
    "time": "2026-10-06T08:54:33.000Z",
    "summary": "中新社福建永安10月6日电 题：畲乡“林中仙子”引客来 山村吃上“生态饭”",
+   "regions": []
+  },
+  {
+   "title": "Discover China’s vibrant contemporary glass art scene in Beijing",
+   "link": "https://news.cgtn.com/news/2026-10-06/Discover-China-s-vibrant-contemporary-glass-art-scene-in-Beijing-1R1nAm7oHVm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T08:47:31.000Z",
+   "summary": "A major national arts-funded exhibition featuring 110 sets of Chinese contemporary glass artworks, which opened recently…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Shanghai's toilet reform improves quality of life",
+   "link": "https://news.cgtn.com/news/2026-10-06/Shanghai-s-toilet-reform-improves-quality-of-life-1R06xfSkG9a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-06T07:31:12.000Z",
+   "summary": "Shanghai's toilet reform improves quality of life",
    "regions": []
   },
   {
@@ -3572,5 +4595,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-06T19:39:57.968Z"
+ "updatedAt": "2026-10-07T03:56:16.016Z"
 }
