@@ -130,6 +130,14 @@
    "regions": []
   },
   {
+   "title": "SonnetDB 4.0.0 发布：完善 SQL 与多模型协作，强化部署和恢复边界",
+   "link": "https://www.oschina.net/news/502847",
+   "source": "开源中国",
+   "time": "2026-10-06T18:53:50.000Z",
+   "summary": "SonnetDB 4.0.0 已在 GitHub 正式发布。SonnetDB 是使用 C# / .NET 10 构建的开源多模型数据引擎，采用 MIT 许可证，支持嵌入式运行和独立 Server 部署。项目以数据库目录为持久化边界，为时序、…",
+   "regions": []
+  },
+  {
    "title": "德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批",
    "link": "https://www.ithome.com/1/010/124.htm",
    "source": "IT之家",
@@ -922,6 +930,14 @@
    "regions": []
   },
   {
+   "title": "AuthX 正式更名 GrantForge：我们重新做了一遍权限管理系统",
+   "link": "https://www.oschina.net/news/502846",
+   "source": "开源中国",
+   "time": "2026-10-06T01:39:23.000Z",
+   "summary": "做开源项目有时候最难的，不是增加一个功能。 而是你做到某个阶段以后，突然意识到： 原来的架构，已经装不下你真正想做的东西了。 AuthX 就经历了这样一个阶段。 最开始，我们希望它能够解决最常见的用户、角色、菜单、按钮、API 权限问题。 …",
+   "regions": []
+  },
+  {
    "title": "维基媒体：OpenAI 失控 AI 智能体或引发其 5 月数据服务故障",
    "link": "https://www.ithome.com/1/009/947.htm",
    "source": "IT之家",
@@ -1091,6 +1107,17 @@
    "summary": "俄罗斯卫星通讯社南萨哈林斯克10月7日电 俄罗斯南萨哈林斯克地震台台长谢苗诺娃向卫星通讯社表示，10月7日，南千岛群岛附近发生4.6级地震，希科坦岛有震感。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】27 km WSW of Fry, Greece",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0mf",
+   "source": "USGS地震台网",
+   "time": "2026-10-06T23:50:36.679Z",
+   "summary": "美国地质调查局官方监测：27 km WSW of Fry, Greece发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "希腊",
+    "欧洲"
    ]
   },
   {
@@ -2236,6 +2263,16 @@
    "summary": "联合国儿童基金会周二表示，刚果民主共和国东部的埃博拉疫情正在夺走儿童所依赖的人，一些儿童自身也死于这种致命疾病。",
    "regions": [
     "非洲"
+   ]
+  },
+  {
+   "title": "首届全球热浪论坛开幕 呼吁应对极端高温并增加投资",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142951",
+   "source": "联合国新闻",
+   "time": "2026-10-06T12:00:00.000Z",
+   "summary": "首届全球热浪论坛周二在泰国曼谷开幕，旨在推动为应对极端高温增加资金投入并加快解决方案实施。近600名科学家、商界领袖、慈善家和卫生专家参加论坛。",
+   "regions": [
+    "亚太"
    ]
   },
   {
@@ -4595,5 +4632,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-07T03:56:16.016Z"
+ "updatedAt": "2026-10-07T10:50:44.140Z"
 }
