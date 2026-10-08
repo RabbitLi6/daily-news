@@ -2,6 +2,566 @@
  "date": "2026-10-08",
  "tech": [
   {
+   "title": "Newtech 推出 1U 四盘位 NAS：基于 AMD 六核 \"Zen 5\" EPYC，提供 10GbE",
+   "link": "https://www.ithome.com/1/010/630.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T09:12:54.000Z",
+   "summary": "IT之家 10 月 8 日消息，日本企业 Newtech 当地时间昨日宣布推出 1U 机架式 NAS 设备 SmartNAS2000。该设备运行 Windows Server IoT 2025 for Storage Workgroup 操…",
+   "regions": []
+  },
+  {
+   "title": "联发科 2026 年 9 月营收 553.99 亿新台币，同比增长 1.97%、环比下滑 13.69%",
+   "link": "https://www.ithome.com/1/010/629.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T09:07:27.000Z",
+   "summary": "IT之家 10 月 8 日消息，联发科今日（10 月 8 日）公布营收数据显示，今年前 9 个月累计营收 4,693.91 亿新台币 （IT之家注：现汇率约合 988.07 亿元人民币） ， 同比增长 5.3% 。 其中，联发科 9 月营收…",
+   "regions": []
+  },
+  {
+   "title": "小米澎程首销月锁单进展公布：上市 30 天，锁单已超过 7 万台",
+   "link": "https://www.ithome.com/1/010/628.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T09:06:05.000Z",
+   "summary": "IT之家 10 月 8 日消息，小米汽车刚刚汇报了小米澎程首销月锁单进展： 9 月 7 日 ~10 月 7 日，上市 30 天，锁单已超过 70000 台 。 据IT之家此前报道，本月初，小米汽车宣布，2026 年 9 月，小米汽车交付量超…",
+   "regions": []
+  },
+  {
+   "title": "黑鲨 2026 年度秋季新品发布会定档 10 月 30 日",
+   "link": "https://www.ithome.com/1/010/626.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T09:02:09.000Z",
+   "summary": "IT之家 10 月 8 日消息，黑鲨官方今天宣布， 黑鲨 2026 年度秋季新品发布会将在 2026 年 10 月 30 日 19:00 举办 。 据官方介绍，本次发布会的主题是「全域竞备战力觉醒」，登场的产品有全场景游戏装备等。 从黑鲨的…",
+   "regions": []
+  },
+  {
+   "title": "迈从 Ace 68 Air 2 键盘推出琥珀金 / 薄荷冰配色，289 元起",
+   "link": "https://www.ithome.com/1/010/624.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:59:30.000Z",
+   "summary": "IT之家 10 月 8 日消息，迈从 Ace 68 Air 2 键盘今日推出琥珀金 / 薄荷冰配色，现全平台开售，极地磁轴 289 元、泰山磁轴 329 元。 IT之家注意到，这款产品延续了 Ace 68 Air 超竞版的整体设计，同时在侧…",
+   "regions": []
+  },
+  {
+   "title": "Claude Haiku 5.5 来了：价格砍到四分之一，agent 能力从 0 跳到 39%",
+   "link": "https://www.oschina.net/news/502894/anthropic-claude-haiku-5-5",
+   "source": "开源中国",
+   "time": "2026-10-08T08:54:45.000Z",
+   "summary": "Anthropic 拿出了目前最快的小模型，同时一口气砍了两刀价格。10 月 7 日发布的 Claude Haiku 5.5 是 Haiku 系列第一个支持可调节 effort 设置的型号，用户可以根据场景在速度和智能之间做取舍。 价格直接…",
+   "regions": []
+  },
+  {
+   "title": "Omdia：全球 OLED 显示器面板出货量同比增长 79%，TCL 华星规划 700Hz 产品",
+   "link": "https://www.ithome.com/1/010/609.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:51:47.000Z",
+   "summary": "IT之家 10 月 8 日消息，Omdia 英国当地时间今日预测，全球 OLED 显示器面板出货量将在今年达到 610 万片， 同比增长 79% ；这一数据有望在 2027 年进一步增长至 750 万片。 ▲ 图源：Omdia 华硕继续以 …",
+   "regions": []
+  },
+  {
+   "title": "江淮汽车回应懂车帝测试尊界 V800 刹车踏板断裂：正在调查和测试，有结果后会有官方说明",
+   "link": "https://www.ithome.com/1/010/606.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:49:36.000Z",
+   "summary": "IT之家 10 月 8 日消息，针对懂车帝测试尊界 V800 刹车踏板支架断裂一事，江淮汽车方面今日向贝壳财经回应称，公司已关注到此事， 目前正在调查中，还在多方做测试，有结果后会有官方说明 。 据新浪科技报道， 江淮汽车投资者关系部门对此…",
+   "regions": []
+  },
+  {
+   "title": "微博 CEO 王高飞谈“尊界 V800 刹车踏板支架断裂”，称核心首先是有无因为刹车问题出事故的记录",
+   "link": "https://www.ithome.com/1/010/594.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:44:05.000Z",
+   "summary": "IT之家 10 月 8 日消息，今日稍早些时候，懂车帝实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络热议。 IT之家注意到，微博 CEO 王高飞今日也谈及了“尊界 V800 刹车踏板支架断裂”这…",
+   "regions": []
+  },
+  {
+   "title": "适马发布 50-120mm F2.8 DC OS 远摄变焦镜头：APS-C 画幅，适配索尼 E / 富士 X / 佳能 RF 卡口",
+   "link": "https://www.ithome.com/1/010/592.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:41:16.000Z",
+   "summary": "IT之家 10 月 8 日消息，适马今天宣布推出 50-120mm F2.8 DC OS | Contemporary 镜头。这款产品专为 APS-C 画幅无反相机打造， 等效全画幅 75-180mm 中远摄视野 ，采用轻量化设计， 全焦段…",
+   "regions": []
+  },
+  {
+   "title": "韩国“世界”号第五次发射载荷包括 5 款 LG 零部件与 Mobilint AI SoC",
+   "link": "https://www.ithome.com/1/010/587.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:38:15.000Z",
+   "summary": "IT之家 10 月 8 日消息，韩国当地时间昨日 成功进行了自研运载火箭“世界”号的第五次发射 。 IT之家注意到，根据韩媒《首尔经济日报》与 ZDNET Korea 的报道， 此次发射的载荷包括 5 款来自 LG 集团的零部件以及人工智能…",
+   "regions": []
+  },
+  {
+   "title": "联想 YOGA Pro 15 RTX Spark 笔记本上架，10 月 16 日全网开售",
+   "link": "https://www.ithome.com/1/010/586.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:34:27.000Z",
+   "summary": "IT之家 10 月 8 日消息，联想宣布 YOGA Pro 15 RTX Spark10 月 8 日正式开启预约，10 月 16 日即将全网开售。 IT之家从商品页面获悉，新品搭载 NVIDIA RTX Spark N1X 超级芯片 ，配备…",
+   "regions": []
+  },
+  {
+   "title": "中国一汽、丰田汽车、广汽集团在广州签署全新战略合作框架协议",
+   "link": "https://www.ithome.com/1/010/585.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:34:27.000Z",
+   "summary": "IT之家 10 月 8 日消息，据广州日报报道， 中国一汽、丰田汽车、广汽集团 于今日（10 月 8 日）在广东广州签署全新战略合作框架协议。广州市委书记冯忠华，市委副书记、市长孙志洋与丰田汽车社长近健太、中国一汽总经理刘亦功座谈交流并共同…",
+   "regions": []
+  },
+  {
+   "title": "一加首款新国标屏显充电宝官宣：支持 67W SUPERVOOC 闪充，10 月 12 日新品发布",
+   "link": "https://www.ithome.com/1/010/581.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:25:45.000Z",
+   "summary": "IT之家 10 月 8 日消息，一加官方今日宣布， 旗下首款新国标屏显充电宝 将在 10 月 12 日发布。 从官方预热图来看，这款充电宝定名“ 一加 SUPERVOOC 67W 口袋充 超级闪充屏显移动电源 10000 ”，预计容量为 1…",
+   "regions": []
+  },
+  {
+   "title": "网约车司机、骑手等权益保障有新规：不得滥用罚款等惩罚性措施，账号封禁必须人工审核",
+   "link": "https://www.ithome.com/1/010/579.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:24:43.000Z",
+   "summary": "IT之家 10 月 8 日消息，人力资源社会保障部今日发布《新就业形态劳动者权益保障办法（征求意见稿）》， 从即日起至 11 月 8 日 ，向社会公开征求意见。 征求意见稿规定了 平等就业和自由择业、劳动报酬、奖惩、工作时间和劳动强度、休息…",
+   "regions": []
+  },
+  {
+   "title": "AMD 苏姿丰访韩，会见三星电子联席 CEO 全永铉",
+   "link": "https://www.ithome.com/1/010/578.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:21:25.000Z",
+   "summary": "IT之家 10 月 8 日消息，据韩媒 ChosunBiz 报道，AMD 首席执行官苏姿丰昨天下午抵达韩国首尔的三星电子瑞草办公楼，会见三星电子联席 CEO 全永铉。双方会面持续了 3 个多小时，苏姿丰接受采访时表示：“三星是一家优秀的合作…",
+   "regions": []
+  },
+  {
+   "title": "全球在建加在运总装机容量最大核电基地：田湾核电 7 号机组首次并网成功",
+   "link": "https://www.ithome.com/1/010/577.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:21:12.000Z",
+   "summary": "IT之家 10 月 8 日消息，今日，中核集团宣布旗下中国核投资控股的田湾核电 7 号机组首次并网成功，正式向电网送出第一度电，为后续机组商业运行奠定坚实基础。 IT之家查询获悉， 田湾核电基地计划建设 8 台机组 ，1-6 号机组已安全稳…",
+   "regions": []
+  },
+  {
+   "title": "阿维塔 T09 概念版全球首秀定档 10 月 11 日，将同步亮相 2026 巴黎国际汽车展",
+   "link": "https://www.ithome.com/1/010/576.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:16:37.000Z",
+   "summary": "IT之家 10 月 8 日消息，阿维塔官方今日宣布， 阿维塔 T09 概念版全球首秀定档 3 天后（10 月 11 日） 。该车还将同步亮相 2026 巴黎国际汽车展。 据IT之家此前报道，今年 9 月， 阿维塔官方公布了 T09 的官图 …",
+   "regions": []
+  },
+  {
+   "title": "ROG 公布《影之刃零》联名限定装备外观图，覆盖显示器、键盘、机箱等",
+   "link": "https://www.ithome.com/1/010/575.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:16:00.000Z",
+   "summary": "IT之家 10 月 8 日消息，ROG 今日公布《影之刃零》联名限定装备外观图，含显示器、键盘、耳机、鼠标、键帽套装、NUC、机箱等。 IT之家注意到，国产武侠游戏《影之刃零》确定于 10 月 29 日正式发售 ，各平台预购已经开放。游戏首…",
+   "regions": []
+  },
+  {
+   "title": "香港恒生科技指数收跌 2.89%，创 2024 年 9 月以来新低",
+   "link": "https://www.ithome.com/1/010/574.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:15:47.000Z",
+   "summary": "IT之家 10 月 8 日消息，香港恒生指数今日收跌 1.43%， 恒生科技指数跌 2.89% 创 2024 年 9 月 26 日以来新低 。 IT之家注意到， 港股大模型“双雄”领跌 ，MINIMAX-W 跌超 13%，智谱跌超 7%。 …",
+   "regions": []
+  },
+  {
+   "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
+   "link": "https://sspai.com/post/113843",
+   "source": "少数派",
+   "time": "2026-10-08T08:10:51.000Z",
+   "summary": "最近我写了不少关于独立开发的思考，想着要汇总一下，就把Mole从开源CLI做到Mac付费软件这一路聊一聊：我当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。去年国庆我在三 ... 查看全文",
+   "regions": []
+  },
+  {
+   "title": "机械大师 CR680 机箱预售：双舱弯玻海景房，到手价 628 元",
+   "link": "https://www.ithome.com/1/010/571.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:09:56.000Z",
+   "summary": "IT之家 10 月 8 日消息，方糖机械大师 (Mechanic Master) 现已启动 CROWN 系列首款机箱 CR680 的预售。其标价 699 元，支付 99 元定金后的 最终到手价为 628 元 。 京东 机械大师 CR680 …",
+   "regions": []
+  },
+  {
+   "title": "鸿蒙智行回应尊界 V800 在懂车帝测试中刹车踏板支架断裂：尚未接到相关反馈，交付周期正常",
+   "link": "https://www.ithome.com/1/010/570.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T08:07:05.000Z",
+   "summary": "IT之家 10 月 8 日消息，今日稍早些时候，懂车帝实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络热议。 据澎湃新闻报道，就尊界 V800 被曝在懂车帝测试中刹车踏板支架断裂一事， 鸿蒙智行表…",
+   "regions": []
+  },
+  {
+   "title": "一加 16 手机支持《三角洲行动》《和平精英》《暗区突围》等游戏原生 185FPS 模式",
+   "link": "https://www.ithome.com/1/010/569.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:59:28.000Z",
+   "summary": "IT之家 10 月 8 日消息，一加官方今天宣布， 一加 16 手机支持《和平精英》《三角洲行动》《暗区突围》《穿越火线：枪战王者》《逆战：未来》《萤火突击》等头部射击游戏的原生 185FPS 模式 。 IT之家注意到，一加官方还表示，未来…",
+   "regions": []
+  },
+  {
+   "title": "OPPO、一加、真我全覆盖，ColorOS17 正式版升级计划开启",
+   "link": "https://www.ithome.com/1/010/568.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:58:48.000Z",
+   "summary": "IT之家 10 月 8 日消息，根据此前官方规划，OPPO 今日将正式开启 ColorOS 17 正式版升级计划，OPPO、一加、realme 真我三大品牌首批全覆盖。 从官方公布的升级时间表来看，10 月 8 日首批获得推送的机型包括 O…",
+   "regions": []
+  },
+  {
+   "title": "Manus 新一轮融资超 5 亿美元，成为中国估值最高的 AI Agent 公司",
+   "link": "https://www.oschina.net/news/502893/manus-raises-more-than-500-million-after-meta-exit",
+   "source": "开源中国",
+   "time": "2026-10-08T07:53:24.000Z",
+   "summary": "Manus 在离开 Meta 之后，拿到了它的第一笔融资：超过 5 亿美元。母公司 Butterfly Effect 星期四宣布，这轮由私募股权机构博裕资本和风投 IDG Capital 联合领投，腾讯、HSG（红杉中国）、真格基金等老股东…",
+   "regions": []
+  },
+  {
+   "title": "消息称 AMD 多款显卡 10 月起正式上调指导价，最高涨价 700 元",
+   "link": "https://www.ithome.com/1/010/565.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:46:03.000Z",
+   "summary": "IT之家 10 月 8 日消息，据博板堂旗下公众号 ChannelGate 视博合聚今日消息，AMD 总部已经通知显卡产品， 从 10 月 1 日正式执行涨价，包括国内以及国外全球市场均统一涨价 。 报道称，AMD 主要考虑到显存一颗 2G…",
+   "regions": []
+  },
+  {
+   "title": "XREAL 确认 Android XR 眼镜 AURA 起价 1279 美元，另有 1499 美元高配",
+   "link": "https://www.ithome.com/1/010/564.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:44:25.000Z",
+   "summary": "IT之家 10 月 8 日消息，XREAL 在其当地时间本月 7 日的新闻稿中确认，其 Android XR 眼镜 AURA 提供两档配置， 12GB + 256GB 定价 1279 美元 、16GB + 512GB 定价 1,499 美元…",
+   "regions": []
+  },
+  {
+   "title": "极速调度，可靠备份 OpsDump v0.2.0 桌面版发布",
+   "link": "https://www.oschina.net/news/502891",
+   "source": "开源中国",
+   "time": "2026-10-08T07:42:22.000Z",
+   "summary": "OpsDump v0.2.0 发布，新增 Windows 桌面版（Electron）。 新增 Windows 桌面客户端，双击即用、离线可用，无需浏览器或命令行 运行数据存放在用户目录，首次启动自动初始化，与安装目录隔离 服务仅本机可访问，…",
+   "regions": []
+  },
+  {
+   "title": "腾讯 WorkBuddy 上线独立文件浏览器，本地文件可直呼 AI 处理",
+   "link": "https://www.ithome.com/1/010/562.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:37:53.000Z",
+   "summary": "IT之家 10 月 8 日消息，腾讯今天宣布，旗下 AI 办公产品 WorkBuddy 现已正式上线独立文件浏览器。用户现在可以在文件资源管理器 / Finder 找到一份文件，右键选择 WorkBuddy 打开，就能在独立窗口中查看文件，…",
+   "regions": []
+  },
+  {
+   "title": "GPT-6 全球推送，聊天回答里长出了计算器和地图",
+   "link": "https://www.oschina.net/news/502890/openai-gpt-6-for-everyone",
+   "source": "开源中国",
+   "time": "2026-10-08T07:29:16.000Z",
+   "summary": "OpenAI 这次是把 GPT-6 推给了所有人。10 月 7 日起，Plus、Pro、Business、Enterprise 用户陆续用上 GPT-6 Sol；10 月 8 日，Free 和 Go 用户也拿到 GPT-6 Luna。和模型…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 奥尔特曼：世界应接受 AI 带来的部分“坏事”以换取巨大红利",
+   "link": "https://www.ithome.com/1/010/561.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:27:23.000Z",
+   "summary": "IT之家 10 月 8 日消息，在接受 Politico 新播客《Decoded》首期节目采访时，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）表示， 世界应接受人工智能带来的部分“坏事”，以换取技术带来的巨大益处与用户…",
+   "regions": []
+  },
+  {
+   "title": "江淮汽车股价跌停，投资者关系部门回应尊界 V800 测试称“出厂前都有品控流程”",
+   "link": "https://www.ithome.com/1/010/560.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:26:22.000Z",
+   "summary": "IT之家 10 月 8 日消息，今日稍早些时候，懂车帝实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络热议。 IT之家注意到，事件发酵后，江淮汽车今日上午 股价跌停 ，收盘 24.72 元 / 股…",
+   "regions": []
+  },
+  {
+   "title": "《生化危机：安魂曲》游戏编剧意外泄露 DLC 内容：保护伞公司创办人史宾瑟将有全新故事",
+   "link": "https://www.ithome.com/1/010/559.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:25:27.000Z",
+   "summary": "IT之家 10 月 8 日消息，《生化危机：安魂曲》是卡普空今年初发售的生存恐怖动作冒险游戏。本作 2 月面世至今已经历多个小更新，但卡普空一直没有明确说出 DLC 的开发进度。 如今，《生化危机：安魂曲》编剧哈里斯 · 奥金（Haris …",
+   "regions": []
+  },
+  {
+   "title": "消息称安卓阔直板手机排期是 2027 年底至 2028 年上半年，立项阶段有主打影像、中端、性能等机型",
+   "link": "https://www.ithome.com/1/010/558.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:22:43.000Z",
+   "summary": "IT之家 10 月 8 日消息，博主 @数码闲聊站 今日发文透露，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上。他表示，剩下几家进度较缓慢， 目前排期是 2027 年底至 2028 年上半年 。 博主…",
+   "regions": []
+  },
+  {
+   "title": "BUFFALO 发布企业级 Wi-Fi 7 接入点：BE18700，提供耐 -25℃ 低温版本",
+   "link": "https://www.ithome.com/1/010/557.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:22:05.000Z",
+   "summary": "IT之家 10 月 8 日消息，BUFFALO（巴法络）日本当地时间昨日发布了 WAPM-BETR 系列企业级三频 Wi-Fi 7 接入点 (AP)。这一产品支持 12 条数据流， 可同时连接至多 1536 台设备 。 WAPM-BETR …",
+   "regions": []
+  },
+  {
+   "title": "“芯片上车”不赚钱，消息称三星将退出车载应用处理器业务",
+   "link": "https://www.ithome.com/1/010/555.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:21:24.000Z",
+   "summary": "IT之家 10 月 8 日消息，当地时间 6 日，韩媒《文化日报》爆料称，三星负责芯片设计的系统 LSI 事业部启动大规模调整。该部门被视为三星半导体复兴的“最后一块拼图”，负责设计智能手机、汽车、机器人等设备的核心系统芯片。 据悉，系统 …",
+   "regions": []
+  },
+  {
+   "title": "一加 x 京东方第四代东方屏技术沟通会明日举行",
+   "link": "https://www.ithome.com/1/010/554.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:20:03.000Z",
+   "summary": "IT之家 10 月 8 日消息，一加 x 京东方第四代东方屏技术沟通会宣布将于 10 月 9 日 10:00 线上直播，号称“把屏幕的「通透显示」、「画面流畅」、「动态清晰」同时推到新高度”。 IT之家注意到，一加 16 手机已定档 10 …",
+   "regions": []
+  },
+  {
+   "title": "气候变化致“全球最大企鹅栖息地”群落数量锐减，失去“最大”头衔",
+   "link": "https://www.ithome.com/1/010/551.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:12:28.000Z",
+   "summary": "IT之家 10 月 8 日消息，英国 BBC 昨日（10 月 7 日）发布博文，报道称南极扎沃多夫斯基岛（Zavodovski Island）曾为全球最大帽带企鹅（chinstrap penguin）栖息地， 2011 至 2025 年间巢…",
+   "regions": []
+  },
+  {
+   "title": "微星尊爵 Prestige N16 Flip AI+ 发布：RTX Spark 翻转本，16 日开售",
+   "link": "https://www.ithome.com/1/010/547.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:07:28.000Z",
+   "summary": "IT之家 10 月 8 日消息，微星 (MSI) 今日正式发布了其基于 NVIDIA RTX Spark 超级芯片的尊爵 Prestige N16 Flip AI+ 可翻转笔记本电脑，该产品将于 16 日开售。 这一型号支持至高 128GB…",
+   "regions": []
+  },
+  {
+   "title": "工信部：2026 年 1-8 月我国电子信息制造业营收 12.8 万亿元，同比增长 20.1% ，利润总额同比增 1.1 倍",
+   "link": "https://www.ithome.com/1/010/546.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:06:51.000Z",
+   "summary": "IT之家 10 月 8 日消息，工信部近日发布 2026 年 1—8 月份电子信息制造业运行情况，2026 年 1-8 月，我国电子信息制造业生产快速增长，出口持续上行，效益改善态势稳固，投资保持稳步增长，行业整体发展态势良好。 一、生产快…",
+   "regions": []
+  },
+  {
+   "title": "Docker 推出官方 Agent 工具：YAML 定义、任意 MCP、OCI 镜像分发",
+   "link": "https://www.oschina.net/news/502889",
+   "source": "开源中国",
+   "time": "2026-10-08T07:04:48.000Z",
+   "summary": "Docker 官方上架了一个新工具：Docker Agent。定位一句话就够——「Build, run, and share AI agents with a declarative YAML config」：用 YAML 声明式配置定义 …",
+   "regions": []
+  },
+  {
+   "title": "江淮汽车方面人士回应懂车帝测试尊界 V800 刹车踏板支架断裂，称在关注中",
+   "link": "https://www.ithome.com/1/010/545.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:04:40.000Z",
+   "summary": "IT之家 10 月 8 日消息，据蓝鲸汽车消息，10 月 8 日，就尊界 V800 被曝在懂车帝测试中刹车踏板支架断裂一事，江淮汽车方面人士对蓝鲸汽车记者表示， 这个事情我们都在关注中 。 今日稍早些时候，懂车帝实测 3 台尊界 V800，…",
+   "regions": []
+  },
+  {
+   "title": "曝索尼有意与小型开发商联手复活一批 PlayStation 经典游戏，《捉猴啦》打头阵",
+   "link": "https://www.ithome.com/1/010/543.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:03:42.000Z",
+   "summary": "IT之家 10 月 8 日消息，当地时间 7 日，据外媒 VGC 报道，索尼有意与规模较小的第三方开发商合作，复活一批沉寂多年的 PlayStation 经典系列，《捉猴啦》新作有望打头阵。 资深记者杰夫 · 格斯特曼透露，《捉猴啦》新作由…",
+   "regions": []
+  },
+  {
+   "title": "不满 Mistral 表现，德国搜索引擎 Ecosia 押注中国开源 AI 模型",
+   "link": "https://www.ithome.com/1/010/539.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T07:00:05.000Z",
+   "summary": "IT之家 10 月 8 日消息，据《政治报》前天报道，德国搜索引擎 Ecosia 最近选择放弃法国 AI 模型 Mistral，转而选择中国开源 AI 模型。 Ecosia 创始人兼 CEO 克里斯蒂安 · 克罗尔接受采访时表示：“我们对 …",
+   "regions": []
+  },
+  {
+   "title": "红魔 12 Pro+ 手机外观公布：延续屏下前摄设计，10 月 15 日发布",
+   "link": "https://www.ithome.com/1/010/537.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:59:15.000Z",
+   "summary": "IT之家 10 月 8 日消息，红魔 12 Pro+ 手机外观今日公布，新品延续屏下前摄设计，发布会将于 10 月 15 日 14:30 举行。 红魔 12 Pro+ 号称“迄今为止手感最好的红魔旗舰”，主打“更轻、更薄、更窄、更圆润”。预…",
+   "regions": []
+  },
+  {
+   "title": "记录创作历史， 而不只是代码历史 —— Libra，面向 Agent 的 AI 原生扩展版本控制系统",
+   "link": "https://www.oschina.net/p/libra-vcs",
+   "source": "开源中国",
+   "time": "2026-10-08T06:58:26.000Z",
+   "summary": "Libra 是一款 AI 原生、兼容 Git 的版本控制系统，它还会记录工作是如何完成的——并把这份记忆保存在你的仓库里。",
+   "regions": []
+  },
+  {
+   "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
+   "link": "https://sspai.com/post/115209",
+   "source": "少数派",
+   "time": "2026-10-08T06:42:14.000Z",
+   "summary": "断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。 查看全文",
+   "regions": []
+  },
+  {
+   "title": "TDM. 发布全球首款可扭转变形扬声器的耳机 Neo",
+   "link": "https://www.ithome.com/1/010/530.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:41:07.000Z",
+   "summary": "IT之家 10 月 8 日消息，创新音频设备企业 TDM. 近日正式发布了全球首款可扭转变形扬声器的耳机 Neo。这一型号拥有柔韧的头梁结构， 可在常规头戴式耳机模式和便携扬声器模式间切换 。 TDM. Neo 配备 2 对 40mm 驱动…",
+   "regions": []
+  },
+  {
+   "title": "腾龙 20-40mm F2.8 Di III VXD 全画幅变焦镜头新增尼康 Z 卡口版本，重量 380g",
+   "link": "https://www.ithome.com/1/010/526.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:40:27.000Z",
+   "summary": "IT之家 10 月 8 日消息，腾龙今天宣布 20-40mm F/2.8 Di III VXD 全画幅无反变焦镜头新增尼康 Z 卡口版本（型号 A062），新品主打小型轻量设计，广角端的 20mm 视角可带来新焦段体验。 IT之家了解到，这…",
+   "regions": []
+  },
+  {
+   "title": "卡普空《怪物猎人：崛起》登陆苹果 iOS 及安卓平台：需 Netflix 会员，支持 4 人联机",
+   "link": "https://www.ithome.com/1/010/523.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:38:58.000Z",
+   "summary": "IT之家 10 月 8 日消息，卡普空旗下动作游戏《怪物猎人：崛起》（Monster Hunter Rise）现已通过 Netflix Games 上架苹果 App Store 和 Google Play 商店。 游戏由 Netflix 发…",
+   "regions": []
+  },
+  {
+   "title": "消息称 Alphabet 旗下 AI 药物研发企业 Isomorphic Labs 寻求以 400~500 亿美元估值融资",
+   "link": "https://www.ithome.com/1/010/516.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:33:15.000Z",
+   "summary": "IT之家 10 月 8 日消息，彭博社北京时间今日报道称，由 2024 年诺贝尔化学奖得主 Demis Hassabis（戴米斯 · 哈萨比斯）领导的 Alphabet 旗下 AI 赋能药物研发企业 Isomorphic Labs 正就新一…",
+   "regions": []
+  },
+  {
+   "title": "微软确认 Win11 Copilot+ PC 品牌未消亡：全球每月本地 AI 推理超 2 万亿次，每年出货数千万台",
+   "link": "https://www.ithome.com/1/010/510.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:30:50.000Z",
+   "summary": "IT之家 10 月 8 日消息，科技媒体 Windows Latest 今天（10 月 8 日）发布博文，报道称在太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中， 微软确认 C…",
+   "regions": []
+  },
+  {
+   "title": "微信鸿蒙版 App 获 8.0.22.35 正式版升级，修复了一些已知问题",
+   "link": "https://www.ithome.com/1/010/505.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:28:01.000Z",
+   "summary": "IT之家 10 月 8 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.22.35 (8394275) 版本正式版升级。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。 大家在 IT之家微信号 回…",
+   "regions": []
+  },
+  {
+   "title": "消息称腾讯考虑发售 50 亿美元债券，加大力度投资 AI",
+   "link": "https://www.ithome.com/1/010/495.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:23:27.000Z",
+   "summary": "IT之家 10 月 8 日消息，今天（8 日）下午，据彭博社援引知情人士消息称，腾讯考虑发售离岸债券，融资规模 最高可达 50 亿美元 （IT之家注：现汇率约合 335.62 亿元人民币） 。AI 需求增长令越来越多科技公司寻求债务融资，腾…",
+   "regions": []
+  },
+  {
+   "title": "WIKO Hi MateBook D 14 锐龙版发售：AMD R7 H 255、16+512GB 售 5799 元",
+   "link": "https://www.ithome.com/1/010/494.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:23:24.000Z",
+   "summary": "IT之家 10 月 8 日消息，WIKO 官方今日宣布 Hi MateBook D 14 锐龙版正式开售，搭载 AMD 锐龙 7 H255 处理器，配备 16GB 内存 + 512GB 固态硬盘，定价为 5799 元。 这款笔记本定位轻薄全…",
+   "regions": []
+  },
+  {
+   "title": "AZZA 推出 ABYSS 机箱：环绕式三面玻璃侧透，兼容背插主板",
+   "link": "https://www.ithome.com/1/010/486.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:20:55.000Z",
+   "summary": "IT之家 10 月 8 日消息，PC 硬件品牌 AZZA 近日推出机箱新品 ABYSS。这一 7 扩展槽的中塔 ATX 型号采用 环绕式三面玻璃侧透 设计，兼容背插主板，可选黑 / 白 2 种配色。 ABYSS 机箱三维 525×228×4…",
+   "regions": []
+  },
+  {
+   "title": "Goldfish Scheme v18.11.39 发布了：迈向现代宏系统与多核并发",
+   "link": "https://www.oschina.net/news/502885",
+   "source": "开源中国",
+   "time": "2026-10-08T06:09:28.000Z",
+   "summary": "Goldfish Scheme（金鱼 Scheme） 是一款致力于“像 Python 一样实用易用，同时保持 Lisp 优雅”的现代化 Scheme 解释器。基于轻量高效的 S7 Scheme 引擎打造，具备 R7RS 兼容、轻量快速、安装…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iPhone Air 2 爆料：厚度减薄 0.4mm 至 5.2mm，更高密度电池提升续航",
+   "link": "https://www.ithome.com/1/010/473.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:09:27.000Z",
+   "summary": "IT之家 10 月 8 日消息，消息源 yeux1122 昨日（10 月 7 日）在 Naver 论坛发布博文， 爆料称苹果正研发第二代超薄手机 iPhone Air 2，机身厚度由 5.6mm 降至 5.2mm（减少 0.4mm），同时采…",
+   "regions": []
+  },
+  {
+   "title": "机械师 14 Ultra 轻薄本 X7 358H + 32GB + 1TB 款上市，到手价 7224.15 元",
+   "link": "https://www.ithome.com/1/010/472.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:09:25.000Z",
+   "summary": "IT之家 10 月 8 日消息，机械师 (MACHENIKE) 14 Ultra 轻薄笔记本电脑的英特尔酷睿 Ultra X7 处理器 358H 配置现已开售。 其搭载 32GB LPDDR5X 内存、1TB M.2 PCIe Gen4 S…",
+   "regions": []
+  },
+  {
+   "title": "工信部：今年 1—8 月，我国规模以上互联网企业利润总额同比增长 12.7%",
+   "link": "https://www.ithome.com/1/010/471.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T06:05:26.000Z",
+   "summary": "IT之家 10 月 8 日消息，工信部今日发布 2026 年 1—8 月份互联网和相关服务业运行情况，1—8 月份，互联网业务收入保持平稳增长，利润总额增速加快，研发经费投入保持高速增长。 一、总体运行情况 互联网业务收入保持平稳增长。1—…",
+   "regions": []
+  },
+  {
+   "title": "报告称日本汽车软件落后海外 5 年，本田、丰田、日产均被评最差等级",
+   "link": "https://www.ithome.com/1/010/470.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T05:56:49.000Z",
+   "summary": "IT之家 10 月 8 日消息，日本经济新闻今日报道称《 日本汽车软件落后海外 5 年 》，美国市场调查公司 Mobility Global 发布的“SDV（软件定义汽车）成熟度”数据显示（截至 2026 年 8 月），沃尔沃与特斯拉、蔚来…",
+   "regions": []
+  },
+  {
+   "title": "PFN 发布 PLaMo 3 Translate 31B 模型：日语翻译表现优于 GPT-6.1 Sol",
+   "link": "https://www.ithome.com/1/010/469.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T05:54:56.000Z",
+   "summary": "IT之家 10 月 8 日消息，日本企业 Preferred Networks (PFN) 当地时间昨日发布了其精于日语同时兼顾其它语言的翻译模型 PLaMo 3 Translate 31B。该模型 完全由日本自主研发 ，训练数据中日语占比…",
+   "regions": []
+  },
+  {
+   "title": "“全球最小全画幅相机”继任者：适马 fp II 曝光，内置电子取景器",
+   "link": "https://www.ithome.com/1/010/467.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T05:52:46.000Z",
+   "summary": "IT之家 10 月 8 日消息，消息源 L-Rumors 昨日（10 月 7 日）发布博文， 爆料称适马（Sigma）有望近期发布 fp II 微型全画幅相机，内置电子取景器（EVF），定价约 2,500 美元 （IT之家注：现汇率约合 1…",
+   "regions": []
+  },
+  {
+   "title": "或成全球科技公司首例，三星预计单季利润冲破百万亿韩元",
+   "link": "https://www.ithome.com/1/010/466.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T05:51:34.000Z",
+   "summary": "IT之家 10 月 8 日消息，据路透社今天（8 日）报道，三星电子预计季度利润将超过 100 万亿韩元 （IT之家注：现汇率约合 4,958 亿元人民币） ，在全球科技公司中 率先突破这一关口 。 AI 芯片需求旺盛拉动存储芯片销售，第三…",
+   "regions": []
+  },
+  {
+   "title": "曝欧菲光独家供应华为 Pura 90 Pro 系列主摄与 2 亿像素潜望长焦",
+   "link": "https://www.ithome.com/1/010/465.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T05:49:57.000Z",
+   "summary": "IT之家 10 月 8 日消息，据蓝鲸新闻今日报道，欧菲光已成为华为 Pura 90 Pro 与 Pura 90 Pro Max 两款旗舰机型的核心光学供应商，独家供应两款机型的主摄模组与 2 亿像素潜望长焦模组。此外，“外挂式”长焦影像系…",
+   "regions": []
+  },
+  {
+   "title": "《毁灭战士》游戏移植到售价约 8000 美元的哈苏 X2D 相机：触摸屏移动，快门按钮开火",
+   "link": "https://www.ithome.com/1/010/464.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T05:41:19.000Z",
+   "summary": "IT之家 10 月 8 日消息，科技媒体 Tom's Hardware 今天（10 月 8 日）发布博文， 报道称独立相机研究员 Radium Wang 将《毁灭战士》游戏移植到哈苏 X2D。 该相机售价接近 8,000 美元 （IT之家注…",
+   "regions": []
+  },
+  {
+   "title": "台积电 9 月营收 5118.6 亿新台币，同比增长 54.6%",
+   "link": "https://www.ithome.com/1/010/463.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T05:36:54.000Z",
+   "summary": "IT之家 10 月 8 日消息，台积电今日发布公告，2026 年 9 月营收 5,118.6 亿元新台币 （IT之家注：现汇率约合 1,077.47 亿元人民币） ， 环比下降 0.6%，同比增长 54.6% 。 台积电 2026 年前三季…",
+   "regions": []
+  },
+  {
+   "title": "谷歌、Meta 等厂商竞逐申请 .agent 域名：OpenAI 申请.gpt、Anthropic 申请.claude",
+   "link": "https://www.ithome.com/1/010/462.htm",
+   "source": "IT之家",
+   "time": "2026-10-08T05:25:26.000Z",
+   "summary": "IT之家 10 月 8 日消息，当地时间 10 月 7 日，互联网名称与数字地址分配机构（ICANN）公布了新一轮顶级域名（TLD）申请情况，本期（2026 年 4 月 30 日至 8 月 12 日）共收到来自 481 个申请者的 1615…",
+   "regions": []
+  },
+  {
+   "title": "Mistral Large 4 来了：一万亿参数、具备原生多模态能力",
+   "link": "https://www.oschina.net/news/502872/mistral-large-4",
+   "source": "开源中国",
+   "time": "2026-10-08T03:56:07.000Z",
+   "summary": "Mistral 发布了他们史上最大的模型。不是迭代，是直接从零训的：1 万亿参数、520 亿稀疏激活的原生多模态模型，代号 Le Chonk（法语昵称，直译大概就是「胖墩」），正式名字 Mistral Large 4。公开预览即日起在 Mi…",
+   "regions": []
+  },
+  {
    "title": "《战地 6》领衔加入微软 10 月 Xbox Game Pass 游戏库，《光与影：33 号远征队》10 月 15 日离库",
    "link": "https://www.ithome.com/1/010/400.htm",
    "source": "IT之家",
@@ -79,6 +639,14 @@
    "source": "IT之家",
    "time": "2026-10-08T01:49:20.000Z",
    "summary": "IT之家 10 月 8 日消息，当地时间 7 日，据 The Information 援引一名知情人士消息称，英伟达曾讨论向人形机器人制造商 Figure 再投资 10 亿美元 （IT之家注：现汇率约合 67.12 亿元人民币） ，此前尚无…",
+   "regions": []
+  },
+  {
+   "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+   "link": "https://sspai.com/post/115462",
+   "source": "少数派",
+   "time": "2026-10-08T01:47:59.000Z",
+   "summary": "10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ... 查看全文",
    "regions": []
   },
   {
@@ -300,6 +868,631 @@
  ],
  "world": [
   {
+   "title": "韩国召回驻乌克兰大使",
+   "link": "https://sputniknews.cn/20261008/1073534987.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T09:05:55.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 韩国外交部表示，韩国召回该国驻乌克兰大使。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "韩国决定召回驻乌克兰大使",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709217.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T09:02:24.000Z",
+   "summary": "中新网10月8日电 据韩联社10月8日最新消息，韩国外交部决定召回驻乌克兰大使。",
+   "regions": [
+    "俄乌",
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M6.6】105 km NE of Norsup, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26281001",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T09:00:08.000Z",
+   "summary": "美国地质调查局官方监测：105 km NE of Norsup, Vanuatu发生 6.6 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "中韩海上执法部门开展中韩渔业协定暂定措施水域联合巡航",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709198.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-08T08:57:57.000Z",
+   "summary": "中新网10月8日电 据“中国海警”微信公众号消息，10月8日，中国海警长山舰从青岛起航，赴中韩渔业协定暂定措施水域与韩国无穷花42渔业指导船开展2026年中韩海上执法机构联合执法巡航。联巡期间，双方将依据《中韩渔业协定》对两国作业渔船进行执…",
+   "regions": [
+    "朝鲜半岛",
+    "青岛"
+   ]
+  },
+  {
+   "title": "克宫：乌局势目前暂未朝和平解决的方向发展",
+   "link": "https://sputniknews.cn/20261008/1073534877.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T08:51:23.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 俄罗斯总统新闻秘书佩斯科夫表示，乌克兰局势目前暂未朝和平解决的方向发展。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "“美美与共，和而不同”音乐会在巴西圣保罗举行",
+   "link": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-08/1207245.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-08T08:49:26.000Z",
+   "summary": "",
+   "regions": [
+    "拉美"
+   ]
+  },
+  {
+   "title": "克宫：乌冲突解决方案应对后代有益且应得到保障",
+   "link": "https://sputniknews.cn/20261008/1073534661.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T08:43:02.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 俄罗斯总统新闻秘书佩斯科夫表示，临时冻结乌克兰冲突无济于事，冲突解决应对后代有益且应该得到保障。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "越界有风险，偷果自食苦果｜新漫评",
+   "link": "http://www.chinanews.com.cn/gj/shipin/2026/10-08/news1071223.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-08T08:39:19.000Z",
+   "summary": "近日，菲律宾借东盟防长扩大会海上安全专家组共同主席国之便，裹挟域外国家在黄岩岛附近海空域搞联合军演，又派运补船为仁爱礁非法“坐滩”军舰运送补给，更在仙宾礁附近蓄意冲撞中方海警船。碰瓷戏刚演完，日本驻菲使馆第一时间跳出来颠倒黑白，对着中国的合…",
+   "regions": [
+    "南海",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】50 km W of Nanwalek, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txvilx",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T08:36:08.236Z",
+   "summary": "美国地质调查局官方监测：50 km W of Nanwalek, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "中方宣布俄总统助理将访华，并指出愿同俄方进一步深化战略沟通",
+   "link": "https://sputniknews.cn/20261008/1073534538.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T08:33:00.000Z",
+   "summary": "俄罗斯卫星通讯社北京10月8日电 中国外交部发言人毛宁10月8日在例行记者会上介绍了俄总统助理、海事委员会主席帕特鲁舍夫访华安排，并指出愿以此访为契机同俄方进一步深化战略沟通。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI>=IV.",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570075",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-08T08:27:59.000Z",
+   "summary": "On 10/8/2026 8:07:59 AM, an earthquake occurred in Philippines potentially affecting 2.4 million in MMI>=IV. The earthqu…",
+   "regions": [
+    "菲律宾",
+    "南海"
+   ]
+  },
+  {
+   "title": "政治分析师：乌克兰冲突因北约而走向世界末日",
+   "link": "https://sputniknews.cn/20261008/1073534431.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T08:18:53.000Z",
+   "summary": "政治分析师艾伦·沃森10月7日表示，在北约与基辅关系加强的背景下，乌克兰冲突正走向进一步升级。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "媒体：美国将轰炸机撤出英国基地暴露出英国防中的致命弱点",
+   "link": "https://sputniknews.cn/20261008/1073534299.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T08:13:26.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 据西方媒体报道，美国疑似因无人机威胁而将B-1轰炸机撤出英国费尔福德基地暴露出了英国空军基地无法防御无人机的事实。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】2 km WNW of Fontana, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344855",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T08:09:03.220Z",
+   "summary": "美国地质调查局官方监测：2 km WNW of Fontana, CA发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M5.5】17 km SW of Burias, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T08:07:59.114Z",
+   "summary": "美国地质调查局官方监测：17 km SW of Burias, Philippines发生 5.5 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
+   ]
+  },
+  {
+   "title": "霍尔木兹海峡船只遇袭事件增加 伊朗称将很快关闭“非法航道”",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709157.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T08:06:03.000Z",
+   "summary": "中新社北京10月8日电 综合消息：中东媒体8日报道称，近期霍尔木兹海峡船只遇袭事件有所增加。伊朗军方7日表示，对霍尔木兹海峡有完全控制权，将很快关闭“非法航道”。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】61 km W of Banda Aceh, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T07:45:12.588Z",
+   "summary": "美国地质调查局官方监测：61 km W of Banda Aceh, Indonesia发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "特朗普：与伊朗冲突很快将结束，德黑兰不再构成核威胁",
+   "link": "https://sputniknews.cn/20261008/1073534186.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T07:40:47.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 美国总统特朗普表示，与伊朗的冲突将在近期得到解决，该国不再对美国构成核威胁。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "以外长：英国驻耶路撒冷领事馆8日起关闭 20名外交官将离境",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709110.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T07:34:51.000Z",
+   "summary": "中新网10月8日电 据英国广播公司(BBC)当地时间8日报道，以色列外交部长萨尔表示，英国驻耶路撒冷领事馆自8日起关闭，包括英国驻耶路撒冷总领事在内的20名外交官即将结束任期并离开以色列。",
+   "regions": [
+    "中东",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "中国国庆假期出入境人次达1546.2万",
+   "link": "https://sputniknews.cn/20261008/1073534075.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T07:29:24.000Z",
+   "summary": "俄罗斯卫星通讯社北京10月8日电 据中国国家移民管理局消息，今年国庆节假期，出入境人次达1546.2万，较去年同期增长6.7%。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】68 km N of Tierras Nuevas Poniente, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536093",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T07:26:09.760Z",
+   "summary": "美国地质调查局官方监测：68 km N of Tierras Nuevas Poniente, Puerto Rico发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "霍尔木兹海峡船舶通行量降至两个月来最低水平",
+   "link": "https://sputniknews.cn/20261008/1073533980.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T07:18:56.000Z",
+   "summary": "路透社援引分析公司凯普勒（Kpler）的数据报道称，由于针对油轮的袭击事件再次升级，本周早些时候，通过霍尔木兹海峡的商船通行量降至7月23日以来的最低水平。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "中俄合作项目田湾核电7号机组首次并网成功",
+   "link": "https://sputniknews.cn/20261008/1073533879.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T07:15:02.000Z",
+   "summary": "据中核集团消息，10月8日，中核集团旗下“中国核电”投资控股的田湾核电7号机组首次并网成功，正式向电网送出第一度电，为后续机组商业运行奠定坚实基础。",
+   "regions": []
+  },
+  {
+   "title": "总台记者观察丨日本谋求核潜艇计划引发多方坚决反对",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709106.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T07:08:20.000Z",
+   "summary": "据日本方面7日消息，消息人士称，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。日本这种严重背离“无核三原则”的做法将引发怎样的严重后果？",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "日本图谋发展核潜艇 暗藏三重政治“算计”",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709103.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T07:06:09.000Z",
+   "summary": "据日本方面7日消息，消息人士称，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。相关动向引发日本国内反对声音。此举有哪些政治“算计”？",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570064",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-08T07:04:38.000Z",
+   "summary": "On 10/8/2026 6:46:47 AM, an earthquake occurred in West Of Macquarie Island potentially affecting [unknown]. The earthqu…",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄外交部：俄罗斯密切关注欧盟军事活动以便准备回应",
+   "link": "https://sputniknews.cn/20261008/1073533544.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T06:50:36.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 俄罗斯外交部欧洲问题司司长弗拉季斯拉夫·马斯连尼科夫向卫星通讯社表示，俄方正在关注欧盟的军事化活动，以便准备适当的回应措施。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.5】west of Macquarie Island",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T06:46:47.971Z",
+   "summary": "美国地质调查局官方监测：west of Macquarie Island发生 5.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "金与正：韩方“支援医疗装备”计划是变相的政治挑衅",
+   "link": "https://sputniknews.cn/20261008/1073533414.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T06:38:32.000Z",
+   "summary": "朝鲜劳动党中央委员会部长金与正10月8日发表谈话，称韩国向朝鲜援助医疗设备的计划是挑衅和侮辱。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "厄尔尼诺致菲律宾逾42.8万人受影响 农业损失超55亿比索",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709040.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T06:28:43.000Z",
+   "summary": "中新网马尼拉10月8日电 菲律宾国家减灾委员会7日发布报告称，厄尔尼诺现象已影响全国42.8万余人，106个市镇宣布进入灾难状态，农业损失达55.8亿比索(约合人民币6亿元)。",
+   "regions": [
+    "南海"
+   ]
+  },
+  {
+   "title": "媒体：特朗普敦促习近平解除对日出口限制",
+   "link": "https://sputniknews.cn/20261008/1073533299.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T06:25:32.000Z",
+   "summary": "香港《南华早报》援引消息人士的话报道称，在中国国家主席习近平9月访问华盛顿期间，美国总统特朗普敦促他解除对日本的出口限制。",
+   "regions": [
+    "美洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "苏丹重申恪守《禁止化学武器公约》",
+   "link": "https://sputniknews.cn/20261008/1073533203.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T06:21:38.000Z",
+   "summary": "俄罗斯卫星通讯社贝鲁特10月8日电 苏丹外交部声明称，苏丹重申恪守《禁止化学武器公约》，并愿继续与禁止化学武器组织合作。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "俄国防部：俄防空系统夜间在俄上空击落399架乌克兰无人机",
+   "link": "https://sputniknews.cn/20261008/1073533070.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T05:46:02.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 俄罗斯国防部10月8日表示，俄防空系统夜间在俄罗斯上空拦截并摧毁399架乌克兰无人机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "中国运动品牌安踏成为彪马最大股东",
+   "link": "https://sputniknews.cn/20261008/1073532969.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T05:44:24.000Z",
+   "summary": "中国运动服装及鞋类制造商安踏已收购德国公司PUMA SE约三分之一的股权。安踏在新闻稿中指出，该公司已完成从投资公司Artémis SAS手中收购彪马（PUMA）所属公司29.06%股权的交易。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "美媒：美军为再次大规模打击伊朗做准备",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709021.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T05:43:25.000Z",
+   "summary": "中新网10月8日电 据美国阿克西奥斯新闻网7日援引多名美国官员消息报道称，美国五角大楼近日已指示美军中央司令部，完成对伊朗重启大规模作战行动的准备工作。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】39 km NE of Calama, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T05:35:56.016Z",
+   "summary": "美国地质调查局官方监测：39 km NE of Calama, Chile发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
+   "title": "田纳西州注射死刑执行失败后，美国得州完成一例注射死刑",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10709025.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T05:29:06.000Z",
+   "summary": "中新网10月8日电 据美联社报道，美国得克萨斯州一名男子因枪杀便利店店员于当地时间7日晚被执行死刑，成为2026年美国第30位被执行死刑的人，也是一周前田纳西州对克丽斯塔·派克实施注射死刑失败后，美国首次执行死刑的案例。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】47 km W of Tambolaka, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wb",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T05:06:52.046Z",
+   "summary": "美国地质调查局官方监测：47 km W of Tambolaka, Indonesia发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】92 km N of Ruteng, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T04:48:59.943Z",
+   "summary": "美国地质调查局官方监测：92 km N of Ruteng, Indonesia发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】53 km ENE of Pedro Bay, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txnnxy",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T04:42:19.107Z",
+   "summary": "美国地质调查局官方监测：53 km ENE of Pedro Bay, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：欧盟最新军事项目规定基辅可以参与",
+   "link": "https://sputniknews.cn/20261008/1073532805.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T04:24:13.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 俄罗斯外交部欧洲事务司司长马斯连尼科夫向卫星通讯社表示，欧盟最新军事倡议提出让乌方积极参与。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "沙特两座机场遭袭已致3死36伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708996.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T04:19:04.000Z",
+   "summary": "中新社北京10月8日电 综合消息：沙特阿拉伯民航总局当地时间7日发表声明称，位于沙特西南部的艾卜哈国际机场和位于首都利雅得的哈立德国王国际机场6日至7日遭到袭击，已造成3人死亡、36人受伤。",
+   "regions": [
+    "中东",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "多方携手助中医针灸走进南非开普敦社区医疗中心",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708958.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T04:18:28.000Z",
+   "summary": "中新网约翰内斯堡10月8日电 西开普大学中医孔子学院、西开普省卫生部门与西开普大学自然医学学院近日开展合作，中医针灸正式走进马卡萨(Macassar)社区医疗中心，由南非职业中医师在南非公立医疗机构开展中医针灸医疗服务。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "机构称英国9月房价环比持平",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708952.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T04:17:58.000Z",
+   "summary": "中新网伦敦10月8日电 (记者 欧阳开宇)英国劳埃德银行7日发布数据称，英国9月房价环比持平。8月英国房价出现2023年以来首次同比下跌，本次数据表现低于市场预期。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.6】51 km SE of Punta Cana, Dominican Republic",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026281000",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T04:12:32.910Z",
+   "summary": "美国地质调查局官方监测：51 km SE of Punta Cana, Dominican Republic发生 3.6 级地震，震源深度 未知。",
+   "regions": [
+    "多米尼加",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄罗斯研制出能同时压制16个电子战干扰通道的装置",
+   "link": "https://sputniknews.cn/20261008/1073532608.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T04:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 俄罗斯乌什库伊尼克科研生产中心总经理恰达耶夫向卫星通讯社表示，该中心研发出一系列抗干扰导航设备，能够更有效地对抗敌方电子战，可同时压制16个干扰通道。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】81 km NNW of Malfa, Italy",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T03:42:52.895Z",
+   "summary": "美国地质调查局官方监测：81 km NNW of Malfa, Italy发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "意大利",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "媒体：胡塞武装称使用弹道导弹袭击利雅得机场",
+   "link": "https://sputniknews.cn/20261008/1073532519.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T03:41:42.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 据路透社报道，也门胡塞武装宣布其使用一枚弹道导弹袭击了位于利雅得的哈立德国王国际机场。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄国家杜马议员：欧盟商定扩大对俄制裁表明此前制裁均已失败",
+   "link": "https://sputniknews.cn/20261008/1073532394.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T03:37:22.000Z",
+   "summary": "俄罗斯国家杜马国际事务委员会委员、自由民主党主席列昂尼德•斯卢茨基表示，欧盟国家商定扩大对俄制裁表明，此前的制裁已经失败，未能实现目标。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "特朗普称自己应得诺贝尔和平奖，但怀疑能否获得",
+   "link": "https://sputniknews.cn/20261008/1073532282.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T03:10:14.000Z",
+   "summary": "美国总统特朗普周三表示自己应该获得诺贝尔和平奖，但也承认对自己获奖的机会存疑。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普：我应该获得诺贝尔和平奖，但他们似乎不愿意颁给我",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708917.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T03:07:48.000Z",
+   "summary": "中新网10月8日电 据路透社报道，美国总统特朗普当地时间7日表示，他应该获得诺贝尔和平奖，但他承认，自己获奖的可能性不大。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】101 km NE of Ruteng, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0vw",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T03:00:01.461Z",
+   "summary": "美国地质调查局官方监测：101 km NE of Ruteng, Indonesia发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄外交部：欧盟在俄边境增强军力恐引发意外事件",
+   "link": "https://sputniknews.cn/20261008/1073532177.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T02:56:16.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月8日电 俄罗斯外交部欧洲问题司司长马斯连尼科夫向卫星通讯社表示，欧洲在与俄罗斯接壤的边境地区增强军力，提高了发生意外事件的机率。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "日本谋求核潜艇 暗藏远洋进攻野心",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708936.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T02:51:40.000Z",
+   "summary": "据日本《读卖新闻》7日援引消息人士的话报道，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "特朗普支持土耳其和巴基斯坦在沙特部署军队",
+   "link": "https://sputniknews.cn/20261008/1073532051.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T02:36:30.000Z",
+   "summary": "美国总统唐纳德•特朗普表示，支持土耳其和巴基斯坦根据《麦加协议》向沙特阿拉伯派遣军队的决定。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "法国总理承认高中生有理由抗议",
+   "link": "https://sputniknews.cn/20261008/1073531941.html",
+   "source": "卫星社中文",
+   "time": "2026-10-08T02:36:27.000Z",
+   "summary": "俄罗斯卫星通讯社巴黎10月8日电 法国总理勒科尔尼承认，9月底在全国范围内爆发的中学生大规模抗议并非毫无缘由。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "联黎部队一阵地遇袭 未致人员伤亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708902.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-08T02:27:26.000Z",
+   "summary": "中新社北京10月8日电 综合消息：联合国驻黎巴嫩临时部队(联黎部队)当地时间7日称，位于黎巴嫩和以色列临时边界的一处阵地当天遇袭，未造成人员伤亡。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】58 km S of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tuedbl",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T02:24:49.886Z",
+   "summary": "美国地质调查局官方监测：58 km S of Whites City, New Mexico发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.6】57 km S of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tueaim",
+   "source": "USGS地震台网",
+   "time": "2026-10-08T02:21:27.461Z",
+   "summary": "美国地质调查局官方监测：57 km S of Whites City, New Mexico发生 3.6 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
    "title": "欧盟拟限制中国混动车进口",
    "link": "https://sputniknews.cn/20261008/1073531760.html",
    "source": "卫星社中文",
@@ -308,6 +1501,14 @@
    "regions": [
     "欧洲"
    ]
+  },
+  {
+   "title": "Portugal registers hottest September on record",
+   "link": "https://news.cgtn.com/news/2026-10-08/Portugal-registers-hottest-September-on-record-1R4duDbNsOI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-08T02:15:47.000Z",
+   "summary": "Portugal experienced its hottest September this year since records started in 1931, the national weather agency said Wed…",
+   "regions": []
   },
   {
    "title": "日本前外相岩屋毅：要高市早苗撤回涉台发言“政治上的门槛非常高”",
@@ -406,6 +1607,14 @@
    ]
   },
   {
+   "title": "Mexico bars dual nationality holders from presidency, governorships",
+   "link": "https://news.cgtn.com/news/2026-10-08/Mexico-bars-dual-nationality-holders-from-presidency-governorships-1R46tMZ9vNu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-08T00:35:17.000Z",
+   "summary": "Mexican President Claudia Sheinbaum on Wednesday signed a constitutional reform decree barring people with dual national…",
+   "regions": []
+  },
+  {
    "title": "中国科研团队研制出“核光钟”",
    "link": "https://sputniknews.cn/20261008/1073530882.html",
    "source": "卫星社中文",
@@ -453,8 +1662,562 @@
    ]
   }
  ],
- "tw": [],
+ "tw": [
+  {
+   "title": "最新统计：台湾人口连续33个月负增长",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709195.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:45:07.000Z",
+   "summary": "中新社台北10月8日电 台湾当局内部事务主管部门8日公布最新统计，截至2026年9月底，台湾人口总数约2321.3万人，较去年同期减少约10.3万人，连续33个月负增长。",
+   "regions": [
+    "台海"
+   ]
+  },
+  {
+   "title": "国庆假期福州对台空中直航航班往来台胞3100余人次",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709160.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:14:15.000Z",
+   "summary": "中新社福州10月8日电 (记者 闫旭)记者8日从福州机场边检站获悉，2026年国庆假期，福州机场口岸对台直航航班往来30余架次，搭载旅客4500余人次；其中，台胞旅客往来3100余人次，1000余人次台胞使用快捷通道通关。",
+   "regions": [
+    "福州"
+   ]
+  },
+  {
+   "title": "世界在建的最宽悬索桥施工猫道开启面网铺设",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709136.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:50:44.000Z",
+   "summary": "中新网东莞10月8日电 (记者 蔡敏婕)粤港澳大湾区核心枢纽工程——狮子洋通道狮子洋大桥猫道面网8日开始铺设，为后续超大主缆架设筑牢作业平台。该猫道单幅宽度达6.26米，是目前世界在建的最宽悬索桥施工猫道。",
+   "regions": [
+    "东莞"
+   ]
+  },
+  {
+   "title": "贵州省政协港澳台侨与外事委员会原副主任康克岩被“双开”",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709109.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:27:29.000Z",
+   "summary": "中新网10月8日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对贵州省政协港澳台侨与外事委员会原副主任康克岩严重违纪违法问题进行了立案审查调查。",
+   "regions": [
+    "贵州"
+   ]
+  }
+ ],
  "cn": [
+  {
+   "title": "东西问｜米磊：中国何以涌起硬科技发展浪潮？",
+   "link": "https://www.chinanews.com.cn/dxw/2026/10-08/10709191.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-08T09:09:28.000Z",
+   "summary": "中新社北京10月8日电 题：中国何以涌起硬科技发展浪潮？",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "天津国庆假期游客人次、总花费同比“双增”",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709221.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T09:07:02.000Z",
+   "summary": "中新网天津10月8日电 (记者 周亚强)记者从天津市文化和旅游局获悉，2026年国庆假期，天津接待游客人次和游客总花费按可比口径同比实现双增长，人均消费987元；涉旅投诉明显下降，游客满意度持续提升。携程平台数据显示，天津位列全国红色旅游目…",
+   "regions": [
+    "天津"
+   ]
+  },
+  {
+   "title": "中央巡视组原副部级巡视专员许传智一审被判十二年",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709215.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T09:01:12.000Z",
+   "summary": "2026年10月8日，浙江省宁波市中级人民法院一审公开宣判中央巡视组原副部级巡视专员许传智受贿、利用影响力受贿案，对被告人许传智以受贿罪判处有期徒刑十年六个月，并处罚金人民币一百万元，以利用影响力受贿罪判处有期徒刑五年，并处罚金人民币一百五…",
+   "regions": [
+    "宁波",
+    "浙江"
+   ]
+  },
+  {
+   "title": "国庆假期国铁广州局共发送旅客逾2072万人次",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709213.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-08T08:59:14.000Z",
+   "summary": "中新社广州10月8日电 (郭军 彭国曦)据国铁广州局8日通报，今年国庆与中秋节假期叠加，客流大幅增加。10月1日至7日，国铁广州局共计发送旅客2072.1万人次，同比增加186万人次，创历史新高。",
+   "regions": [
+    "广州"
+   ]
+  },
+  {
+   "title": "中韩海上执法部门开展中韩渔业协定暂定措施水域联合巡航",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709198.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:57:57.000Z",
+   "summary": "中新网10月8日电 据“中国海警”微信公众号消息，10月8日，中国海警长山舰从青岛起航，赴中韩渔业协定暂定措施水域与韩国无穷花42渔业指导船开展2026年中韩海上执法机构联合执法巡航。联巡期间，双方将依据《中韩渔业协定》对两国作业渔船进行执…",
+   "regions": [
+    "朝鲜半岛",
+    "青岛"
+   ]
+  },
+  {
+   "title": "围绕新疆问题，一场国际学者“大对账”正在上演",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709214.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:57:19.000Z",
+   "summary": "还记得前段时间小红书上的那场“中美网友对账”吗？",
+   "regions": [
+    "新疆"
+   ]
+  },
+  {
+   "title": "国庆假期湖南出入境人员近4万人次 入境外籍旅客热度居高不下",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709212.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:56:59.000Z",
+   "summary": "中新网长沙10月8日电 (邓霞 王颖 余洋)国庆假期，湖南口岸迎来出入境高峰。湖南出入境边防检查总站8日透露，10月1日-7日，湖南口岸累计查验出入境人员近4万人次，比去年同期增长8.2%。",
+   "regions": [
+    "长沙",
+    "湖南"
+   ]
+  },
+  {
+   "title": "2026中俄青少年文化交流活动在长春举行",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709210.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:56:21.000Z",
+   "summary": "中新网长春10月8日电 (谭伟旗 金乔)8日，2026中俄青少年文化交流活动在长春举行，吸引500余名中俄中小学生参与。本次活动以“文明互鉴润童心 中俄同行启新程”为主题，由吉林省中外文化交流中心、吉林省对外文化交流协会、长春市朝阳区教育局…",
+   "regions": [
+    "长春",
+    "吉林"
+   ]
+  },
+  {
+   "title": "《河南省发展规划条例》公布施行：确保“一张蓝图绘到底”",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709208.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:55:31.000Z",
+   "summary": "中新网郑州10月8日电 (记者 王宇)近日，《河南省发展规划条例》(以下简称《条例》)经河南省人大常委会审议通过并公布施行。这意味着该省以立法形式规范发展规划的制定与实施，为“一张蓝图绘到底”提供法治保障。",
+   "regions": [
+    "郑州",
+    "河南"
+   ]
+  },
+  {
+   "title": "宁夏各机场国庆假期平稳运行 保障运送旅客超24万人次",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709201.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:52:39.000Z",
+   "summary": "中新网银川10月8日电 (记者 李佩珊)记者8日从宁夏机场公司获悉，2026年国庆假期期间，宁夏银川、中卫、固原三地机场航空运输市场平稳有序，累计完成航班起降1696架次，保障运输旅客24.5万人次。其中，银川河东国际机场作为区域航空枢纽，…",
+   "regions": [
+    "银川",
+    "固原"
+   ]
+  },
+  {
+   "title": "340亿元消费亮眼 四川国庆假期文旅市场掀起新风",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709199.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:51:49.000Z",
+   "summary": "中新网成都10月8日电(单鹏)2026年国庆假期，四川文旅市场运行平稳向好，交出亮眼消费成绩单：全省实现旅游总花费340.87亿元，按可比口径同比增长1.45%。随着游客出游习惯不断变化，当地文旅市场呈现出新的发展趋势，奔县入村漫游、沉浸式…",
+   "regions": [
+    "成都",
+    "四川"
+   ]
+  },
+  {
+   "title": "国庆假期辽宁持续升级文旅产品供给激活假日消费",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709197.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-08T08:50:57.000Z",
+   "summary": "中新网沈阳10月8日电 (记者 韩宏)记者8日从辽宁省文化和旅游厅获悉，按照可比口径测算，国庆假期辽宁接待游客人次同比增长12.29%，实现旅游综合收入同比增长11.10%，实现双增长。",
+   "regions": [
+    "沈阳",
+    "辽宁"
+   ]
+  },
+  {
+   "title": "（长征胜利90周年）锦匾与油灯见证六盘山下红色同心佳话",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709196.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:50:05.000Z",
+   "summary": "中新社宁夏固原10月8日电 题：锦匾与油灯见证六盘山下红色同心佳话",
+   "regions": [
+    "固原",
+    "宁夏"
+   ]
+  },
+  {
+   "title": "福州机场口岸国庆假期出入境旅客3.44万余人次",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709194.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:49:13.000Z",
+   "summary": "中新网福州10月8日电 (记者 闫旭 通讯员 王蔚然)据福州机场边检站8日统计，2026年国庆假期，福州机场口岸累计查验出入境旅客3.44万余人次、航班230余架次，单日最高峰值出现在10月6日，达5200余人次。",
+   "regions": [
+    "福州"
+   ]
+  },
+  {
+   "title": "雪场不候雪 秋景引客来：吉林雪场绘就秋游新画卷",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709193.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:48:29.000Z",
+   "summary": "中新网吉林10月8日电 (记者 苍雁 石洪宇)金秋十月，以粉雪闻名的吉林市，正凭秋色引客。据银联商务大数据测算，今年国庆假期，吉林市接待国内游客678.13万人次，同比增长18.18%；国内游客出游总花费36.88亿元，同比增长13.15%…",
+   "regions": [
+    "吉林"
+   ]
+  },
+  {
+   "title": "东西问｜“95后”博主夏雪：讲述中国故事，微观视角动人",
+   "link": "https://www.chinanews.com.cn/dxw/2026/10-08/10709192.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-08T08:47:41.000Z",
+   "summary": "中新社杭州10月8日电 题：“95后”博主夏雪：讲述中国故事，微观视角动人",
+   "regions": [
+    "杭州"
+   ]
+  },
+  {
+   "title": "云南镇雄大营煤矿“12·24”较大煤与瓦斯突出事故调查报告公布 40名责任人被追责问责",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709182.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:28:42.000Z",
+   "summary": "日前，国家矿山安全监察局云南局公布《昭通镇雄大营煤矿有限公司“12·24”较大煤与瓦斯突出事故调查报告》。经调查认定，该事故是一起因企业主体责任落实不到位、地方煤矿安全监管不力导致的生产安全责任事故。",
+   "regions": [
+    "昭通",
+    "云南"
+   ]
+  },
+  {
+   "title": "国庆假期长三角消费诉求整体平稳",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709168.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-08T08:27:56.000Z",
+   "summary": "中新网上海10月8日电 (记者 许婧)上海市市场监管局8日发布消息称，2026年国庆长假期间，长三角消费诉求整体平稳，上海假日消费维权渠道畅通有序。",
+   "regions": [
+    "上海"
+   ]
+  },
+  {
+   "title": "国庆假期，红色文化与青春力量“双向奔赴”",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709180.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:23:06.000Z",
+   "summary": "新华社北京10月7日电(记者杨淑君)五四大街29号，晨光为北大红楼镀上一层暖金。10月1日清晨，近40组家庭聚在楼前。国歌奏响，五星红旗缓缓升起，孩子们挺直腰板，昂首仰望。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "体验VR考古 四川“沉浸式”文博游走热",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709161.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:15:17.000Z",
+   "summary": "中新社成都10月8日电 (记者 岳依桐)位于四川广汉的三星堆博物馆今年国庆假期接待游客近17万人次。与过去单纯看展不同，今年众多游客偏爱“沉浸式”新潮玩法：借助VR考古体验、主题手作等项目深度触摸千年古蜀文明，实现从静态观展到“沉浸式”体验…",
+   "regions": [
+    "成都",
+    "四川"
+   ]
+  },
+  {
+   "title": "2026年国庆假期近9万人次外籍旅客从上海口岸入境",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709158.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:13:31.000Z",
+   "summary": "中新社上海10月8日电 (陈静 曹乃文)2026年国庆假期收官，上海边检总站方面8日披露，10月1日至7日，经上海口岸入境的外籍旅客数为8.9万人次。其中，利用免签及240小时过境免签政策入境的外籍旅客数超5万人次，占入境外籍旅客总量的近六…",
+   "regions": [
+    "上海",
+    "海口"
+   ]
+  },
+  {
+   "title": "（神州写真）山海为证 “目的地婚礼”成中国年轻人婚恋新风尚",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709156.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:11:11.000Z",
+   "summary": "中新社云南丽江10月8日电 (韩帅南 赵庆祖)今年国庆假期，在云南省丽江市丽江蓝月谷景区，雪山融水映着秋光，来自广东的新人李哲和杨思颖在湖边完成了以雪山为幕的婚礼仪式。“10年前，我们各自到过丽江旅游；这次再来，把两段缘分拼在一起。”杨思颖…",
+   "regions": [
+    "丽江",
+    "广东"
+   ]
+  },
+  {
+   "title": "中国官方：国庆假期1546.2万人次出入境",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709154.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:08:59.000Z",
+   "summary": "中新社北京10月8日电 (记者 郭超凯)记者8日从中国国家移民管理局获悉，今年国庆节假期全国边检机关共保障1546.2万人次中外人员出入境，日均220.9万人次，较去年同期增长6.7%；单日出入境通关最高峰出现在10月4日，达239.7万人…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "“闽式金秋”热度攀升 县域游成国庆假期新宠",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709151.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T08:02:22.000Z",
+   "summary": "中新网福州10月8日电 (叶秋云)福建省文化和旅游厅8日披露的数据显示，国庆假期，“闽式金秋”热度攀升，“奔县游”“慢充式旅游”蔚然成风。福建全省监测的省级金牌旅游村接待游客473.37万人次，实现旅游收入6.37亿元，可比口径同比分别增长…",
+   "regions": [
+    "福州",
+    "福建"
+   ]
+  },
+  {
+   "title": "广东省人大常委会党组成员、副主任张硕辅被查",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709165.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:01:58.000Z",
+   "summary": "中新网10月8日电 据中央纪委国家监委网站消息，广东省人大常委会党组成员、副主任张硕辅涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
+   "regions": [
+    "广东"
+   ]
+  },
+  {
+   "title": "国庆假期江西消费市场活力迸发",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709114.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:58:34.000Z",
+   "summary": "中新网南昌10月8日电 (记者 吴鹏泉)打卡商圈街区、乐享特色美食、尽赏赣鄱风光......今年国庆假期，江西消费市场人气爆棚、活力迸发。",
+   "regions": [
+    "南昌",
+    "江西"
+   ]
+  },
+  {
+   "title": "法国总统外事顾问博纳将来华举行中法战略对话 外交部介绍相关安排",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709159.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:57:10.000Z",
+   "summary": "中新网北京10月8日电 (记者 黄钰钦 谢雁冰)外交部发言人8日宣布：法国总统外事顾问博纳将于10月9日至13日来华，同中共中央政治局委员、中央外办主任王毅举行新一轮中法战略对话。",
+   "regions": [
+    "欧洲",
+    "北京"
+   ]
+  },
+  {
+   "title": "国庆假期80.9万人次旅客从上海口岸出入境",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709143.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T07:53:40.000Z",
+   "summary": "中新网上海10月8日电 (陈静 曹乃文)国庆假期(10月1日—7日)收官，上海边检总站方面8日披露，10月1日至7日，上海边检机关累计查验出入境旅客数达80.9万人次，同比增长3.4%，日均近11.6万人次。",
+   "regions": [
+    "上海",
+    "海口"
+   ]
+  },
+  {
+   "title": "草原来了“致富神兽” 羊驼护草又增收",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709149.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T07:53:16.000Z",
+   "summary": "近日，“铸牢共同体 中华一家亲”主题宣传活动走进全国最大羊驼养殖基地——内蒙古锡林郭勒盟苏尼特左旗苏尼羊驼基地。据内蒙古苏尼羊驼牧业科技有限公司总经理迟海涛介绍，基地于2013年建成，从78只羊驼起步，目前存栏基础母驼1500余只。羊驼毛保…",
+   "regions": [
+    "内蒙古"
+   ]
+  },
+  {
+   "title": "国庆假期宁夏交通总客流量154.48万人次",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709141.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T07:52:18.000Z",
+   "summary": "中新网银川10月8日电 (记者 杨迪)记者8日从宁夏交通运输厅获悉，2026年国庆假期，宁夏路网运行整体顺畅有序，交通运输安全形势平稳可控，公路、铁路、民航累计总客流量154.48万人次。",
+   "regions": [
+    "银川",
+    "宁夏"
+   ]
+  },
+  {
+   "title": "村田晃大对持刀非法入侵中国使馆罪行供认不讳 中方再次敦促日方严惩凶犯",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709146.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:52:00.000Z",
+   "summary": "中新网北京10月8日电 (记者 黄钰钦 郭超凯)中国外交部发言人毛宁8日主持例行记者会。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "商圈焕新、海岛快递当日达 多地县乡居民感受“家门口的便利”",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709134.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T07:45:14.000Z",
+   "summary": "这个国庆假期，县域消费市场活力十足。一批传统百货、老旧购物中心焕新亮相，乡镇的商贸中心、农贸市场提质上新，乡村里的新型便利店也变身为新的服务站点。",
+   "regions": []
+  },
+  {
+   "title": "日方称中方应对其首相给予尊重 外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709130.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:42:39.000Z",
+   "summary": "中新网北京10月8日电 (记者 黄钰钦)中国外交部发言人毛宁8日主持例行记者会。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "民生领域信访问题集中治理：让群众“心头事”变为“放心事”",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709128.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T07:41:57.000Z",
+   "summary": "本报记者 金 歆",
+   "regions": []
+  },
+  {
+   "title": "焦点访谈｜国庆假期丰富游玩体验 多元场景激发消费活力",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709125.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T07:40:03.000Z",
+   "summary": "央视网消息(焦点访谈)：10月7日是国庆假期的最后一天。过去一周，公路铁路车流如织，景区内外人潮涌动。有人奔赴远方，感受别样风情；有人回到家乡，在熟悉的街巷中寻找久违的烟火气；也有人选择留在原地，走进商圈、博物馆、剧院，在家门口完成一场微度…",
+   "regions": []
+  },
+  {
+   "title": "中美元首会晤是否谈及日本？外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709121.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:38:25.000Z",
+   "summary": "中新网北京10月8日电 (记者 黄钰钦)中国外交部发言人毛宁8日主持例行记者会。",
+   "regions": [
+    "美洲",
+    "亚太",
+    "北京"
+   ]
+  },
+  {
+   "title": "中方提名宋莉博士参与竞选世卫组织总干事",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709123.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:38:15.000Z",
+   "summary": "中新网北京10月8日电 (记者 黄钰钦)中国外交部发言人毛宁8日主持例行记者会。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "“有文化自信的民族，才能立得住、站得稳、行得远”",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709117.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:35:57.000Z",
+   "summary": "原标题：近镜头·习近平的文化足迹 | “有文化自信的民族，才能立得住、站得稳、行得远”",
+   "regions": []
+  },
+  {
+   "title": "黑龙江省佳木斯市政府原副市长姜涛被“双开”",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709119.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:35:09.000Z",
+   "summary": "中新网10月8日电 据黑龙江省纪委监委消息：日前，经黑龙江省委批准，黑龙江省纪委监委对黑龙江省佳木斯市政府原副市长、市公安局原局长姜涛严重违纪违法问题进行了立案审查调查。",
+   "regions": [
+    "黑龙江"
+   ]
+  },
+  {
+   "title": "国庆假期琼州海峡63万人次旅客平安过海",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709113.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T07:34:51.000Z",
+   "summary": "中新网海口10月8日电 (张俊)2026年国庆假期，琼州海峡迎来进出岛车客流高峰。海口海事局8日介绍，假期累计保障客滚船(含平板驳船)安全进出港1795艘次、旅客63万人次、车辆15.5万辆次顺利过海，同比2024年(2025年受台风影响多…",
+   "regions": [
+    "海口"
+   ]
+  },
+  {
+   "title": "外交部：再次敦促日方严惩凶犯、以儆效尤",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709120.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:33:57.000Z",
+   "summary": "10月8日，外交部发言人毛宁主持例行记者会。有记者问：据报道，10月1日，东京地方法院对非法侵闯中国使馆的村田晃大进行首次公开庭审。中方对此有何评论？",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "向违法赶海“亮剑” ：三亚已关停经营性赶海场所7家 陵水已依法立案5家",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709112.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T07:33:35.000Z",
+   "summary": "中新网三亚10月8日电 (张月和)10月7日，海南省红树林自然保护区赶海违法行为曝光，引发社会高度关注。三亚市和陵水黎族自治县有关部门迅速开展赶海违法行为整治工作，对违规经营的赶海俱乐部经营工具、路边广告牌进行收缴、清理，对保护区内的地笼、…",
+   "regions": [
+    "三亚",
+    "海南"
+   ]
+  },
+  {
+   "title": "多哥部长会议主席福雷将访华",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709111.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:24:58.000Z",
+   "summary": "外交部发言人宣布：",
+   "regions": []
+  },
+  {
+   "title": "贵州省铜仁市人大常委会原副主任龙群跃被“双开”",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709105.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:16:12.000Z",
+   "summary": "中新网10月8日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对贵州省铜仁市人大常委会原党组成员、副主任龙群跃严重违纪违法问题进行了立案审查调查。",
+   "regions": [
+    "铜仁",
+    "贵州"
+   ]
+  },
+  {
+   "title": "北京市园林绿化局原副局长戴明超受贿案一审宣判",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709102.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:14:40.000Z",
+   "summary": "中新网10月8日电 据“京法网事”微信公众号消息，2026年10月8日，北京市第二中级人民法院依法公开宣判北京市园林绿化局原党组成员、副局长戴明超受贿一案，对被告人戴明超以受贿罪判处有期徒刑十一年六个月，并处罚金人民币一百六十万元。对戴明超…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "“全球治理之友小组”呼吁各方遵守国际法治",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709101.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:04:21.000Z",
+   "summary": "新华社联合国10月7日电#8195;中国常驻联合国副代表孙磊7日代表“全球治理之友小组”在联大第六委员会“国内与国际法治”议题下作共同发言，呼吁各方捍卫《联合国宪章》权威，遵守国际法治。",
+   "regions": []
+  },
+  {
+   "title": "海外博主看中国｜中国制造靠什么赢得市场？",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709099.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T07:03:25.000Z",
+   "summary": "近日，英国博主杰森·理查德走进中国广东惠州和东莞的电动车生产基地，实地探访车辆生产、质量检测等环节。",
+   "regions": [
+    "欧洲",
+    "东莞",
+    "惠州"
+   ]
+  },
+  {
+   "title": "江西省九江市政府二级巡视员王斌被查",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709094.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T06:52:11.000Z",
+   "summary": "中新网10月8日电 据江西省纪委监委消息，江西省九江市政府二级巡视员王斌涉嫌严重违纪违法，主动向组织交代问题，目前正接受江西省纪委监委纪律审查和监察调查。",
+   "regions": [
+    "江西"
+   ]
+  },
+  {
+   "title": "国庆假期 上海两大国际机场共保障进出港旅客294万人次",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709038.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T05:42:21.000Z",
+   "summary": "中新网上海10月8日电 (记者 殷立勤)10月8日，记者从上海机场集团了解到，今年国庆假期，上海浦东、虹桥两大国际机场共保障航班起降1.7万架次，保障进出港旅客294万人次，日均42万人次。",
+   "regions": [
+    "上海"
+   ]
+  },
+  {
+   "title": "国庆假期太原文博场馆接待游客逾95万人次 外地游客占八成",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709032.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T05:37:49.000Z",
+   "summary": "中新网太原10月8日电 (记者 胡健)2026年国庆假期，山西省太原市文物局直属21处文博场馆共接待游客95.39万人次，门票收入1709.61万元，同比分别增长9.31%和18.39%。外地游客76.56万人次，占80.26%，主要来自河…",
+   "regions": [
+    "太原",
+    "山西"
+   ]
+  },
   {
    "title": "农工党大连市委会赴索县开展医疗帮扶",
    "link": "https://www.chinanews.com.cn/txy/2026/10-08/10708910.shtml",
@@ -650,6 +2413,14 @@
    ]
   },
   {
+   "title": "Chinese scientists develop rice's full-lifecycle cell atlas",
+   "link": "https://news.cgtn.com/news/2026-10-08/Chinese-scientists-develop-rice-s-full-lifecycle-cell-atlas-1R49lxH1Lck/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-08T00:46:42.000Z",
+   "summary": "Chinese researchers have developed the world's first three-dimensional spatiotemporal cell atlas that tracks the entire …",
+   "regions": []
+  },
+  {
    "title": "全国大部天气晴好 海南岛有强降水",
    "link": "https://www.chinanews.com.cn/sh/2026/10-08/10708866.shtml",
    "source": "中新网社会",
@@ -670,6 +2441,323 @@
   }
  ],
  "econ": [
+  {
+   "title": "国庆假期国铁广州局共发送旅客逾2072万人次",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709213.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T08:59:14.000Z",
+   "summary": "中新社广州10月8日电 (郭军 彭国曦)据国铁广州局8日通报，今年国庆与中秋节假期叠加，客流大幅增加。10月1日至7日，国铁广州局共计发送旅客2072.1万人次，同比增加186万人次，创历史新高。",
+   "regions": []
+  },
+  {
+   "title": "“一人公司”办全球赛事：浙江温州华侨网络成底气",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709204.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T08:53:43.000Z",
+   "summary": "中新网温州10月8日电(张益聪)成立仅半年的某“一人公司”(OPC)，将于11月在浙江省温州市举办一场全球级开源游戏赛事，底气何在？该企业创始人叶哲鸣坦言：“温州华侨众多，这个网络本身就是天然的传播渠道，这是温州独特的优势。”",
+   "regions": []
+  },
+  {
+   "title": "国庆假期辽宁持续升级文旅产品供给激活假日消费",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709197.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T08:50:57.000Z",
+   "summary": "中新网沈阳10月8日电 (记者 韩宏)记者8日从辽宁省文化和旅游厅获悉，按照可比口径测算，国庆假期辽宁接待游客人次同比增长12.29%，实现旅游综合收入同比增长11.10%，实现双增长。",
+   "regions": []
+  },
+  {
+   "title": "中国出口摩托车质量安全状况调查服务项目（第二次）比选公告",
+   "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-08/10709206.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-08T08:50:19.000Z",
+   "summary": "一、项目基本情况",
+   "regions": []
+  },
+  {
+   "title": "国庆假期长三角消费诉求整体平稳",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709168.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T08:27:56.000Z",
+   "summary": "中新网上海10月8日电 (记者 许婧)上海市市场监管局8日发布消息称，2026年国庆长假期间，长三角消费诉求整体平稳，上海假日消费维权渠道畅通有序。",
+   "regions": []
+  },
+  {
+   "title": "直播海报：国新办就“十五五”时期推进就业和社会保障高质量发展有关情况举行新闻发布会",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709179.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:24:32.000Z",
+   "summary": "",
+   "regions": []
+  },
+  {
+   "title": "中国最高法等发布典型案例 聚焦解决拖欠企业账款纠纷",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709153.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:06:17.000Z",
+   "summary": "中新社北京10月8日电 (记者 张素)中国最高人民法院、中华全国工商业联合会8日联合发布10个民营经济领域纠纷多元化解典型案例，聚焦解决拖欠企业账款纠纷。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "美公司指控中国机构用AI攻击韩国金融机构 外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709164.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T08:01:44.000Z",
+   "summary": "中新网北京10月8日电 (记者 黄钰钦)中国外交部发言人毛宁8日主持例行记者会。",
+   "regions": [
+    "朝鲜半岛",
+    "北京"
+   ]
+  },
+  {
+   "title": "中方对欧盟贸易官员访华有何期待？ 外交部回应",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-08/10709163.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-08T07:59:04.000Z",
+   "summary": "中新网北京10月8日电 (记者 黄钰钦)中国外交部发言人毛宁8日主持例行记者会。",
+   "regions": [
+    "欧洲",
+    "北京"
+   ]
+  },
+  {
+   "title": "超6278万人次游客 国庆爆火的广东文旅里藏着什么？",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709145.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T07:56:12.000Z",
+   "summary": "中新网广州10月8日电 (记者 殷春永)金秋十月的长假收尾，广东官方初步测算的数据显示，全省接待游客逾6278万人次，日均接待游客及旅游花费分别同比增长10.1%、8.9%。",
+   "regions": []
+  },
+  {
+   "title": "新就业形态劳动者权益保障办法公开征求意见",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709144.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T07:50:36.000Z",
+   "summary": "原标题：新华社权威快报|新就业形态劳动者权益保障办法公开征求意见",
+   "regions": []
+  },
+  {
+   "title": "一增一降里的新能源汽车充电新趋势（新场景里看活力）",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709142.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T07:49:08.000Z",
+   "summary": "本报记者 葛孟超",
+   "regions": []
+  },
+  {
+   "title": "国庆假期电影消费券惠民加码 观影市场热度攀升",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709138.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T07:47:02.000Z",
+   "summary": "国庆假期，看电影成为不少市民休闲度假的首选。网络平台数据显示，截至目前，2026年国庆档电影票房(含预售)突破10亿元。",
+   "regions": []
+  },
+  {
+   "title": "琼州海峡国庆假期过海新能源车日均同比增逾七成",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709124.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T07:41:59.000Z",
+   "summary": "中新网湛江10月8日电 (梁盛 谢晓琳 董舜禹)记者8日从广东湛江海事局获悉，琼州海峡国庆假期累计运送旅客62.05万人次、车辆15.59万台次，日均运送旅客约8.86万人次、车辆约2.23万台次，日均同比增长18.13%、12.06%。其…",
+   "regions": []
+  },
+  {
+   "title": "国庆假期广州多口岸现跨境客流高峰",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709115.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T07:35:57.000Z",
+   "summary": "中新网广州10月8日电 (许青青 关悦)国庆假期，跨境出行热度高涨，广州白云机场、南沙客运港、琶洲港澳客运口岸等口岸迎来人员进出境高峰。据广州海关统计，今年国庆假期期间(10月1日0时至10月7日12时)，该关累计监管进出境航班(客轮)超2…",
+   "regions": [
+    "南海"
+   ]
+  },
+  {
+   "title": "A股收评：超3700只个股飘绿，三大指数集体收跌，科创50跌超4%",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709104.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T07:08:00.000Z",
+   "summary": "A股收评：超3700只个股飘绿，三大指数集体收跌，科创50跌超4%；半导体、通信设备重挫，光芯片、CPO概念股大跌，海运大涨，油气、电力飘红",
+   "regions": []
+  },
+  {
+   "title": "国庆假期420.28万人次涌入徐州 总消费达41.35亿元",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709095.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T06:54:41.000Z",
+   "summary": "金秋时节，山河锦绣。国庆假期，徐州以“汉风千年彭城七里”为主题，将为期一个月的汉文化旅游节推向高潮。文旅深度融合，消费活力涌动，一城两汉三餐四季七里千年，满城风华。人们走出家门，走进历史、走向山水，在千年汉风与人间烟火中尽享彭城风雅，沉浸式…",
+   "regions": []
+  },
+  {
+   "title": "发票数据显示国庆假期服务消费旺盛",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709089.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T06:43:42.000Z",
+   "summary": "新华社权威快报|发票数据显示国庆假期服务消费旺盛",
+   "regions": []
+  },
+  {
+   "title": "（经济观察）中国民企破局“无人物流”新赛道",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709076.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T06:28:01.000Z",
+   "summary": "中新社北京10月8日电 (记者 王梦瑶)路上无人快递车日益常见，酒店送餐机器人渐成标配......这些末端配送领域变化的背后，是整个中国物流产业链的无人化改造与升级。从发现需求到响应需求，民营企业发挥了不可小觑的作用。",
+   "regions": []
+  },
+  {
+   "title": "国庆假期中国高速公路新能源汽车日均充电量同比增逾51%",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709071.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T06:24:37.000Z",
+   "summary": "中新社北京10月8日电 (记者 王梦瑶)据中国国家能源局8日消息，通过对纳入国家充电设施监测服务平台的6.27万个高速公路充电设施(枪)的统计分析，自10月1日0时至10月7日24时，中国高速公路新能源汽车充电次数共计671.1万次，充电量…",
+   "regions": []
+  },
+  {
+   "title": "赤水河畔，红色基因照亮“绿色”征程丨企步新长征",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709069.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T06:09:26.000Z",
+   "summary": "赤水河，是一条有记忆的河。",
+   "regions": []
+  },
+  {
+   "title": "国庆节期间1546.2万人次出入境",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709043.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T06:03:24.000Z",
+   "summary": "中新网10月8日电 据国家移民管理局微信公众号消息，今年国庆节假期全国边检机关共保障1546.2万人次中外人员出入境，日均220.9万人次，较去年同期增长6.7%；单日出入境通关最高峰出现在10月4日，达239.7万人次。其中，内地居民出境…",
+   "regions": []
+  },
+  {
+   "title": "宁夏银川：全域文旅释放消费活力",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709039.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T05:43:15.000Z",
+   "summary": "中新网银川10月8日电 (记者 李佩珊)记者8日从宁夏银川市文旅部门获悉，2026年国庆假期期间，银川紧扣“举杯贺兰山”核心主题，整合景区街区、葡萄酒庄、乡村山野、夜间演艺等多元场景，推出40余项精品文旅活动，打造全场景沉浸式游玩体验，全城…",
+   "regions": []
+  },
+  {
+   "title": "潮流演艺丰富假日供给 国庆假期河南重点景区引客超1833万人次",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-08/10709034.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-08T05:40:05.000Z",
+   "summary": "中新网郑州10月8日电 (记者 刘鹏)2026年国庆7天假期，河南各地丰富文旅产品供给，以演艺、文博、民俗等活动为抓手，全省4A级及以上重点景区共接待游客1833.3万人次，实现营收11.6亿元，文化活动、沉浸式体验、惠民举措多点开花。",
+   "regions": [
+    "郑州",
+    "河南"
+   ]
+  },
+  {
+   "title": "国家税务总局：10月申报纳税期限顺延至10月26日",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709014.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T05:18:50.000Z",
+   "summary": "中新网10月8日电 据国家税务总局微信公众号消息，根据《国家税务总局办公厅关于明确2026年度申报纳税期限的通知》，10月申报纳税期限顺延至10月26日。",
+   "regions": []
+  },
+  {
+   "title": "国庆假期高速公路新能源汽车日均充电量同比增长51.42%",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709013.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T05:13:23.000Z",
+   "summary": "中新网10月8日电 据国家能源局微信公众号消息，随着新能源汽车保有量持续增长，节假日群众绿色出行比例不断提升，国家能源局指导各地提前细化完善充电保障方案，组织有关方面利用信息化平台加强监测，做好应急调度，有效保障今年国庆期间新能源汽车大规模…",
+   "regions": []
+  },
+  {
+   "title": "中国牵头制定的大型藻类固碳量测算国际标准发布",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709008.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T04:51:00.000Z",
+   "summary": "中新社北京10月8日电 (记者 刘亮)中国国家市场监管总局8日公布，由中国牵头制定的《养殖大型藻类固碳量 采样与分析方法》国际标准近日正式发布。该标准由中国联合挪威、意大利、印度、韩国、冰岛等国共同研制。",
+   "regions": [
+    "朝鲜半岛",
+    "欧洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "日均超3亿人次！国庆假期多项出行数据创新高",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709007.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T04:49:48.000Z",
+   "summary": "中新网北京10月8日电(记者 张尼)记者从交通运输部获悉，2026年10月1日-7日，累计全社会跨区域人员流动量预计21.44亿人次，日均3.06亿人次，同比(2025年中秋国庆假期8天日均，下同)增长0.7%。",
+   "regions": []
+  },
+  {
+   "title": "百强房企“交卷”：1~9月销售总额超2.25万亿元",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708967.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T03:59:11.000Z",
+   "summary": "每经记者｜包晶晶",
+   "regions": []
+  },
+  {
+   "title": "9月末外储为34003亿美元 美联储加息预期下多类资产价格承压",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708962.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T03:58:13.000Z",
+   "summary": "每经记者｜张寿林",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "人民银行连续23个月增持黄金",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708955.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T03:56:31.000Z",
+   "summary": "外汇储备最新数据出炉。10月7日，国家外汇管理局公布2026年9月末外汇储备规模数据。数据显示，截至2026年9月末，我国外汇储备规模为34003亿美元，环比降幅为1.11%。至此，我国外汇储备规模已连续6个月保持在3.4万亿美元以上水平。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708989.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T03:37:32.000Z",
+   "summary": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%；光芯片、CPO概念股集体下挫，半导体、通信设备大跌；海运领涨，银行上涨",
+   "regions": []
+  },
+  {
+   "title": "国庆假期烟台机场累计保障旅客近20万人次",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708985.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T03:36:40.000Z",
+   "summary": "中新网烟台10月8日电 (王娇妮 魏家兴)记者8日从山东烟台机场获悉，10月1日至7日，该机场完成航班起降1400余架次、运送旅客19.7万人次，同比分别增长3.4%和8.7%。其中，国际及地区客运航班执行100架次、保障出入境人员1.2万…",
+   "regions": []
+  },
+  {
+   "title": "国庆假期进出京客流单日首破560万人次创新高",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708979.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T03:33:58.000Z",
+   "summary": "中新网北京10月8日电 (记者 吕少威)记者8日从北京市交通委获悉，国庆假期，北京交通迎来大客流考验，交通运行总体平稳有序。据统计，国庆假期全市进出京客流达3177万人次，日均453.9万人次，同比上升11.34%，其中，十一当天进出京56…",
+   "regions": []
+  },
+  {
+   "title": "“少作业”实现“多稳产” 大庆油田老油田精益治理降本增效",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708970.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T03:32:04.000Z",
+   "summary": "中新网大庆10月8日电 (王立峰)10月8日，记者从大庆油田了解到，年初以来，大庆油田采油五厂开发管理的杏南开发区井下作业系统围绕降低作业率、压缩生产成本目标，坚持管理优化与技术创新协同发力，成本作业井数同比减少564井次，作业率同比下降3…",
+   "regions": []
+  },
+  {
+   "title": "天津邮轮口岸国庆假期客流走高 外籍旅客同比增超6倍",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708947.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T03:04:58.000Z",
+   "summary": "中新网天津10月8日电 (记者 周亚强)记者从天津东疆边检站获悉，2026年国庆假期，天津邮轮口岸累计出入境邮轮及客班轮10艘次，出入境旅客超1.8万人次，为去年同期的近2倍，其中外籍旅客同比增长超6倍。",
+   "regions": []
+  },
+  {
+   "title": "全国首个纯电池动力客船岸基电气管理人员岗位标准实施",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708939.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-08T02:57:54.000Z",
+   "summary": "中新网广州10月8日电 (郭军 王相茹 陈秀慧)10月7日，广州海事局、广州市港务局联合珠江游航运公司召开《纯电池动力客船岸基电气管理人员岗位要求》团体标准宣贯会。会上，广州金航游轮股份有限公司等6家珠江游航运公司共同签署标准落实备忘录，承…",
+   "regions": []
+  },
   {
    "title": "玉渊谭天丨中欧经贸，需要寻找更大的共识",
    "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708915.shtml",
@@ -750,5 +2838,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-08T02:24:37.862Z"
+ "updatedAt": "2026-10-08T09:17:36.986Z"
 }
