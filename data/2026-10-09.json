@@ -178,6 +178,14 @@
    "regions": []
   },
   {
+   "title": "XXL-JOB v3.5.0 发布｜OpenAPI 增强、动态 AccessToken、海量日志索引优化",
+   "link": "https://www.oschina.net/news/502924",
+   "source": "开源中国",
+   "time": "2026-10-09T15:11:41.000Z",
+   "summary": "Release Notes 1、【新增】OpenAPI能力增强：提供任务管理能力，包括任务新建/更新/删除、启动/停止、任务触发等； （注意：任务管理OpenAPI及操作代码示例，详见官方文档） 2、【新增】GLUE模式开关：新增GLUE模…",
+   "regions": []
+  },
+  {
    "title": "猛士 X700 首台量产车将于 10 月 10 日正式下线，预售价 24.98 万元起",
    "link": "https://www.ithome.com/1/011/150.htm",
    "source": "IT之家",
@@ -391,6 +399,14 @@
    "source": "IT之家",
    "time": "2026-10-09T11:57:09.000Z",
    "summary": "IT之家 10 月 9 日消息，岚图汽车科技股份有限公司董事长卢放今日再度发文，谈及了汽车安全这一话题。他表示： 用钢还是塑料，并不是重点。 真正重要的是车辆设计所秉持的安全理念、底线与原则 ，以及企业能否以安全为核心，建立起一套科学完备并…",
+   "regions": []
+  },
+  {
+   "title": "Zentrola 1.1.0 发布：应用接入、成本核算与月度 Token 配额",
+   "link": "https://www.oschina.net/news/502923",
+   "source": "开源中国",
+   "time": "2026-10-09T11:50:36.000Z",
+   "summary": "Zentrola 是面向研发团队的 AI Coding 能力治理平台。它位于 Codex、Claude Code 等客户端与企业模型服务之间，让研发人员继续使用熟悉的工具，同时由管理员统一管理模型访问、凭据、用量和成本。 1.1.0 在已有…",
    "regions": []
   },
   {
@@ -1468,6 +1484,28 @@
  ],
  "world": [
   {
+   "title": "【地震 M4.7】14 km W of Río Grande, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b4",
+   "source": "USGS地震台网",
+   "time": "2026-10-09T23:57:38.179Z",
+   "summary": "美国地质调查局官方监测：14 km W of Río Grande, Panama发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】45 km SSE of Pedasí, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3",
+   "source": "USGS地震台网",
+   "time": "2026-10-09T23:54:22.924Z",
+   "summary": "美国地质调查局官方监测：45 km SSE of Pedasí, Panama发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
    "title": "彭丽媛向2026年联合国教科文组织女童和妇女教育奖颁奖仪式发表视频致辞",
    "link": "https://www.chinanews.com.cn/gn/2026/10-10/10709984.shtml",
    "source": "中新网滚动",
@@ -1614,6 +1652,14 @@
    ]
   },
   {
+   "title": "Putin, Trump hold phone talks on Ukraine crisis, energy supply",
+   "link": "https://news.cgtn.com/news/2026-10-10/news-1R7mVQzBS1y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T23:02:18.000Z",
+   "summary": "Russian President Vladimir Putin held a telephone conversation with US President Donald Trump on Friday, during which co…",
+   "regions": []
+  },
+  {
    "title": "欧盟对美国宣布制裁国际刑事法院深表遗憾 将全力确保国际刑事法院履职",
    "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709970.shtml",
    "source": "中新网国际",
@@ -1633,6 +1679,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "US sanctions on ICC draw criticism from UN, member states",
+   "link": "https://news.cgtn.com/news/2026-10-10/news-1R7mNT6P2fK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T23:00:30.000Z",
+   "summary": "UN Secretary-General António Guterres and foreign ministers of eight countries on Friday criticized the US announcement …",
+   "regions": []
   },
   {
    "title": "俄美总统通话：俄将向美及全球市场供应石油和石油产品",
@@ -1725,6 +1779,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "Trump strikes deal with Putin on oil",
+   "link": "https://newsus.cgtn.com/news/2026-10-10/Trump-strikes-deal-with-Putin-on-oil--1R79VL8POE0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T22:11:02.000Z",
+   "summary": "Trump strikes deal with Putin on oil",
+   "regions": []
   },
   {
    "title": "【地震 M4.6】4 km NNE of Río Grande, Panama",
@@ -2298,6 +2360,14 @@
    ]
   },
   {
+   "title": "South Africa withdraws asylum directive after anti-migrant violence",
+   "link": "https://newsaf.cgtn.com/news/2026-10-09/South-Africa-withdraws-asylum-directive-after-anti-migrant-violence-1R6DJYOHz3O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T15:12:03.000Z",
+   "summary": "Violent anti-migrant protests erupted in Johannesburg's Soweto township and Durban on Thursday, with 24 vehicles torched…",
+   "regions": []
+  },
+  {
    "title": "【灾害警报】Green earthquake (Magnitude 5.9M, Depth:10km) in West Of Macquarie Island 09/10/2026 14:49 UTC, [unknown].",
    "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570318",
    "source": "GDACS灾害监测",
@@ -2367,6 +2437,38 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "El Niño and warming waters in fight over future of Hurricane Isaias",
+   "link": "https://news.cgtn.com/news/2026-10-09/El-Ni-o-and-warming-waters-in-fight-over-future-of-Hurricane-Isaias-1R6yis3atvG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T14:45:23.000Z",
+   "summary": "El Niño and warming waters in fight over future of Hurricane Isaias",
+   "regions": []
+  },
+  {
+   "title": "China slams Japan's right-wing forces over AI distortion of WWII",
+   "link": "https://news.cgtn.com/news/2026-10-09/China-slams-Japan-s-right-wing-forces-over-AI-distortion-of-WWII-1R6Dl0AMavm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T14:42:26.000Z",
+   "summary": "China slams Japan's right-wing forces over AI distortion of WWII",
+   "regions": []
+  },
+  {
+   "title": "Ethiopian parliament approves new cabinet of 23 members",
+   "link": "https://newsaf.cgtn.com/news/2026-10-09/Ethiopian-parliament-approves-new-cabinet-of-23-members-1R6FZOvDnTq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T14:31:18.000Z",
+   "summary": "Of the 23 ministerial positions, including the deputy prime minister, more than 10 positions remained unchanged, as nine…",
+   "regions": []
+  },
+  {
+   "title": "Lesotho confirms measles outbreak in two northern districts",
+   "link": "https://newsaf.cgtn.com/news/2026-10-09/Lesotho-confirms-measles-outbreak-in-two-northern-districts-1R6HYIk12Ks/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T14:29:09.000Z",
+   "summary": "Lesotho has confirmed a measles outbreak in its northern districts of Butha-Buthe and Leribe, with 12 confirmed and 20 s…",
+   "regions": []
   },
   {
    "title": "扎哈罗娃不认同有关出现“超强人工智能”的末日预测",
@@ -2522,6 +2624,14 @@
     "中东",
     "俄乌"
    ]
+  },
+  {
+   "title": "Russia denies reports of second case linked to Siberian plague lab",
+   "link": "https://news.cgtn.com/news/2026-10-09/Russia-denies-reports-of-second-case-linked-to-Siberian-plague-lab-1R6C0Y4W21a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T13:38:40.000Z",
+   "summary": "Russia denies reports of second case linked to Siberian plague lab",
+   "regions": []
   },
   {
    "title": "折损81架军机，美军遭遇越战以来最惨重飞机损失",
@@ -2680,6 +2790,14 @@
    ]
   },
   {
+   "title": "Trump's 'super intelligence' rebrand is going nowhere, experts say",
+   "link": "https://news.cgtn.com/news/2026-10-09/Trump-s-super-intelligence-rebrand-is-going-nowhere-experts-say-1R6wJREjIxa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T12:06:42.000Z",
+   "summary": "Trump's 'super intelligence' rebrand is going nowhere, experts say",
+   "regions": []
+  },
+  {
    "title": "前联合国人权高专皮莱获诺贝尔和平奖",
    "link": "https://news.un.org/feed/view/zh/story/2026/10/1142968",
    "source": "联合国新闻",
@@ -2714,6 +2832,14 @@
    ]
   },
   {
+   "title": "Wang Yi meets with delegation of leaders from Pacific Island countries",
+   "link": "https://news.cgtn.com/news/2026-10-09/Wang-Yi-meets-with-delegation-of-leaders-from-Pacific-Island-countries-1R6wHwxjRNm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T11:55:32.000Z",
+   "summary": "Wang Yi, director of the Office of the Foreign Affairs Commission of the Communist Party of China (CPC) Central Committe…",
+   "regions": []
+  },
+  {
    "title": "沙特利雅得机场遭袭事件致三死多伤",
    "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709794.shtml",
    "source": "中新网国际",
@@ -2735,6 +2861,14 @@
    ]
   },
   {
+   "title": "China, EU reach trade, investment outcomes after 'pragmatic' talks",
+   "link": "https://news.cgtn.com/news/2026-10-09/China-EU-reach-trade-outcomes-after-Beijing-talks-1R6zmQdgsoM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T11:40:18.000Z",
+   "summary": "China and the European Union (EU) have agreed to maintain stable bilateral economic and trade ties and make them more ba…",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.4】50 km SW of Jurm, Afghanistan",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15g",
    "source": "USGS地震台网",
@@ -2744,6 +2878,14 @@
     "阿富汗",
     "中东"
    ]
+  },
+  {
+   "title": "China extends $2 million grant to Kenya for Ebola and drought",
+   "link": "https://newsaf.cgtn.com/news/2026-10-09/China-extends-2-million-grant-to-Kenya-for-Ebola-and-drought-1R6w0pbIQx2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T11:38:31.000Z",
+   "summary": "Kenya on Thursday received a cash grant from China totaling $2 million to support its Ebola response and drought relief.",
+   "regions": []
   },
   {
    "title": "扎哈罗娃：日本不承认二战结果，西方正销毁同盟证据",
@@ -2798,6 +2940,14 @@
     "中东",
     "俄乌"
    ]
+  },
+  {
+   "title": "Trump administration is suspending Microsoft from a green card program",
+   "link": "https://news.cgtn.com/news/2026-10-09/Trump-administration-is-suspending-Microsoft-from-a-green-card-program-1R6wc1ZMShq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T11:14:37.000Z",
+   "summary": "Trump administration is suspending Microsoft from a green card program",
+   "regions": []
   },
   {
    "title": "伊朗总统谈与美国的冲突：只有相互尊重，谈判才可能成功",
@@ -2883,6 +3033,14 @@
    ]
   },
   {
+   "title": "Botswana's president to pay state visit to China Oct. 12 to 17",
+   "link": "https://news.cgtn.com/news/2026-10-09/Botswana-s-president-to-pay-state-visit-to-China-Oct-12-to-17-1R6hiS8gxeo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T10:23:48.000Z",
+   "summary": "At the invitation of Chinese President Xi Jinping, Botswana's President Duma Gideon Boko will pay a state visit to China…",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.1】72 km SSW of Colchane, Chile",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u153",
    "source": "USGS地震台网",
@@ -2956,6 +3114,14 @@
    ]
   },
   {
+   "title": "Chinese envoy: Japan's remilitarization drive threatens regional peace",
+   "link": "https://news.cgtn.com/news/2026-10-09/Chinese-envoy-Japan-s-remilitarization-drive-threatens-regional-peace-1R6o6GZaYGA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T09:32:20.000Z",
+   "summary": "Japan, with its remilitarization drive, has become a prominent factor threatening regional peace and stability, a Chines…",
+   "regions": []
+  },
+  {
    "title": "媒体：特朗普特使将与基辅和欧盟讨论冲突调解",
    "link": "https://sputniknews.cn/20261009/1073551885.html",
    "source": "卫星社中文",
@@ -3009,6 +3175,14 @@
    ]
   },
   {
+   "title": "New Ebola vaccine trials begin in Uganda amid deadly DR Congo outbreak",
+   "link": "https://newsaf.cgtn.com/news/2026-10-09/New-Ebola-vaccine-trials-begin-in-Uganda-amid-deadly-DR-Congo-outbreak-1R6k5OUqbaU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T09:07:32.000Z",
+   "summary": "Wessam Mankoula, an Africa CDC official, said during an online press briefing that Phase Ib trials of the ChAdOx1 BDBV v…",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.5】13 km NE of Walker Lake, Nevada",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925512",
    "source": "USGS地震台网",
@@ -3017,6 +3191,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "Macao draws record National Day crowds",
+   "link": "https://news.cgtn.com/news/2026-10-09/Macao-draws-record-National-Day-crowds-1R6lurnnz0s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T08:38:59.000Z",
+   "summary": "China's Macao Special Administrative Region (SAR) recorded its highest ever visitor numbers for the National Day holiday…",
+   "regions": []
   },
   {
    "title": "普京：俄罗斯支持将2028年定为独联体“社会发展年”的倡议",
@@ -3221,6 +3403,22 @@
    ]
   },
   {
+   "title": "Japan's cabinet approves bill for 1st food consumption tax cut",
+   "link": "https://news.cgtn.com/news/2026-10-09/Japan-s-cabinet-approves-bill-for-1st-food-consumption-tax-cut-1R6blDjgAh2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T06:45:19.000Z",
+   "summary": "Japan's cabinet on Friday approved a bill to temporarily cut the consumption tax on food and beverages and introduce an …",
+   "regions": []
+  },
+  {
+   "title": "US county sues to block Trump's Triumphal Arch project",
+   "link": "https://news.cgtn.com/news/2026-10-09/US-county-sues-to-block-Trump-s-Triumphal-Arch-project-1R6aTQRk6SA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T06:42:02.000Z",
+   "summary": "Local authorities in Arlington County, Virginia, on Thursday sued to block construction of US President Donald Trump's p…",
+   "regions": []
+  },
+  {
    "title": "日本跨党派议员团窜访台湾",
    "link": "https://sputniknews.cn/20261009/1073550491.html",
    "source": "卫星社中文",
@@ -3230,6 +3428,14 @@
     "台海",
     "亚太"
    ]
+  },
+  {
+   "title": "One name per category: Football's ultimate debate",
+   "link": "https://news.cgtn.com/news/2026-10-09/One-name-per-category-Football-s-ultimate-debate-1R5XIbZGoy4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T06:30:12.000Z",
+   "summary": "One name per category: Football's ultimate debate",
+   "regions": []
   },
   {
    "title": "携程网: “黄金周”期间赴华俄罗斯游客数量同比增长三倍",
@@ -3252,6 +3458,14 @@
    ]
   },
   {
+   "title": "Singapore, Mongolia to open applications for carbon credit projects",
+   "link": "https://news.cgtn.com/news/2026-10-09/Singapore-Mongolia-to-open-applications-for-carbon-credit-projects-1R66vVOIW88/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T06:05:50.000Z",
+   "summary": "Singapore, Mongolia to open applications for carbon credit projects",
+   "regions": []
+  },
+  {
    "title": "美国务卿促欧洲降低对华依赖，强调关键商品供应多元化",
    "link": "https://sputniknews.cn/20261009/1073550096.html",
    "source": "卫星社中文",
@@ -3261,6 +3475,22 @@
     "欧洲",
     "美洲"
    ]
+  },
+  {
+   "title": "Anthropic updates usage policy to curb abusive prompting of Claude AI",
+   "link": "https://news.cgtn.com/news/2026-10-09/Anthropic-updates-usage-policy-to-curb-abusive-prompting-of-Claude-AI-1R61FzOEt9u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T05:49:35.000Z",
+   "summary": "Anthropic on Thursday moved to bar users from treating its Claude artificial intelligence (AI) system with needless crue…",
+   "regions": []
+  },
+  {
+   "title": "Okinawa assembly resolution seeks US forces' action after murder case",
+   "link": "https://news.cgtn.com/news/2026-10-09/Okinawa-assembly-resolution-seeks-US-forces-action-after-murder-case-1R63wqTwZri/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T05:43:23.000Z",
+   "summary": "The Okinawa prefectural assembly on Friday adopted a protest resolution and an opinion statement calling for a fundament…",
+   "regions": []
   },
   {
    "title": "俄农产品出口发展中心：中国五年间鱼类和海产品进口额增加约三分之一",
@@ -3313,6 +3543,14 @@
     "印尼",
     "亚太"
    ]
+  },
+  {
+   "title": "Buyunchaokete shines on serve to book Shanghai showdown with Ruud",
+   "link": "https://news.cgtn.com/news/2026-10-09/Buyunchaokete-shines-on-serve-to-book-Shanghai-showdown-with-Ruud-1R5YrkX44us/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T04:54:33.000Z",
+   "summary": "Buyunchaokete shines on serve to book Shanghai showdown with Ruud",
+   "regions": []
   },
   {
    "title": "超长部署300多天，美国“林肯”号航母返回圣迭戈母港",
@@ -3376,6 +3614,14 @@
    ]
   },
   {
+   "title": "Peskov: Pezeshkian sent no message to Trump after Putin meeting",
+   "link": "https://news.cgtn.com/news/2026-10-09/news-1R63vcVhj3O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T04:02:48.000Z",
+   "summary": "Peskov: Pezeshkian sent no message to Trump after Putin meeting",
+   "regions": []
+  },
+  {
    "title": "法军总参谋长：德国决定退出与法国的坦克计划",
    "link": "https://sputniknews.cn/20261009/1073549117.html",
    "source": "卫星社中文",
@@ -3414,6 +3660,14 @@
    "regions": [
     "欧洲"
    ]
+  },
+  {
+   "title": "US rules out Iran attack before midterms as Yemen fighting escalates",
+   "link": "https://news.cgtn.com/news/2026-10-09/US-rules-out-Iran-attack-before-midterms-as-Yemen-fighting-escalates-1R5WBrrXFQc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-09T03:39:59.000Z",
+   "summary": "US President Donald Trump said on Thursday that the US will not attack Iran before November's US midterm congressional e…",
+   "regions": []
   },
   {
    "title": "古巴外长：美国无权决定古巴与他国的贸易条款",
@@ -3768,6 +4022,18 @@
    ]
   },
   {
+   "title": "Macao draws record National Day crowds",
+   "link": "https://news.cgtn.com/news/2026-10-09/Macao-draws-record-National-Day-crowds-1R6lurnnz0s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T08:38:59.000Z",
+   "summary": "China's Macao Special Administrative Region (SAR) recorded its highest ever visitor numbers for the National Day holiday…",
+   "regions": [
+    "中国",
+    "亚太",
+    "澳门"
+   ]
+  },
+  {
    "title": "我的铁路风景｜列车上、车站里、海峡间，唱响爱国赞歌！",
    "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709677.shtml",
    "source": "中新网滚动",
@@ -3797,6 +4063,17 @@
     "台海",
     "厦门",
     "福建"
+   ]
+  },
+  {
+   "title": "Hong Kong SAR draws 1.6 mln visitor arrivals during Nat'l Day holiday",
+   "link": "https://news.cgtn.com/news/2026-10-09/Hong-Kong-SAR-draws-1-6-mln-visitor-arrivals-during-Nat-l-Day-holiday-1R5MnOHzSkU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T03:47:49.000Z",
+   "summary": "The Hong Kong Special Administrative Region recorded around 1.6 million visitor arrivals during the National Day holiday…",
+   "regions": [
+    "香港",
+    "亚太"
    ]
   }
  ],
@@ -3863,6 +4140,18 @@
    "time": "2026-10-09T22:45:54.000Z",
    "summary": "科研越来越依赖大模型的参与。但大模型要“读懂”科学，靠的不是通用互联网数据——",
    "regions": []
+  },
+  {
+   "title": "China slams Japan's right-wing forces over AI distortion of WWII",
+   "link": "https://news.cgtn.com/news/2026-10-09/China-slams-Japan-s-right-wing-forces-over-AI-distortion-of-WWII-1R6Dl0AMavm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T14:42:26.000Z",
+   "summary": "China slams Japan's right-wing forces over AI distortion of WWII",
+   "regions": [
+    "日本",
+    "亚太",
+    "中国"
+   ]
   },
   {
    "title": "谌贻琴在会见第20届亚运会中国体育代表团时强调 戒骄戒躁 再接再厉 扎实推进洛杉矶奥运会备战工作",
@@ -3996,6 +4285,14 @@
    "regions": [
     "海南"
    ]
+  },
+  {
+   "title": "Symposium held to study Xi's works on culture",
+   "link": "https://news.cgtn.com/news/2026-10-09/Symposium-held-to-study-Xi-s-works-on-culture-1R6zQjPACHe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T13:50:08.000Z",
+   "summary": "A symposium was held in Beijing on Friday to study the first and second volumes of selected works on culture by Xi Jinpi…",
+   "regions": []
   },
   {
    "title": "四川自贡至重庆永川高速公路四川段进入路面工程施工阶段",
@@ -4195,6 +4492,17 @@
    ]
   },
   {
+   "title": "China issues guidelines on developing new quality productive forces",
+   "link": "https://news.cgtn.com/news/2026-10-09/China-issues-guidelines-on-developing-new-quality-productive-forces-1R6ANt3mNS8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T12:11:08.000Z",
+   "summary": "China issues guidelines on developing new quality productive forces",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "青海湖景区2026冬春季旅游启动",
    "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709845.shtml",
    "source": "中新网社会",
@@ -4226,6 +4534,18 @@
    ]
   },
   {
+   "title": "Wang Yi meets with delegation of leaders from Pacific Island countries",
+   "link": "https://news.cgtn.com/news/2026-10-09/Wang-Yi-meets-with-delegation-of-leaders-from-Pacific-Island-countries-1R6wHwxjRNm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T11:55:32.000Z",
+   "summary": "Wang Yi, director of the Office of the Foreign Affairs Commission of the Communist Party of China (CPC) Central Committe…",
+   "regions": [
+    "中国",
+    "亚太",
+    "太平洋"
+   ]
+  },
+  {
    "title": "中秋、国庆假期国铁太原局发送旅客552.4万人次",
    "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709839.shtml",
    "source": "中新网社会",
@@ -4253,6 +4573,19 @@
    "summary": "中新社北京10月9日电 (记者 刘文文)记者9日从中国文化和旅游部获悉，经文化和旅游部数据中心测算，国庆节假期7天，全国国内出游8.26亿人次，国内出游总花费7383.75亿元(人民币，下同)，按可比口径(日均)比2025年分别增长6.3%…",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "China extends $2 million grant to Kenya for Ebola and drought",
+   "link": "https://newsaf.cgtn.com/news/2026-10-09/China-extends-2-million-grant-to-Kenya-for-Ebola-and-drought-1R6w0pbIQx2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T11:38:31.000Z",
+   "summary": "Kenya on Thursday received a cash grant from China totaling $2 million to support its Ebola response and drought relief.",
+   "regions": [
+    "中国",
+    "亚太",
+    "肯尼亚",
+    "非洲"
    ]
   },
   {
@@ -4415,6 +4748,19 @@
    ]
   },
   {
+   "title": "Botswana's president to pay state visit to China Oct. 12 to 17",
+   "link": "https://news.cgtn.com/news/2026-10-09/Botswana-s-president-to-pay-state-visit-to-China-Oct-12-to-17-1R6hiS8gxeo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T10:23:48.000Z",
+   "summary": "At the invitation of Chinese President Xi Jinping, Botswana's President Duma Gideon Boko will pay a state visit to China…",
+   "regions": [
+    "中国",
+    "亚太",
+    "博茨瓦纳",
+    "非洲"
+   ]
+  },
+  {
    "title": "广西壮族自治区玉林市人大常委会原主任杨红接受审查调查",
    "link": "https://www.chinanews.com.cn/gn/2026/10-09/10709786.shtml",
    "source": "中新网中国",
@@ -4423,6 +4769,17 @@
    "regions": [
     "玉林",
     "广西"
+   ]
+  },
+  {
+   "title": "China picks up pace on Great Green Wall",
+   "link": "https://news.cgtn.com/news/2026-10-09/China-picks-up-pace-on-Great-Green-Wall-1R6iNSsgNLq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T10:02:13.000Z",
+   "summary": "China picks up pace on Great Green Wall",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4451,6 +4808,55 @@
    "summary": "中新社江西永修10月9日电 (记者 姜涛)寒露时节，海拔近千米的江西永修云居山间稻田一片金黄，谷香漫野。在千年古刹真如禅寺，全体僧众躬身阡陌，弯腰割稻，将一季耕耘颗粒归仓。",
    "regions": [
     "江西"
+   ]
+  },
+  {
+   "title": "Chinese envoy: Japan's remilitarization drive threatens regional peace",
+   "link": "https://news.cgtn.com/news/2026-10-09/Chinese-envoy-Japan-s-remilitarization-drive-threatens-regional-peace-1R6o6GZaYGA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T09:32:20.000Z",
+   "summary": "Japan, with its remilitarization drive, has become a prominent factor threatening regional peace and stability, a Chines…",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Visa-free policies boost China's inbound tourism for National Day",
+   "link": "https://news.cgtn.com/news/2026-10-09/Visa-free-policies-boost-China-s-inbound-tourism-for-National-Day-1R6q2jVL0NG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T09:24:41.000Z",
+   "summary": "China recorded 15.46 million cross-border passenger trips during the week-long National Day holiday, with foreign nation…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Night tour of Longmen: One step, a thousand years",
+   "link": "https://news.cgtn.com/news/2026-10-09/Night-tour-of-Longmen-One-step-a-thousand-years-1R6kNNSdADC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T09:11:04.000Z",
+   "summary": "Carved into the cliffs above the Yihe River, the UNESCO-listed Longmen Grottoes glow at night—thousands of ancient Buddh…",
+   "regions": []
+  },
+  {
+   "title": "From trendsetting landmark to global youth culture hub",
+   "link": "https://news.cgtn.com/news/2026-10-09/From-trendsetting-landmark-to-global-youth-culture-hub-1R62LPFqlTW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T09:10:41.000Z",
+   "summary": "Sanlitun is a trendsetter in Beijing — a magnet for young people, global brands and international visitors.",
+   "regions": []
+  },
+  {
+   "title": "China's FAST telescope finds rare triple-star system still evolving",
+   "link": "https://news.cgtn.com/news/2026-10-09/China-s-FAST-telescope-finds-rare-triple-star-system-still-evolving-1R6bq1rL8Z2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T08:37:27.000Z",
+   "summary": "China's FAST telescope finds rare triple-star system still evolving",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4568,6 +4974,14 @@
    "source": "中新网社会",
    "time": "2026-10-09T07:54:37.000Z",
    "summary": "极目新闻记者 陆缘",
+   "regions": []
+  },
+  {
+   "title": "Spring/Summer 2027 Shanghai Fashion Week kicks off",
+   "link": "https://news.cgtn.com/news/2026-10-09/Spring-Summer-2027-Shanghai-Fashion-Week-kicks-off--1R6bkJ10QTK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T07:53:43.000Z",
+   "summary": "Spring/Summer 2027 Shanghai Fashion Week kicks off",
    "regions": []
   },
   {
@@ -4721,6 +5135,22 @@
    ]
   },
   {
+   "title": "How Changchun is renewing its industrial heritage",
+   "link": "https://news.cgtn.com/news/2026-10-09/How-Changchun-is-renewing-its-industrial-heritage-1R5VeMjXcis/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T06:54:35.000Z",
+   "summary": "How Changchun is renewing its industrial heritage",
+   "regions": []
+  },
+  {
+   "title": "2027 Spring/Summer Shanghai Fashion Week kicks off",
+   "link": "https://news.cgtn.com/news/2026-10-09/2027-Spring-Summer-Shanghai-Fashion-Week-kicks-off-1R60vT5iee4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T06:50:12.000Z",
+   "summary": "2027 Spring/Summer Shanghai Fashion Week kicks off",
+   "regions": []
+  },
+  {
    "title": "外卖小哥拦凶、七旬奶奶救人 致敬身边的英雄",
    "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709624.shtml",
    "source": "中新网社会",
@@ -4738,6 +5168,14 @@
     "北京",
     "武汉"
    ]
+  },
+  {
+   "title": "Jiajin: The Snow Mountain Challenge",
+   "link": "https://news.cgtn.com/news/2026-10-09/Jiajin-The-Snow-Mountain-Challenge-1QPRty2wHQs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T06:39:18.000Z",
+   "summary": "In June 1935, in order to shake off the pursuing enemy forces and join up with the Fourth Front Army, the Central Red Ar…",
+   "regions": []
   },
   {
    "title": "天地双重视角跨越90年时空 科普图书《遥看长征路》在北京发布",
@@ -4801,6 +5239,14 @@
    ]
   },
   {
+   "title": "Unraveling the Vanishing Mystery of the 34th Division",
+   "link": "https://news.cgtn.com/news/2026-10-09/Unraveling-the-Vanishing-Mystery-of-the-34th-Division-1QRxSRJSlXy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T06:17:48.000Z",
+   "summary": "In November 1934, the Battle of the Xiangjiang River took place. About 86,000 members of the Central Red Army participat…",
+   "regions": []
+  },
+  {
    "title": "（走进中国乡村）河北“绣娘小镇”：老土布“织”出新生意",
    "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709594.shtml",
    "source": "中新网社会",
@@ -4841,6 +5287,14 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "Buyunchaokete shines on serve to book Shanghai showdown with Ruud",
+   "link": "https://news.cgtn.com/news/2026-10-09/Buyunchaokete-shines-on-serve-to-book-Shanghai-showdown-with-Ruud-1R5YrkX44us/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T04:54:33.000Z",
+   "summary": "Buyunchaokete shines on serve to book Shanghai showdown with Ruud",
+   "regions": []
   },
   {
    "title": "别跑空！新疆多家景区季节性停运、调整开放时间",
@@ -4919,6 +5373,14 @@
    "source": "中新网社会",
    "time": "2026-10-09T03:12:44.000Z",
    "summary": "不知道您有没有这样的经历？深夜打开外卖平台，炸鸡、烧烤、甜品，看得人眼馋。好不容易选好下单，却又突然后悔：这么晚，还是别吃了。可这时候，外卖员已经在路上了。",
+   "regions": []
+  },
+  {
+   "title": "AI-Powered hotline: How technology helps Beijing see, hear and act",
+   "link": "https://news.cgtn.com/news/2026-10-09/AI-Powered-hotline-How-technology-helps-Beijing-see-hear-and-act-1R4GQzLY9Xy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T03:09:35.000Z",
+   "summary": "AI-Powered hotline: How technology helps Beijing see, hear and act",
    "regions": []
   },
   {
@@ -5471,6 +5933,17 @@
    ]
   },
   {
+   "title": "China, EU reach trade, investment outcomes after 'pragmatic' talks",
+   "link": "https://news.cgtn.com/news/2026-10-09/China-EU-reach-trade-outcomes-after-Beijing-talks-1R6zmQdgsoM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T11:40:18.000Z",
+   "summary": "China and the European Union (EU) have agreed to maintain stable bilateral economic and trade ties and make them more ba…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "江门海关运用“多式联运”监管模式护航出口提速",
    "link": "https://www.chinanews.com.cn/gn/2026/10-09/10709815.shtml",
    "source": "中新网中国",
@@ -5749,6 +6222,17 @@
    "regions": []
   },
   {
+   "title": "China sees service consumption growth during National Day holiday",
+   "link": "https://news.cgtn.com/news/2026-10-09/China-sees-service-consumption-growth-during-National-Day-holiday-1R5UNomUhVe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-09T03:50:11.000Z",
+   "summary": "China's service consumption market grew steadily during the National Day holiday, with average daily sales revenue in re…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "央行为什么发布关于人民币汇率的政策立场",
    "link": "https://www.chinanews.com.cn/cj/2026/10-09/10709554.shtml",
    "source": "中新网财经",
@@ -5875,5 +6359,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-10T00:10:58.309Z"
+ "updatedAt": "2026-10-10T06:09:48.951Z"
 }
