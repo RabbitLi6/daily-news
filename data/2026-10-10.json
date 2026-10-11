@@ -1672,6 +1672,16 @@
    ]
   },
   {
+   "title": "【地震 M4.6】southern Mid-Atlantic Ridge",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jt",
+   "source": "USGS地震台网",
+   "time": "2026-10-10T19:15:54.315Z",
+   "summary": "美国地质调查局官方监测：southern Mid-Atlantic Ridge发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "俄罗斯可在第一阶段向世界市场供应50万吨柴油",
    "link": "https://sputniknews.cn/20261011/1073569443.html",
    "source": "卫星社中文",
@@ -6003,5 +6013,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-11T06:07:40.398Z"
+ "updatedAt": "2026-10-11T13:14:26.166Z"
 }
