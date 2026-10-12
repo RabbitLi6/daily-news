@@ -2,6 +2,126 @@
  "date": "2026-10-11",
  "tech": [
   {
+   "title": "IT早报 1012：国家安全部提醒接陌生来电先沉默三秒；曝苹果首款智能家庭中枢定名 HomeView；星闪通信国标获批；国家互联网应急中心通报荐片播放器后门...",
+   "link": "https://www.ithome.com/1/011/730.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:50:08.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 12 日星期一，今天的重要科技资讯有： 1. 国家安全部揭秘为何接陌生来电先沉默三秒，称数秒语音样本可能被不法分子用于 AI 声纹克隆 近期，一条“接到陌生来电先沉默三秒”的提醒在社…",
+   "regions": []
+  },
+  {
+   "title": "我国万吨级深远海工程综合勘测船完成技术研发，5000 米级深水钻探装备方案成形",
+   "link": "https://www.ithome.com/1/011/729.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:47:23.000Z",
+   "summary": "IT之家 10 月 12 日消息，据科技日报，由中交公路规划设计院牵头研发的中交集团特大研发项目“基于北斗的深远海智能综合勘测系统研发及应用（二期）”第一阶段研究成果已顺利通过专家组评审。这标志着我国万吨级深远海工程综合勘测船已完成技术研发…",
+   "regions": []
+  },
+  {
+   "title": "第三方开发者让 Googlebook OS 登陆苹果芯片 Mac：支持 GPU 加速和 Chrome 浏览器",
+   "link": "https://www.ithome.com/1/011/728.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:40:50.000Z",
+   "summary": "IT之家 10 月 12 日消息，开发者 Skylar Taylor-Barrick 开源了一套名为 gbos-vm 的项目，可在搭载 Apple Silicon 芯片的苹果 Mac 上，通过虚拟机运行谷歌 Googlebook OS。 该…",
+   "regions": []
+  },
+  {
+   "title": "英国将加强网络防御，AI 国务大臣呼吁人工智能企业加大安全保障力度",
+   "link": "https://www.ithome.com/1/011/727.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:39:12.000Z",
+   "summary": "IT之家 10 月 12 日消息，据《卫报》报道，英国将加强其网络防御，同时呼吁顶尖人工智能研发企业在系统安全治理上采取更积极的举措。 英国 AI 国务大臣卡尼什卡 · 纳拉扬（Kanishka Narayan）预计将在西伦敦发表的专题演讲…",
+   "regions": []
+  },
+  {
+   "title": "华为申请注册“星芒”商标：网传是最新子品牌命名，涵盖手机、电脑等分类",
+   "link": "https://www.ithome.com/1/011/726.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:32:32.000Z",
+   "summary": "IT之家 10 月 12 日消息，国家知识产权局商标局最新信息显示，华为技术有限公司近期再次申请注册了“星芒”商标。该商标的申请日期最早可追溯至 2019 年 4 月 8 日， 今年最新申请记录显示处于“等待实质审查”阶段 。 IT之家注意…",
+   "regions": []
+  },
+  {
+   "title": "微软警告：Windows Update 两组证书 2027 年到期，过时 Win11/10 设备将无法收到更新",
+   "link": "https://www.ithome.com/1/011/725.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:31:15.000Z",
+   "summary": "IT之家 10 月 12 日消息，微软警告称，部分过时或未受支持的 Windows 设备可能在 2027 年失去 Windows Update 更新服务的访问权限。 微软宣布，用于验证设备与 Windows Update 服务器之间可信连接…",
+   "regions": []
+  },
+  {
+   "title": "戴尔推出 SE3426DW 曲面显示器：34 英寸 1440P 165Hz，1899 元",
+   "link": "https://www.ithome.com/1/011/724.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:21:40.000Z",
+   "summary": "IT之家 10 月 12 日消息，戴尔 SE3426DW 曲面显示器现已开售， 售价 1899 元 。 这款显示器搭载了一块 34 英寸 WQHD（3440×1440）曲面屏，采用 VA 面板，1500R 曲率；对比度 3000:1，300…",
+   "regions": []
+  },
+  {
+   "title": "网易《极限战场》首曝被指 1:1 复刻《使命召唤：战区》引争议，部分 COD 玩家反而叫好",
+   "link": "https://www.ithome.com/1/011/723.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:17:35.000Z",
+   "summary": "IT之家 10 月 12 日消息，网易游戏 10 月 9 日公布了新作《极限战场》，将其定位为“自研极限运动战术射击游戏”，计划登陆 Steam 和移动端，目前尚未公布发售日期，但已确认为免费游玩模式。 据 IGN 今日报道，该游戏首曝后迅…",
+   "regions": []
+  },
+  {
+   "title": "日本首部 IMAX 拍摄电影：《哥斯拉-0.0》终极预告公布，应战经典宿敌基多拉",
+   "link": "https://www.ithome.com/1/011/722.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:13:21.000Z",
+   "summary": "IT之家 10 月 12 日消息，“哥斯拉”新电影、《哥斯拉-1.0》续集《哥斯拉-0.0》今日发布终极预告，这也是日本首部采用 IMAX 拍摄的电影。 电影采用 1.43:1 的 IMAX 全画幅，讲述《哥斯拉-1.0》中哥斯拉袭击两年后…",
+   "regions": []
+  },
+  {
+   "title": "Steam 同时在线人数超 4350 万，再创历史新高",
+   "link": "https://www.ithome.com/1/011/721.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:05:37.000Z",
+   "summary": "IT之家 10 月 12 日消息，SteamDB 数据显示，北京时间 10 月 11 日晚 22:00 左右，Steam 平台同时在线用户峰值达到 43,505,724 人，创下历史新高。同时，Valve 官方 Steam 统计页面同日也显…",
+   "regions": []
+  },
+  {
+   "title": "Anthropic 放弃后，消息称亚马逊洽谈收购初创公司 Decart、看中 AI 芯片切换软件",
+   "link": "https://www.ithome.com/1/011/720.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T23:01:49.000Z",
+   "summary": "IT之家 10 月 12 日消息，据华尔街日报消息，据知情人士透露，亚马逊正就收购人工智能初创公司 Decart 展开谈判， 该笔交易的潜在估值约为 70 亿美元 （IT之家注：现汇率约合 469.48 亿元人民币） 。 总部位于旧金山的 …",
+   "regions": []
+  },
+  {
+   "title": "360 创始人周鸿祎攀岩受伤：左膝粉碎性骨折，未来两三个月取消出差",
+   "link": "https://www.ithome.com/1/011/719.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T22:52:16.000Z",
+   "summary": "IT之家 10 月 12 日消息，昨日晚间，360 公司创始人周鸿祎发布视频，讲述了自己前一天在抱石攀岩中受伤的经过。 据其在视频中自述，他于 10 月 10 日进行抱石攀岩时，他在约 3 米高处失手坠落，落地瞬间未能做出正确的缓冲动作，左…",
+   "regions": []
+  },
+  {
+   "title": "奇瑞宣布在马来西亚召回 OMODA 5 车型，启动国内及相关市场同批次车型风险专项排查",
+   "link": "https://www.ithome.com/1/011/718.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T22:51:35.000Z",
+   "summary": "IT之家 10 月 12 日消息，奇瑞汽车昨晚发布说明，近日，马来西亚发生一起 2023 款 OMODA 5 的车辆问题，未涉及人身伤害。 经调查，该批次车辆可能存在后桥纵臂局部焊接位置焊接强度不足，极端情况下存在焊缝撕裂风险。该结构车型此…",
+   "regions": []
+  },
+  {
+   "title": "Scale AI 创始人汪滔谈创业管理：从亲自决定细节到学会放手，在 Meta 的任务是招揽人才",
+   "link": "https://www.ithome.com/1/011/717.htm",
+   "source": "IT之家",
+   "time": "2026-10-11T22:47:29.000Z",
+   "summary": "IT之家 10 月 12 日消息，Scale AI 创始人、现任 Meta 首席 AI 官汪滔（Alexandr Wang）当地时间 10 月 11 日在做客 David Senra 播客节目时谈到了对首次创业者的建议：创办第一家公司时，创…",
+   "regions": []
+  },
+  {
+   "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+   "link": "https://sspai.com/post/115845",
+   "source": "少数派",
+   "time": "2026-10-11T22:34:54.000Z",
+   "summary": "工信部等就进一步加强汽车产品创新设计管理征求意见 三季度全球 PC 出货量骤降 法国判决 Cloudflare 无须通过 DNS 屏蔽盗版 Anthropic 宣布切断内部评估环境的互联网访问权限 AI 助力老游戏移植到浏览器 3C 证书大…",
+   "regions": []
+  },
+  {
    "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
    "link": "https://www.ithome.com/1/011/715.htm",
    "source": "IT之家",
@@ -306,11 +426,27 @@
    "regions": []
   },
   {
+   "title": "百目 JArgus v2.0.6 — 静态检查器误报治理版本",
+   "link": "https://www.oschina.net/news/502961",
+   "source": "开源中国",
+   "time": "2026-10-11T10:16:36.000Z",
+   "summary": "百目 JArgus v2.0.6 静态检查器误报治理专项版本：注解修饰的代码、编译器生成方法与框架反射调用点不再被误判，死代码检测理解 lambda 与方法引用，多个检查器的豁免规则对齐业界惯例。 github: https://githu…",
+   "regions": []
+  },
+  {
    "title": "Krafton 谈《PUBG Ded.Net》游戏玩法：大逃杀、肉鸽、暴力融合",
    "link": "https://www.ithome.com/1/011/666.htm",
    "source": "IT之家",
    "time": "2026-10-11T10:14:47.000Z",
    "summary": "IT之家 10 月 11 日消息，据游戏媒体 EuroGamer 今天报道，《绝地求生》无疑是近十年最重要的游戏之一。如果说《H1Z1》奠定了大逃杀玩法基础，那么《绝地求生》就是真正将它塑造成形并发扬光大。如果没有它，我们或许就不会看到 2…",
+   "regions": []
+  },
+  {
+   "title": "Jync v1.4.0 发布，异构数据库实时同步工具",
+   "link": "https://www.oschina.net/news/502960",
+   "source": "开源中国",
+   "time": "2026-10-11T10:13:33.000Z",
+   "summary": "本版主题是初始全量装载的可靠性与吞吐:从「一条流式查询整表拉完」升级为 keyset 分块 + 每块提交 + 检查点断点续传,崩溃或 kill 进程后从上一块继续,不再整表重来;单列整数主键的表还可开启表内并行(MIN/MAX 切不重叠区间…",
    "regions": []
   },
   {
@@ -538,6 +674,14 @@
    "regions": []
   },
   {
+   "title": "SmartCall v1.0.8 发布，新增坐席可配置手机接听",
+   "link": "https://www.oschina.net/news/502959",
+   "source": "开源中国",
+   "time": "2026-10-11T07:56:04.000Z",
+   "summary": ":book: 项目简介 SmartCall 是一套基于 AI 大模型 + Asterisk 通信引擎构建的新一代智能客服呼叫中心系统。系统深度融合了 AI 语音机器人、智能 IVR 流程编排、端到端双工对话模型、实时语音识别（ASR）、语音…",
+   "regions": []
+  },
+  {
    "title": "AOC“Q27U4D”27 英寸显示器上架：2K 144Hz QD-OLED 配双扬，2999 元",
    "link": "https://www.ithome.com/1/011/619.htm",
    "source": "IT之家",
@@ -655,6 +799,14 @@
    "source": "IT之家",
    "time": "2026-10-11T06:03:06.000Z",
    "summary": "10 月 11 日下午消息，新浪科技独家获悉，蚂蚁集团旗下 AI 产品“ 灵光 ”已于近日开启新版本的小范围内测，新版对标“Meta Muse”。 公开信息显示，今年 9 月，Meta 推出个人智能体 Muse。该智能体可介入用户日常生活，…",
+   "regions": []
+  },
+  {
+   "title": "全能 Go Agent 框架 covonaut v1.1.5 发布：改进检查点、Token用量与缓存",
+   "link": "https://www.oschina.net/news/502958",
+   "source": "开源中国",
+   "time": "2026-10-11T05:57:41.000Z",
+   "summary": "covonaut 是一款面向 Go 的生产级 Agent 框架，提供完整的 LLM-工具循环、上下文压缩、重试与故障转移、生命周期钩子、分布式追踪，以及文件系统、Shell、浏览器、代码执行等内置工具，同时支持 MCP、A2A、ACP、AG…",
    "regions": []
   },
   {
@@ -956,6 +1108,372 @@
  ],
  "world": [
   {
+   "title": "媒体：威特科夫与库什纳推迟访俄，先探基辅和欧洲立场",
+   "link": "https://sputniknews.cn/20261012/1073578180.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T23:54:02.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿10月12日电 据美国新闻网站Axios报道，在美国与乌克兰关系出现危机的背景下，美国总统特使史蒂夫·威特科夫与特朗普女婿贾里德·库什纳推迟了原定前往莫斯科的行程。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄总统新闻秘书：对莫斯科而言，基辅承认地面现实的意愿至关重要",
+   "link": "https://sputniknews.cn/20261012/1073578060.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T23:43:50.000Z",
+   "summary": "俄罗斯总统新闻秘书德米特里·佩斯科夫对卫星通讯社表示，对莫斯科而言，基辅政权方面有人展现出承认地面现实并致力于和平解决的政治意愿至关重要。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "特朗普宣布俄乌进入“能源停火”，泽连斯基回应",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711169.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-11T23:40:40.000Z",
+   "summary": "中新网10月12日电 综合报道，美国总统特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态。特朗普称，俄乌双方对此均已同意。他警告“切勿破坏”这一停火承诺。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "媒体：沙特利雅得机场遭到攻击致1人死亡 11人受伤",
+   "link": "https://sputniknews.cn/20261012/1073577963.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T22:58:43.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月12日电 据路透社援引沙特民航局消息报道，利雅得哈立德国王机场10月11日遭到攻击，导致1人死亡，11人受伤。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "伊朗：美国接受伊方所提部分条件，但其回应“不够充分”",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-11T22:54:58.000Z",
+   "summary": "中新网10月12日电 据伊朗媒体报道，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日在接受伊朗新闻电视台采访时表示，美国方面已就伊朗为结束战争并开放霍尔木兹海峡而提出的七项条件做出了回应，但德黑兰方面认为，美方的回应“不够充分”。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：西方使用诸如“星链”的系统协调各国抗议活动",
+   "link": "https://sputniknews.cn/20261012/1073577850.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T22:47:52.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月12日电 俄罗斯外交部副部长亚历山大·阿利莫夫接受卫星通讯社采访时说，西方诸如“星链”（Starlink）的卫星互联网系统正在被用于干涉他国内政，在他国协调非法的抗议活动。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "伊朗称美国已接受伊方所提部分条件",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-11T22:28:20.000Z",
+   "summary": "新华社德黑兰10月11日电(记者沙达提)伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日表示，美国已接受伊朗就重新开放霍尔木兹海峡所提出的部分条件，但就伊朗提出的其他条件，目前情况尚不明朗。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】18 km WSW of Río Grande, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1my",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T22:25:36.642Z",
+   "summary": "美国地质调查局官方监测：18 km WSW of Río Grande, Panama发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄军周内6次打击乌克兰数据中心",
+   "link": "https://sputniknews.cn/20261012/1073577732.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T22:17:39.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月12日电 俄罗斯卫星通讯社统计数据显示，俄罗斯国防部称上周6次打击乌克兰数据中心。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】116 km SE of Nabire, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mv",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T22:07:25.771Z",
+   "summary": "美国地质调查局官方监测：116 km SE of Nabire, Indonesia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "苏丹北部矿区遇袭 已致72人死亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711160.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-11T21:57:22.000Z",
+   "summary": "当地时间10月11日，苏丹一个民间组织发表声明称，苏丹北部靠近埃及边境的北瓦迪地区一处金矿矿区10日遭遇大规模空袭，造成72名矿工死亡。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "沙特民航总局：达曼法赫德国王国际机场遭袭",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711159.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-11T21:52:38.000Z",
+   "summary": "当地时间10月11日晚，沙特阿拉伯民航总局发布声明称，沙特东部城市达曼的法赫德国王国际机场当天晚间遭到袭击。",
+   "regions": [
+    "中东",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.3】150 km W of Gorontalo, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T21:34:53.822Z",
+   "summary": "美国地质调查局官方监测：150 km W of Gorontalo, Indonesia发生 5.3 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】61 km WNW of San Antonio de los Cobres, Argentina",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mi",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T21:33:08.230Z",
+   "summary": "美国地质调查局官方监测：61 km WNW of San Antonio de los Cobres, Argentina发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "阿根廷",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】34 km WNW of Desert Center, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346535",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T21:28:13.930Z",
+   "summary": "美国地质调查局官方监测：34 km WNW of Desert Center, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "克宫：俄罗斯向全球市场销售柴油没有问题 需求巨大",
+   "link": "https://sputniknews.cn/20261012/1073577633.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T21:25:41.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯总统新闻秘书佩斯科夫向卫星通讯社表示，俄罗斯向世界市场销售柴油没有问题，因为全球对石油产品的需求巨大。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "伊朗伊斯兰革命卫队：又一艘油轮在霍尔木兹海峡触雷爆炸",
+   "link": "https://sputniknews.cn/20261012/1073577527.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T21:19:54.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰10月12日电 伊朗伊斯兰革命卫队10月11日发布消息称，又一艘油轮在未经伊朗政府确认的航线上航行时触雷，造成该船爆炸起火。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】27 km W of Río Grande, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1me",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T21:19:20.354Z",
+   "summary": "美国地质调查局官方监测：27 km W of Río Grande, Panama发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
+   "title": "媒体：特朗普认为泽连斯基把美国的援助视为理所当然",
+   "link": "https://sputniknews.cn/20261012/1073577423.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T21:13:26.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 Axios网站援引白宫一名代表的话报道，泽连斯基令美国总统特朗普非常气愤，特朗普认为泽连斯基将美国的援助视为理所当然。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "巴黎一家俄式餐饮店老板表示法国人对俄餐感兴趣",
+   "link": "https://sputniknews.cn/20261012/1073577281.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T20:54:20.000Z",
+   "summary": "俄罗斯卫星通讯社巴黎电 巴黎一家餐饮店老板奥利维耶·巴尔杜向卫星通讯社表示，自己在巴黎经营一家主打俄式饺子及其他俄罗斯菜肴的咖啡馆，法国人占顾客总数的一半。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】33 km WNW of Desert Center, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346527",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T20:52:51.890Z",
+   "summary": "美国地质调查局官方监测：33 km WNW of Desert Center, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "“弗拉基米尔∙日里诺夫斯基”号邮轮已完成第二阶段的航行试验",
+   "link": "https://sputniknews.cn/20261012/1073577176.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T20:41:29.000Z",
+   "summary": "俄罗斯卫星通讯社圣彼得堡电 俄罗斯联合造船集团波罗的海造船厂宣布，“弗拉基米尔∙日里诺夫斯基”号邮轮已完成第二阶段的航行试验。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄国防部：俄防空系统过去一日击落乌军909架无人机和2枚航空炸弹",
+   "link": "https://sputniknews.cn/20261012/1073576869.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T20:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯国防部10月11日表示，俄防空系统过去一昼夜击落乌军909架无人机和2枚制导航空炸弹。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "媒体：俄罗斯炼油厂频频受袭，美国威胁称将暂停对乌武器供应",
+   "link": "https://sputniknews.cn/20261012/1073576768.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T20:26:00.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 《金融时报》援引欧洲官员的话报道，美国威胁称要暂停对乌克兰提供武器和情报，从而迫使基辅停止袭击俄罗斯炼油厂。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】28 km NNE of Skwentna, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uehbus",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T20:25:56.622Z",
+   "summary": "美国地质调查局官方监测：28 km NNE of Skwentna, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄国家原子能公司首席执行官：俄罗斯国家原子能公司135名员工已返回伊朗布什尔核电站项目",
+   "link": "https://sputniknews.cn/20261012/1073576661.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T20:19:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯国家原子能公司首席执行官利哈乔夫表示，俄罗斯国家原子能公司返回伊朗布什尔核电站的员工人数已增加至135人。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "胡塞武装表示对沙特阿拉伯炼油厂和天然气厂袭击事件负责",
+   "link": "https://sputniknews.cn/20261012/1073576555.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T20:15:00.000Z",
+   "summary": "俄罗斯卫星通讯社多哈电 控制也门北部的“安萨尔·阿拉”运动（胡塞武装）宣布对沙特阿拉伯东部隶属于沙特阿美公司的天然气厂和炼油厂袭击事件负责。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "一枚炮弹击中利雅得机场出发航站楼",
+   "link": "https://sputniknews.cn/20261012/1073576459.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T20:04:00.000Z",
+   "summary": "俄罗斯卫星通讯社多哈电 沙特主导的打击也门胡塞武装的阿拉伯联军发言人图尔基·马利基10月11日表示，一枚来源不明的炮弹击中利雅得国际机场的出发航站楼，引发火灾。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "因一艘油轮发生故障博斯普鲁斯海峡双向船舶通行已暂停",
+   "link": "https://sputniknews.cn/20261012/1073576196.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T20:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社安卡拉电 土耳其DHA通讯社报道，一艘从保加利亚驶往意大利的油轮出现引擎故障，造成博斯普鲁斯海峡的双向船舶通行暂停。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄罗斯家庭平均将约18%的预算用于儿童课外辅导",
+   "link": "https://sputniknews.cn/20261012/1073573405.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T19:02:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月11日电 俄罗斯战略倡议署（ASI）向卫星通讯社透露，俄罗斯家庭平均将约18%的预算用于儿童兴趣班和体育班，包括支付器材设备费、课时费，以及购买教材和书籍的费用。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄州长：布拉戈维申斯克机场计划2026年让旅客吞吐量突破100万人次",
+   "link": "https://sputniknews.cn/20261012/1073575107.html",
+   "source": "卫星社中文",
+   "time": "2026-10-11T18:33:00.000Z",
+   "summary": "俄罗斯卫星通讯社乌兰乌德10月11日电 阿穆尔州州长瓦西里•奥尔洛夫表示，布拉戈维申斯克国际机场的旅客吞吐量将在2026年突破100万人次，打破2025年的纪录。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】44 km WSW of Anchor Point, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uecrut",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T18:14:30.374Z",
+   "summary": "美国地质调查局官方监测：44 km WSW of Anchor Point, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】70 km NW of San Antonio, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536488",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T18:12:16.510Z",
+   "summary": "美国地质调查局官方监测：70 km NW of San Antonio, Puerto Rico发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】156 km ESE of Neiafu, Tonga",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lk",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T18:06:35.803Z",
+   "summary": "美国地质调查局官方监测：156 km ESE of Neiafu, Tonga发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "汤加",
+    "亚太"
+   ]
+  },
+  {
    "title": "俄美柴油交易：泽连斯基陷入孤立，乌克兰濒临能源崩溃",
    "link": "https://sputniknews.cn/20261012/1073574981.html",
    "source": "卫星社中文",
@@ -1138,6 +1656,17 @@
    "regions": [
     "中东",
     "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】125 km SE of Nabire, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1l0",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T14:57:35.632Z",
+   "summary": "美国地质调查局官方监测：125 km SE of Nabire, Indonesia发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
    ]
   },
   {
@@ -1566,6 +2095,17 @@
    "summary": "美国地质调查局官方监测：61 km ESE of King Salmon, Alaska发生 3.4 级地震，震源深度 未知。",
    "regions": [
     "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】56 km S of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uacwco",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T08:12:53.330Z",
+   "summary": "美国地质调查局官方监测：56 km S of Whites City, New Mexico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
     "美洲"
    ]
   },
@@ -2124,6 +2664,32 @@
   }
  ],
  "cn": [
+  {
+   "title": "东北虎带五崽、海南长臂猿扩群 首批国家公园交出五年生态答卷",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-12/10711173.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-11T23:54:11.000Z",
+   "summary": "记者12日从国家林业和草原局获悉，自2021年我国正式设立三江源、大熊猫、东北虎豹、海南热带雨林、武夷山5个国家公园以来，首批国家公园建设取得丰硕成果。中国特色国家公园制度体系基本建成，重点区域自然生态系统质量持续向好，旗舰物种种群数量稳步…",
+   "regions": [
+    "海南"
+   ]
+  },
+  {
+   "title": "人这一辈子，一定要去一趟马鞍山：一半是铁水奔流，一半是诗仙明月",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-12/10711170.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-11T23:44:00.000Z",
+   "summary": "当长江在采石矶下拐过最后一道弯，马鞍山便临江而立。",
+   "regions": []
+  },
+  {
+   "title": "AI虚拟人代言产品“亲测有效”，是否站得住脚？专家说法",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-11T23:27:29.000Z",
+   "summary": "没有味蕾却大谈“好吃”、没有皮肤却力荐“舒适”",
+   "regions": []
+  },
   {
    "title": "全球媒体聚焦 | “长征是值得非洲探讨的国家发展理念”",
    "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711156.shtml",
@@ -3082,6 +3648,22 @@
  ],
  "econ": [
   {
+   "title": "真相来了丨所谓“金卡社保卡”是电信诈骗 不要轻信“升级骗局”",
+   "link": "https://www.chinanews.com.cn/fz/2026/10-12/10711168.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-11T23:33:56.000Z",
+   "summary": "最近，网上出现了一张通体金色的所谓“社保卡金卡”。有发布者声称，办理这种“金卡”，不仅能提高医保报销待遇，还能领取养老补贴、享受免费文旅福利。甚至有人冒充人社部门工作人员，以“办理金卡”“发放补贴”为名，索取个人信息、诱导转账。",
+   "regions": []
+  },
+  {
+   "title": "连接深港两地 新皇岗口岸正式开通运行",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-11T22:48:39.000Z",
+   "summary": "10月12日6时30分，重建后的皇岗口岸正式开通，实施“一地两检”安排及“合作查验、一次放行”全新通关模式，旅客出入境更加便利。",
+   "regions": []
+  },
+  {
    "title": "马来西亚中总：新时代华商可以成为区域连接者",
    "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-11/10711121.shtml",
    "source": "中新网滚动",
@@ -3459,5 +4041,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-11T18:15:23.016Z"
+ "updatedAt": "2026-10-12T01:30:24.128Z"
 }
