@@ -2,6 +2,14 @@
  "date": "2026-10-11",
  "tech": [
   {
+   "title": "酷瓜云课堂（开源网校版）v2.0.1 发布，知识付费解决方案",
+   "link": "https://www.oschina.net/news/502963",
+   "source": "开源中国",
+   "time": "2026-10-11T23:54:07.000Z",
+   "summary": "更新内容 【增加】记住我功能 【优化】首页课程样式、课时页目录结构 【优化】使用ShortIdCode简化序号生成 【优化】调整Upgrade执行顺序 【优化】整理migration脚本 【优化】适配Phalcon-5.20.3 【优化】使…",
+   "regions": []
+  },
+  {
    "title": "IT早报 1012：国家安全部提醒接陌生来电先沉默三秒；曝苹果首款智能家庭中枢定名 HomeView；星闪通信国标获批；国家互联网应急中心通报荐片播放器后门...",
    "link": "https://www.ithome.com/1/011/730.htm",
    "source": "IT之家",
@@ -1141,6 +1149,25 @@
    ]
   },
   {
+   "title": "【地震 M4.5】103 km SSW of La Libertad, El Salvador",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1n6",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T23:20:35.800Z",
+   "summary": "美国地质调查局官方监测：103 km SSW of La Libertad, El Salvador发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "萨尔瓦多",
+    "拉美"
+   ]
+  },
+  {
+   "title": "Saudi authorities say 1 dead, 11 injured in attack on Riyadh airport",
+   "link": "https://news.cgtn.com/news/2026-10-12/news-1RaGMGW3VZe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T23:02:55.000Z",
+   "summary": "Saudi authorities say 1 dead, 11 injured in attack on Riyadh airport",
+   "regions": []
+  },
+  {
    "title": "媒体：沙特利雅得机场遭到攻击致1人死亡 11人受伤",
    "link": "https://sputniknews.cn/20261012/1073577963.html",
    "source": "卫星社中文",
@@ -1171,6 +1198,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科10月12日电 俄罗斯外交部副部长亚历山大·阿利莫夫接受卫星通讯社采访时说，西方诸如“星链”（Starlink）的卫星互联网系统正在被用于干涉他国内政，在他国协调非法的抗议活动。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】0 km NE of Leones Arriba, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mz",
+   "source": "USGS地震台网",
+   "time": "2026-10-11T22:40:24.458Z",
+   "summary": "美国地质调查局官方监测：0 km NE of Leones Arriba, Panama发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
    ]
   },
   {
@@ -1386,6 +1424,22 @@
     "中东",
     "俄乌"
    ]
+  },
+  {
+   "title": "Mexico City's community centers take on inequality",
+   "link": "https://newsus.cgtn.com/news/2026-10-12/Mexico-City-s-community-centers-take-on-inequality-1RauCczYZgs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T20:15:15.000Z",
+   "summary": "Mexico City's community centers take on inequality",
+   "regions": []
+  },
+  {
+   "title": "Chinese, US representatives discuss climate change solutions",
+   "link": "https://newsus.cgtn.com/news/2026-10-12/Chinese-US-representatives-discuss-climate-change-solutions--1RaucXT2rU4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T20:15:06.000Z",
+   "summary": "Chinese, US representatives discuss climate change solutions",
+   "regions": []
   },
   {
    "title": "胡塞武装表示对沙特阿拉伯炼油厂和天然气厂袭击事件负责",
@@ -1681,6 +1735,14 @@
    ]
   },
   {
+   "title": "Nairobi initiative turns plastic waste into chess sets",
+   "link": "https://newsaf.cgtn.com/news/2026-10-11/Nairobi-initiative-turns-plastic-waste-into-chess-sets-1Ra28Y9qDh6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T14:38:10.000Z",
+   "summary": "In Nairobis Kibera informal settlement, a recycling initiative is combining environmental conservation with education. K…",
+   "regions": []
+  },
+  {
    "title": "【灾害警报】Green earthquake (Magnitude 6.2M, Depth:53.473km) in Papua New Guinea 11/10/2026 14:07 UTC, 3 thousand in MMI V.",
    "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570810",
    "source": "GDACS灾害监测",
@@ -1700,6 +1762,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Trump says Russia and Ukraine reached 'energy ceasefire'",
+   "link": "https://news.cgtn.com/news/2026-10-11/news-1Ra5cISdAIg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T14:17:02.000Z",
+   "summary": "Trump says Russia and Ukraine reached 'energy ceasefire'",
+   "regions": []
   },
   {
    "title": "【地震 M6.2】79 km SSE of Panguna, Papua New Guinea",
@@ -1722,6 +1792,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "South Sudan's Kiir tightens rules on officials' foreign travel",
+   "link": "https://newsaf.cgtn.com/news/2026-10-11/South-Sudan-s-Kiir-tightens-rules-on-officials-foreign-travel-1R9JCnqz5UQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T13:50:03.000Z",
+   "summary": "South Sudanese President Salva Kiir has reiterated that officials holding constitutional offices must seek his approval …",
+   "regions": []
   },
   {
    "title": "【地震 M5.2】18 km SSE of Camaná, Peru",
@@ -1755,6 +1833,14 @@
     "俄乌",
     "北京"
    ]
+  },
+  {
+   "title": "Zheng Qinwen makes history with first China Open title",
+   "link": "https://news.cgtn.com/news/2026-10-11/Zheng-Qinwen-claims-maiden-WTA-1000-title-at-China-Open-1Ra1FEe1hle/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T13:27:38.000Z",
+   "summary": "Zheng Qinwen makes history with first China Open title",
+   "regions": []
   },
   {
    "title": "王沪宁会见越南国会主席陈青敏",
@@ -1850,6 +1936,14 @@
    ]
   },
   {
+   "title": "China's tech tourism boom reshapes inbound travel and shopping",
+   "link": "https://news.cgtn.com/news/2026-10-11/China-s-tech-tourism-boom-reshapes-inbound-travel-and-shopping-1R9VrxxYzFS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T12:37:05.000Z",
+   "summary": "China's tech tourism boom reshapes inbound travel and shopping",
+   "regions": []
+  },
+  {
    "title": "梅德韦杰夫：特朗普谈及泽连斯基后，\"班德拉政权\"陷入茫然",
    "link": "https://sputniknews.cn/20261011/1073574239.html",
    "source": "卫星社中文",
@@ -1892,6 +1986,14 @@
     "日本",
     "亚太"
    ]
+  },
+  {
+   "title": "吉布提近海发生严重沉船事故：139人遇难",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142982",
+   "source": "联合国新闻",
+   "time": "2026-10-11T12:00:00.000Z",
+   "summary": "国际移民组织周日表示，一艘载有305人的船在吉布提近海翻沉，造成至少139名移民遇难，另有84余人仍下落不明。",
+   "regions": []
   },
   {
    "title": "俄总统新闻秘书：陪伴普京庆祝生日的人非常少",
@@ -2017,6 +2119,14 @@
    ]
   },
   {
+   "title": "Air strikes kill dozens at Sudan-Egypt border gold mines",
+   "link": "https://newsaf.cgtn.com/news/2026-10-11/Air-strikes-kill-dozens-at-Sudan-Egypt-border-gold-mines-1R9Cp39Nr0I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T09:54:41.000Z",
+   "summary": "Fighter aircraft carried out at least five strikes on the Al-Uqaydat gold mine near the Al-Ansari trading market in Suda…",
+   "regions": []
+  },
+  {
    "title": "马斯克赞同特朗普的观点并表示乌克兰已经是时候寻找新领导",
    "link": "https://sputniknews.cn/20261011/1073572710.html",
    "source": "卫星社中文",
@@ -2037,6 +2147,22 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "EgyptAir suspends flights to Riyadh after airport attack",
+   "link": "https://newsaf.cgtn.com/news/2026-10-11/EgyptAir-suspends-flights-to-Riyadh-after-airport-attack-1R9Aeydwx5S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T09:15:03.000Z",
+   "summary": "EgyptAir has suspended flights from Cairo and Alexandria to Riyadh following the temporary closure of King Khalid Intern…",
+   "regions": []
+  },
+  {
+   "title": "China calls for climate action, cooperation at Arctic Circle Assembly",
+   "link": "https://news.cgtn.com/news/2026-10-11/China-calls-for-climate-action-cooperation-at-Arctic-Circle-Assembly-1R9HaI7UNu8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T09:08:29.000Z",
+   "summary": "China calls for climate action, cooperation at Arctic Circle Assembly",
+   "regions": []
   },
   {
    "title": "“核” “潜” “艇”，三个词写尽日本步步为营的危险试探",
@@ -2064,6 +2190,14 @@
    "source": "中新网国际",
    "time": "2026-10-11T08:58:38.000Z",
    "summary": "10月8日至9日，中欧贸易投资磋商机制第二次例会在北京举行。双方进行了务实、富有成效的讨论，并形成涵盖四大领域的16项成果共识清单。双方还商定，将于2027年3月召开机制第三次例会。这充分表明，中欧有意愿也有智慧通过对话协商管控和妥处分歧，…",
+   "regions": []
+  },
+  {
+   "title": "Scientists uncover ancient gene's role in brain folding",
+   "link": "https://news.cgtn.com/news/2026-10-11/Scientists-uncover-ancient-gene-s-role-in-brain-folding-1R9FASpDT1e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T08:39:04.000Z",
+   "summary": "Scientists uncover ancient gene's role in brain folding",
    "regions": []
   },
   {
@@ -2163,6 +2297,14 @@
    ]
   },
   {
+   "title": "Araghchi: US‑Israeli strikes on Iran pose 'serious' eco risks",
+   "link": "https://news.cgtn.com/news/2026-10-11/news-1R9DFu0Rt96/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T07:51:42.000Z",
+   "summary": "Iranian Foreign Minister Seyed Abbas Araghchi said on Sunday the US-Israeli attacks on Iran's oil, refinery and energy f…",
+   "regions": []
+  },
+  {
    "title": "尼泊尔北部突发洪水致4人失踪 多处房屋及水电设施受损",
    "link": "https://www.chinanews.com.cn/gj/2026/10-11/10710960.shtml",
    "source": "中新网国际",
@@ -2223,6 +2365,14 @@
    ]
   },
   {
+   "title": "Anthropic discloses fake police tip among rogue AI incidents",
+   "link": "https://news.cgtn.com/news/2026-10-11/Anthropic-discloses-fake-police-tip-among-rogue-AI-incidents-1R9wkbE8kwg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T07:07:24.000Z",
+   "summary": "An artificial intelligence (AI) model developed by Anthropic submitted a false homicide tip through a Philadelphia polic…",
+   "regions": []
+  },
+  {
    "title": "俄总统特别代表呼吁马斯克旗下“无聊公司”着手建设俄美隧道",
    "link": "https://sputniknews.cn/20261011/1073572097.html",
    "source": "卫星社中文",
@@ -2254,6 +2404,22 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "One year after Gaza ceasefire: A truce without a clear path to peace",
+   "link": "https://news.cgtn.com/news/2026-10-11/One-year-after-Gaza-ceasefire-A-truce-without-a-clear-path-to-peace-1R9rFr8WC5y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T06:04:59.000Z",
+   "summary": "The ceasefire in Gaza has done little to resolve these underlying issues. With key questions over security, governance a…",
+   "regions": []
+  },
+  {
+   "title": "Man dies after tiger attack at UK wildlife park, police say",
+   "link": "https://news.cgtn.com/news/2026-10-11/Man-dies-after-tiger-attack-at-UK-wildlife-park-police-say-1R9mtfwoppK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T05:57:20.000Z",
+   "summary": "A man died in an attack by a tiger after he entered its enclosure at a wildlife park in northern England on Saturday, po…",
+   "regions": []
   },
   {
    "title": "沙特首都利雅得机场遭袭 已致12死309伤",
@@ -2288,6 +2454,14 @@
    ]
   },
   {
+   "title": "Traditional medicine is rooted in our natural environment",
+   "link": "https://news.cgtn.com/news/2026-10-11/Traditional-medicine-is-rooted-in-our-natural-environment-1R9bczCrMk0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T04:47:05.000Z",
+   "summary": "Traditional medicine is rooted in our natural environment",
+   "regions": []
+  },
+  {
    "title": "俄罗斯与中国计划为阿穆尔虎建立生态廊道",
    "link": "https://sputniknews.cn/20261011/1073571833.html",
    "source": "卫星社中文",
@@ -2308,6 +2482,14 @@
    ]
   },
   {
+   "title": "Astronomers identify host galaxy of most distant fast radio burst",
+   "link": "https://news.cgtn.com/news/2026-10-11/Astronomers-identify-host-galaxy-of-most-distant-fast-radio-burst-1R9gZ3ySOBO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T03:52:29.000Z",
+   "summary": "Astronomers have identified the host galaxy of the most distant fast radio burst (FRB) ever detected, using South Africa…",
+   "regions": []
+  },
+  {
    "title": "联合国秘书长坚决谴责利雅得机场遭袭事件",
    "link": "https://sputniknews.cn/20261011/1073571579.html",
    "source": "卫星社中文",
@@ -2317,6 +2499,14 @@
     "中东",
     "俄乌"
    ]
+  },
+  {
+   "title": "Chinese scientist Guo Huadong wins IAF Hall of Fame Award",
+   "link": "https://news.cgtn.com/news/2026-10-11/Chinese-scientist-Guo-Huadong-wins-IAF-Hall-of-Fame-Award-1R8hSTqEvJu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T03:51:29.000Z",
+   "summary": "Chinese scientist Guo Huadong wins IAF Hall of Fame Award",
+   "regions": []
   },
   {
    "title": "朝鲜庆祝建党81周年，金正恩携妻女观演",
@@ -2351,6 +2541,14 @@
    ]
   },
   {
+   "title": "Trump suggests Ukraine change president as Zelenskyy feels 'betrayed'",
+   "link": "https://news.cgtn.com/news/2026-10-11/Trump-suggests-Ukraine-change-president-as-Zelenskyy-feels-betrayed--1R9dMu5xKtW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T03:15:51.000Z",
+   "summary": "US President Donald Trump on Saturday suggested that Ukraine replace its president, a day after Washington and Moscow an…",
+   "regions": []
+  },
+  {
    "title": "俄总统特别代表：特朗普的努力正推动乌克兰冲突走向解决",
    "link": "https://sputniknews.cn/20261011/1073570968.html",
    "source": "卫星社中文",
@@ -2360,6 +2558,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "4 dead, 670,000 without power after Hurricane Isaias hits Florida",
+   "link": "https://news.cgtn.com/news/2026-10-11/4-dead-670-000-without-power-after-Hurricane-Isaias-hits-Florida-1R9cnyN6cCY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-11T03:05:47.000Z",
+   "summary": "At least four people were killed on Saturday after Hurricane Isaias made landfall near Destin in the US state of Florida…",
+   "regions": []
   },
   {
    "title": "韩情报机构：与美在诸多领域共享涉朝情报",
@@ -2603,6 +2809,28 @@
    ]
   },
   {
+   "title": "Mainland experts: Lai's speech reveals unchanged separatist agenda",
+   "link": "https://news.cgtn.com/news/2026-10-11/Mainland-experts-Lai-s-speech-reveals-unchanged-separatist-agenda-1R9FJRjMig8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T09:25:40.000Z",
+   "summary": "Mainland Taiwan affairs experts said the speech delivered on Saturday by Taiwan leader Lai Ching-te in Taipei is filled …",
+   "regions": [
+    "台湾",
+    "台海"
+   ]
+  },
+  {
+   "title": "Taiwan leader's speech exposes him as threat to peace: spokesperson",
+   "link": "https://news.cgtn.com/news/2026-10-11/Taiwan-leader-s-speech-exposes-him-as-threat-to-peace-spokesperson-1R9FbpeiUZG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T09:24:26.000Z",
+   "summary": "Taiwan leader Lai Ching-te's recent speech has once again exposed his true colors as a source of trouble for Taiwan and …",
+   "regions": [
+    "台湾",
+    "台海"
+   ]
+  },
+  {
    "title": "海峡两岸暨港澳地区高校现代书院制教育论坛在广州举行",
    "link": "https://www.chinanews.com.cn/gn/2026/10-11/10710999.shtml",
    "source": "中新网中国",
@@ -2806,6 +3034,26 @@
    ]
   },
   {
+   "title": "China's top political advisor meets Vietnam's National Assembly chair",
+   "link": "https://news.cgtn.com/news/2026-10-11/China-s-top-political-advisor-meets-Vietnam-s-National-Assembly-chair-1R9XGwQMv4c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T13:58:48.000Z",
+   "summary": "Wang Huning, chairman of the National Committee of the Chinese People's Political Consultative Conference (CPPCC), met w…",
+   "regions": [
+    "越南",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "Understanding the self-revolution of a revolutionary Party",
+   "link": "https://news.cgtn.com/news/2026-10-11/Understanding-the-self-revolution-of-a-revolutionary-Party--1R9Dbn4ObMA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T13:58:26.000Z",
+   "summary": "Since 2012, taking full and vigorous management of the Party and promoting self-revolution have become the main theme of…",
+   "regions": []
+  },
+  {
    "title": "东西问丨专访陆克文：我不认为自己是“中国通”",
    "link": "https://www.chinanews.com.cn/dxw/2026/10-11/10711135.shtml",
    "source": "中新网滚动",
@@ -2813,6 +3061,17 @@
    "summary": "中新社北京10月11日电 题：专访陆克文：我不认为自己是“中国通”",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "Zheng Qinwen makes history with first China Open title",
+   "link": "https://news.cgtn.com/news/2026-10-11/Zheng-Qinwen-claims-maiden-WTA-1000-title-at-China-Open-1Ra1FEe1hle/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T13:27:38.000Z",
+   "summary": "Zheng Qinwen makes history with first China Open title",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2907,6 +3166,17 @@
    ]
   },
   {
+   "title": "China's tech tourism boom reshapes inbound travel and shopping",
+   "link": "https://news.cgtn.com/news/2026-10-11/China-s-tech-tourism-boom-reshapes-inbound-travel-and-shopping-1R9VrxxYzFS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T12:37:05.000Z",
+   "summary": "China's tech tourism boom reshapes inbound travel and shopping",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "“纪念中国工农红军长征胜利九十周年主题创作展”开幕式在穗举行",
    "link": "https://www.chinanews.com.cn/tp/2026/10-11/10711107.shtml",
    "source": "中新网滚动",
@@ -2967,6 +3237,19 @@
    "summary": "中新网上海10月11日电 (记者 王笈)“未来有数”2026长三角数字音乐大赛成果展暨颁奖展演11日在上海举行，汇聚长三角文艺力量，呈现了一场数字音乐创新融合的视听盛宴。",
    "regions": [
     "上海"
+   ]
+  },
+  {
+   "title": "Closer people-to-people exchanges build stronger China-Botswana ties",
+   "link": "https://news.cgtn.com/news/2026-10-11/Closer-people-to-people-exchanges-build-stronger-China-Botswana-ties-1R9EPsSyQbS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T12:18:39.000Z",
+   "summary": "People-to-people exchanges have brought the two peoples closer through cultural, educational and community activities, i…",
+   "regions": [
+    "中国",
+    "亚太",
+    "博茨瓦纳",
+    "非洲"
    ]
   },
   {
@@ -3112,6 +3395,17 @@
    ]
   },
   {
+   "title": "Mayors from around the world gather in Henan for global dialogue",
+   "link": "https://news.cgtn.com/news/2026-10-11/Mayors-from-around-the-world-gather-in-Henan-for-global-dialogue-1R9NTBzi4Rq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T10:42:09.000Z",
+   "summary": "Nearly 100 mayors, city delegates and international experts from over 10 countries gathered in Luoyang, central China's …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "行走美丽画卷丨内蒙古巴彦淖尔：守护乌梁素海这颗“塞外明珠”",
    "link": "https://www.chinanews.com.cn/sh/2026/10-11/10711052.shtml",
    "source": "中新网社会",
@@ -3155,6 +3449,17 @@
    ]
   },
   {
+   "title": "China Weekly News Quiz: October 5-11, 2026",
+   "link": "https://news.cgtn.com/news/2026-10-11/China-Weekly-News-Quiz-October-5-11-2026-1R9pZ5GgmL6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T09:27:16.000Z",
+   "summary": "Do you know what happened in China last week? Take our weekly news quiz to test your knowledge and get up to speed on th…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "直播海报：长征路上学党史 | 在金沙江畔听云岭大地红色回响",
    "link": "https://www.chinanews.com.cn/gn/2026/10-11/10711040.shtml",
    "source": "中新网中国",
@@ -3185,6 +3490,17 @@
    ]
   },
   {
+   "title": "China calls for climate action, cooperation at Arctic Circle Assembly",
+   "link": "https://news.cgtn.com/news/2026-10-11/China-calls-for-climate-action-cooperation-at-Arctic-Circle-Assembly-1R9HaI7UNu8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T09:08:29.000Z",
+   "summary": "China calls for climate action, cooperation at Arctic Circle Assembly",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "灼言 | 在田野上，读懂青春最好的打开方式",
    "link": "https://www.chinanews.com.cn/sh/2026/10-11/10711020.shtml",
    "source": "中新网社会",
@@ -3200,6 +3516,34 @@
    "source": "中新网社会",
    "time": "2026-10-11T08:55:13.000Z",
    "summary": "",
+   "regions": []
+  },
+  {
+   "title": "Discover music and ancient civilizations in Beijing",
+   "link": "https://news.cgtn.com/news/2026-10-11/Discover-music-and-ancient-civilizations-in-Beijing-1R9GktZXjj2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T08:46:29.000Z",
+   "summary": "The Beijing Music Festival and the Capital Museum have teamed up to offer holders of Beijing Music Festival ticket stubs…",
+   "regions": []
+  },
+  {
+   "title": "China's Jiaolong submersible prepares to dive in western Pacific Ocean",
+   "link": "https://news.cgtn.com/news/2026-10-11/China-s-Jiaolong-submersible-prepares-to-dive-in-western-Pacific-Ocean-1R9FZZikKsw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T08:42:51.000Z",
+   "summary": "China's research vessel Deep Sea No.1, carrying manned deep-sea submersible Jiaolong, arrived at East Caroline Basin in …",
+   "regions": [
+    "中国",
+    "亚太",
+    "太平洋"
+   ]
+  },
+  {
+   "title": "Scientists uncover ancient gene's role in brain folding",
+   "link": "https://news.cgtn.com/news/2026-10-11/Scientists-uncover-ancient-gene-s-role-in-brain-folding-1R9FASpDT1e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T08:39:04.000Z",
+   "summary": "Scientists uncover ancient gene's role in brain folding",
    "regions": []
   },
   {
@@ -3313,12 +3657,53 @@
    ]
   },
   {
+   "title": "How visionary planning is advancing China's healthcare",
+   "link": "https://news.cgtn.com/news/2026-10-11/How-visionary-planning-is-advancing-China-s-healthcare-1R9cksBf9fy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T07:12:16.000Z",
+   "summary": "In an interview with CGTN, Andy Moose, head of health systems transformation at the World Economic Forum, highlighted Ch…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Heroes behind China's convenience: Making sure no delivery rider is left behind",
+   "link": "https://news.cgtn.com/news/2026-10-11/Heroes-behind-China-s-convenience-Making-sure-no-delivery-rider-is-left-behind-1R9rpARccrm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T06:30:29.000Z",
+   "summary": "Heroes behind China's convenience: Making sure no delivery rider is left behind",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "What happens when autumn colors meet snow in Xinjiang?",
+   "link": "https://news.cgtn.com/news/2026-10-11/What-happens-when-autumn-colors-meet-snow-in-Xinjiang--1R8wNTb0Nig/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T06:24:26.000Z",
+   "summary": "What happens when autumn colors meet snow in Xinjiang?",
+   "regions": []
+  },
+  {
    "title": "藏不住了！110岁干家务、105岁骑三轮，长寿原来还能这么过......",
    "link": "https://www.chinanews.com.cn/sh/2026/10-11/10710967.shtml",
    "source": "中新网社会",
    "time": "2026-10-11T06:00:54.000Z",
    "summary": "网友们，开始先问个问题：",
    "regions": []
+  },
+  {
+   "title": "China announces record overseas delegation for 2026 Asian Para Games",
+   "link": "https://news.cgtn.com/news/2026-10-11/China-announces-record-overseas-delegation-for-2026-Asian-Para-Games-1R9gGT62IKY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T06:00:00.000Z",
+   "summary": "China announces record overseas delegation for 2026 Asian Para Games",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "回望“宜昌大撤退”壮举 专家学者解读卢作孚爱国企业家精神的当下意义",
@@ -3447,6 +3832,14 @@
    "regions": []
   },
   {
+   "title": "Traditional medicine is rooted in our natural environment",
+   "link": "https://news.cgtn.com/news/2026-10-11/Traditional-medicine-is-rooted-in-our-natural-environment-1R9bczCrMk0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T04:47:05.000Z",
+   "summary": "Traditional medicine is rooted in our natural environment",
+   "regions": []
+  },
+  {
    "title": "东西问｜张振和：中国度量衡如何诠释文明互鉴与制度演进？",
    "link": "https://www.chinanews.com.cn/gn/2026/10-11/10710936.shtml",
    "source": "中新网中国",
@@ -3467,11 +3860,38 @@
    ]
   },
   {
+   "title": "China's FM Wang Yi meets with diplomatic adviser to French president",
+   "link": "https://news.cgtn.com/news/2026-10-11/China-s-FM-Wang-Yi-meets-with-diplomatic-adviser-to-French-president-1R8xRadMBzy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T03:56:53.000Z",
+   "summary": "China's FM Wang Yi meets with diplomatic adviser to French president",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Chinese scientist Guo Huadong wins IAF Hall of Fame Award",
+   "link": "https://news.cgtn.com/news/2026-10-11/Chinese-scientist-Guo-Huadong-wins-IAF-Hall-of-Fame-Award-1R8hSTqEvJu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T03:51:29.000Z",
+   "summary": "Chinese scientist Guo Huadong wins IAF Hall of Fame Award",
+   "regions": []
+  },
+  {
    "title": "食品安全法修订草案公开征求意见 回应了这些民生关切",
    "link": "https://www.chinanews.com.cn/gn/2026/10-11/10710931.shtml",
    "source": "中新网中国",
    "time": "2026-10-11T03:50:11.000Z",
    "summary": "校园餐如何管得更严？直播间卖食品，出了问题谁负责？昨天，市场监管总局就《中华人民共和国食品安全法(修订草案征求意见稿)》向社会公开征求意见。此次发布的《征求意见稿》，涉及人工智能监管、网络食品经营等多个方面的修订内容。",
+   "regions": []
+  },
+  {
+   "title": "On October 14, We're \"Breaking Through\" Together!",
+   "link": "https://news.cgtn.com/news/2026-10-11/On-October-14-We-re-Breaking-Through-Together--1R9i8P4Ahhu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-11T03:41:40.000Z",
+   "summary": "After nearly a year in the making, CGTN's major five-part documentary \"Breaking Through\" will premiere worldwide on Octo…",
    "regions": []
   },
   {
@@ -4041,5 +4461,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-12T01:30:24.128Z"
+ "updatedAt": "2026-10-12T07:54:57.092Z"
 }
