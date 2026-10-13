@@ -1611,6 +1611,17 @@
    ]
   },
   {
+   "title": "【地震 M3.6】Rat Islands, Aleutian Islands, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ughcph",
+   "source": "USGS地震台网",
+   "time": "2026-10-12T22:26:20.226Z",
+   "summary": "美国地质调查局官方监测：Rat Islands, Aleutian Islands, Alaska发生 3.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "俄副总理：自2026年年初以来俄罗斯对欧盟能源出口总额已达213亿美元，俄美两国能源部正在就柴油供应问题进行谈判",
    "link": "https://sputniknews.cn/20261013/1073589961.html",
    "source": "卫星社中文",
@@ -6137,5 +6148,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-13T05:08:13.435Z"
+ "updatedAt": "2026-10-13T12:51:18.617Z"
 }
