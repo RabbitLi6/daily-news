@@ -1500,6 +1500,17 @@
  ],
  "world": [
   {
+   "title": "【地震 M2.6】51 km S of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u268",
+   "source": "USGS地震台网",
+   "time": "2026-10-13T23:54:43.556Z",
+   "summary": "美国地质调查局官方监测：51 km S of Whites City, New Mexico发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
    "title": "泽连斯基将访问英国 伯纳姆承诺向乌克兰提供新一轮军援",
    "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714110.shtml",
    "source": "中新网国际",
@@ -2426,6 +2437,17 @@
    "summary": "On 10/13/2026 12:23:07 PM, an earthquake occurred in Central Mid-Atlantic Ridge potentially affecting No people affected…",
    "regions": [
     "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】38 km SSW of Taltal, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u219",
+   "source": "USGS地震台网",
+   "time": "2026-10-13T12:38:04.963Z",
+   "summary": "美国地质调查局官方监测：38 km SSW of Taltal, Chile发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
    ]
   },
   {
@@ -6497,5 +6519,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-14T03:15:05.782Z"
+ "updatedAt": "2026-10-14T08:55:26.929Z"
 }
