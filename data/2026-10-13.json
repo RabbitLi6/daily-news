@@ -1500,6 +1500,27 @@
  ],
  "world": [
   {
+   "title": "【地震 M2.5】13 km NNW of Borrego Springs, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347255",
+   "source": "USGS地震台网",
+   "time": "2026-10-13T23:59:55.930Z",
+   "summary": "美国地质调查局官方监测：13 km NNW of Borrego Springs, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】50 km S of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ueznej",
+   "source": "USGS地震台网",
+   "time": "2026-10-13T23:54:43.577Z",
+   "summary": "美国地质调查局官方监测：50 km S of Whites City, New Mexico发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M2.6】51 km S of Whites City, New Mexico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u268",
    "source": "USGS地震台网",
@@ -2563,6 +2584,44 @@
    "summary": "安理会周二上午举行公开会议，审议非洲大湖区局势。联合国秘书长大湖区问题特使夏煌表示，围绕刚果（金）东部冲突的多轨外交努力近几个月取得积极进展，但停火尚未真正落实，安全和人道局势依然严峻。他敦促有关各方抓住当前难得的政治机遇，将已经达成的承诺…",
    "regions": [
     "非洲"
+   ]
+  },
+  {
+   "title": "基金组织上调2026年全球经济增速预期",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142996",
+   "source": "联合国新闻",
+   "time": "2026-10-13T12:00:00.000Z",
+   "summary": "国际货币基金组织周二发布最新一期《世界经济展望》报告，预计2026年全球经济增长3.1%，较7月预测上调0.1个百分点，2027年增速回升至3.4%，与此前预测持平。",
+   "regions": []
+  },
+  {
+   "title": "西非经海路抵达欧洲人数下降近六成 非正规移民路线风险持续上升",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142994",
+   "source": "联合国新闻",
+   "time": "2026-10-13T12:00:00.000Z",
+   "summary": "国际移民组织周二发布的最新数据显示，2026年上半年，来自马里、塞内加尔、几内亚和冈比亚的移民经海路抵达欧洲的人数为4566人，较2025年同期下降59%。然而，抵达人数减少并未让非正规移民旅程变得更加安全，部分移民正转向更长、更危险的路线…",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "秘书长提出联合国2027年33亿美元的精简预算案",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142995",
+   "source": "联合国新闻",
+   "time": "2026-10-13T12:00:00.000Z",
+   "summary": "秘书长古特雷斯周二在提交联合国明年总额为33亿美元的预算提案时表示，面对气候动荡、人工智能革命、战争以及日益加剧的饥饿问题，“对联合国的需要从未如此迫切”。这一预算较上年度削减了4080万美元。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "灾害每年造成的住房损失高达2280亿美元",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1142993",
+   "source": "联合国新闻",
+   "time": "2026-10-13T12:00:00.000Z",
+   "summary": "2280亿美元是一笔令人瞠目的巨款，但这正是世界各地的社区每年在灾后重建住房时必须面对的现实。",
+   "regions": [
+    "美洲"
    ]
   },
   {
@@ -6519,5 +6578,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-14T14:17:22.045Z"
+ "updatedAt": "2026-10-14T18:46:47.118Z"
 }
