@@ -1,0 +1,21 @@
+{
+ "date": "2026-10-17",
+ "tech": [],
+ "world": [
+  {
+   "title": "【地震 M2.5】19 km N of Pāhala, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059386",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T00:02:10.540Z",
+   "summary": "美国地质调查局官方监测：19 km N of Pāhala, Hawaii发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  }
+ ],
+ "tw": [],
+ "cn": [],
+ "econ": [],
+ "updatedAt": "2026-10-17T00:07:16.352Z"
+}
