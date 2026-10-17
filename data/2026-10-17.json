@@ -1204,6 +1204,230 @@
  ],
  "world": [
   {
+   "title": "【地震 M2.8】58 km WNW of Happy Valley, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upisja",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T20:11:11.204Z",
+   "summary": "美国地质调查局官方监测：58 km WNW of Happy Valley, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】1 km ENE of Summit Park, Utah",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160531",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T19:30:56.270Z",
+   "summary": "美国地质调查局官方监测：1 km ENE of Summit Park, Utah发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄副总理：中国对北方海路货运感兴趣，首批货物已通行",
+   "link": "https://sputniknews.cn/20261018/1073669952.html",
+   "source": "卫星社中文",
+   "time": "2026-10-17T19:27:39.000Z",
+   "summary": "俄罗斯副总理亚历山大·诺瓦克在“俄罗斯能源周”国际论坛期间表示，中国合作伙伴对通过北方海路（又称北方海航道）运输货物表现出兴趣，首批货物已经通行。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】13 km ENE of Pāhala, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059771",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T19:23:46.820Z",
+   "summary": "美国地质调查局官方监测：13 km ENE of Pāhala, Hawaii发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】48 km ESE of Halibut Cove, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uphcnz",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T19:23:28.201Z",
+   "summary": "美国地质调查局官方监测：48 km ESE of Halibut Cove, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】58 km S of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u31h",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T19:15:37.192Z",
+   "summary": "美国地质调查局官方监测：58 km S of Whites City, New Mexico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.8】49 km ESE of Halibut Cove, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upgumy",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T19:14:06.997Z",
+   "summary": "美国地质调查局官方监测：49 km ESE of Halibut Cove, Alaska发生 3.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "莫斯科州长访问上海交通大学和上海科学技术职业学院",
+   "link": "https://sputniknews.cn/20261018/1073667696.html",
+   "source": "卫星社中文",
+   "time": "2026-10-17T19:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月17日电 俄罗斯莫斯科州政府新闻处发布消息表示，莫斯科州州长沃罗比约夫访问了上海交通大学和上海科学技术职业学院。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄副总理：若霍尔木兹海峡封锁持续，油价将进一步飙升",
+   "link": "https://sputniknews.cn/20261018/1073669824.html",
+   "source": "卫星社中文",
+   "time": "2026-10-17T18:59:00.000Z",
+   "summary": "俄罗斯副总理亚历山大·诺瓦克表示，如果霍尔木兹海峡的局势持续下去，油价将进一步大幅上涨。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "法国全国爆发抗议，生活成本愤怒沸腾",
+   "link": "https://sputniknews.cn/20261018/1073669494.html",
+   "source": "卫星社中文",
+   "time": "2026-10-17T18:41:54.000Z",
+   "summary": "10月17日，法国各地数万人举行抗议，此前预测全国参与人数最高可达19万人，但尚未确认最终数字。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄国防部：俄防空系统12小时摧毁30架乌克兰无人机",
+   "link": "https://sputniknews.cn/20261018/1073669201.html",
+   "source": "卫星社中文",
+   "time": "2026-10-17T18:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月17日电 俄罗斯国防部发布消息表示，莫斯科时间10月17日8时至20时，俄军防空系统在俄罗斯多地上空拦截并摧毁了30架乌克兰无人机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "上海国际艺术节开幕，俄罗斯大剧院和马林斯基剧院将登台演出",
+   "link": "https://sputniknews.cn/20261018/1073668430.html",
+   "source": "卫星社中文",
+   "time": "2026-10-17T18:00:00.000Z",
+   "summary": "据主办方消息，第25届中国上海国际艺术节周六在上海大歌剧院开幕。本届艺术节将持续至11月15日，其间计划举办近400项活动、约1100场演出。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄外交部：基辅8月以直接威胁阻挠格罗西访问扎波罗热核电站",
+   "link": "https://sputniknews.cn/20261018/1073669086.html",
+   "source": "卫星社中文",
+   "time": "2026-10-17T17:35:00.000Z",
+   "summary": "俄罗斯外交部表示，乌克兰方面今年8月阻挠了国际原子能机构（IAEA）总干事拉斐尔·格罗西第六次访问扎波罗热核电站的计划，实际上对这位国际组织负责人发出了死亡威胁。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "法国尼斯市示威者打砸商店并攻击警察",
+   "link": "https://sputniknews.cn/20261018/1073668740.html",
+   "source": "卫星社中文",
+   "time": "2026-10-17T17:05:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月17日电 法国滨海阿尔卑斯省政府发布消息表示，尼斯市内一场未经批准的抗议活动中，有激进参与者打砸商店，并攻击执法人员。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】88 km SSW of Uyuni, Bolivia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30x",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T16:52:45.164Z",
+   "summary": "美国地质调查局官方监测：88 km SSW of Uyuni, Bolivia发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "玻利维亚",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】39 km SW of Karluk, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upbssm",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T16:41:36.132Z",
+   "summary": "美国地质调查局官方监测：39 km SW of Karluk, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】7 km SSE of Ponce, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537043",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T16:38:37.060Z",
+   "summary": "美国地质调查局官方监测：7 km SSE of Ponce, Puerto Rico发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "专家：特朗普豁免对俄制裁削弱关税威胁效力",
+   "link": "https://sputniknews.cn/20261018/1073668589.html",
+   "source": "卫星社中文",
+   "time": "2026-10-17T16:35:50.000Z",
+   "summary": "印度印中经济文化促进会秘书长穆罕默德·萨基卜向俄罗斯卫星通讯社表示，美国总统唐纳德·特朗普豁免美国对俄罗斯的制裁，削弱了《格雷厄姆法案》中强制性的“关税次级制裁”机制的有效性。",
+   "regions": [
+    "俄乌",
+    "美洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.7】35 km SW of False Pass, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30q",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T16:34:57.157Z",
+   "summary": "美国地质调查局官方监测：35 km SW of False Pass, Alaska发生 3.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄私营科技公司推出一款新型超轻运载火箭",
+   "link": "https://sputniknews.cn/20261018/1073667816.html",
+   "source": "卫星社中文",
+   "time": "2026-10-17T16:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月17日电 俄罗斯私营科技公司Geoscan在莫斯科举办的“开发太空——2026”大会上推出自主设计的一款新型超轻运载火箭。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】3 km NE of Flores, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30p",
+   "source": "USGS地震台网",
+   "time": "2026-10-17T16:24:16.531Z",
+   "summary": "美国地质调查局官方监测：3 km NE of Flores, Panama发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
    "title": "德媒：今年德国拒服兵役人数增长近三倍",
    "link": "https://sputniknews.cn/20261018/1073667598.html",
    "source": "卫星社中文",
@@ -4159,5 +4383,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-17T16:05:54.327Z"
+ "updatedAt": "2026-10-17T21:11:54.005Z"
 }
