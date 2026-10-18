@@ -2,6 +2,14 @@
  "date": "2026-10-18",
  "tech": [
   {
+   "title": "苹果发布 iPhone Duo 欧盟能效标签：电池总容量 4883mAh",
+   "link": "https://www.ithome.com/1/014/620.htm",
+   "source": "IT之家",
+   "time": "2026-10-18T22:43:51.000Z",
+   "summary": "IT之家 10 月 19 日消息，苹果于当地时间周五发布了 iPhone Duo 的欧盟能效标签，文件显示这款设备的电池总容量为 4883 毫安时。 这份文件似乎证实了此前的一则爆料：iPhone Duo 配备两块电池电芯，容量分别为 29…",
+   "regions": []
+  },
+  {
    "title": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴",
    "link": "https://www.ithome.com/1/014/619.htm",
    "source": "IT之家",
@@ -1052,6 +1060,270 @@
  ],
  "world": [
   {
+   "title": "【地震 M2.5】15 km NE of Milford, Utah",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160806",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T22:08:34.120Z",
+   "summary": "美国地质调查局官方监测：15 km NE of Milford, Utah发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】147 km SSW of Kokopo, Papua New Guinea",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T22:06:13.969Z",
+   "summary": "美国地质调查局官方监测：147 km SSW of Kokopo, Papua New Guinea发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "巴布亚新几内亚",
+    "亚太"
+   ]
+  },
+  {
+   "title": "利比亚安全部队设施发生爆炸造成5人死亡",
+   "link": "https://sputniknews.cn/20261019/1073680047.html",
+   "source": "卫星社中文",
+   "time": "2026-10-18T22:05:04.000Z",
+   "summary": "俄罗斯卫星通讯社班加西10月19日电 利比亚安全部队消息人士对卫星通讯社表示，利比亚西部扎维耶市安全威胁应对分队营地至少有五人死亡。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "特朗普发文支持内塔尼亚胡竞选连任以色列总理",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716917.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-18T22:03:47.000Z",
+   "summary": "美国总统特朗普10月18日在“真实社交”平台上发表致以色列民众的公开信，全力支持内塔尼亚胡竞选连任以色列总理。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "沙特称胡塞武装投射物落入居民区 致6人受伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716916.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-18T22:02:53.000Z",
+   "summary": "当地时间10月18日，沙特阿拉伯民防部门发布通报称，当天一枚由胡塞武装发射的投射物落入沙特南部奈季兰市一处居民区，造成6名沙特公民受伤。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "乌克兰首都基辅响起强烈爆炸声",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716915.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-18T22:01:29.000Z",
+   "summary": "当地时间18日23时许，乌克兰首都基辅市不同方向传出多次强烈爆炸声，有消息称一枚导弹落在该市东郊方向并爆炸。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "黑山总理斯帕伊奇会见王毅",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-19/10716913.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-18T21:55:39.000Z",
+   "summary": "新华社波德戈里察10月18日电(记者石中玉 张璇)18日，黑山总理斯帕伊奇在波德戈里察会见中共中央政治局委员、外交部长王毅。",
+   "regions": []
+  },
+  {
+   "title": "法国公司将从11月起关闭用于追踪俄罗斯一只著名海豹的定位装置",
+   "link": "https://sputniknews.cn/20261019/1073679752.html",
+   "source": "卫星社中文",
+   "time": "2026-10-18T21:40:28.000Z",
+   "summary": "俄罗斯卫星通讯社圣彼得堡10月19日电 波罗的海海豹之友基金会表示，由于卫星系统运营商、法国公司Argos将从11月1日起停止为俄罗斯境内的用户提供追踪器服务，专家将无法继续追踪圣彼得堡著名雄性环斑海豹在野外的活动轨迹。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】61 km NNE of Miches, Dominican Republic",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37z",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T21:15:40.811Z",
+   "summary": "美国地质调查局官方监测：61 km NNE of Miches, Dominican Republic发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "多米尼加",
+    "拉美"
+   ]
+  },
+  {
+   "title": "媒体：法国骚乱期间近2400人被抓获",
+   "link": "https://sputniknews.cn/20261019/1073679465.html",
+   "source": "卫星社中文",
+   "time": "2026-10-18T20:56:09.000Z",
+   "summary": "俄罗斯卫星通讯社巴黎电 据法国商业调频电视台援引法国内政部的消息报道，10月17日，法国大规模骚乱期间约有2400人被抓获，约1000名执法人员受伤。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "泽连斯基表示有意参加乌克兰选举，但选举并非发起",
+   "link": "https://sputniknews.cn/20261019/1073679168.html",
+   "source": "卫星社中文",
+   "time": "2026-10-18T20:46:19.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 泽连斯基表示，尽管自己未发起选举，但他有意参加乌克兰选举。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄罗斯乐团在北京为视障观众举办公益排练",
+   "link": "https://sputniknews.cn/20261019/1073678859.html",
+   "source": "卫星社中文",
+   "time": "2026-10-18T20:37:11.000Z",
+   "summary": "俄罗斯卫星通讯社北京电 俄罗斯musicAeterna乐团新闻处向卫星通讯社表示，俄罗斯musicAeterna乐团在中国演出了莫扎特和贝多芬的作品，并为视障观众举办了一场公益排练。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "世界银行将协助叙利亚设立基金进行国家重建",
+   "link": "https://sputniknews.cn/20261019/1073678761.html",
+   "source": "卫星社中文",
+   "time": "2026-10-18T20:25:55.000Z",
+   "summary": "俄罗斯卫星通讯社贝鲁特电 据叙利亚通讯社报道，叙利亚外交部与世界银行就设立多捐方信托基金，支持该国的经济复苏与重建达成一致。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】223 km NE of Lospalos, Timor Leste",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37s",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T20:24:09.032Z",
+   "summary": "美国地质调查局官方监测：223 km NE of Lospalos, Timor Leste发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】14 km NNE of Hawaiian Ocean View, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060536",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T20:19:51.090Z",
+   "summary": "美国地质调查局官方监测：14 km NNE of Hawaiian Ocean View, Hawaii发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "媒体：阿联酋一周内向加沙地带运送近800吨人道物资",
+   "link": "https://sputniknews.cn/20261019/1073678582.html",
+   "source": "卫星社中文",
+   "time": "2026-10-18T20:16:00.000Z",
+   "summary": "俄罗斯卫星通讯社迪拜电 据阿联酋通讯社报道，过去一周，阿联酋派出5支卡车车队，向加沙地带运送了789吨的人道物资。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】17 km SSW of Jal, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37m",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T20:02:48.202Z",
+   "summary": "美国地质调查局官方监测：17 km SSW of Jal, New Mexico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：拉夫罗夫将与伊朗总统举行会晤",
+   "link": "https://sputniknews.cn/20261019/1073678298.html",
+   "source": "卫星社中文",
+   "time": "2026-10-18T20:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外交部表示，俄罗斯外交部长拉夫罗夫将于10月19日访问伊朗，期间将与伊朗总统佩泽希齐扬举行会晤。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】71 km ESE of ‘Ohonua, Tonga",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T19:32:28.734Z",
+   "summary": "美国地质调查局官方监测：71 km ESE of ‘Ohonua, Tonga发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "汤加",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】57 km S of Whites City, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026unvjfb",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T19:30:02.981Z",
+   "summary": "美国地质调查局官方监测：57 km S of Whites City, New Mexico发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】19 km S of Nixon, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026unuutp",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T19:12:55.692Z",
+   "summary": "美国地质调查局官方监测：19 km S of Nixon, Texas发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "美财长：欧洲向俄提供的资金多于对乌援助资金",
+   "link": "https://sputniknews.cn/20261019/1073678005.html",
+   "source": "卫星社中文",
+   "time": "2026-10-18T19:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿10月18日电 美国财政部长贝森特10月18日表示，欧洲向俄罗斯提供的资金多于向乌克兰提供的资金，而且继续消费俄罗斯燃料。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄国防部：俄防空系统12小时摧毁41架乌克兰无人机",
+   "link": "https://sputniknews.cn/20261019/1073678129.html",
+   "source": "卫星社中文",
+   "time": "2026-10-18T18:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月18日电 俄罗斯国防部发布消息表示，莫斯科时间10月18日8时至20时，俄军防空系统在俄罗斯多地上空拦截并摧毁了41架乌克兰无人机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】67 km NNE of Punta Cana, Dominican Republic",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537168",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T18:28:38.450Z",
+   "summary": "美国地质调查局官方监测：67 km NNE of Punta Cana, Dominican Republic发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "多米尼加",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】3 km SW of Pāhala, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060496",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T18:28:37.630Z",
+   "summary": "美国地质调查局官方监测：3 km SW of Pāhala, Hawaii发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
    "title": "俄记者：乌克兰政权的脊梁已断",
    "link": "https://sputniknews.cn/20261019/1073677891.html",
    "source": "卫星社中文",
@@ -1132,6 +1404,17 @@
    ]
   },
   {
+   "title": "【地震 M4.5】0 km NE of Río Grande, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36m",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T16:12:55.030Z",
+   "summary": "美国地质调查局官方监测：0 km NE of Río Grande, Panama发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
    "title": "俄外长：美国对伊朗冲突的做法无助于解决局势",
    "link": "https://sputniknews.cn/20261019/1073677226.html",
    "source": "卫星社中文",
@@ -1141,6 +1424,17 @@
     "中东",
     "俄乌",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】213 km WSW of Houma, Tonga",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36h",
+   "source": "USGS地震台网",
+   "time": "2026-10-18T15:39:40.151Z",
+   "summary": "美国地质调查局官方监测：213 km WSW of Houma, Tonga发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "汤加",
+    "亚太"
    ]
   },
   {
@@ -2156,6 +2450,14 @@
   }
  ],
  "cn": [
+  {
+   "title": "黑山总理斯帕伊奇会见王毅",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-19/10716913.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-18T21:55:39.000Z",
+   "summary": "新华社波德戈里察10月18日电(记者石中玉 张璇)18日，黑山总理斯帕伊奇在波德戈里察会见中共中央政治局委员、外交部长王毅。",
+   "regions": []
+  },
   {
    "title": "王毅同黑山副总理兼外长伊布拉希莫维奇会谈",
    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10716911.shtml",
@@ -4293,5 +4595,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-18T18:13:52.458Z"
+ "updatedAt": "2026-10-18T22:47:14.125Z"
 }
