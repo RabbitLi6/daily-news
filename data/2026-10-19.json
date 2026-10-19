@@ -2,6 +2,38 @@
  "date": "2026-10-19",
  "tech": [
   {
+   "title": "苹果 watchOS 27.2 RC 发布",
+   "link": "https://www.ithome.com/1/015/065.htm",
+   "source": "IT之家",
+   "time": "2026-10-19T18:35:06.000Z",
+   "summary": "【 点此直达升级教程 】 IT之家 10 月 20 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 RC 更新（内部版本号：24S116），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 i…",
+   "regions": []
+  },
+  {
+   "title": "苹果 visionOS 27.2 RC 发布",
+   "link": "https://www.ithome.com/1/015/064.htm",
+   "source": "IT之家",
+   "time": "2026-10-19T18:35:05.000Z",
+   "summary": "IT之家 10 月 20 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 RC 更新（内部版本号：24N118），本次更新距离上次发布 Beta/RC 间隔 6 天。 需要注意的是，因苹果各区域节点服务器配…",
+   "regions": []
+  },
+  {
+   "title": "苹果 macOS 27.2 RC 发布",
+   "link": "https://www.ithome.com/1/015/063.htm",
+   "source": "IT之家",
+   "time": "2026-10-19T18:35:05.000Z",
+   "summary": "IT之家 10 月 20 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 RC 更新（内部版本号：26B118），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iOS/iPadOS 27.2 RC 发布",
+   "link": "https://www.ithome.com/1/015/062.htm",
+   "source": "IT之家",
+   "time": "2026-10-19T18:35:04.000Z",
+   "summary": "【 点此直达升级教程 】 IT之家 10 月 20 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 RC 更新（内部版本号：24B115），本次更新距离上次发布 Beta/RC 间隔 6 天。 如…",
+   "regions": []
+  },
+  {
    "title": "苹果官宣北京时间 10 月 29 日举行特别活动，有望推出 OLED MacBook Pro / iPad mini 8 等机型",
    "link": "https://www.ithome.com/1/015/054.htm",
    "source": "IT之家",
@@ -1380,6 +1412,183 @@
  ],
  "world": [
   {
+   "title": "泽连斯基称俄无人机袭击哈尔科夫州一公园致6死14伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717550.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-19T21:58:44.000Z",
+   "summary": "乌克兰总统泽连斯基19日表示，俄罗斯当天使用无人机袭击哈尔科夫州一处公园，造成6人死亡、14人受伤。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "特朗普称该换人代表乌克兰谈判",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717549.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-19T21:57:16.000Z",
+   "summary": "当地时间10月19日下午，美国总统特朗普在白宫对媒体表示，他认为应该由乌克兰总统泽连斯基以外的人代表乌克兰进行谈判，以寻求结束与俄罗斯的战事。特朗普说：“也许泽连斯基是时候找别人来谈判了。”",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美国俄亥俄州哥伦布市东北部发生枪击事件 至少1人死亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717548.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-19T21:55:50.000Z",
+   "summary": "当地时间10月19日，总台记者获悉，当日下午，美国俄亥俄州哥伦布市东北部一座清真寺附近发生枪击事件，导致至少一人死亡。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊朗波斯湾海峡管理局：122艘船舶被列入违规名单",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717547.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-19T21:54:22.000Z",
+   "summary": "当地时间20日，伊朗波斯湾海峡管理局宣布，截至目前，已有122艘船舶被列入波斯湾航道管理的违规名单。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "王毅同保加利亚外长佩特罗娃会谈",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717546.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-19T21:52:10.000Z",
+   "summary": "新华社索非亚10月19日电(记者林浩 姚雨璘)中共中央政治局委员、外交部长王毅19日在索非亚同保加利亚外长佩特罗娃举行会谈。",
+   "regions": []
+  },
+  {
+   "title": "王毅会见保加利亚副总理普列夫",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717545.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-19T21:50:48.000Z",
+   "summary": "新华社索非亚10月19日电(记者林浩 姚雨璘)中共中央政治局委员、外交部长王毅19日在索非亚会见保加利亚副总理普列夫。",
+   "regions": []
+  },
+  {
+   "title": "法国总统马克龙出访海湾国家 聚焦能源供应",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717544.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-19T21:46:27.000Z",
+   "summary": "中新社巴黎10月19日电 法国总统马克龙当地时间19日起对多个海湾国家展开访问，聚焦能源供应。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】39 km S of Tolsona, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utctzh",
+   "source": "USGS地震台网",
+   "time": "2026-10-19T21:11:38.453Z",
+   "summary": "美国地质调查局官方监测：39 km S of Tolsona, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】13 km SW of Manley Hot Springs, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utcjzj",
+   "source": "USGS地震台网",
+   "time": "2026-10-19T21:00:06.271Z",
+   "summary": "美国地质调查局官方监测：13 km SW of Manley Hot Springs, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】248 km SW of Tambolaka, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3gm",
+   "source": "USGS地震台网",
+   "time": "2026-10-19T19:16:50.241Z",
+   "summary": "美国地质调查局官方监测：248 km SW of Tambolaka, Indonesia发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572622",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-19T19:16:41.000Z",
+   "summary": "On 10/19/2026 6:55:37 PM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had …",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].",
+   "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572618",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-19T19:11:39.000Z",
+   "summary": "On 10/19/2026 6:52:36 PM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had …",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.7】203 km WNW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge",
+   "source": "USGS地震台网",
+   "time": "2026-10-19T18:55:37.471Z",
+   "summary": "美国地质调查局官方监测：203 km WNW of Port-Olry, Vanuatu发生 5.7 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.7】198 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga",
+   "source": "USGS地震台网",
+   "time": "2026-10-19T18:52:36.659Z",
+   "summary": "美国地质调查局官方监测：198 km NW of Port-Olry, Vanuatu发生 5.7 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】88 km WNW of Hihifo, Tonga",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3g6",
+   "source": "USGS地震台网",
+   "time": "2026-10-19T18:27:46.554Z",
+   "summary": "美国地质调查局官方监测：88 km WNW of Hihifo, Tonga发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "汤加",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】16 km SSW of Jal, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026upoxoa",
+   "source": "USGS地震台网",
+   "time": "2026-10-19T18:24:08.267Z",
+   "summary": "美国地质调查局官方监测：16 km SSW of Jal, New Mexico发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】17 km SW of Jal, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026upolzm",
+   "source": "USGS地震台网",
+   "time": "2026-10-19T18:11:05.285Z",
+   "summary": "美国地质调查局官方监测：17 km SW of Jal, New Mexico发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
    "title": "北约上将：俄军具有开创性且很危险",
    "link": "https://sputniknews.cn/20261020/1073692204.html",
    "source": "卫星社中文",
@@ -1860,6 +2069,43 @@
    "time": "2026-10-19T12:00:00.000Z",
    "summary": "联合国官员周一在向安理会通报海地局势时指出，海地选举筹备工作取得进展，但帮派暴力持续威胁民众安全，政治过渡和国家治理仍面临重大挑战。今年7月至9月，联合国记录到海地超过1000人被杀，境内流离失所者总数接近150万。与此同时，镇压黑帮部队逐…",
    "regions": []
+  },
+  {
+   "title": "联合国谴责苏丹多地无人机袭击事件",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143029",
+   "source": "联合国新闻",
+   "time": "2026-10-19T12:00:00.000Z",
+   "summary": "联合国秘书长发言人杜加里克周一在纽约对记者表示，联合国对苏丹各地持续发生的致命无人机袭击深感震惊。这些袭击造成包括儿童在内的平民死亡，并扰乱基本服务。",
+   "regions": [
+    "美洲",
+    "非洲"
+   ]
+  },
+  {
+   "title": "安理会通过决议：警惕数字技术助长冲突中的儿童侵害行为",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143028",
+   "source": "联合国新闻",
+   "time": "2026-10-19T12:00:00.000Z",
+   "summary": "安理会周一以15票赞成一致通过决议，警告数字技术正被武装冲突各方用于招募和使用儿童、绑架及性暴力等侵害行为，并呼吁各国加强儿童保护，推动数字平台采取措施防范相关风险。",
+   "regions": []
+  },
+  {
+   "title": "亚美尼亚会议聚焦保护地球脆弱的生物多样性",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143027",
+   "source": "联合国新闻",
+   "time": "2026-10-19T12:00:00.000Z",
+   "summary": "《生物多样性公约》第十七次缔约方大会周一在亚美尼亚首都埃里温开幕。各国将在未来两周首次全面审查《昆明-蒙特利尔全球生物多样性框架》的集体落实进展，重点讨论资金筹措、行动落实和成效监测，推动保护承诺转化为可衡量的成果。",
+   "regions": []
+  },
+  {
+   "title": "加沙粮食援助因资金短缺大幅缩减，约50万人失去援助",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143026",
+   "source": "联合国新闻",
+   "time": "2026-10-19T12:00:00.000Z",
+   "summary": "联合国世界粮食计划署周一表示，资金短缺迫使该署将加沙粮食援助覆盖人数削减约三分之一，从9月的160万人降至本月的110万人。随着冬季临近，继续获得援助的家庭也面临食品配给和现金支持减少。",
+   "regions": [
+    "中东"
+   ]
   },
   {
    "title": "【地震 M4.8】212 km WNW of Port-Olry, Vanuatu",
@@ -2954,6 +3200,16 @@
  ],
  "tw": [
   {
+   "title": "伊朗波斯湾海峡管理局：122艘船舶被列入违规名单",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717547.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-19T21:54:22.000Z",
+   "summary": "当地时间20日，伊朗波斯湾海峡管理局宣布，截至目前，已有122艘船舶被列入波斯湾航道管理的违规名单。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
    "title": "台湾工业及服务业受雇员工平均年龄逾40岁 达近十年新高",
    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717394.shtml",
    "source": "中新网中国",
@@ -3030,6 +3286,22 @@
   }
  ],
  "cn": [
+  {
+   "title": "王毅同保加利亚外长佩特罗娃会谈",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717546.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-19T21:52:10.000Z",
+   "summary": "新华社索非亚10月19日电(记者林浩 姚雨璘)中共中央政治局委员、外交部长王毅19日在索非亚同保加利亚外长佩特罗娃举行会谈。",
+   "regions": []
+  },
+  {
+   "title": "王毅会见保加利亚副总理普列夫",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717545.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-19T21:50:48.000Z",
+   "summary": "新华社索非亚10月19日电(记者林浩 姚雨璘)中共中央政治局委员、外交部长王毅19日在索非亚会见保加利亚副总理普列夫。",
+   "regions": []
+  },
   {
    "title": "青海举办第二届藏传佛教寺庙消防技能竞赛活动",
    "link": "https://www.chinanews.com.cn/sh/2026/10-19/10717533.shtml",
@@ -5322,5 +5594,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-19T18:14:25.476Z"
+ "updatedAt": "2026-10-19T22:32:37.570Z"
 }
