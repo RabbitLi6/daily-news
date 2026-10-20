@@ -1608,6 +1608,16 @@
    ]
   },
   {
+   "title": "【地震 M2.5】19 km ESE of Pearsall, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026upytqj",
+   "source": "USGS地震台网",
+   "time": "2026-10-19T23:21:15.225Z",
+   "summary": "美国地质调查局官方监测：19 km ESE of Pearsall, Texas发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "哥伦比亚一非法金矿塌方 至少9人死",
    "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717556.shtml",
    "source": "中新网国际",
@@ -6776,5 +6786,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-20T06:25:44.280Z"
+ "updatedAt": "2026-10-20T11:55:51.311Z"
 }
