@@ -2,6 +2,78 @@
  "date": "2026-10-20",
  "tech": [
   {
+   "title": "谷歌开源 TorchTPU，挑战英伟达 AI 生态主导地位",
+   "link": "https://www.ithome.com/1/015/626.htm",
+   "source": "IT之家",
+   "time": "2026-10-20T23:14:01.000Z",
+   "summary": "IT之家 10 月 21 日消息，谷歌于当地时间周二宣布，面向谷歌 TPU 的原生 PyTorch 框架 TorchTPU 现已在 GitHub 上开源。借此，谷歌与亚马逊一同尝试打破英伟达在人工智能行业的垄断。目前绝大多数人工智能应用默认…",
+   "regions": []
+  },
+  {
+   "title": "地表最强科技联姻：马斯克称特斯拉与 SpaceX 合并“有很多好处”",
+   "link": "https://www.ithome.com/1/015/625.htm",
+   "source": "IT之家",
+   "time": "2026-10-20T23:08:36.000Z",
+   "summary": "IT之家 10 月 21 日消息，彭博社今天（10 月 21 日）发布博文，报道称在 2026 财年第三财季（2026 年 7 月～2026 年 9 月）财报电话会上， 全球首富埃隆 · 马斯克表示 SpaceX 与特斯拉均已成立由独立董事…",
+   "regions": []
+  },
+  {
+   "title": "通用汽车关闭底特律电池组装厂，因租约到期而非电动化战略调整",
+   "link": "https://www.ithome.com/1/015/624.htm",
+   "source": "IT之家",
+   "time": "2026-10-20T23:04:10.000Z",
+   "summary": "IT之家 10 月 21 日消息，通用汽车（GM）发言人向科技博客 TechCrunch 证实，公司将关闭底特律南部的一处电池组装工厂。 布朗斯敦电池组装厂负责为凯迪拉克旗舰电动车型 Celestiq 组装电池包，同时也为雪佛兰科尔维特 E…",
+   "regions": []
+  },
+  {
+   "title": "谷歌为车载 Gemini 新增个人智能功能，可跨 Gmail、日历、地图调取数据",
+   "link": "https://www.ithome.com/1/015/623.htm",
+   "source": "IT之家",
+   "time": "2026-10-20T22:57:54.000Z",
+   "summary": "IT之家 10 月 21 日消息，谷歌正在为已搭载在数百万辆轿车、卡车与 SUV 上的 Gemini 人工智能助手增添更强的个性化能力，这一举措或将进一步把用户牢牢锁定在谷歌的产品生态当中。 该公司于当地时间周二宣布，将为车载版 Gemin…",
+   "regions": []
+  },
+  {
+   "title": "新任 CEO 特努斯：设计仍是苹果的首要任务，产品也要有奇思妙想",
+   "link": "https://www.ithome.com/1/015/622.htm",
+   "source": "IT之家",
+   "time": "2026-10-20T22:54:33.000Z",
+   "summary": "IT之家 10 月 21 日消息，昨日（10 月 20 日）接受《时代》（Time）杂志采访时，苹果现任首席执行官约翰 · 特努斯（John Ternus）表示， 设计依然是苹果公司的核心，尊重用户、打造真正有益的产品是“首要任务”。他强调…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 宣布收购 AI 生物科技初创企业 Orchestra Bio",
+   "link": "https://www.ithome.com/1/015/621.htm",
+   "source": "IT之家",
+   "time": "2026-10-20T22:51:11.000Z",
+   "summary": "IT之家 10 月 21 日消息，OpenAI 于当地时间周二宣布，收购成立四年的人工智能生物科技软件初创企业 Orchestra Bio，相关消息由该公司在官网发布。本次交易的具体条款并未对外披露，但有报道称，截至 2025 年，这家初创…",
+   "regions": []
+  },
+  {
+   "title": "SpaceX 2026 财年第三财季归母净利润 44.04 亿美元，同比扭亏为盈",
+   "link": "https://www.ithome.com/1/015/617.htm",
+   "source": "IT之家",
+   "time": "2026-10-20T22:37:22.000Z",
+   "summary": "IT之家 10 月 21 日消息，SpaceX 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：145.75 亿美元 （IT之家注：现汇率约…",
+   "regions": []
+  },
+  {
+   "title": "超微电脑 2027 财年第一财季预计营收 185 亿-195 亿美元，高于此前预期",
+   "link": "https://www.ithome.com/1/015/619.htm",
+   "source": "IT之家",
+   "time": "2026-10-20T20:47:02.000Z",
+   "summary": "IT之家 10 月 21 日消息，超微电脑今日发布 2027 财年（2026 年 7 月 1 日～2027 年 6 月 30 日）第一财季（2026 年 7 月 1 日～2026 年 9 月 30 日）业绩预告报告： 营业总收入 ：185 …",
+   "regions": []
+  },
+  {
+   "title": "Netflix 2026 财年第三财季归母净利润 36.64 亿美元，同比增长 43.86%",
+   "link": "https://www.ithome.com/1/015/618.htm",
+   "source": "IT之家",
+   "time": "2026-10-20T20:06:20.000Z",
+   "summary": "IT之家 10 月 21 日消息，Netflix 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：128.74 亿美元 （IT之家注：现汇率…",
+   "regions": []
+  },
+  {
    "title": "1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台",
    "link": "https://www.ithome.com/1/015/614.htm",
    "source": "IT之家",
@@ -1764,6 +1836,526 @@
  ],
  "world": [
   {
+   "title": "俄副防长：俄军应有无人坦克分队",
+   "link": "https://sputniknews.cn/20261021/1073710491.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T23:05:19.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月21日电 俄罗斯国防部副部长尤努斯-别克·叶夫库罗夫在接受“红星”电视台采访时表示，俄军中应当有无人装甲车辆分队。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "以军宣布：打死哈马斯安全机构高级成员",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718228.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-20T22:59:52.000Z",
+   "summary": "中新网10月21日电 据《以色列时报》20日报道，以色列国防军与以色列国家安全局(辛贝特)发表联合声明称，当天早些时候对加沙城地区发动空袭，打死了哈马斯安全机构高级成员亚辛。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】6 km SE of Pitaloza Arriba, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3qu",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T22:51:44.847Z",
+   "summary": "美国地质调查局官方监测：6 km SE of Pitaloza Arriba, Panama发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】27 km W of Salamatof, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uvcbqu",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T22:49:46.159Z",
+   "summary": "美国地质调查局官方监测：27 km W of Salamatof, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718226.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-20T22:32:30.000Z",
+   "summary": "当地时间20日，两艘油轮在霍尔木兹海峡触雷，美国能源部的数据显示，美国战略石油储备计划中的原油储量已降至44年来的最低水平。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "巴黎等多个法国城市继续实施局部宵禁",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718225.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-20T22:29:36.000Z",
+   "summary": "中新社巴黎10月20日电 (记者 李洋)巴黎、里昂等多个法国城市当地时间20日晚继续实施局部宵禁。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "刚果（金）埃博拉死亡病例达4600例",
+   "link": "https://sputniknews.cn/20261021/1073710385.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T22:25:26.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 据刚果民主共和国国家公共卫生研究所消息，刚果（金）埃博拉病毒确诊病例增至9552例，4602人死亡。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "罗马尼亚新一届政府宣誓就职",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718223.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-20T22:01:21.000Z",
+   "summary": "当地时间10月20日，罗马尼亚总理尼古列斯库领导的新一届政府通过议会信任投票，随后在总统府宣誓就职。",
+   "regions": []
+  },
+  {
+   "title": "胡塞武装称过去24小时也门遭沙特空袭93次",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718222.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-20T21:58:41.000Z",
+   "summary": "当地时间10月20日，也门胡塞武装发言人叶海亚称，过去24小时内，沙特战机对也门焦夫省、塔伊兹省、萨达省、马里卜省、哈杰省、拉赫季省、阿姆兰省和伊卜省的民用目标发动93次空袭及导弹袭击。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "乌克兰问题会谈在挪威举行 美特使将赴俄转达相关内容",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718221.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-20T21:56:33.000Z",
+   "summary": "当地时间20日，美国总统特朗普的特使威特科夫和乌克兰总统泽连斯基在挪威奥斯陆举行会晤，参会者还包括来自挪威、芬兰等其他欧洲国家的领导人，特朗普女婿库什纳以视频方式参会。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "以军称打死哈马斯安全机构高级成员",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718220.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-20T21:54:34.000Z",
+   "summary": "当地时间20日晚，以色列国防军与以色列国家安全局(辛贝特)发表联合声明，称当天早些时候对加沙城地区发动精准空袭，打死了哈马斯安全机构高级成员亚辛。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "美官员：美总统特使将于21日与普京会面",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718219.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-20T21:53:22.000Z",
+   "summary": "当地时间10月20日，据美国官员透露，美国总统特使威特科夫将于21日与俄罗斯总统普京会面，特朗普女婿库什纳将以视频方式参与。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "立陶宛总统已抵达波兰调查10月18日乌克兰无人机事件",
+   "link": "https://sputniknews.cn/20261021/1073710271.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T21:48:18.000Z",
+   "summary": "俄罗斯卫星通讯社华沙电 波兰总理图斯克10月20日召开内阁会议时表示，立陶宛总统瑙塞达已抵达波兰调查10月18日发生的乌克兰无人机事件。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "美国务卿：五角大楼出于国家利益未向乌克兰移交“爱国者”导弹",
+   "link": "https://sputniknews.cn/20261021/1073710085.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T21:36:01.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国国务卿鲁比奥不排除美防长赫格塞思真未同意从第三国向基辅交付“爱国者”导弹的可能性，但解释说后者基于美国国防利益而行事。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外长：俄罗斯并不指望特朗普政府在制裁问题上带来任何奇迹",
+   "link": "https://sputniknews.cn/20261021/1073709578.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T21:20:01.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外长拉夫罗夫表示，俄罗斯并不指望美国总统特朗普政府在制裁问题上带来任何奇迹。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普：若欧洲不改变移民政策就将面临消亡",
+   "link": "https://sputniknews.cn/20261021/1073709967.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T21:18:07.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国总统特朗普表示，如果欧洲领导人不从根本上重新审视自己的移民政策，欧洲将什么都不剩。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄中两国总理参观“皇村”博物馆保护区",
+   "link": "https://sputniknews.cn/20261021/1073709863.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T21:11:09.000Z",
+   "summary": "俄罗斯卫星通讯社圣彼得堡电 俄罗斯总理米舒斯京与中国国务院总理李强一同游览了“皇村”博物馆保护区，并参观了叶卡捷琳娜宫和亚历山大宫。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】11 km E of Pearsall, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3pz",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T20:46:54.391Z",
+   "summary": "美国地质调查局官方监测：11 km E of Pearsall, Texas发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄外长：俄罗斯会看看威特科夫和库什纳带来什么 但不会有政治让步",
+   "link": "https://sputniknews.cn/20261021/1073709475.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T20:42:13.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外长拉夫罗夫表示，俄罗斯会看看美国总统特使威特科夫和特朗普女婿库什纳带来什么，但俄方不会作出政治让步。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普：普京与泽连斯基间会晤对乌克兰问题调解并非必要",
+   "link": "https://sputniknews.cn/20261021/1073709204.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T20:21:40.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国总统特朗普认为，俄罗斯领导人普京与泽连斯基的会晤对于实现乌克兰问题的调解并非必要。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：在五角大楼的支持下 在乌克兰本地研发过生物武器组件",
+   "link": "https://sputniknews.cn/20261021/1073709107.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T20:17:24.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外交部防扩散和军控司副司长沃龙佐夫表示，在五角大楼的支持下，在乌克兰的实验室曾经或仍在研发生物武器组件。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊朗伊斯兰革命卫队：一艘超级油轮在霍尔木兹海峡触雷",
+   "link": "https://sputniknews.cn/20261021/1073709008.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T20:04:55.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰电 伊朗伊斯兰革命卫队表示，一艘超级油轮在霍尔木兹海峡触雷。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】187 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3pq",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T20:03:26.613Z",
+   "summary": "美国地质调查局官方监测：187 km NW of Port-Olry, Vanuatu发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "特朗普：确信俄罗斯希望结束乌克兰冲突，若基辅拒绝和平解决 后果将“非常糟糕”",
+   "link": "https://sputniknews.cn/20261021/1073708884.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T20:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国总统特朗普在白宫对媒体表示，俄罗斯想要达成乌克兰问题的解决，他指出，俄军在战场上取得进展。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】Kuril Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3pm",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T19:53:59.721Z",
+   "summary": "美国地质调查局官方监测：Kuril Islands发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】20 km NW of Stanton, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urnfwh",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T19:45:39.011Z",
+   "summary": "美国地质调查局官方监测：20 km NW of Stanton, Texas发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄联邦委员会成员：泽连斯基在政权垮台前正在为自己准备借口",
+   "link": "https://sputniknews.cn/20261021/1073708752.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T19:15:00.000Z",
+   "summary": "俄罗斯参议员亚历山大·沃洛申表示，弗拉基米尔·泽连斯基继续批评美国总统唐纳德·特朗普，因为他试图为乌克兰冲突失败和基辅现政权的垮台寻找借口。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄罗斯首批教授汉语的学校之一迎来建校90周年",
+   "link": "https://sputniknews.cn/20261021/1073706614.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T19:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月20日电 据俄卫星通讯社记者报道，俄罗斯首批教授汉语的学校之一——外贝加尔边疆区赤塔第四中学迎来建校90周年。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄罗斯与17国呼吁联合国秘书长更新化学武器使用调查机制",
+   "link": "https://sputniknews.cn/20261021/1073708530.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T18:45:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月20日电 俄罗斯外交部在官网公布的联合声明中显示，俄罗斯及另外17个国家呼吁联合国秘书长组织审查“使用生化武器事件联合国秘书长调查机制” （MIS）。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】south of the Fiji Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p9",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T18:36:03.727Z",
+   "summary": "美国地质调查局官方监测：south of the Fiji Islands发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "斐济",
+    "亚太"
+   ]
+  },
+  {
+   "title": "联合国：冬季阿富汗面临严重粮食短缺的人数将从1600万增至1900万",
+   "link": "https://sputniknews.cn/20261021/1073708429.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T18:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社日内瓦10月20日电 联合国人道主义事务协调厅警告称，预计冬季阿富汗面临严重粮食短缺的人数将从近1600万增加至1900万人。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "泰方称将加强泰中协调保障游客安全",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718217.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-20T18:16:11.000Z",
+   "summary": "中新社曼谷10月20日电 (王茜 李映民)泰国旅游与体育部长素拉萨20日表示，泰方高度重视包括中国游客在内的各国游客安全，将加强相关部门协调，并与中方进一步沟通，以提升游客安全保障水平。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "意大利专家：俄美中峰会将让欧洲被排除在国际政治之外",
+   "link": "https://sputniknews.cn/20261021/1073708629.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T18:15:00.000Z",
+   "summary": "意大利国际政治研究所（ISPI）所长玛丽安杰拉·扎皮认为，美俄中三国领导人可能举行的三方会晤将让欧洲被排除在国际政治之外。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】88 km NNW of Karluk, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uusvca",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T18:12:36.729Z",
+   "summary": "美国地质调查局官方监测：88 km NNW of Karluk, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.1】39 km W of Mosteiros, Portugal",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p1",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T18:07:18.131Z",
+   "summary": "美国地质调查局官方监测：39 km W of Mosteiros, Portugal发生 5.1 级地震，震源深度 未知。",
+   "regions": [
+    "葡萄牙",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】152 km WNW of Tobelo, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nz",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T18:02:57.367Z",
+   "summary": "美国地质调查局官方监测：152 km WNW of Tobelo, Indonesia发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄外长：俄罗斯在世界政治中推动平等对话与利益平衡",
+   "link": "https://sputniknews.cn/20261021/1073708229.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T18:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月20日电 俄外长拉夫罗夫表示，俄罗斯在世界政治中推动平等对话与利益平衡。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄外交部：日方需放弃反俄活动以恢复正常关系",
+   "link": "https://sputniknews.cn/20261021/1073708327.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T17:41:00.000Z",
+   "summary": "俄外交部称，东京必须采取切实行动，放弃针对俄罗斯的活动，以使俄日两国间关系回归正轨。",
+   "regions": [
+    "俄乌",
+    "亚太"
+   ]
+  },
+  {
+   "title": "媒体：韩国计划在2040年前为无人机建造自己的航母",
+   "link": "https://sputniknews.cn/20261021/1073708099.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T17:20:00.000Z",
+   "summary": "《东亚日报》援引韩国军方官员的消息报道，韩国计划在2040年前为无人机建造一艘自己的航母并把它部署给海军。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】215 km S of Burica, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nn",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T17:18:36.707Z",
+   "summary": "美国地质调查局官方监测：215 km S of Burica, Panama发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M5.4】192 km S of Burica, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T17:05:48.338Z",
+   "summary": "美国地质调查局官方监测：192 km S of Burica, Panama发生 5.4 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
+   "title": "民调：超过半数的德国人预计德国执政联盟党将提前解体",
+   "link": "https://sputniknews.cn/20261021/1073707983.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T16:52:00.000Z",
+   "summary": "根据福尔萨研究所为RTL和N-TV电视台进行的一项调查显示，超过半数的德国人预计德国执政联盟党将提前解体。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "“今日俄罗斯”国际通讯社总经理：俄罗斯卫星通讯社在非洲的工作是俄非之间信任的见证",
+   "link": "https://sputniknews.cn/20261021/1073705323.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T16:40:00.000Z",
+   "summary": "10月20日（周二），俄罗斯卫星通讯社通讯社在坦桑尼亚和南非——达累斯萨拉姆和约翰内斯堡——的多功能编辑中心举行了开业仪式。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "商务部回应美发布针对中企的联邦采购排除和移除命令通知",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-21/10718216.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-20T16:34:29.000Z",
+   "summary": "中新社北京10月20日电 (记者 尹倩芸)就美国土安全部发布针对中国企业的联邦采购排除和移除命令通知，中国商务部新闻发言人20日晚间称，中方对此强烈不满、坚决反对。",
+   "regions": [
+    "美洲",
+    "北京"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】17 km SSE of Pāhala, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061376",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T16:31:23.430Z",
+   "summary": "美国地质调查局官方监测：17 km SSE of Pāhala, Hawaii发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】south of the Fiji Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nd",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T16:29:43.678Z",
+   "summary": "美国地质调查局官方监测：south of the Fiji Islands发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "斐济",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】21 km SW of Meulaboh, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nc",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T16:29:38.818Z",
+   "summary": "美国地质调查局官方监测：21 km SW of Meulaboh, Indonesia发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】2 km NW of The Geysers, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452571",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T16:23:04.060Z",
+   "summary": "美国地质调查局官方监测：2 km NW of The Geysers, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "俄外长：俄罗斯卫星通讯社在坦桑尼亚和南非设点将助非洲民众获取客观信息",
+   "link": "https://sputniknews.cn/20261021/1073705197.html",
+   "source": "卫星社中文",
+   "time": "2026-10-20T16:18:53.000Z",
+   "summary": "10月20日（周二），俄罗斯卫星通讯社在坦桑尼亚和南非的多功能编辑中心举行了开业仪式。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
    "title": "俄罗斯将在坦桑尼亚和南非开设合作枢纽",
    "link": "https://sputniknews.cn/20261021/1073699973.html",
    "source": "卫星社中文",
@@ -1793,6 +2385,17 @@
    "summary": "根据中国海关数据显示，俄罗斯9月份对中国的铜出口量达到了自2021年年末以来的最高水平。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】22 km SSW of Lovington, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3mb",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T15:56:32.914Z",
+   "summary": "美国地质调查局官方监测：22 km SSW of Lovington, New Mexico发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
    ]
   },
   {
@@ -1929,6 +2532,17 @@
    ]
   },
   {
+   "title": "【地震 M4.5】111 km S of Kokopo, Papua New Guinea",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3m7",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T14:20:49.305Z",
+   "summary": "美国地质调查局官方监测：111 km S of Kokopo, Papua New Guinea发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "巴布亚新几内亚",
+    "亚太"
+   ]
+  },
+  {
    "title": "特朗普特使呼吁中东国家不要依靠美国",
    "link": "https://sputniknews.cn/20261020/1073706382.html",
    "source": "卫星社中文",
@@ -2034,6 +2648,17 @@
    ]
   },
   {
+   "title": "【地震 M2.5】15 km SSW of Jal, New Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqzncp",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T12:48:26.842Z",
+   "summary": "美国地质调查局官方监测：15 km SSW of Jal, New Mexico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
    "title": "联合国：也门超25万人因冲突升级而离开家园",
    "link": "https://sputniknews.cn/20261020/1073705414.html",
    "source": "卫星社中文",
@@ -2122,6 +2747,14 @@
    "source": "联合国新闻",
    "time": "2026-10-20T12:00:00.000Z",
    "summary": "世界卫生组织周二发布的一份报告显示，非传染性疾病影响着世界各地的人们，但并非所有人都面临相同的风险，也并非所有人都能平等地获得预防、诊断和治疗服务。",
+   "regions": []
+  },
+  {
+   "title": "秘书长特别代表：中非共和国和平进程取得进展，东北部安全形势仍面临挑战",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143034",
+   "source": "联合国新闻",
+   "time": "2026-10-20T12:00:00.000Z",
+   "summary": "安理会周二上午举行中非共和国局势公开会议。秘书长特别代表表示，中非共和国当前正处于从和平维持向和平巩固过渡的重要阶段。过去一年以来，地方选举顺利推进、解除武装工作取得进展、国家机构影响力有所扩大，这些都反映出积极变化；但东北部边境地区动荡加…",
    "regions": []
   },
   {
@@ -2331,6 +2964,16 @@
    "source": "USGS地震台网",
    "time": "2026-10-20T09:44:42.476Z",
    "summary": "美国地质调查局官方监测：44 km NW of Toyah, Texas发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】45 km NW of Toyah, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uqtkvl",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T09:44:42.319Z",
+   "summary": "美国地质调查局官方监测：45 km NW of Toyah, Texas发生 2.5 级地震，震源深度 未知。",
    "regions": [
     "国际"
    ]
@@ -3376,6 +4019,25 @@
  ],
  "tw": [
   {
+   "title": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718226.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-20T22:32:30.000Z",
+   "summary": "当地时间20日，两艘油轮在霍尔木兹海峡触雷，美国能源部的数据显示，美国战略石油储备计划中的原油储量已降至44年来的最低水平。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "香港特区选举委员会界别分组一般选举提名期结束 接获1155份提名",
+   "link": "https://www.chinanews.com.cn/dwq/2026/10-21/10718215.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-20T16:14:12.000Z",
+   "summary": "中新社香港10月20日电 香港特区政府选举事务处20日公布，2026年香港特区选举委员会界别分组一般选举的提名期于当日17时结束，各界别分组的选举主任于提名期内共接获1155份提名表格，包括1115份候选人提名表格及40份指定团体提名表格。",
+   "regions": []
+  },
+  {
    "title": "李家超：APEC财长会在港举办是香港历史性时刻",
    "link": "https://www.chinanews.com.cn/dwq/2026/10-20/10718212.shtml",
    "source": "中新网滚动",
@@ -3495,6 +4157,27 @@
   }
  ],
  "cn": [
+  {
+   "title": "泰方称将加强泰中协调保障游客安全",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718217.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-20T18:16:11.000Z",
+   "summary": "中新社曼谷10月20日电 (王茜 李映民)泰国旅游与体育部长素拉萨20日表示，泰方高度重视包括中国游客在内的各国游客安全，将加强相关部门协调，并与中方进一步沟通，以提升游客安全保障水平。",
+   "regions": [
+    "亚太",
+    "拉萨"
+   ]
+  },
+  {
+   "title": "美以窃取商业秘密为由制裁中企 中国商务部回应",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-21/10718214.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-20T16:14:06.000Z",
+   "summary": "中新社北京10月20日电 (记者 尹倩芸)就美以窃取商业秘密为由制裁中国企业，中国商务部新闻发言人20日晚间表示，中方坚决反对美方污名化中国企业并实施制裁，敦促美方尽快纠正错误做法。",
+   "regions": [
+    "北京"
+   ]
+  },
   {
    "title": "国考报名时间过半，热门岗位报录比超2800:1",
    "link": "https://www.chinanews.com.cn/gn/2026/10-21/10718213.shtml",
@@ -5262,6 +5945,24 @@
  ],
  "econ": [
   {
+   "title": "商务部回应美发布针对中企的联邦采购排除和移除命令通知",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-21/10718216.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-20T16:34:29.000Z",
+   "summary": "中新社北京10月20日电 (记者 尹倩芸)就美国土安全部发布针对中国企业的联邦采购排除和移除命令通知，中国商务部新闻发言人20日晚间称，中方对此强烈不满、坚决反对。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "美以窃取商业秘密为由制裁中企 中国商务部回应",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-21/10718214.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-20T16:14:06.000Z",
+   "summary": "中新社北京10月20日电 (记者 尹倩芸)就美以窃取商业秘密为由制裁中国企业，中国商务部新闻发言人20日晚间表示，中方坚决反对美方污名化中国企业并实施制裁，敦促美方尽快纠正错误做法。",
+   "regions": []
+  },
+  {
    "title": "2026中国品牌国际化论坛在海口开幕 探讨中国品牌出海路径",
    "link": "https://www.chinanews.com.cn/cj/2026/10-20/10718202.shtml",
    "source": "中新网滚动",
@@ -6149,5 +6850,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-20T16:18:43.765Z"
+ "updatedAt": "2026-10-20T23:16:43.971Z"
 }
