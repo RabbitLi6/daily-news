@@ -1981,6 +1981,17 @@
    ]
   },
   {
+   "title": "【地震 M3.3】180 km W of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uvdppt",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T23:35:40.405Z",
+   "summary": "美国地质调查局官方监测：180 km W of Nikolski, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "泽连斯基：讨论了美俄乌三方领导人会晤可能性",
    "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718232.shtml",
    "source": "中新网国际",
@@ -2242,6 +2253,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯外长拉夫罗夫表示，俄罗斯会看看美国总统特使威特科夫和特朗普女婿库什纳带来什么，但俄方不会作出政治让步。",
    "regions": [
     "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】186 km S of Atka, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uuxhaw",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T20:26:02.104Z",
+   "summary": "美国地质调查局官方监测：186 km S of Atka, Alaska发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
     "美洲"
    ]
   },
@@ -7569,5 +7591,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-21T12:42:48.355Z"
+ "updatedAt": "2026-10-21T17:50:53.632Z"
 }
