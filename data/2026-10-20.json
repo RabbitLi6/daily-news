@@ -354,6 +354,14 @@
    "regions": []
   },
   {
+   "title": "Zentrola 1.2.1 发布：模型目录同步、Claude 订阅额度与计费修复",
+   "link": "https://www.oschina.net/news/503119",
+   "source": "开源中国",
+   "time": "2026-10-20T14:05:33.000Z",
+   "summary": "Zentrola 1.2.1 已发布。Zentrola 是面向研发团队的开源 AI Coding 能力治理平台：开发者继续使用 Codex、Claude Code 等熟悉的客户端，管理员集中管理模型、服务商、凭据、权限、配额和用量成本。本次…",
+   "regions": []
+  },
+  {
    "title": "qBittorrent 5.3 正式发布：强化 Web UI 安全，新增种子哈希筛选、IP 段封禁及 RSS 规则导入导出功能",
    "link": "https://www.ithome.com/1/015/586.htm",
    "source": "IT之家",
@@ -415,6 +423,14 @@
    "source": "IT之家",
    "time": "2026-10-20T13:44:25.000Z",
    "summary": "IT之家 10 月 20 日消息，2027 款极狐阿尔法 S5 与阿尔法 T5 官宣将于 10 月 23 日正式上市，号称“驾趣升级、续航升级、智驾再突破”。 其中，2027 款极狐阿尔法 S5 继续提供纯电与增程双动力，T5 则把升级重心…",
+   "regions": []
+  },
+  {
+   "title": "Jync 捷同 v1.7.6发布 首次全量同步大幅提速",
+   "link": "https://www.oschina.net/news/503118",
+   "source": "开源中国",
+   "time": "2026-10-20T13:44:25.000Z",
+   "summary": "Jync v1.7.6 首次全量同步大幅提速；新增只读数据预览、项目克隆与列清洗规则；修复 Oracle 11g / GBK 与若干同步正确性问题。 性能 全量分块并行：默认 2 路并行（上限 8，按连接池自动收敛），可按项目覆盖；仅单列整…",
    "regions": []
   },
   {
@@ -2463,6 +2479,14 @@
    ]
   },
   {
+   "title": "Namibia, Angola pledge deeper bilateral cooperation",
+   "link": "https://newsaf.cgtn.com/news/2026-10-21/Namibia-Angola-pledge-deeper-bilateral-cooperation-1Rp1ah6kaxW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T16:42:37.000Z",
+   "summary": "Namibia and Angola have signed eight agreements to strengthen cooperation in energy, water, transport, trade and other s…",
+   "regions": []
+  },
+  {
    "title": "“今日俄罗斯”国际通讯社总经理：俄罗斯卫星通讯社在非洲的工作是俄非之间信任的见证",
    "link": "https://sputniknews.cn/20261021/1073705323.html",
    "source": "卫星社中文",
@@ -2661,6 +2685,14 @@
    ]
   },
   {
+   "title": "APEC Finance Ministers' Meeting opens in Hong Kong",
+   "link": "https://news.cgtn.com/news/2026-10-20/APEC-Finance-Ministers-Meeting-opens-in-Hong-Kong-1Rp1R5LwbVS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T14:48:51.000Z",
+   "summary": "The Asia-Pacific Economic Cooperation (APEC) Finance Ministers' Meeting opened in Hong Kong on Tuesday.",
+   "regions": []
+  },
+  {
    "title": "联合国旅游组织/亚太旅游协会旅游趋势与展望大会在桂林举行",
    "link": "https://www.chinanews.com.cn/sh/2026/10-20/10718189.shtml",
    "source": "中新网滚动",
@@ -2681,6 +2713,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "China urges US to stop smearing, suppressing Chinese companies",
+   "link": "https://news.cgtn.com/news/2026-10-20/China-urges-US-to-stop-smearing-suppressing-Chinese-companies-1Rp1zh5fwY0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T14:43:04.000Z",
+   "summary": "The Chinese Ministry of Commerce on Tuesday urged the United States to properly recognize the significant progress made …",
+   "regions": []
   },
   {
    "title": "遗址发现90周年 良渚给世界留下怎样的“礼物”？",
@@ -2724,6 +2764,14 @@
     "巴布亚新几内亚",
     "亚太"
    ]
+  },
+  {
+   "title": "Who's learning Mandarin? 210 million learners, celebrity kids and more",
+   "link": "https://news.cgtn.com/news/2026-10-20/Who-s-learning-Mandarin-200-million-learners-celebrity-kids-and-more-1RoQsZO3Hgc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T14:19:57.000Z",
+   "summary": "Mandarin is already the world's second most spoken language by total number of speakers. Here are four fun facts about l…",
+   "regions": []
   },
   {
    "title": "特朗普特使呼吁中东国家不要依靠美国",
@@ -2811,6 +2859,14 @@
    "regions": []
   },
   {
+   "title": "US grants temporary deportation reprieve for Sudan, Ukraine nationals",
+   "link": "https://newsaf.cgtn.com/news/2026-10-20/US-grants-temporary-deportation-reprieve-for-Sudan-Ukraine-nationals-1RoBkJpC4vK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T13:13:44.000Z",
+   "summary": "A DHS spokesperson said announcements on beneficiaries from both countries would be made “at the appropriate time”, addi…",
+   "regions": []
+  },
+  {
    "title": "伦敦往返重庆航线推介会在伦敦召开",
    "link": "https://www.chinanews.com.cn/gj/2026/10-20/10718092.shtml",
    "source": "中新网国际",
@@ -2851,6 +2907,14 @@
     "中东",
     "俄乌"
    ]
+  },
+  {
+   "title": "Zambia, IAEA pledge to deepen nuclear development cooperation",
+   "link": "https://newsaf.cgtn.com/news/2026-10-20/Zambia-IAEA-pledge-to-deepen-nuclear-development-cooperation-1RoJn58ZdgQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T12:38:03.000Z",
+   "summary": "Zambia and the International Atomic Energy Agency (IAEA) have pledged to strengthen cooperation in cancer treatment, nuc…",
+   "regions": []
   },
   {
    "title": "俄外交部：莫斯科强烈谴责美国对劳尔·卡斯特罗发出逮捕令",
@@ -3131,6 +3195,14 @@
    ]
   },
   {
+   "title": "Premier Li: SCO should work for regional stability, global development",
+   "link": "https://news.cgtn.com/news/2026-10-20/China-urges-promoting-dialogue-inclusiveness-to-safeguard-world-peace-1RoFDn336ms/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T10:00:09.000Z",
+   "summary": "The Shanghai Cooperation Organization (SCO) should strive to promote regional stability and prosperity while contributin…",
+   "regions": []
+  },
+  {
    "title": "泽连斯基称与鲁比奥通话：聚焦三大核心问题",
    "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717962.shtml",
    "source": "中新网国际",
@@ -3140,6 +3212,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Chinese Embassy in UK urges citizens to be vigilant over border checks",
+   "link": "https://news.cgtn.com/news/2026-10-20/Chinese-Embassy-in-UK-urges-citizens-to-be-vigilant-over-border-checks-1RoD8L8mANy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T09:53:46.000Z",
+   "summary": "The Chinese Embassy in the UK has issued a notice calling on Chinese citizens to be vigilant when crossing the British b…",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】44 km NW of Toyah, Texas",
@@ -3341,6 +3421,14 @@
    ]
   },
   {
+   "title": "China slams US ban on DeepSeek AI tools",
+   "link": "https://news.cgtn.com/news/2026-10-20/China-slams-US-ban-on-DeepSeek-AI-tools-1RoBWLr8n8A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T08:41:10.000Z",
+   "summary": "China consistently opposes overstretching the concept of national security and politicizing science, technology, economi…",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.7】5 km SSW of Volcano, Hawaii",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061271",
    "source": "USGS地震台网",
@@ -3403,6 +3491,22 @@
     "中东",
     "美洲"
    ]
+  },
+  {
+   "title": "Former PBOC governor: AI gains, financial risks need global attention",
+   "link": "https://news.cgtn.com/news/2026-10-20/Former-PBOC-governor-AI-gains-financial-risks-need-global-attention-1RozqG8KngQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T08:13:15.000Z",
+   "summary": "Former PBOC governor: AI gains, financial risks need global attention",
+   "regions": []
+  },
+  {
+   "title": "Why are Chinese stone lions still at Yasukuni Shrine?",
+   "link": "https://news.cgtn.com/news/2026-10-20/Why-are-Chinese-stone-lions-still-at-Yasukuni-Shrine--1RogMWz5x72/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T08:07:01.000Z",
+   "summary": "Why are Chinese stone lions still at Yasukuni Shrine?",
+   "regions": []
   },
   {
    "title": "中国外交部：中方将同俄罗斯团结合作共促和平与发展",
@@ -3505,6 +3609,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Chinese military reports US' illegal intrusion into Chinese waters",
+   "link": "https://news.cgtn.com/news/2026-10-20/Chinese-military-reports-US-illegal-intrusion-into-Chinese-waters-1RosjeAPguk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T07:12:22.000Z",
+   "summary": "The US littoral combat ship USS Charleston has illegally intruded into the waters adjacent to Xianbin Jiao of China's Na…",
+   "regions": []
   },
   {
    "title": "【地震 M4.9】Pagan region, Northern Mariana Islands",
@@ -3622,6 +3734,14 @@
    "regions": [
     "朝鲜半岛"
    ]
+  },
+  {
+   "title": "Pakistan's army chief to visit Iran",
+   "link": "https://news.cgtn.com/news/2026-10-20/news-1RosIdU1AQ0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T06:12:28.000Z",
+   "summary": "Pakistan's army chief to visit Iran",
+   "regions": []
   },
   {
    "title": "民调：特朗普支持率降至31%，创历史新低",
@@ -3806,6 +3926,46 @@
     "瓦努阿图",
     "亚太"
    ]
+  },
+  {
+   "title": "Starwatch: Orionid meteor shower to peak on night skies",
+   "link": "https://news.cgtn.com/news/2026-10-20/Starwatch-Orionid-meteor-shower-to-peak-on-night-skies-1Roii2ww0Fi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T04:18:25.000Z",
+   "summary": "The annual Orionid meteor shower is set to peak on the night of October 21 to 22, offering stargazers a chance to witnes…",
+   "regions": []
+  },
+  {
+   "title": "Chinese FM, Bulgarian deputy PM pledge to expand practical cooperation",
+   "link": "https://news.cgtn.com/news/2026-10-20/Chinese-FM-Bulgarian-deputy-PM-pledge-to-expand-practical-cooperation-1RoaKf5MBNu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T04:11:46.000Z",
+   "summary": "Chinese Foreign Minister Wang Yi met with Bulgarian Deputy Prime Minister Alexander Poulev on Monday, with both sides ag…",
+   "regions": []
+  },
+  {
+   "title": "France imposes curfews in cities after weekend of protests",
+   "link": "https://news.cgtn.com/news/2026-10-20/France-imposes-curfews-in-cities-after-weekend-of-protests-1Ro8Lh9EmJi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T04:11:18.000Z",
+   "summary": "The weekend of looting and violence between some protesters and police followed weeks of student demonstrations, rocking…",
+   "regions": []
+  },
+  {
+   "title": "Bulgarian president meets Chinese FM, pledging to enhance ties",
+   "link": "https://news.cgtn.com/news/2026-10-20/Bulgarian-president-meets-Chinese-FM-pledging-to-enhance-ties-1Ro9lUtze5q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T04:10:06.000Z",
+   "summary": "Bulgarian President Iliana Iotova met with visiting Chinese Foreign Minister Wang Yi on Monday, with both sides pledging…",
+   "regions": []
+  },
+  {
+   "title": "Chinese FM urges Eurasia trust, friendship, cooperation, partnership",
+   "link": "https://news.cgtn.com/news/2026-10-20/Wang-Yi-urges-stronger-China-Bulgaria-ties-to-boost-China-EU-relations-1RobK67TQyY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-20T03:58:13.000Z",
+   "summary": "Chinese Foreign Minister Wang Yi on Monday offered a four-point summary of his just-concluded Eurasia tour, highlighting…",
+   "regions": []
   },
   {
    "title": "意媒：欧盟不知道2027年从哪里筹措700亿欧元援乌资金",
@@ -4249,6 +4409,18 @@
    ]
   },
   {
+   "title": "APEC Finance Ministers' Meeting opens in Hong Kong",
+   "link": "https://news.cgtn.com/news/2026-10-20/APEC-Finance-Ministers-Meeting-opens-in-Hong-Kong-1Rp1R5LwbVS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T14:48:51.000Z",
+   "summary": "The Asia-Pacific Economic Cooperation (APEC) Finance Ministers' Meeting opened in Hong Kong on Tuesday.",
+   "regions": [
+    "香港",
+    "亚太",
+    "太平洋"
+   ]
+  },
+  {
    "title": "第二十二届桂台经贸文化合作论坛在南宁举行",
    "link": "https://www.chinanews.com.cn/gn/2026/10-20/10718153.shtml",
    "source": "中新网中国",
@@ -4547,6 +4719,19 @@
    ]
   },
   {
+   "title": "China urges US to stop smearing, suppressing Chinese companies",
+   "link": "https://news.cgtn.com/news/2026-10-20/China-urges-US-to-stop-smearing-suppressing-Chinese-companies-1Rp1zh5fwY0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T14:43:04.000Z",
+   "summary": "The Chinese Ministry of Commerce on Tuesday urged the United States to properly recognize the significant progress made …",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
+   ]
+  },
+  {
    "title": "长征文物资源家底基本摸清",
    "link": "https://www.chinanews.com.cn/gn/2026/10-20/10718191.shtml",
    "source": "中新网中国",
@@ -4658,6 +4843,14 @@
    ]
   },
   {
+   "title": "Who's learning Mandarin? 210 million learners, celebrity kids and more",
+   "link": "https://news.cgtn.com/news/2026-10-20/Who-s-learning-Mandarin-200-million-learners-celebrity-kids-and-more-1RoQsZO3Hgc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T14:19:57.000Z",
+   "summary": "Mandarin is already the world's second most spoken language by total number of speakers. Here are four fun facts about l…",
+   "regions": []
+  },
+  {
    "title": "新华社政论：献给中国工农红军长征胜利90周年",
    "link": "https://www.chinanews.com.cn/gn/2026/10-20/10718116.shtml",
    "source": "中新网中国",
@@ -4755,6 +4948,25 @@
    ]
   },
   {
+   "title": "China establishes new state-owned enterprise focused on data",
+   "link": "https://news.cgtn.com/news/2026-10-20/China-establishes-new-state-owned-enterprise-focused-on-data-1RoS8QSf1Ze/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T13:08:36.000Z",
+   "summary": "China establishes new state-owned enterprise focused on data",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Beyond the Tracks",
+   "link": "https://news.cgtn.com/news/2026-10-20/Beyond-the-Tracks-1RoFBwPM2qY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T13:06:23.000Z",
+   "summary": "Beyond the Tracks",
+   "regions": []
+  },
+  {
    "title": "茶韵静心融山海 福建宁德解锁山海茶旅居新体验",
    "link": "https://www.chinanews.com.cn/sh/2026/10-20/10718109.shtml",
    "source": "中新网社会",
@@ -4762,6 +4974,25 @@
    "summary": "中新网宁德10月20日电 (记者 吕巧琴 叶茂)走进位于福建省宁德福鼎市太姥山镇的福鼎白茶森林康养基地，漫山荒野老茶树层层铺展，山林间负氧离子充盈，不少游客穿行茶林步道，呼吸山林清气，沐浴在清新的茶香中，沉浸式感受白茶与森林交融的疗愈体验。",
    "regions": [
     "福建"
+   ]
+  },
+  {
+   "title": "The sitar, the stage and the stories in between",
+   "link": "https://news.cgtn.com/news/2026-10-20/The-sitar-the-stage-and-the-stories-in-between-1RoRTgfPXuU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T12:47:19.000Z",
+   "summary": "The sitar, the stage and the stories in between",
+   "regions": []
+  },
+  {
+   "title": "How China advances a more just, equitable global governance system",
+   "link": "https://news.cgtn.com/news/2026-10-20/How-China-advances-a-more-just-equitable-global-governance-system-1Ro8Gwy0xFK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T12:39:03.000Z",
+   "summary": "Over the past year, the GGI's connotation has grown richer, its practical footprint has continued to expand, and it has …",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4795,6 +5026,14 @@
    "regions": [
     "杭州"
    ]
+  },
+  {
+   "title": "Xi congratulates 70th anniversary of Central Institute of Socialism",
+   "link": "https://news.cgtn.com/news/2026-10-20/Xi-congratulates-70th-anniversary-of-Central-Institute-of-Socialism-1Rok6N9RsY0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T12:29:18.000Z",
+   "summary": "Chinese President Xi Jinping on Tuesday sent a congratulatory letter to the Central Institute of Socialism, celebrating …",
+   "regions": []
   },
   {
    "title": "破坏红树林后补种，海南法院：不等于赔偿义务终结",
@@ -5283,6 +5522,14 @@
    ]
   },
   {
+   "title": "Premier Li: SCO should work for regional stability, global development",
+   "link": "https://news.cgtn.com/news/2026-10-20/China-urges-promoting-dialogue-inclusiveness-to-safeguard-world-peace-1RoFDn336ms/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T10:00:09.000Z",
+   "summary": "The Shanghai Cooperation Organization (SCO) should strive to promote regional stability and prosperity while contributin…",
+   "regions": []
+  },
+  {
    "title": "何以中国·当惊世界殊丨大江为幕，在灯塔之地阅读中国",
    "link": "https://www.chinanews.com.cn/sh/2026/10-20/10717965.shtml",
    "source": "中新网社会",
@@ -5310,6 +5557,14 @@
    ]
   },
   {
+   "title": "Chinese Embassy in UK urges citizens to be vigilant over border checks",
+   "link": "https://news.cgtn.com/news/2026-10-20/Chinese-Embassy-in-UK-urges-citizens-to-be-vigilant-over-border-checks-1RoD8L8mANy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T09:53:46.000Z",
+   "summary": "The Chinese Embassy in the UK has issued a notice calling on Chinese citizens to be vigilant when crossing the British b…",
+   "regions": []
+  },
+  {
    "title": "何以中国·当惊世界殊｜四总师纵论“世纪工程”，这才是我们该追的星",
    "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717952.shtml",
    "source": "中新网中国",
@@ -5323,6 +5578,14 @@
    "source": "中新网中国",
    "time": "2026-10-20T09:32:42.000Z",
    "summary": "",
+   "regions": []
+  },
+  {
+   "title": "From the Dadu River to the Gobi Desert: My father's two Long Marches",
+   "link": "https://news.cgtn.com/news/2026-10-20/From-the-Dadu-River-to-the-Gobi-Desert-My-father-s-two-Long-Marches--1RoqJXOUWMU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T09:23:29.000Z",
+   "summary": "From the Dadu River to the Gobi Desert: My father's two Long Marches",
    "regions": []
   },
   {
@@ -5355,6 +5618,22 @@
    "regions": [
     "贵州"
    ]
+  },
+  {
+   "title": "How ethnic minorities helped the Red Army on the Long March？",
+   "link": "https://news.cgtn.com/news/2026-10-20/How-ethnic-minorities-helped-the-Red-Army-on-the-Long-March--1RndzLXUxmo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T09:07:13.000Z",
+   "summary": "How ethnic minorities helped the Red Army on the Long March？",
+   "regions": []
+  },
+  {
+   "title": "A village's story of change: From the Long March to today",
+   "link": "https://news.cgtn.com/news/2026-10-20/A-village-s-story-of-change-From-the-Long-March-to-today-1Rozrluvo5y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T09:04:01.000Z",
+   "summary": "A village's story of change: From the Long March to today",
+   "regions": []
   },
   {
    "title": "十四届全国政协教科卫体委员会原副主任杨小伟受贿案一审宣判",
@@ -5399,6 +5678,14 @@
    ]
   },
   {
+   "title": "Former PBOC governor: AI gains, financial risks need global attention",
+   "link": "https://news.cgtn.com/news/2026-10-20/Former-PBOC-governor-AI-gains-financial-risks-need-global-attention-1RozqG8KngQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T08:13:15.000Z",
+   "summary": "Former PBOC governor: AI gains, financial risks need global attention",
+   "regions": []
+  },
+  {
    "title": "江西省吉安市委原常委王大胜接受审查调查",
    "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717869.shtml",
    "source": "中新网中国",
@@ -5420,6 +5707,14 @@
    ]
   },
   {
+   "title": "Why are Chinese stone lions still at Yasukuni Shrine?",
+   "link": "https://news.cgtn.com/news/2026-10-20/Why-are-Chinese-stone-lions-still-at-Yasukuni-Shrine--1RogMWz5x72/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T08:07:01.000Z",
+   "summary": "Why are Chinese stone lions still at Yasukuni Shrine?",
+   "regions": []
+  },
+  {
    "title": "外交部：经贸问题上的分歧完全可通过对话加以解决，不应影响中欧关系大局",
    "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717838.shtml",
    "source": "中新网中国",
@@ -5427,6 +5722,36 @@
    "summary": "中新网北京10月20日电 (记者 张素 郭超凯)中国外交部发言人毛宁20日主持例行记者会。",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "Jiuzhaigou tourism set for fresh boost in wake of new variety show",
+   "link": "https://news.cgtn.com/news/2026-10-20/Jiuzhaigou-tourism-set-for-fresh-boost-in-wake-of-new-variety-show-1RoyUMH3wd2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T07:58:57.000Z",
+   "summary": "More people are expected to show eagerness to visit the Jiuzhaigou scenic area in southwest China’s Sichuan Province fol…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Chasing autumn colors in Beijing",
+   "link": "https://news.cgtn.com/news/2026-10-20/Chasing-autumn-colors-in-Beijing-1Roxzg2otVu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T07:57:04.000Z",
+   "summary": "Autumn brings colorful foliage to Beijing's hills and forests, and several scenic spots are hosting red-leaf festivals f…",
+   "regions": []
+  },
+  {
+   "title": "Four Chinese sites added to World Heritage Irrigation Structures list",
+   "link": "https://news.cgtn.com/news/2026-10-20/Four-Chinese-sites-added-to-World-Heritage-Irrigation-Structures-list-1Rox9HJqnlK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T07:55:08.000Z",
+   "summary": "Four Chinese irrigation projects have been added to the World Heritage Irrigation Structures (WHIS) list, bringing China…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5500,6 +5825,17 @@
    ]
   },
   {
+   "title": "Chinese military reports US' illegal intrusion into Chinese waters",
+   "link": "https://news.cgtn.com/news/2026-10-20/Chinese-military-reports-US-illegal-intrusion-into-Chinese-waters-1RosjeAPguk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T07:12:22.000Z",
+   "summary": "The US littoral combat ship USS Charleston has illegally intruded into the waters adjacent to Xianbin Jiao of China's Na…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "（长征胜利90周年）运-20飞行员陈康：走好“鲲鹏”出海的“新长征”",
    "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717801.shtml",
    "source": "中新网中国",
@@ -5519,6 +5855,14 @@
     "韶关",
     "广东"
    ]
+  },
+  {
+   "title": "Climbing Jiajin Mountain: Following the footsteps of the Long March",
+   "link": "https://news.cgtn.com/news/2026-10-20/Climbing-Jiajin-Mountain-Following-the-footsteps-of-the-Long-March-1Rndy3B9Wnu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T06:45:35.000Z",
+   "summary": "Climbing Jiajin Mountain: Following the footsteps of the Long March",
+   "regions": []
   },
   {
    "title": "今年前三季度中国国家铁路发送货物30.5亿吨",
@@ -5588,6 +5932,17 @@
    "regions": [
     "成都",
     "重庆"
+   ]
+  },
+  {
+   "title": "China hands over 150 housing units in Antigua and Barbuda",
+   "link": "https://news.cgtn.com/news/2026-10-20/China-hands-over-150-housing-units-in-Antigua-and-Barbuda-1Roj5w6XvGg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T05:54:42.000Z",
+   "summary": "Recently, a handover ceremony for a project of 150 low-cost housing units, aided by China, was held in St. John's, the c…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5746,6 +6101,14 @@
    ]
   },
   {
+   "title": "Graphics: Xiongan’s green development in numbers",
+   "link": "https://news.cgtn.com/news/2026-10-20/Graphics-Xiongan-s-green-development-in-numbers-1Rol7bX6MZq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T04:35:54.000Z",
+   "summary": "Graphics: Xiongan’s green development in numbers",
+   "regions": []
+  },
+  {
    "title": "何以中国·当惊世界殊｜峡江大地唱响“新长江之歌”",
    "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717707.shtml",
    "source": "中新网中国",
@@ -5767,12 +6130,31 @@
    ]
   },
   {
+   "title": "Starwatch: Orionid meteor shower to peak on night skies",
+   "link": "https://news.cgtn.com/news/2026-10-20/Starwatch-Orionid-meteor-shower-to-peak-on-night-skies-1Roii2ww0Fi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T04:18:25.000Z",
+   "summary": "The annual Orionid meteor shower is set to peak on the night of October 21 to 22, offering stargazers a chance to witnes…",
+   "regions": []
+  },
+  {
    "title": "【我们的长征路】习言道｜习近平在一幅油画前驻足凝视",
    "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717697.shtml",
    "source": "中新网中国",
    "time": "2026-10-20T04:17:29.000Z",
    "summary": "中新网10月20日电 题：习近平在一幅油画前驻足凝视",
    "regions": []
+  },
+  {
+   "title": "China records 7.9% growth in cross-border trips in Q3",
+   "link": "https://news.cgtn.com/news/2026-10-20/China-records-7-9-growth-in-cross-border-trips-in-Q3-1Roda1htKPC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T04:16:47.000Z",
+   "summary": "Chinese border authorities handled 192 million entries and exits in the third quarter of 2026, up 7.9% from a year earli…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "国家文物局：促进优质展览资源直达基层",
@@ -5809,6 +6191,17 @@
    "regions": []
   },
   {
+   "title": "Bulgarian president meets Chinese FM, pledging to enhance ties",
+   "link": "https://news.cgtn.com/news/2026-10-20/Bulgarian-president-meets-Chinese-FM-pledging-to-enhance-ties-1Ro9lUtze5q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T04:10:06.000Z",
+   "summary": "Bulgarian President Iliana Iotova met with visiting Chinese Foreign Minister Wang Yi on Monday, with both sides pledging…",
+   "regions": [
+    "保加利亚",
+    "欧洲"
+   ]
+  },
+  {
    "title": "习近平致中央社会主义学院建院70周年的贺信",
    "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717703.shtml",
    "source": "中新网中国",
@@ -5817,6 +6210,14 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "Chinese FM urges Eurasia trust, friendship, cooperation, partnership",
+   "link": "https://news.cgtn.com/news/2026-10-20/Wang-Yi-urges-stronger-China-Bulgaria-ties-to-boost-China-EU-relations-1RobK67TQyY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T03:58:13.000Z",
+   "summary": "Chinese Foreign Minister Wang Yi on Monday offered a four-point summary of his just-concluded Eurasia tour, highlighting…",
+   "regions": []
   },
   {
    "title": "习近平致信祝贺中央社会主义学院建院70周年",
@@ -5885,6 +6286,14 @@
    "regions": []
   },
   {
+   "title": "Tracing the Long March",
+   "link": "https://news.cgtn.com/news/2026-10-20/Tracing-the-Long-March-1Rog5qqIdDq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T03:23:17.000Z",
+   "summary": "Tracing the Long March",
+   "regions": []
+  },
+  {
    "title": "张健：三千余起救援淬炼出的“实战型尖兵”",
    "link": "https://www.chinanews.com.cn/sh/2026/10-20/10717651.shtml",
    "source": "中新网社会",
@@ -5893,6 +6302,14 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "Xi calls for high-quality growth with high-level protection",
+   "link": "https://news.cgtn.com/news/2026-10-20/Xi-calls-for-high-quality-growth-with-high-level-protection-1Rn16Yk0t7q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T03:09:50.000Z",
+   "summary": "Xi calls for high-quality growth with high-level protection",
+   "regions": []
   },
   {
    "title": "王毅：中国和欧盟完全可以通过对话协商妥处分歧",
@@ -6236,6 +6653,14 @@
    ]
   },
   {
+   "title": "Chinese central bank to employ 3-part AI strategy, says governor",
+   "link": "https://news.cgtn.com/news/2026-10-20/Chinese-central-bank-to-employ-3-part-AI-strategy-says-governor-1Rp01zM009O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T14:42:22.000Z",
+   "summary": "Chinese central bank to employ 3-part AI strategy, says governor",
+   "regions": []
+  },
+  {
    "title": "金融支持建设北京（京津冀）国际科技创新中心实施方案在京发布",
    "link": "https://www.chinanews.com.cn/cj/2026/10-20/10718180.shtml",
    "source": "中新网财经",
@@ -6494,6 +6919,14 @@
    ]
   },
   {
+   "title": "2026 FinTech Conference: Where finance meets technology",
+   "link": "https://news.cgtn.com/news/2026-10-20/2026-FinTech-Conference-Where-finance-meets-technology-1RoJGdxK8Sc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T12:05:04.000Z",
+   "summary": "2026 FinTech Conference: Where finance meets technology",
+   "regions": []
+  },
+  {
    "title": "四川漫剧产业创新伙伴大会举行 助力巴蜀文化数字“出海”",
    "link": "https://www.chinanews.com.cn/cj/2026/10-20/10718043.shtml",
    "source": "中新网财经",
@@ -6660,6 +7093,17 @@
    "regions": []
   },
   {
+   "title": "China issues guideline to finance intl. sci-tech innovation centers",
+   "link": "https://news.cgtn.com/news/2026-10-20/China-issues-guideline-to-finance-intl-sci-tech-innovation-centers-1RoIHfT6Rt6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T10:16:00.000Z",
+   "summary": "China issues guideline to finance intl. sci-tech innovation centers",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "开局之年看中国·潮涌荆楚丨宜昌转身，从水电之都到储能之都",
    "link": "https://www.chinanews.com.cn/sh/2026/10-20/10717973.shtml",
    "source": "中新网社会",
@@ -6754,6 +7198,17 @@
    "time": "2026-10-20T08:44:13.000Z",
    "summary": "中新网重庆10月20日电 (梁钦卿)重庆市统计局20日发布数据显示，根据地区生产总值统一核算结果，前三季度重庆市地区生产总值25711.51亿元，按不变价格计算，同比增长4.3%。",
    "regions": []
+  },
+  {
+   "title": "China slams US ban on DeepSeek AI tools",
+   "link": "https://news.cgtn.com/news/2026-10-20/China-slams-US-ban-on-DeepSeek-AI-tools-1RoBWLr8n8A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T08:41:10.000Z",
+   "summary": "China consistently opposes overstretching the concept of national security and politicizing science, technology, economi…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
@@ -6885,6 +7340,17 @@
    "time": "2026-10-20T05:43:13.000Z",
    "summary": "你有多久，没有专心吃完一顿饭了？当“能量补给”取代了好好吃饭，当“效率焦虑”连周末都不肯退场，吃饭这件最日常的事，正悄悄从生活常态退化为日程表上需要挤时间完成的待办。在2026年新米上市之际，家庭食品创新品牌十月稻田携手国民乳业头部品牌伊利…",
    "regions": []
+  },
+  {
+   "title": "What does China's next economic chapter mean for the world?",
+   "link": "https://news.cgtn.com/news/2026-10-20/What-does-China-s-next-economic-chapter-mean-for-the-world--1RooegF0cIo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-20T05:37:50.000Z",
+   "summary": "What does China's next economic chapter mean for the world?",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "柬埔寨大米年内出口量首破百万吨 刷新历史纪录",
@@ -7093,5 +7559,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-21T01:48:55.711Z"
+ "updatedAt": "2026-10-21T06:56:22.180Z"
 }
