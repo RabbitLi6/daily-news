@@ -2225,6 +2225,16 @@
    ]
   },
   {
+   "title": "【地震 M2.5】19 km ESE of Pearsall, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026urpjmn",
+   "source": "USGS地震台网",
+   "time": "2026-10-20T20:46:52.389Z",
+   "summary": "美国地质调查局官方监测：19 km ESE of Pearsall, Texas发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "俄外长：俄罗斯会看看威特科夫和库什纳带来什么 但不会有政治让步",
    "link": "https://sputniknews.cn/20261021/1073709475.html",
    "source": "卫星社中文",
@@ -7559,5 +7569,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-21T06:56:22.180Z"
+ "updatedAt": "2026-10-21T12:42:48.355Z"
 }
