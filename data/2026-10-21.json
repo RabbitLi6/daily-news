@@ -410,6 +410,14 @@
    "regions": []
   },
   {
+   "title": "Windows 转 Mac 新手实用技巧：我的软件清单与快捷键配置",
+   "link": "https://www.oschina.net/news/503143",
+   "source": "开源中国",
+   "time": "2026-10-21T13:14:39.000Z",
+   "summary": "效率工具篇 | 用了十几年 Windows 再换 Mac，最难受的不是系统本身，是手指的肌肉记忆。这篇按我自己电脑上的真实配置整理：装了哪些软件、改了哪些系统设置、用 Karabiner 把哪些 Windows 习惯 \"搬\" 了过来。 一、…",
+   "regions": []
+  },
+  {
    "title": "奇瑞尹同跃：中国车企出海要谦虚低调，坚决不能打价格战",
    "link": "https://www.ithome.com/1/016/118.htm",
    "source": "IT之家",
@@ -2123,6 +2131,30 @@
    ]
   },
   {
+   "title": "Will AI data centers impact the U.S. midterm election?",
+   "link": "https://newsus.cgtn.com/news/2026-10-22/Will-AI-data-centers-impact-the-U-S-midterm-election--1RqTekWAPKg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T21:50:01.000Z",
+   "summary": "Will AI data centers impact the U.S. midterm election?",
+   "regions": []
+  },
+  {
+   "title": "Oregon school shooting renews focus on U.S. gun violence",
+   "link": "https://newsus.cgtn.com/news/2026-10-22/Oregon-school-shooting-renews-focus-on-U-S-gun-violence-1RqTpeEqnde/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T21:49:53.000Z",
+   "summary": "Oregon school shooting renews focus on U.S. gun violence",
+   "regions": []
+  },
+  {
+   "title": "Next-gen doctors swap scrubs for aprons",
+   "link": "https://newsus.cgtn.com/news/2026-10-22/Next-gen-doctors-swap-scrubs-for-aprons-1RqUWNXv4By/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T21:49:45.000Z",
+   "summary": "Next-gen doctors swap scrubs for aprons",
+   "regions": []
+  },
+  {
    "title": "法国总统马克龙：将采取一切必要措施防范骚乱再次发生",
    "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718815.shtml",
    "source": "中新网国际",
@@ -2252,6 +2284,17 @@
    "source": "USGS地震台网",
    "time": "2026-10-21T20:30:20.350Z",
    "summary": "美国地质调查局官方监测：70 km N of Petersville, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】6 km SSE of Akhiok, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uwtkpf",
+   "source": "USGS地震台网",
+   "time": "2026-10-21T20:29:33.943Z",
+   "summary": "美国地质调查局官方监测：6 km SSE of Akhiok, Alaska发生 2.6 级地震，震源深度 未知。",
    "regions": [
     "美国阿拉斯加",
     "美洲"
@@ -2571,6 +2614,14 @@
    ]
   },
   {
+   "title": "Q&A: How the Long March shapes the CPC and China's modernization today",
+   "link": "https://news.cgtn.com/news/2026-10-21/Q-A-How-the-Long-March-shapes-the-CPC-and-China-s-modernization-today-1RqwPQaTw9G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T14:57:57.000Z",
+   "summary": "To explore the historical significance of the Long March and its enduring influence, CGTN spoke with Josef Gregory Mahon…",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.0】194 km WNW of Port-Olry, Vanuatu",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ue",
    "source": "USGS地震台网",
@@ -2592,6 +2643,14 @@
    ]
   },
   {
+   "title": "China, Laos, Myanmar, Thailand launch 170th Mekong River joint patrol",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-Laos-Myanmar-Thailand-launch-170th-Mekong-River-joint-patrol-1RqE9YCinkY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T14:50:08.000Z",
+   "summary": "China, Laos, Myanmar and Thailand launched the 170th joint patrol and law enforcement operation along the Mekong River o…",
+   "regions": []
+  },
+  {
    "title": "金正恩胞妹金与正：朝鲜在韩朝边境的扩音器将于十月重新启用",
    "link": "https://sputniknews.cn/20261021/1073732208.html",
    "source": "卫星社中文",
@@ -2610,6 +2669,14 @@
    "regions": [
     "欧洲"
    ]
+  },
+  {
+   "title": "Beijing Science Declaration sets priorities for global science",
+   "link": "https://news.cgtn.com/news/2026-10-21/Beijing-Science-Declaration-sets-priorities-for-global-science-1RqzzkrHcFa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T14:42:02.000Z",
+   "summary": "Beijing Science Declaration sets priorities for global science",
+   "regions": []
   },
   {
    "title": "【地震 M4.7】33 km NE of Shizunai-furukawachō, Japan",
@@ -2634,6 +2701,14 @@
    ]
   },
   {
+   "title": "Chinese premier: China, Russia work side by side in turbulent world",
+   "link": "https://news.cgtn.com/news/2026-10-21/Chinese-premier-China-Russia-ties-are-entering-a-new-stage-1RqjyGfmdRS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T14:33:53.000Z",
+   "summary": "Chinese Premier Li Qiang said on Wednesday that China and Russia have in recent years stood side by side and moved forwa…",
+   "regions": []
+  },
+  {
    "title": "莫斯科与中国在论坛上探讨合作前景",
    "link": "https://sputniknews.cn/20261021/1073731665.html",
    "source": "卫星社中文",
@@ -2653,6 +2728,14 @@
     "斐济",
     "亚太"
    ]
+  },
+  {
+   "title": "One year on, Japan's Takaichi government faces growing criticism",
+   "link": "https://news.cgtn.com/news/2026-10-21/One-year-on-Japan-s-Takaichi-government-faces-growing-criticism-1RqBAgJvHNu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T14:13:14.000Z",
+   "summary": "As Japanese Prime Minister Sanae Takaichi marks one year in office, criticism is growing over her push to expand the cou…",
+   "regions": []
   },
   {
    "title": "美媒：马斯克下令对军用级“星链”限速，令乌措手不及",
@@ -2717,6 +2800,14 @@
    ]
   },
   {
+   "title": "CCG monitors Philippine supply mission at Ren'ai Jiao",
+   "link": "https://news.cgtn.com/news/2026-10-21/CCG-monitors-Philippine-supply-mission-at-Ren-ai-Jiao-1Rqy3czGtfa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T13:43:39.000Z",
+   "summary": "The China Coast Guard (CCG) on Wednesday monitored the whole process of a supply mission conducted by a Philippine vesse…",
+   "regions": []
+  },
+  {
    "title": "俄总统助理：俄方准备在11月中旬恢复俄美乌三方格式谈判",
    "link": "https://sputniknews.cn/20261021/1073731194.html",
    "source": "卫星社中文",
@@ -2728,11 +2819,27 @@
    ]
   },
   {
+   "title": "Kremlin says progress on Ukraine possible but depends on Kyiv",
+   "link": "https://news.cgtn.com/news/2026-10-21/news-1RqCE1bbtm0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T13:26:40.000Z",
+   "summary": "Kremlin says progress on Ukraine possible but depends on Kyiv",
+   "regions": []
+  },
+  {
    "title": "乌兹别克斯坦国家石油天然气股份公司与中国石油集团正在讨论进口石油产品多样化的问题",
    "link": "https://sputniknews.cn/20261021/1073731073.html",
    "source": "卫星社中文",
    "time": "2026-10-21T13:22:28.000Z",
    "summary": "乌兹别克斯坦国家石油天然气股份公司新闻处表示，公司正在与中国石油集团讨论实现石油进口来源多样化的问题。",
+   "regions": []
+  },
+  {
+   "title": "Zelenskyy says open to freezing front lines as path toward ceasefire",
+   "link": "https://news.cgtn.com/news/2026-10-21/Zelenskyy-says-willing-to-accept-deal-retaining-75-of-territory-1RqzreZRW5W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T13:20:23.000Z",
+   "summary": "Ukrainian President Volodymyr Zelenskyy said in an interview with Fox News on Wednesday that he is open to freezing the …",
    "regions": []
   },
   {
@@ -2823,6 +2930,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Uganda reports no active Ebola cases after Nigerian patient's transit",
+   "link": "https://newsaf.cgtn.com/news/2026-10-21/Uganda-reports-no-active-Ebola-cases-after-Nigerian-patient-s-transit-1Rqm3WLx888/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T12:28:37.000Z",
+   "summary": "Uganda has confirmed no active Ebola cases after a Nigerian woman who tested positive for the virus transited through th…",
+   "regions": []
   },
   {
    "title": "集安组织秘书长：集安组织对北约在其西部边界增加兵力的问题表示关切",
@@ -2955,11 +3070,38 @@
    "regions": []
   },
   {
+   "title": "2025年赴欧海路非正规移民费用高达5亿美元",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143045",
+   "source": "联合国新闻",
+   "time": "2026-10-21T12:00:00.000Z",
+   "summary": "联合国毒品和犯罪问题办公室及国际移民组织周三发布的数据显示，2025年，20万移民经海路前往欧洲时，向人口贩运组织者支付的费用总额估计为3.88亿至5.09亿美元。但支付费用并不意味着能够抵达目的地。",
+   "regions": [
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "西岸橄榄收获在定居者袭击中“开季不祥”",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143044",
+   "source": "联合国新闻",
+   "time": "2026-10-21T12:00:00.000Z",
+   "summary": "在被占领的西岸地区，今年橄榄收获季的最初几周，充斥着实弹射击、纵火以及对树龄达数百年之久的橄榄树的破坏。",
+   "regions": []
+  },
+  {
    "title": "联合国环境规划署：全球升温超1.5摄氏度“不可避免”",
    "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718647.shtml",
    "source": "中新网国际",
    "time": "2026-10-21T11:59:30.000Z",
    "summary": "中新网北京10月21日电 综合消息：联合国环境规划署当地时间21日发布《2026年排放差距报告》称，数十年来气候行动不足致使全球平均气温较工业化前水平升高幅度超过1.5摄氏度“不可避免”。",
+   "regions": []
+  },
+  {
+   "title": "China imposes export controls on Japan to curb its nuclear ambition",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-imposes-export-controls-on-Japan-to-curb-its-nuclear-ambition-1Rqtto6Dmx2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T11:57:41.000Z",
+   "summary": "China has imposed export controls on Japan with the objective of thwarting Tokyo's remilitarization and attempts to acqu…",
    "regions": []
   },
   {
@@ -2971,6 +3113,14 @@
    "regions": []
   },
   {
+   "title": "UNICEF: At least 12 children killed in Sudan attacks",
+   "link": "https://newsaf.cgtn.com/news/2026-10-21/UNICEF-At-least-12-children-killed-in-Sudan-attacks-1RqcMRJjX20/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T11:55:21.000Z",
+   "summary": "Children across Sudan continue to face deadly violence amid a conflict that has lasted more than three years. Many famil…",
+   "regions": []
+  },
+  {
    "title": "金与正：朝鲜对韩心理战扩音器将在边境全线投入运行",
    "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718675.shtml",
    "source": "中新网国际",
@@ -2979,6 +3129,14 @@
    "regions": [
     "朝鲜半岛"
    ]
+  },
+  {
+   "title": "UN biodiversity chief hails China's conservation as a global model",
+   "link": "https://news.cgtn.com/news/2026-10-21/UN-biodiversity-chief-hails-China-s-conservation-as-a-global-model-1RqoE5shcac/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T11:46:14.000Z",
+   "summary": "UN biodiversity chief hails China's conservation as a global model",
+   "regions": []
   },
   {
    "title": "伊斯兰革命卫队：即便美国使用“炸弹之母”，也无法阻止伊朗核工业发展",
@@ -3075,6 +3233,14 @@
    ]
   },
   {
+   "title": "Zelenskyy says he supports ceasefire, trilateral talks with US, Russia",
+   "link": "https://news.cgtn.com/news/2026-10-21/news-1RqrioAvATm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T10:47:52.000Z",
+   "summary": "Zelenskyy says he supports ceasefire, trilateral talks with US, Russia",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.0】195 km SE of Akutan, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uvzyoa",
    "source": "USGS地震台网",
@@ -3094,6 +3260,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Death toll from Sudan army strike in disputed territory rises to 153",
+   "link": "https://news.cgtn.com/news/2026-10-21/news-1Rqr4RHB3r2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T10:44:49.000Z",
+   "summary": "Death toll from Sudan army strike in disputed territory rises to 153",
+   "regions": []
   },
   {
    "title": "俄外交部：泽连斯基算计别人的钱时“总要留给自己一份”",
@@ -3167,6 +3341,14 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "China urges US to stop blockade, coercion against Cuba",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-urges-US-to-stop-blockade-coercion-against-Cuba-1RqkHphhaAU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T10:02:47.000Z",
+   "summary": "China urged the United States to immediately stop its blockade and all forms of coercion against Cuba and cease violatin…",
+   "regions": []
   },
   {
    "title": "俄经济发展部长：俄中将讨论对乘用车开放边境口岸问题",
@@ -3243,6 +3425,14 @@
    ]
   },
   {
+   "title": "South Sudan appoints acting ministers ahead of December elections",
+   "link": "https://newsaf.cgtn.com/news/2026-10-21/South-Sudan-appoints-acting-ministers-ahead-of-December-elections-1RqfvWDRu7e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T09:11:49.000Z",
+   "summary": "South Sudan has assigned acting ministers to oversee ministries left without caretaker leadership following the dissolut…",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.5】57 km S of Whites City, New Mexico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026usnxjf",
    "source": "USGS地震台网",
@@ -3276,6 +3466,22 @@
    ]
   },
   {
+   "title": "Putin says Russia has freed US citizen Stephen Hubbard",
+   "link": "https://news.cgtn.com/news/2026-10-21/news-1RqjWkUJjgY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T09:04:56.000Z",
+   "summary": "Putin says Russia has freed US citizen Stephen Hubbard",
+   "regions": []
+  },
+  {
+   "title": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
+   "link": "https://news.cgtn.com/news/2026-10-21/news-1Rqjkq8gqn6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T08:56:22.000Z",
+   "summary": "Russian President Vladimir Putin met with US special envoy Steve ‌Witkoff on Wednesday, China Media Group (CMG) reported…",
+   "regions": []
+  },
+  {
    "title": "联合国儿基会：苏丹两起袭击致至少12名儿童死亡",
    "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718571.shtml",
    "source": "中新网国际",
@@ -3302,6 +3508,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Chinese FM to attend 2026 Global Governance Forum (Xiongan) opening",
+   "link": "https://news.cgtn.com/news/2026-10-21/Chinese-FM-to-attend-2026-Global-Governance-Forum-Xiongan-opening-1RqgrvE93MY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T08:43:25.000Z",
+   "summary": "Member of the Political Bureau of the Communist Party of China Central Committee and Minister of Foreign Affairs Wang Yi…",
+   "regions": []
   },
   {
    "title": "挪威首相：威特科夫结束圣彼得堡之行后将返回奥斯陆继续磋商",
@@ -3448,6 +3662,14 @@
    "regions": []
   },
   {
+   "title": "Yemen's Houthis claim strike on Saudi-run military camp in Aden",
+   "link": "https://news.cgtn.com/news/2026-10-21/news-1RqfURwi6sg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T08:08:37.000Z",
+   "summary": "Yemen's Houthis claim strike on Saudi-run military camp in Aden",
+   "regions": []
+  },
+  {
    "title": "受持续旱情影响 巴西亚马孙州41个城市进入紧急状态",
    "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718559.shtml",
    "source": "中新网国际",
@@ -3558,6 +3780,14 @@
    ]
   },
   {
+   "title": "Zelenskyy, US envoy Witkoff discuss ceasefire proposals in Oslo",
+   "link": "https://news.cgtn.com/news/2026-10-21/Zelenskyy-US-envoy-Witkoff-discuss-ceasefire-proposals-in-Oslo-1Rq787MRsYg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T06:52:03.000Z",
+   "summary": "Ukrainian President Volodymyr Zelenskyy discussed proposals for various ceasefire formats with US President Donald Trump…",
+   "regions": []
+  },
+  {
    "title": "俄总统新闻秘书：俄罗斯需要的是乌克兰实现和平，而非停火，莫斯科的立场保持不变",
    "link": "https://sputniknews.cn/20261021/1073721464.html",
    "source": "卫星社中文",
@@ -3611,6 +3841,14 @@
    ]
   },
   {
+   "title": "Premier Li's remarks at SCO Council of Heads of Government meeting",
+   "link": "https://news.cgtn.com/news/2026-10-21/Premier-Li-s-remarks-at-SCO-Council-of-Heads-of-Government-meeting-1Rq4J7Soqsg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T06:34:37.000Z",
+   "summary": "Chinese Premier Li Qiang on Tuesday delivered a speech at the 25th Meeting of the Council of Heads of Government of Memb…",
+   "regions": []
+  },
+  {
    "title": "长征路上学党史丨从荒凉落后到生机盎然：长征会师圣地会宁谱新篇",
    "link": "https://www.chinanews.com.cn/sh/2026/10-21/10718447.shtml",
    "source": "中新网滚动",
@@ -3653,6 +3891,14 @@
    ]
   },
   {
+   "title": "US envoy arrives in St. Petersburg to meet with Putin on Ukraine",
+   "link": "https://news.cgtn.com/news/2026-10-21/news-1Rq6krSzoYM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T05:54:28.000Z",
+   "summary": "US envoy arrives in St. Petersburg to meet with Putin on Ukraine",
+   "regions": []
+  },
+  {
    "title": "厄瓜多尔与秘鲁国有油企时隔四年恢复交易 深化两国能源合作",
    "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718415.shtml",
    "source": "中新网国际",
@@ -3673,6 +3919,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "US special envoy Witkoff to arrive in Russia: reports",
+   "link": "https://news.cgtn.com/news/2026-10-21/news-1Rq4xa2jb6o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T05:29:21.000Z",
+   "summary": "US special envoy Witkoff to arrive in Russia: reports",
+   "regions": []
   },
   {
    "title": "俄军凌晨打击乌克兰物流枢纽与港口设施",
@@ -3883,6 +4137,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "China's Belt and Road partnership fuels inclusive global governance",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-s-Belt-and-Road-partnership-fuels-inclusive-global-governance-1RpRv6wSNuE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-21T03:16:35.000Z",
+   "summary": "China's Belt and Road partnership fuels inclusive global governance",
+   "regions": []
   },
   {
    "title": "上合组织成员国政府首脑会议举行，聚焦经济合作与务实协作",
@@ -4279,6 +4541,17 @@
    ]
   },
   {
+   "title": "Mainland slams DPP for barring Taiwan officials from mainland event",
+   "link": "https://news.cgtn.com/news/2026-10-21/Mainland-slams-DPP-for-barring-Taiwan-officials-from-mainland-event-1Rqtx2gorS0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T13:59:21.000Z",
+   "summary": "Mainland slams DPP for barring Taiwan officials from mainland event",
+   "regions": [
+    "台湾",
+    "台海"
+   ]
+  },
+  {
    "title": "述评：今天我们为什么要纪念台湾义勇队？",
    "link": "https://www.chinanews.com.cn/gn/2026/10-21/10718765.shtml",
    "source": "中新网中国",
@@ -4331,6 +4604,17 @@
    ]
   },
   {
+   "title": "Mainland: Evidence solid against Taiwan separatist's linked firm",
+   "link": "https://news.cgtn.com/news/2026-10-21/Mainland-Evidence-solid-against-Taiwan-separatist-s-linked-firm-1RqtTmuIf8k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T12:22:45.000Z",
+   "summary": "Mainland: Evidence solid against Taiwan separatist's linked firm",
+   "regions": [
+    "台湾",
+    "台海"
+   ]
+  },
+  {
    "title": "澳门年度三展联合开幕 汇聚全球资源共拓商机",
    "link": "https://www.chinanews.com.cn/dwq/2026/10-21/10718698.shtml",
    "source": "中新网滚动",
@@ -4361,6 +4645,17 @@
    ]
   },
   {
+   "title": "Taiwan youth discover Wuhan's modern transformation",
+   "link": "https://news.cgtn.com/news/2026-10-21/Taiwan-youth-discover-Wuhan-s-modern-transformation-1Rq8X9TXpQc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T08:02:57.000Z",
+   "summary": "Taiwan youth discover Wuhan's modern transformation",
+   "regions": [
+    "台湾",
+    "台海"
+   ]
+  },
+  {
    "title": "“五羊星座”先导星成功发射 将服务粤港澳大湾区等地",
    "link": "https://www.chinanews.com.cn/gn/2026/10-21/10718478.shtml",
    "source": "中新网中国",
@@ -4369,6 +4664,17 @@
    "regions": [
     "北京",
     "日照"
+   ]
+  },
+  {
+   "title": "DPP authorities denounced for rejecting mainland actor's visit",
+   "link": "https://news.cgtn.com/news/2026-10-21/DPP-authorities-denounced-for-rejecting-mainland-actor-s-visit-1RpXTuMPDmE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T06:08:33.000Z",
+   "summary": "The Taiwan Affairs Office of the State Council on Wednesday condemned Taiwan's Democratic Progressive Party (DPP) author…",
+   "regions": [
+    "台湾",
+    "台海"
    ]
   },
   {
@@ -4490,6 +4796,14 @@
    "regions": []
   },
   {
+   "title": "A School Born of the Long March's Victory",
+   "link": "https://news.cgtn.com/news/2026-10-21/A-School-Born-of-the-Long-March-s-Victory-1Rq3tifU1dC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T15:43:41.000Z",
+   "summary": "A School Born of the Long March's Victory",
+   "regions": []
+  },
+  {
    "title": "中俄界湖秋色“出圈” 兴凯湖五彩林海成千里打卡“目的地”",
    "link": "https://www.chinanews.com.cn/sh/2026/10-21/10718799.shtml",
    "source": "中新网社会",
@@ -4598,6 +4912,31 @@
    ]
   },
   {
+   "title": "Q&A: How the Long March shapes the CPC and China's modernization today",
+   "link": "https://news.cgtn.com/news/2026-10-21/Q-A-How-the-Long-March-shapes-the-CPC-and-China-s-modernization-today-1RqwPQaTw9G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T14:57:57.000Z",
+   "summary": "To explore the historical significance of the Long March and its enduring influence, CGTN spoke with Josef Gregory Mahon…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China, Laos, Myanmar, Thailand launch 170th Mekong River joint patrol",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-Laos-Myanmar-Thailand-launch-170th-Mekong-River-joint-patrol-1RqE9YCinkY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T14:50:08.000Z",
+   "summary": "China, Laos, Myanmar and Thailand launched the 170th joint patrol and law enforcement operation along the Mekong River o…",
+   "regions": [
+    "缅甸",
+    "亚太",
+    "泰国",
+    "中国",
+    "老挝"
+   ]
+  },
+  {
    "title": "长春大冬会吉林市分赛区雪上项目赛道基础施工收官",
    "link": "https://www.chinanews.com.cn/sh/2026/10-21/10718794.shtml",
    "source": "中新网社会",
@@ -4639,6 +4978,46 @@
     "杭州",
     "浙江"
    ]
+  },
+  {
+   "title": "Beijing Science Declaration sets priorities for global science",
+   "link": "https://news.cgtn.com/news/2026-10-21/Beijing-Science-Declaration-sets-priorities-for-global-science-1RqzzkrHcFa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T14:42:02.000Z",
+   "summary": "Beijing Science Declaration sets priorities for global science",
+   "regions": []
+  },
+  {
+   "title": "Expert: China's new data group highlights AI infrastructure needs",
+   "link": "https://news.cgtn.com/news/2026-10-21/Expert-China-s-new-data-group-highlights-AI-infrastructure-needs-1RqDzE5Su3K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T14:36:29.000Z",
+   "summary": "Expert: China's new data group highlights AI infrastructure needs",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Chinese premier: China, Russia work side by side in turbulent world",
+   "link": "https://news.cgtn.com/news/2026-10-21/Chinese-premier-China-Russia-ties-are-entering-a-new-stage-1RqjyGfmdRS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T14:33:53.000Z",
+   "summary": "Chinese Premier Li Qiang said on Wednesday that China and Russia have in recent years stood side by side and moved forwa…",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "Jingdezhen redefines living heritage via cross-cultural dialogue",
+   "link": "https://news.cgtn.com/news/2026-10-21/Jingdezhen-redefines-living-heritage-via-cross-cultural-dialogue-1RqtvOXActW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T14:33:13.000Z",
+   "summary": "Jingdezhen redefines living heritage via cross-cultural dialogue",
+   "regions": []
   },
   {
    "title": "首届湖南安全应急装备产业博览会开幕 全链条装备亮相",
@@ -4702,6 +5081,17 @@
    "regions": [
     "乌鲁木齐",
     "新疆"
+   ]
+  },
+  {
+   "title": "CCG monitors Philippine supply mission at Ren'ai Jiao",
+   "link": "https://news.cgtn.com/news/2026-10-21/CCG-monitors-Philippine-supply-mission-at-Ren-ai-Jiao-1Rqy3czGtfa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T13:43:39.000Z",
+   "summary": "The China Coast Guard (CCG) on Wednesday monitored the whole process of a supply mission conducted by a Philippine vesse…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4774,6 +5164,17 @@
    "time": "2026-10-21T13:19:51.000Z",
    "summary": "人民日报记者 周 欢",
    "regions": []
+  },
+  {
+   "title": "CGTN Poll: Long March spirit explains why the CPC can succeed",
+   "link": "https://news.cgtn.com/news/2026-10-21/CGTN-Poll-Long-March-spirit-explains-why-the-CPC-can-succeed-1Rqt7RTYrCM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T13:18:02.000Z",
+   "summary": "The CGTN poll shows that 63.9% of global respondents closely associate CPC leadership with China's development achieveme…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "今后五年中国将构建“空天地海”一体现代化地震监测预报预警体系",
@@ -4896,6 +5297,14 @@
     "福州",
     "福建"
    ]
+  },
+  {
+   "title": "Mainland to improve effectiveness of CPC-KMT platform",
+   "link": "https://news.cgtn.com/news/2026-10-21/Mainland-to-improve-effectiveness-of-CPC-KMT-platform-1RqvclSsPfO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T12:22:56.000Z",
+   "summary": "The Chinese mainland will work to improve the operation and effectiveness of a cross-strait platform established by the …",
+   "regions": []
   },
   {
    "title": "四川广元发展集团有限公司党委书记、董事长刘兴明接受审查调查",
@@ -5029,6 +5438,17 @@
    "summary": "中新网成都10月21日电 烽火四千里文脉向蜀川——罗伟章长篇小说《四千里》新书发布会日前在成都举办。",
    "regions": [
     "成都"
+   ]
+  },
+  {
+   "title": "UN biodiversity chief hails China's conservation as a global model",
+   "link": "https://news.cgtn.com/news/2026-10-21/UN-biodiversity-chief-hails-China-s-conservation-as-a-global-model-1RqoE5shcac/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T11:46:14.000Z",
+   "summary": "UN biodiversity chief hails China's conservation as a global model",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5168,6 +5588,14 @@
    ]
   },
   {
+   "title": "How the Yan'an spirit shapes the work of a local official",
+   "link": "https://news.cgtn.com/news/2026-10-21/How-the-Yan-an-spirit-shapes-the-work-of-a-local-official--1RqeXexbEJ2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T11:04:12.000Z",
+   "summary": "How the Yan'an spirit shapes the work of a local official",
+   "regions": []
+  },
+  {
    "title": "受权发布丨中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
    "link": "https://www.chinanews.com.cn/gn/2026/10-21/10718635.shtml",
    "source": "中新网中国",
@@ -5222,6 +5650,21 @@
    "summary": "新华社北京10月21日电 10月21日，中共中央办公厅、国务院办公厅《关于推动科技创新和产业创新深度融合的意见》对外发布。",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "China urges US to stop blockade, coercion against Cuba",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-urges-US-to-stop-blockade-coercion-against-Cuba-1RqkHphhaAU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T10:02:47.000Z",
+   "summary": "China urged the United States to immediately stop its blockade and all forms of coercion against Cuba and cease violatin…",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲",
+    "古巴",
+    "拉美"
    ]
   },
   {
@@ -5307,12 +5750,31 @@
    ]
   },
   {
+   "title": "BMF walk capturing: Beijing's raw sonic notes",
+   "link": "https://news.cgtn.com/news/2026-10-21/BMF-walk-capturing-Beijing-s-raw-sonic-notes-1RqiXryUY5q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T09:12:20.000Z",
+   "summary": "The 29th Beijing Music Festival has just wrapped up, marking Mozart's 270th birthday with everything from timeless symph…",
+   "regions": []
+  },
+  {
    "title": "“十五五”时期实现我国地震监测能力达到1.0—2.5级",
    "link": "https://www.chinanews.com.cn/gn/2026/10-21/10718596.shtml",
    "source": "中新网中国",
    "time": "2026-10-21T09:04:57.000Z",
    "summary": "记者从国务院新闻办公室今天(21日)举行的“开局起步‘十五五’”系列主题新闻发布会上了解到，为进一步提升地震监测预报预警能力，我国将完善立体化监测网络。",
    "regions": []
+  },
+  {
+   "title": "China vows to speak up for developing countries at COP31",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-vows-to-speak-up-for-developing-countries-at-COP31-1Rqgg2wIfaU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T08:56:33.000Z",
+   "summary": "China vows to speak up for developing countries at COP31",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "漫山红叶迎来最佳观赏期 感受各地秋日山水之美",
@@ -5334,12 +5796,72 @@
    "regions": []
   },
   {
+   "title": "Chinese FM to attend 2026 Global Governance Forum (Xiongan) opening",
+   "link": "https://news.cgtn.com/news/2026-10-21/Chinese-FM-to-attend-2026-Global-Governance-Forum-Xiongan-opening-1RqgrvE93MY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T08:43:25.000Z",
+   "summary": "Member of the Political Bureau of the Communist Party of China Central Committee and Minister of Foreign Affairs Wang Yi…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "“十五五”时期将推动出台《生产安全事故隐患排查治理条例》",
    "link": "https://www.chinanews.com.cn/gn/2026/10-21/10718577.shtml",
    "source": "中新网中国",
    "time": "2026-10-21T08:43:02.000Z",
    "summary": "国务院新闻办公室今天(21日)举行“开局起步‘十五五’”系列主题新闻发布会。会上介绍，“十五五”时期将推动出台《生产安全事故隐患排查治理条例》，明确“重大事故隐患是什么、哪个部门来定标准、企业怎么排查、怎么治理、监管部门如何倒查企业不排查、…",
    "regions": []
+  },
+  {
+   "title": "The Long March, told through what remains",
+   "link": "https://news.cgtn.com/news/2026-10-21/The-Long-March-told-through-what-remains-1Rqg4YM6Mow/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T08:40:51.000Z",
+   "summary": "The Long March, told through what remains",
+   "regions": []
+  },
+  {
+   "title": "Why China's upcoming 5th plenum of 20th CPC Central Committee matters",
+   "link": "https://news.cgtn.com/news/2026-10-21/Why-China-s-upcoming-5th-plenum-of-20th-CPC-Central-Committee-matters-1RovcUWleU0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T08:39:28.000Z",
+   "summary": "As China forges ahead with its pursuit of Chinese modernization, the Communist Party of China (CPC) is set to convene a …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Yunnan snub-nosed monkeys enjoy bamboo feast in southwest China",
+   "link": "https://news.cgtn.com/news/2026-10-21/Yunnan-snub-nosed-monkeys-enjoy-bamboo-feast-in-southwest-China-1RqhLqn9w1q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T08:38:30.000Z",
+   "summary": "In southwest China's Yunnan Province, the Yunling Provincial Nature Reserve has captured rare footage of Yunnan snub-nos…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Young musicians bring fresh energy to Beijing Music Festival finale",
+   "link": "https://news.cgtn.com/news/2026-10-21/Young-musicians-bring-fresh-energy-to-Beijing-Music-Festival-finale-1RqgBUMYwP6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T08:29:04.000Z",
+   "summary": "Yang Yang led the Beijing Symphony Orchestra, joined by Chinese rock pioneer Cui Jian and young pianist Ju Xiaofu.",
+   "regions": []
+  },
+  {
+   "title": "China protects Long March legacy with high-tech and patriotic classes",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-protects-Long-March-legacy-with-high-tech-and-patriotic-classes-1Rq8EkQtILm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T08:24:03.000Z",
+   "summary": "China is preserving the legacy of the Red Army's legendary 12,500-kilometer Long March from 1934 to 1936, turning histor…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "山东省中鲁远洋渔业股份有限公司总经理王欢接受监察调查",
@@ -5610,6 +6132,14 @@
    "regions": []
   },
   {
+   "title": "Premier Li's remarks at SCO Council of Heads of Government meeting",
+   "link": "https://news.cgtn.com/news/2026-10-21/Premier-Li-s-remarks-at-SCO-Council-of-Heads-of-Government-meeting-1Rq4J7Soqsg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T06:34:37.000Z",
+   "summary": "Chinese Premier Li Qiang on Tuesday delivered a speech at the 25th Meeting of the Council of Heads of Government of Memb…",
+   "regions": []
+  },
+  {
    "title": "（长征胜利90周年）从新兵到“排爆兵王” 彝族战士普有飞的“长征”",
    "link": "https://www.chinanews.com.cn/gn/2026/10-21/10718453.shtml",
    "source": "中新网中国",
@@ -5617,6 +6147,17 @@
    "summary": "中新社石家庄10月21日电 题：从新兵到“排爆兵王” 彝族战士普有飞的“长征”",
    "regions": [
     "石家庄"
+   ]
+  },
+  {
+   "title": "China to actively advance global climate negotiations ahead of COP31",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-to-actively-advance-global-climate-negotiations-ahead-of-COP31-1RpYsqWEoTK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T06:32:37.000Z",
+   "summary": "China will send a delegation to the 31st session of the Conference of the Parties to the United Nations Framework Conven…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5668,6 +6209,17 @@
    "time": "2026-10-21T06:09:11.000Z",
    "summary": "",
    "regions": []
+  },
+  {
+   "title": "China to build world's first deep-sea floating island",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-to-build-world-s-first-deep-sea-floating-island-1RpUI3yVF1C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T06:04:34.000Z",
+   "summary": "China to build world's first deep-sea floating island",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "中国自愿减排交易市场加速发展 累计成交额近20亿元",
@@ -5888,6 +6440,25 @@
     "中山",
     "桂林"
    ]
+  },
+  {
+   "title": "China's Belt and Road partnership fuels inclusive global governance",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-s-Belt-and-Road-partnership-fuels-inclusive-global-governance-1RpRv6wSNuE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T03:16:35.000Z",
+   "summary": "China's Belt and Road partnership fuels inclusive global governance",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "The Long March: Crossing this raging river under a hail of bullets",
+   "link": "https://news.cgtn.com/news/2026-10-21/The-Long-March-Crossing-this-raging-river-under-a-hail-of-bullets-1RoAm7VG7WU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T03:09:47.000Z",
+   "summary": "The Long March: Crossing this raging river under a hail of bullets",
+   "regions": []
   },
   {
    "title": "全国碳排放权交易市场成交量突破10亿吨",
@@ -6283,6 +6854,18 @@
    "regions": []
   },
   {
+   "title": "China imposes export controls on Japan to curb its nuclear ambition",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-imposes-export-controls-on-Japan-to-curb-its-nuclear-ambition-1Rqtto6Dmx2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T11:57:41.000Z",
+   "summary": "China has imposed export controls on Japan with the objective of thwarting Tokyo's remilitarization and attempts to acqu…",
+   "regions": [
+    "日本",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "万事达卡报告：休闲游客对中国入境消费贡献超八成",
    "link": "https://www.chinanews.com.cn/cj/2026/10-21/10718679.shtml",
    "source": "中新网滚动",
@@ -6529,6 +7112,17 @@
    "regions": []
   },
   {
+   "title": "China steps up green transition, strengthens climate action",
+   "link": "https://news.cgtn.com/news/2026-10-21/China-steps-up-green-transition-strengthens-climate-action-1Rq0ewIK4mc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T06:52:36.000Z",
+   "summary": "China will accelerate its green and low-carbon transition, promote the peaking of coal and oil consumption, and work to …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "沈阳市新联会成功举办《人工智能发展及企业应用》专题讲座",
    "link": "https://www.chinanews.com.cn/txy/2026/10-21/10718490.shtml",
    "source": "中新网滚动",
@@ -6725,6 +7319,17 @@
    "regions": []
   },
   {
+   "title": "140th Canton Fair showcases China's economic development over 70 years",
+   "link": "https://news.cgtn.com/news/2026-10-21/140th-Canton-Fair-showcases-China-s-economic-development-over-70-years-1RpL0wb6Aa4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-21T03:07:04.000Z",
+   "summary": "140th Canton Fair showcases China's economic development over 70 years",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "今年前三季度全国铁路完成固定资产投资6012亿元",
    "link": "https://www.chinanews.com.cn/cj/2026/10-21/10718297.shtml",
    "source": "中新网财经",
@@ -6860,5 +7465,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-22T00:05:40.353Z"
+ "updatedAt": "2026-10-22T05:09:18.945Z"
 }
