@@ -3981,6 +3981,17 @@
    ]
   },
   {
+   "title": "【灾害警报】Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
+   "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572693",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-20T04:31:52.000Z",
+   "summary": "On 10/20/2026 4:20:38 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had …",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
    "title": "直击法国大规模抗议活动：巴黎街头的混乱景象",
    "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717704.shtml",
    "source": "中新网国际",
@@ -7654,5 +7665,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-22T05:09:18.951Z"
+ "updatedAt": "2026-10-22T10:23:42.076Z"
 }

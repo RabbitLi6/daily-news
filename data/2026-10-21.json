@@ -122,6 +122,14 @@
    "regions": []
   },
   {
+   "title": "泛林 FY2027Q1 归母净利润同比增长 75.51%，整体表现略好于市场预期",
+   "link": "https://www.ithome.com/1/016/166.htm",
+   "source": "IT之家",
+   "time": "2026-10-21T20:29:15.000Z",
+   "summary": "IT之家 10 月 22 日消息，泛林今日发布 2027 财年（2026 年 6 月 29 日～2027 年 6 月 28 日）第 1 财季（2026 年 6 月 29 日～2026 年 9 月 27 日）报告： 营业总收入 ：82.19 …",
+   "regions": []
+  },
+  {
    "title": "IBM 2026 财年半年报归母净利润 55.71 亿美元，同比增长 11.58%",
    "link": "https://www.ithome.com/1/016/165.htm",
    "source": "IT之家",
@@ -2216,11 +2224,32 @@
    ]
   },
   {
+   "title": "【地震 M2.8】17 km SW of Pozo Almonte, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ye",
+   "source": "USGS地震台网",
+   "time": "2026-10-21T21:15:50.450Z",
+   "summary": "美国地质调查局官方监测：17 km SW of Pozo Almonte, Chile发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
    "title": "【灾害警报】Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (7.514 million in Tropical Storm).",
    "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001342",
    "source": "GDACS灾害监测",
    "time": "2026-10-21T21:08:24.000Z",
    "summary": "From 21/10/2026 to 21/10/2026, a Tropical Storm (maximum wind speed of 130 km/h) JOSEPHINE-26 was active in Atlantic. Th…",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (7.514 million in Tropical Storm).",
+   "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001342",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-21T21:08:24.000Z",
+   "summary": "From 21/10/2026 to 22/10/2026, a Tropical Storm (maximum wind speed of 130 km/h) JOSEPHINE-26 was active in Atlantic. Th…",
    "regions": [
     "国际"
    ]
@@ -2640,6 +2669,17 @@
    "summary": "From 21/10/2026 to 21/10/2026, a Tropical Depression (maximum wind speed of 185 km/h) TWENTY-TWO-E-26 was active in Atla…",
    "regions": [
     "国际"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+   "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001341",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-21T14:51:54.000Z",
+   "summary": "From 21/10/2026 to 22/10/2026, a Tropical Storm (maximum wind speed of 194 km/h) VANCE-26 was active in EastPacific. The…",
+   "regions": [
+    "太平洋",
+    "亚太"
    ]
   },
   {
@@ -7465,5 +7505,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-22T05:09:18.945Z"
+ "updatedAt": "2026-10-22T10:23:42.073Z"
 }
