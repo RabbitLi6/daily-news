@@ -2,6 +2,78 @@
  "date": "2026-10-23",
  "tech": [
   {
+   "title": "曝微软曾向 Netflix 开价 8 亿美元，寻求 XBOX 游戏 7 年独家影视改编权",
+   "link": "https://www.ithome.com/1/017/293.htm",
+   "source": "IT之家",
+   "time": "2026-10-23T23:58:57.000Z",
+   "summary": "IT之家 10 月 24 日消息，当地时间 23 日，外媒 Puck 援引三名知情人士消息称，微软曾向 Netflix 开价 8 亿美元 （IT之家注：现汇率约合 53.51 亿元人民币） ，希望达成为期 7 年的独家授权协议，允许 Net…",
+   "regions": []
+  },
+  {
+   "title": "苹果推送 iOS 27.1 更新，其首款折叠 iPhone Duo 独享",
+   "link": "https://www.ithome.com/1/017/292.htm",
+   "source": "IT之家",
+   "time": "2026-10-23T23:54:07.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 MacRumors 昨日（10 月 23 日）发布博文，报道称苹果公司针对其首款折叠 iPhone Duo， 推送仅限于该机型的 iOS 27.1 更新，在官方日志中仅显示“修复 iPhone 上…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 1024：月之暗面发布 Kimi K3.1 Pro；诋毁嘲讽尊界 S800 自媒体博主向尊界道歉；华为 Pura90 Plus 开启预订；iPhone Duo 内屏膜撕下秒变亮面屏...",
+   "link": "https://www.ithome.com/1/017/291.htm",
+   "source": "IT之家",
+   "time": "2026-10-23T23:49:34.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 24 日星期六，今天的重要科技资讯有： 1. 月之暗面迄今能力最强 3 万亿级参数模型，Kimi K3.1 Pro 正式发布 24 日凌晨，月之暗面 Kimi 宣布正式推出 Kimi…",
+   "regions": []
+  },
+  {
+   "title": "谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走",
+   "link": "https://www.ithome.com/1/017/290.htm",
+   "source": "IT之家",
+   "time": "2026-10-23T23:37:18.000Z",
+   "summary": "IT之家 10 月 24 日消息，据《商业内幕》报道，谷歌 CEO 桑达尔 · 皮查伊认为， 距离 AI 能够完全自主地改进自身，还有很长的路要走 。 皮查伊透露，谷歌研究人员开始使用 AI 智能体辅助开发模型，但技术仍处于起步阶段。“我们…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
+   "link": "https://www.ithome.com/1/017/289.htm",
+   "source": "IT之家",
+   "time": "2026-10-23T23:33:53.000Z",
+   "summary": "IT之家 10 月 24 日消息，OpenAI 昨日（10 月 23 日）发布博文，宣布针对最先进“前沿模型”的训练与评估环境， 已经实施更严格的安全管控，明确在模型训练期间，不得直接访问实时互联网。 该公司称出于对 AI 安全的负责任要求…",
+   "regions": []
+  },
+  {
+   "title": "支付宝官宣适配 iPhone Duo 全场景，支持页面布局自动调整等特性",
+   "link": "https://www.ithome.com/1/017/288.htm",
+   "source": "IT之家",
+   "time": "2026-10-23T23:33:19.000Z",
+   "summary": "IT之家 10 月 24 日消息，支付宝官方昨晚发文宣布， 已适配 iPhone Duo 。 据介绍，在 iPhone Duo 上升级支付宝 App 至最新 12.12.38 版本支持如下功能： 1、 底部栏： 液态玻璃效果，界面通透，展示…",
+   "regions": []
+  },
+  {
+   "title": "“行为难以预测”存在安全隐患，OpenAI 将不再在实时互联网上训练模型",
+   "link": "https://www.ithome.com/1/017/287.htm",
+   "source": "IT之家",
+   "time": "2026-10-23T23:25:11.000Z",
+   "summary": "IT之家 10 月 24 日消息，当地时间 23 日，OpenAI 宣布，今后将使用 缓存的网页内容和模拟互联网环境 训练模型，不再让模型直接接入真实互联网。公司认为，模型的行为仍然难以预测，直接赋予联网权限 存在安全隐患 。 竞争对手 A…",
+   "regions": []
+  },
+  {
+   "title": "雷军官宣小米纽北 Workshop 启用，胡峥楠现场实拍曝光全新一代 SU7 Ultra",
+   "link": "https://www.ithome.com/1/017/286.htm",
+   "source": "IT之家",
+   "time": "2026-10-23T23:21:16.000Z",
+   "summary": "IT之家 10 月 24 日消息，小米创办人、董事长兼 CEO 雷军昨日转发了小米集团副总裁、汽车部 CTO 胡峥楠的微博， 并宣布小米纽北 Workshop 已经启用 。 据胡峥楠介绍，小米在纽北刚启用不久的 Workshop 位于 GT…",
+   "regions": []
+  },
+  {
+   "title": "美国宇航局调整载人登月方案：SpaceX 星舰改在地球附近对接，蓝色起源减少加注环节",
+   "link": "https://www.ithome.com/1/017/285.htm",
+   "source": "IT之家",
+   "time": "2026-10-23T23:20:17.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Ars Technica 今天（10 月 24 日）发布博文，报道称在当地时间 23 日周五举办的新闻发布会上，美国国家航空航天局（NASA）公布“阿耳忒弥斯”（Artemis）登月计划调整方案，…",
+   "regions": []
+  },
+  {
    "title": "月之暗面迄今能力最强 3 万亿级参数模型，Kimi K3.1 Pro 正式发布",
    "link": "https://www.ithome.com/1/017/284.htm",
    "source": "IT之家",
@@ -1620,6 +1692,37 @@
  ],
  "world": [
   {
+   "title": "【地震 M3.1】68 km SE of Yakutat, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026varwvn",
+   "source": "USGS地震台网",
+   "time": "2026-10-23T23:41:50.858Z",
+   "summary": "美国地质调查局官方监测：68 km SE of Yakutat, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "韩国提议举行韩朝军方会谈，协商军事分界线事宜",
+   "link": "https://sputniknews.cn/20261024/1073767489.html",
+   "source": "卫星社中文",
+   "time": "2026-10-23T23:39:45.000Z",
+   "summary": "据韩联社报道，韩国国防部10月23日正式向朝鲜提议举行韩朝军方会谈，就相互确认韩朝陆地军事分界线的准确位置、恢复军事通信线路以及防止边境地区发生意外冲突的方案进行协商。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "美军“堤丰”系统运抵日本冲绳嘉手纳基地",
+   "link": "https://sputniknews.cn/20261024/1073767374.html",
+   "source": "卫星社中文",
+   "time": "2026-10-23T23:16:27.000Z",
+   "summary": "据共同社报道，日本防卫省冲绳防卫局23日透露，此前临时部署在鹿儿岛县鹿屋市海上自卫队鹿屋航空基地的美军中程导弹发射装置“堤丰”已运抵美军嘉手纳基地（冲绳县嘉手纳町等地）。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
    "title": "俄副总理：俄罗斯准备在10月出口50万吨柴油",
    "link": "https://sputniknews.cn/20261024/1073767278.html",
    "source": "卫星社中文",
@@ -1638,6 +1741,17 @@
    "summary": "美国地质调查局官方监测：115 km NE of Norsup, Vanuatu发生 4.9 级地震，震源深度 未知。",
    "regions": [
     "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】210 km NE of Nagqu, China",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4hp",
+   "source": "USGS地震台网",
+   "time": "2026-10-23T22:39:10.336Z",
+   "summary": "美国地质调查局官方监测：210 km NE of Nagqu, China发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "中国",
     "亚太"
    ]
   },
@@ -1712,6 +1826,17 @@
    "regions": [
     "俄罗斯",
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】55 km ESE of Farkhār, Afghanistan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h9",
+   "source": "USGS地震台网",
+   "time": "2026-10-23T22:09:55.248Z",
+   "summary": "美国地质调查局官方监测：55 km ESE of Farkhār, Afghanistan发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "阿富汗",
+    "中东"
    ]
   },
   {
@@ -2466,6 +2591,17 @@
    "summary": "土库曼斯坦天然气公司董事长马克萨特·巴巴耶夫对记者表示，中东局势正在影响土库曼斯坦天然气公司的运营，特别是造成了物流困难的问题。",
    "regions": [
     "中东"
+   ]
+  },
+  {
+   "title": "【世界进行时】2026年10月23日",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143062",
+   "source": "联合国新闻",
+   "time": "2026-10-23T12:00:00.000Z",
+   "summary": "本期要点：全球生活成本飙升，古特雷斯警示：战争与不平等正在让“美好未来”变得遥不可及；无人机袭击激增，苏丹与也门战火延烧，数十万平民深陷绝境；海地选举筹备取得进展，但帮派暴力依然肆虐；环境署警告：本世纪末全球升温或将达2.8度；刚果民主共和…",
+   "regions": [
+    "中东",
+    "非洲"
    ]
   },
   {
@@ -6705,5 +6841,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-23T23:17:48.646Z"
+ "updatedAt": "2026-10-24T01:46:26.331Z"
 }
