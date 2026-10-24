@@ -2,6 +2,46 @@
  "date": "2026-10-24",
  "tech": [
   {
+   "title": "PHP 基金会负责人坦言资金不足：仅 1 名全职员工",
+   "link": "https://www.ithome.com/1/017/528.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:27:45.000Z",
+   "summary": "IT之家 10 月 25 日消息，本周，PHP 曝出两处高危漏洞，全球随即紧急行动，保护网站免遭黑客攻击。这件事也让人们看到，这门已有三十年历史的开源编程语言，对互联网而言有多重要。 据估算，全球最高有约七成网站依托 PHP 搭建，但负责维…",
+   "regions": []
+  },
+  {
+   "title": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
+   "link": "https://www.ithome.com/1/017/527.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:19:32.000Z",
+   "summary": "IT之家 10 月 25 日消息，英国广播公司（BBC）的《蓝色星球 3》纪录片打算保留那些不算完美的镜头，以此证明内容的真实性。该系列前作的标志性特点是画面精美、通透清晰，美得近乎不真实。而人工智能生成内容的一大破绽，就是画面过度精致、毫…",
+   "regions": []
+  },
+  {
+   "title": "不只是要卖车，消息称奇瑞汽车计划在加拿大建厂",
+   "link": "https://www.ithome.com/1/017/526.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:18:48.000Z",
+   "summary": "IT之家 10 月 25 日消息，据彭博社 23 日报道，奇瑞汽车计划明年进入加拿大市场，同时考虑在当地生产汽车。如果建厂计划落地，奇瑞将在美国北部边境建立生产基地。 尽管进入美国市场的前景尚不明朗，奇瑞认为， 加拿大本身就值得投资 。奇瑞…",
+   "regions": []
+  },
+  {
+   "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+   "link": "https://www.ithome.com/1/017/525.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:09:54.000Z",
+   "summary": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GPU Unlock 的…",
+   "regions": []
+  },
+  {
+   "title": "微软测试 Reactor 实验性框架，澄清 WinUI 和 XAML 不会被停用",
+   "link": "https://www.ithome.com/1/017/524.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T22:59:07.000Z",
+   "summary": "IT之家 10 月 25 日消息，微软推出一款名为 Microsoft.UI.Reactor 的实验性框架并开启测试后，出面澄清，并不会停用 WinUI 和 XAML。鉴于微软此前放弃 UWP、关停 Silverlight 的过往，不少开发…",
+   "regions": []
+  },
+  {
    "title": "iQOO Neo12 新机配置曝光：6.83 英寸 2K+185Hz 直屏，第五代骁龙 8 至尊版芯片",
    "link": "https://www.ithome.com/1/017/523.htm",
    "source": "IT之家",
@@ -1188,6 +1228,215 @@
  ],
  "world": [
   {
+   "title": "俄外交部发言人：俄中美元首或将会晤，为世界向稳定过渡带来希望",
+   "link": "https://sputniknews.cn/20261025/1073775611.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T23:28:41.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月25日电 俄罗斯外交部发言人扎哈罗娃表示，俄中美三国元首可能在亚太经合组织领导人非正式会议期间举行会晤，这给世界带来了从混乱转向稳定的希望。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "中国商务部坚决反对美国对华投资限制拟议规则",
+   "link": "https://sputniknews.cn/20261025/1073775504.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T23:28:14.000Z",
+   "summary": "美国财政部日前公布新版对外投资限制拟议规则后，中国商务部表示坚决反对，称美国限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄乌将为阿列什基人道主义行动同步停火",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720543.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T22:49:14.000Z",
+   "summary": "当地时间24日，俄罗斯人权事务专员兰特拉托娃表示，她与乌克兰最高拉达(议会)人权事务专员卢比涅茨就阿列什基的人道主义任务举行了在线会议。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】210 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4q8",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T22:47:08.577Z",
+   "summary": "美国地质调查局官方监测：210 km NW of Port-Olry, Vanuatu发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "也门胡塞武装称沙特一天内发动百次空袭",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720542.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T22:41:35.000Z",
+   "summary": "当地时间24日晚，也门胡塞武装发表声明称，过去24小时，沙特方面发动100次空袭，袭击了也门首都萨那及其他地区的民用目标，造成数十人死伤。声明称，自局势升级以来，沙特方面发动的空袭和导弹袭击总数已达3123次。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "泽连斯基：不会为结束冲突放弃更多领土",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T22:40:07.000Z",
+   "summary": "据乌克兰方面24日消息，乌总统泽连斯基23日接受采访时称，乌克兰准备尽快结束同俄罗斯的军事冲突，但不会为了结束冲突而放弃更多领土。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "马里军方在梅纳卡市附近发现54具遗体",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720540.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T22:38:37.000Z",
+   "summary": "马里武装部队总参谋部24日发布公报说，一支联合巡逻队在该国东北部梅纳卡区首府梅纳卡市附近发现54具平民遗体。",
+   "regions": []
+  },
+  {
+   "title": "【地震 M3.3】52 km SSW of Cantwell, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vclrmb",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T22:35:24.563Z",
+   "summary": "美国地质调查局官方监测：52 km SSW of Cantwell, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】53 km NNW of Fef, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T21:41:51.565Z",
+   "summary": "美国地质调查局官方监测：53 km NNW of Fef, Indonesia发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.2】57 km NW of San Antonio, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537563",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T21:07:15.080Z",
+   "summary": "美国地质调查局官方监测：57 km NW of San Antonio, Puerto Rico发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】37 km ESE of Cañaveral, Peru",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pq",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T20:57:03.106Z",
+   "summary": "美国地质调查局官方监测：37 km ESE of Cañaveral, Peru发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "秘鲁",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】7 km W of Cobb, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454321",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T20:39:17.770Z",
+   "summary": "美国地质调查局官方监测：7 km W of Cobb, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M5.3】101 km SSE of Vilyuchinsk, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pa",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T20:35:04.576Z",
+   "summary": "美国地质调查局官方监测：101 km SSE of Vilyuchinsk, Russia发生 5.3 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "法国内政部长：全国抗议近千人被捕",
+   "link": "https://sputniknews.cn/20261025/1073775364.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T19:59:45.000Z",
+   "summary": "当地时间10月24日晚，法国内政部长努内兹表示，警方在当天全国性抗议示威活动中逮捕近千人。执法人员遭持续投掷物和烟火装置攻击，警方已对相关违法行为进行干预。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】71 km SW of Rikaze, China",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4p1",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T19:34:13.223Z",
+   "summary": "美国地质调查局官方监测：71 km SW of Rikaze, China发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】73 km SW of Isangel, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ny",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T19:18:20.515Z",
+   "summary": "美国地质调查局官方监测：73 km SW of Isangel, Vanuatu发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】193 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4nv",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T19:07:15.895Z",
+   "summary": "美国地质调查局官方监测：193 km NW of Port-Olry, Vanuatu发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "马斯克称星链关闭乌前线将崩溃",
+   "link": "https://sputniknews.cn/20261025/1073774544.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T19:05:53.000Z",
+   "summary": "针对X平台用户关于“星链一直照常运行、并非武器系统”的帖子，美国企业家埃隆·马斯克10月24日作出回应，明确区分了“星链”与“星盾”的性质，并披露乌军曾违反服务条款将星链用于进攻性无人机打击，相关漏洞已于上周封堵。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：北约必须放弃对俄“遏制”政策才能恢复对话",
+   "link": "https://sputniknews.cn/20261025/1073774274.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T18:48:25.000Z",
+   "summary": "俄罗斯代表团副团长、俄罗斯常驻联合国日内瓦办事处和其他国际组织副代表娜塔莉娅·富任科娃表示，只要北约不放弃对俄罗斯的“遏制”政策，双方就无法恢复对话。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】17 km SW of Toms Place, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454281",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T18:42:04.560Z",
+   "summary": "美国地质调查局官方监测：17 km SW of Toms Place, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "专家：美国民主党没有能力破坏俄罗斯柴油协议",
    "link": "https://sputniknews.cn/20261025/1073773811.html",
    "source": "卫星社中文",
@@ -1206,6 +1455,16 @@
    "time": "2026-10-24T18:00:00.000Z",
    "summary": "据世界泳联（World Aquatics）在社交平台X上发布的消息，中国游泳选手徐嘉余在北京举行的全国游泳锦标赛上刷新了男子50米仰泳短池世界纪录。",
    "regions": []
+  },
+  {
+   "title": "【地震 M2.7】16 km NNE of Milford, Utah",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161711",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T17:59:01.470Z",
+   "summary": "美国地质调查局官方监测：16 km NNE of Milford, Utah发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
   },
   {
    "title": "【地震 M2.8】193 km WSW of Pistol River, Oregon",
@@ -4610,5 +4869,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-24T18:16:44.257Z"
+ "updatedAt": "2026-10-24T23:30:46.274Z"
 }
