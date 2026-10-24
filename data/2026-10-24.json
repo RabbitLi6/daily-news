@@ -2,6 +2,390 @@
  "date": "2026-10-24",
  "tech": [
   {
+   "title": "瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude",
+   "link": "https://www.ithome.com/1/017/385.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:45:40.000Z",
+   "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据瑞典国家公共广播公司 Sveriges Radio 报道，瑞典政府办公厅将从下周一起禁止工作人员 通过办公电脑直接访问 ChatGPT 和 Claude ，要求员工改用微软 Copil…",
+   "regions": []
+  },
+  {
+   "title": "游戏接近完工，工作室却要关门？《漫威：刀锋战士》遭遇最残酷倒计时",
+   "link": "https://www.ithome.com/1/017/384.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:44:05.000Z",
+   "summary": "IT之家 10 月 24 日消息，法媒 Le Monde 昨日（10 月 23 日）发布博文， 报道称微软旗下 Arkane Lyon 工作室正在开发的漫威吸血鬼动作游戏《漫威：刀锋战士》（Marvel's Blade）已接近制作尾声，但目…",
+   "regions": []
+  },
+  {
+   "title": "网传宇树科技机器人侧空翻表演甩断腿，系新发布的 H2-X 人形机器人",
+   "link": "https://www.ithome.com/1/017/383.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:44:01.000Z",
+   "summary": "IT之家 10 月 24 日消息，据新浪科技报道，在宇树科技“2026 世界物理 AI 大会暨宇树合作伙伴生态大会”现场，一段机器人侧空翻失误的视频引发热议。 画面中，一台白色人形机器人正在进行功夫动作演示，尝试侧空翻落地时失去平衡，侧摔在…",
+   "regions": []
+  },
+  {
+   "title": "智元在山东济南组织 110 台人形机器人同时跳舞，创下吉尼斯世界纪录",
+   "link": "https://www.ithome.com/1/017/382.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:40:13.000Z",
+   "summary": "IT之家 10 月 24 日消息，据齐鲁晚报，智元机器人今天在山东济南黄河国际会展中心组织 110 台远征 A3 全尺寸人形机器人同场群舞，成功创下“最多人形机器人同时跳舞”吉尼斯世界纪录。 IT之家获悉，此次挑战采用智元灵动 LinkBo…",
+   "regions": []
+  },
+  {
+   "title": "远水难救近火：沃尔沃手握 5 万辆 EX60 订单，产量却只有 5000 辆",
+   "link": "https://www.ithome.com/1/017/381.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:35:32.000Z",
+   "summary": "IT之家 10 月 24 日消息，沃尔沃汽车透露，由于新技术和制造工艺带来了生产难题，全新纯电 SUV EX60 的产能爬坡速度低于预期。 今年 4 月投产以来， 新车订单量已超过 5 万辆，但实际产量仅为 5000 辆 。沃尔沃 CEO …",
+   "regions": []
+  },
+  {
+   "title": "Steam 喜加一：第一人称生存恐怖射击游戏《Radiant Exodus》免费领",
+   "link": "https://www.ithome.com/1/017/379.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:34:20.000Z",
+   "summary": "IT之家 10 月 24 日消息，开发者宣布 Horrawr 旗下第一人称生存恐怖射击游戏《Radiant Exodus》将于 2026 年 11 月 17 日结束免费游玩，开始付费销售。玩家可以在期限前将游戏免费添加至 Steam 库，即…",
+   "regions": []
+  },
+  {
+   "title": "MOD 社区立功：英特尔 Arc XMX 内核非官方移植 AMD FSR 4.1.2",
+   "link": "https://www.ithome.com/1/017/378.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:30:53.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Wccftech 昨日（10 月 23 日）发布博文， 报道称 OptiScaler MOD 社区已将 AMD 最新的 FSR 4.1.2 神经网络超分辨率模型移植至 Intel Arc 显卡，并…",
+   "regions": []
+  },
+  {
+   "title": "1099 → 543 元国补直降：华为 WATCH FIT 5 智能手表 5 折新低，1.82 英寸 AMOLED 屏",
+   "link": "https://www.ithome.com/1/017/377.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:28:04.000Z",
+   "summary": "华为 WATCH FIT 5 智能手表 2026 年 4 月开售，该表主打超轻薄大屏 + 腕上微运动 + 长续航，售价 1099 元起。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 543.15 元： 领 800-…",
+   "regions": []
+  },
+  {
+   "title": "奇瑞面向海外推出 LEPAS Aura 双门猎装车：造型灵感来自“豹子”",
+   "link": "https://www.ithome.com/1/017/376.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:23:18.000Z",
+   "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据英媒 Autocar 报道，奇瑞集团旗下面向海外市场的品牌 LEPAS 展示了一款运动风格的概念车 ——LEPAS Aura，采用双门猎装车造型，车身饱满厚实，座舱低矮修长。 LEPA…",
+   "regions": []
+  },
+  {
+   "title": "Anthropic 亮出未发布 AI 模型：能力比 Mythos 5.1 更强，也更“守规矩”",
+   "link": "https://www.ithome.com/1/017/375.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:16:59.000Z",
+   "summary": "IT之家 10 月 24 日消息，Anthropic 昨日（10 月 23 日）发布博文，联合英国人工智能安全研究所（AISI），发布了一起 AI 网络测试失控事件的调查报告， 并提及旗下一款尚未发布的内部研究模型。 在这份调查报告中，An…",
+   "regions": []
+  },
+  {
+   "title": "不再需要键盘：微软新 XBOX 模式新增一键返回 Win11 桌面",
+   "link": "https://www.ithome.com/1/017/373.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T06:00:21.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Latest 今天（10 月 24 日）发布博文，报道称 在 Windows 11 Build 26340.9750 预览版上 ，测试全新的 XBOX 模式， 新的“游戏任务视图”…",
+   "regions": []
+  },
+  {
+   "title": "连续 5 年，今年 1024 程序员节影石 Insta360 再送员工黄金键帽",
+   "link": "https://www.ithome.com/1/017/372.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T05:58:43.000Z",
+   "summary": "IT之家 10 月 24 日消息，今天是 1024 程序员节，影石 Insta360 官方宣布，奖励优秀员工黄金键帽作为节日礼物。其中， 黄金空格键重约 35 克，价值超 4 万元 。 据悉，影石已 连续五年发放 这一特殊奖励，累计送出 7…",
+   "regions": []
+  },
+  {
+   "title": "微软 Win11 25H2 26220.9757 预览版发布：重新设计文件管理器右键菜单",
+   "link": "https://www.ithome.com/1/017/369.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T05:47:03.000Z",
+   "summary": "IT之家 10 月 24 日消息，微软昨日（10 月 23 日）发布博文，邀请 Beta 频道的 Windows Insider 项目成员， 测试适用于 Windows 11 系统的预览版更新，25H2 版本升至 Build 26220.9…",
+   "regions": []
+  },
+  {
+   "title": "微软 Win11 26H1 推送 28120.3302 预览版：开始菜单可调大小等",
+   "link": "https://www.ithome.com/1/017/368.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T05:37:32.000Z",
+   "summary": "IT之家 10 月 24 日消息，微软昨日（10 月 23 日）发布公告， 邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。 IT之家援引博文介绍，本次更新适…",
+   "regions": []
+  },
+  {
+   "title": "微软 Win11 26H2 发布 26340.9767 预览版：增强实验性功能体验、升级网络测速",
+   "link": "https://www.ithome.com/1/017/367.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T05:26:41.000Z",
+   "summary": "IT之家 10 月 24 日消息，微软昨日（10 月 23 日）发布公告，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。 IT之家援引博文介绍，本次更新适用…",
+   "regions": []
+  },
+  {
+   "title": "微软“邮件革命”仅一年就退场：Outlook 收件箱 AI 整理 Prioritize My Inbox 功能下周起停用",
+   "link": "https://www.ithome.com/1/017/362.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T05:07:40.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Central 昨日（10 月 23 日）发布博文，报道称微软已宣布将于 2026 年 10 月 26 日开始， 退役 Outlook 中的“优先处理我的收件箱”（Prioriti…",
+   "regions": []
+  },
+  {
+   "title": "亿万富翁投资人马克 · 库班：抵御失控智能体就像防蟑螂，可以用 AI“喷药”",
+   "link": "https://www.ithome.com/1/017/347.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T04:56:41.000Z",
+   "summary": "IT之家 10 月 24 日消息，对于 AI 时代的网络安全问题，亿万富翁、企业家兼投资人马克 · 库班提出了一套颇有意思的“灭虫”思路。 据《商业内幕》今天（24 日）报道，库班将大量 AI 智能体发动的网络攻击比作蟑螂入侵：即使房屋刚刚…",
+   "regions": []
+  },
+  {
+   "title": "英国地方议会怒斥微软“敲诈”：软件授权费飙升 15% 引发反垄断争议",
+   "link": "https://www.ithome.com/1/017/346.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T04:55:48.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 NeoWin 昨日（10 月 23 日）发布博文，报道称英国德比郡议会（Derby City Council）近日公开指责微软公司，称其定价策略形同“敲诈”（Blackmail）， 主要争议在最新…",
+   "regions": []
+  },
+  {
+   "title": "史诗级更新：微信远程升级支持在 iPhone Duo 上和其他设备同时登录",
+   "link": "https://www.ithome.com/1/017/345.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T04:35:46.000Z",
+   "summary": "IT之家 10 月 24 日消息，据多位博主及用户反馈，微信远程升级， 已支持在 iPhone Duo 上和其他设备同时登录 。 虽然在 iPhone Duo 上，微信显示的是“和其他设备同时登录”这一功能项，但实际操作过程中，在点击该按钮…",
+   "regions": []
+  },
+  {
+   "title": "宫本茂：即使 AI 最终什么都能做，人类设计师也始终会有用武之地",
+   "link": "https://www.ithome.com/1/017/344.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T04:34:38.000Z",
+   "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据外媒 VGC 报道，曾参与打造《超级马力欧》和《塞尔达传说》等经典游戏系列的任天堂知名设计师、创意顾问宫本茂认为， 生成式 AI 的发展不会取代人类的创造力 。 任天堂尚未公开确认是否…",
+   "regions": []
+  },
+  {
+   "title": "全败：LPL 四队皆落入 2026《英雄联盟》全球总决赛瑞士轮 0-1 组别",
+   "link": "https://www.ithome.com/1/017/342.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T04:30:25.000Z",
+   "summary": "IT之家 10 月 24 日消息， LPL 联赛在 2026《英雄联盟》全球总决赛遭遇开门黑 ：4 支参赛队伍均负于各自对手，跌入 0-1 组别。 种子顺位最低的 IG 首先负于 GEN，然后临时换人的 TES 不敌 HLE，赛前相对看好的…",
+   "regions": []
+  },
+  {
+   "title": "一加 Ace 7 系列手机全系 9000mAh 冰川电池、100W 超级闪充，能连续看视频 24 小时",
+   "link": "https://www.ithome.com/1/017/341.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T04:20:02.000Z",
+   "summary": "IT之家 10 月 24 日消息，一加中国区总裁 @李杰Louis 今天上午继续发文预热一加 Ace 7 系列：“这次把续航体验也拉满了！” 根据介绍，新机 全系搭载 9000mAh 超大冰川电池 + 100W 超级闪充 ，185 帧游戏可…",
+   "regions": []
+  },
+  {
+   "title": "八位堂古墓丽影 30 周年纪念款手柄上市，双版本 549 / 349 元",
+   "link": "https://www.ithome.com/1/017/340.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T04:19:42.000Z",
+   "summary": "IT之家 10 月 24 日消息，八位堂 (8BitDo) 早前公布的《古墓丽影》30 周年纪念款手柄控制器现已上市。联名猎户座 3 代 XBOX 版售价 549 元、联名 Pro 3 蓝牙手柄售价 399 元。 猎户座 3 代 XBOX …",
+   "regions": []
+  },
+  {
+   "title": "华硕 ROG：枪神 7 / 魔霸新锐 (2023) 质量符合国标，仍会为主板边缘受损笔电提供免费保修",
+   "link": "https://www.ithome.com/1/017/339.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T04:06:51.000Z",
+   "summary": "IT之家 10 月 24 日消息，华硕 (ASUS) 玩家国度 (ROG) 本月 19 日发布公告，表示旗下 ROG 枪神 7 / 魔霸新锐 (2023) 游戏笔记本电脑 (ROG Strix G16 2023 Series) 均符合国家标…",
+   "regions": []
+  },
+  {
+   "title": "定位“年轻人的智能零压 SUV”，东风日产 NX7 公布 5 款外观配色",
+   "link": "https://www.ithome.com/1/017/338.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T04:00:38.000Z",
+   "summary": "IT之家 10 月 24 日消息，东风日产官微今天（24 日）上午公布了新车 NX7 的 5 款外观配色：紫藤花、四叶草、曜石黑、珠玉白、岩山灰。 官方将该车称为“年轻人的智能零压 SUV”，此前宣布“即将登场”。 该车 已在今年 8 月完…",
+   "regions": []
+  },
+  {
+   "title": "微软 Win11 预览版优化原生测速体验，不再开浏览器跳转 Bing",
+   "link": "https://www.ithome.com/1/017/337.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T04:00:37.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Latest 今天（10 月 24 日）发布博文，报道称在 Windows 11 Build 26340.9767 预览版更新中，微软调整系统内置测速功能，不再跳转 Bing，改为…",
+   "regions": []
+  },
+  {
+   "title": "技嘉展示 B850 AORUS ELITE-P 主板：延续“雕妹”主题，黑色外观",
+   "link": "https://www.ithome.com/1/017/335.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T03:55:30.000Z",
+   "summary": "IT之家 10 月 24 日消息，技嘉 (GIGABYTE) 官方社媒账户近期展示了尚未上线官网的 B850 AORUS ELITE-P 主板。 这一型号与此前推出的 B850 AORUS ELITE-P ICE（上图右侧）一样属于技嘉的“…",
+   "regions": []
+  },
+  {
+   "title": "美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”",
+   "link": "https://www.ithome.com/1/017/334.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T03:48:36.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 The Verge 昨日（10 月 23 日）发布博文，报道称美国国家公路交通安全管理局（NHTSA）正推动新提案， 为自动驾驶汽车引入统一的青绿色（蓝绿色）外部标识灯，让行人、其他驾驶员和执法人…",
+   "regions": []
+  },
+  {
+   "title": "上海警方大数据精准打击“职业碰瓷大户”：一年多制造交通事故 200 余起，涉案金额达 60 余万元",
+   "link": "https://www.ithome.com/1/017/333.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T03:46:19.000Z",
+   "summary": "IT之家 10 月 24 日消息，据上海市公安局交通警察总队披露，看似寻常的车辆碰擦，背后可能是精心策划的“碰瓷”骗局。针对手法隐蔽、取证难度大的交通事故“碰瓷”诈骗，上海警方依托大数据精准研判，多警种协同攻坚，在全市开展专项打击行动， 已…",
+   "regions": []
+  },
+  {
+   "title": "LibreOffice 背后公司再掀 18 年前“旧账”，抨击微软操纵 OOXML 标准",
+   "link": "https://www.ithome.com/1/017/332.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T03:33:55.000Z",
+   "summary": "IT之家 10 月 24 日消息，开源办公套件 LibreOffice 背后的非营利组织“文档基金会”（TDF）昨日（10 月 23 日）发布长文，再次公开批评微软， 称其曾在 2006 年至 2008 年间操纵国际标准化进程，推动自家 O…",
+   "regions": []
+  },
+  {
+   "title": "上汽名爵概念小车 MG Go 量产版谍照曝光，后门把手藏在 C 柱里",
+   "link": "https://www.ithome.com/1/017/331.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T03:24:40.000Z",
+   "summary": "IT之家 10 月 24 日消息，博主 @SugarDesign 昨天（23 日）放出了一张上汽名爵 MG Go 的量产版谍照，新车将是一款纯电小车，拥有方头方脑的姿态，尾灯内部则形成了独特的十字状。 这款小车还有一处独特的设计：将后门的门…",
+   "regions": []
+  },
+  {
+   "title": "梦幻联动：Valve 开发者出手，为任天堂 Switch 2 控制器打造 Linux 驱动",
+   "link": "https://www.ithome.com/1/017/330.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T03:16:47.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 phoronix 昨日（10 月 23 日）发布博文，报道称在 Linux 7.14 内核合并请求中， 针对 HID（人机接口设备）子系统的更新通过引入初步原生驱动支持，首次添加支持任天堂 Swi…",
+   "regions": []
+  },
+  {
+   "title": "宇航员的福音：太空眼药水贴片问世，失重也能精准给药",
+   "link": "https://www.ithome.com/1/017/328.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T03:04:27.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 NewsAlts 昨日（10 月 23 日）发布博文，报道称韩国科学技术院（KAIST）携手首尔大学盆唐医院研究团队， 近日开发出一款可穿戴微流控眼药贴片，可在几乎失重的太空环境中帮助宇航员自行、…",
+   "regions": []
+  },
+  {
+   "title": "漫威《复仇者联盟 5：毁灭之日》新先导预发布：雷神和美队重逢叙旧，内地 12 月 16 日上映",
+   "link": "https://www.ithome.com/1/017/327.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:58:49.000Z",
+   "summary": "IT之家 10 月 24 日消息，漫威《复仇者联盟 5：毁灭之日》联动 MLB 发布最新先导预告。 新预告释出了更多新内容，包括神奇先生打棒球、雷神和前美国队长史蒂夫叙旧，蚁人不小心忘了山姆是新任美国队长等剧情切片。 IT之家注：《复仇者联…",
+   "regions": []
+  },
+  {
+   "title": "英伟达黄仁勋开炮：“AI 毁灭人类”纯属捏造，是博眼球的廉价炒作",
+   "link": "https://www.ithome.com/1/017/326.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:56:44.000Z",
+   "summary": "IT之家 10 月 24 日消息，法新社于 10 月 22 日发布博文，报道称在柏林举行的公司会议上，英伟达首席执行官黄仁勋再度抨击“AI 毁灭人类”言论， 认为其是无稽之谈，更多是为了制造头条新闻而进行的“捏造”和“廉价”炒作。 IT之家…",
+   "regions": []
+  },
+  {
+   "title": "悉尼一男子告诉 Claude“自己想枪击托儿所”，被警方逮捕",
+   "link": "https://www.ithome.com/1/017/325.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:54:58.000Z",
+   "summary": "IT之家 10 月 24 日消息，澳大利亚悉尼一名男子戴维 · 兰 · 萨克雷向 Anthropic 的聊天机器人 Claude 透露，自己想杀害住所附近一家托儿所的儿童，随后被警方逮捕。 据《悉尼先驱晨报》报道，29 岁的萨克雷与 Cla…",
+   "regions": []
+  },
+  {
+   "title": "第二届华为乾崑智驾公开赛官宣 10 月 31 日正式开赛，26 日开启报名",
+   "link": "https://www.ithome.com/1/017/324.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:46:22.000Z",
+   "summary": "IT之家 10 月 24 日消息，华为乾崑智能汽车解决方案今日宣布，第二届华为乾崑智驾公开赛来了。根据规划： 10 月 26 日开启报名； 10 月 31 日至 11 月 13 日正式开赛。 据IT之家此前报道，今年 3 月 19 日，华为…",
+   "regions": []
+  },
+  {
+   "title": "网络安全“隐形基石”升级：OpenSSL 4.1 发布，实时音 / 视频和游戏传输更安全",
+   "link": "https://www.ithome.com/1/017/323.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:42:43.000Z",
+   "summary": "IT之家 10 月 24 日消息，开源加密基础库 OpenSSL 项目昨日（10 月 23 日）更新至 4.1 版本。作为保障全球网络通信安全的关键组件，此次更新带来了多项重要功能与性能改进， 其中最受关注的是支持 DTLS 1.3 协议。…",
+   "regions": []
+  },
+  {
+   "title": "谷歌为建数据中心非法砍伐芬兰森林 25 万棵树，狼群被迫进村觅食",
+   "link": "https://www.ithome.com/1/017/321.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:32:36.000Z",
+   "summary": "IT之家 10 月 24 日消息，10 月上旬，芬兰监管部门要求谷歌旗下数据中心开发商 Tuike Finland Oy 立即停止非法砍伐森林 。 为了建设数据中心，谷歌砍伐了约 526 公顷森林，25 万棵树木成为牺牲品。事件迅速引发关注…",
+   "regions": []
+  },
+  {
+   "title": "美国公开第 7 批 UAP 解密档案：含 28 份文件，累计已公开 478 份",
+   "link": "https://www.ithome.com/1/017/320.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:29:48.000Z",
+   "summary": "IT之家 10 月 24 日消息，美国战争部（Department of War，原国防部）于当地时间昨日（10 月 23 日）发布博文，公开第七批经解密的“不明异常现象”（UAP，常被通俗称为 UFO）历史档案。 该批资料隶属“总统 UA…",
+   "regions": []
+  },
+  {
+   "title": "暴雪官宣：《赛博朋克 2077》将于 11 月 11 日登陆战网平台",
+   "link": "https://www.ithome.com/1/017/319.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:20:18.000Z",
+   "summary": "IT之家 10 月 24 日消息，暴雪通过官方新闻稿宣布，今年 11 月，“夜之城”将正式登陆战网，《赛博朋克 2077》确定将在 11 月 11 日上线 Battle.net 平台。届时，玩家可购买游戏本体或扩展包《往日之影》，也可以直接…",
+   "regions": []
+  },
+  {
+   "title": "苹果庆祝初代 iPod 诞生 25 周年，Apple Music 官网上线套娃彩蛋",
+   "link": "https://www.ithome.com/1/017/318.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:17:22.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 AppleInsider 昨日（10 月 23 日）发布博文，报道称苹果为庆祝初代 iPod 发布 25 周年，在 Apple Music 网页端埋下一个“彩蛋”。 用户访问一个不存在的页面，即可…",
+   "regions": []
+  },
+  {
+   "title": "国产首台 16 米级超大直径盾构机官宣将亮相 2026 科晚：红色京剧脸谱涂装，开挖直径达 16.07 米",
+   "link": "https://www.ithome.com/1/017/317.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:17:03.000Z",
+   "summary": "IT之家 10 月 24 日消息，据央视新闻央视社教报道， 国产首台 16 米级超大直径盾构机 ——“京华号”即将亮相 2026 总台科晚（2026《中国科技创新盛典》）。 IT之家查询获悉，“京华号”是由中国铁建重工集团与中铁十四局集团联…",
+   "regions": []
+  },
+  {
+   "title": "消息称荣耀 700 系列手机有“3 杯”：Pro 工程机配 1.72 英寸原生背屏，暂定 11 月发布",
+   "link": "https://www.ithome.com/1/017/316.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T02:01:50.000Z",
+   "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 刚刚发文透露，荣耀 700 系列手机有“3 杯”（即三个型号，分别对应不同价格配置档位），内部代号 Flora，配色有冷白 / 晴空 / 蓝调 / 粉雾， 暂定 11 月发布 。 博主称…",
+   "regions": []
+  },
+  {
+   "title": "苹果首款折叠 iPhone Duo 开放到店自提预约服务，报道称名额少到“几乎抢不到”",
+   "link": "https://www.ithome.com/1/017/314.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T01:59:57.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 MacRumors 今天（10 月 24 日）发布博文，报道称苹果在线商店已重新开放 iPhone Duo 的“到店自提”预约服务， 中国、澳大利亚、日本和韩国等市场率先恢复。 该媒体指出在澳大利…",
+   "regions": []
+  },
+  {
+   "title": "亚马逊 CEO 贾西：要让 AI 广泛应用于企业软件，成本需降至目前十分之一",
+   "link": "https://www.ithome.com/1/017/313.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T01:51:20.000Z",
+   "summary": "IT之家 10 月 24 日消息，亚马逊 CEO 安迪 · 贾西认为，AI 推理成本仍然太高， 要让 AI 广泛应用于企业软件，成本还需要降至目前的约十分之一 ，而亚马逊自研芯片有望帮助降低成本。 贾西在风险投资机构 a16z 当地时间 2…",
+   "regions": []
+  },
+  {
+   "title": "苹果 iPhone Duo 被曝严重安全隐患：手机上锁可能失效，目前最新版本系统还没有修复",
+   "link": "https://www.ithome.com/1/017/312.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T01:50:58.000Z",
+   "summary": "IT之家 10 月 24 日消息，据博主 @胜利文绉绉 分享，iPhone Duo 严重安全隐患 —— 手机上锁可能失效，且在目前最新版本系统还没有修复 （博主视频中显示系统版本号为 iOS 27.1）。 博主反馈称，他发现 iPhone …",
+   "regions": []
+  },
+  {
+   "title": "苹果 iPhone Duo 隐藏交互曝光：为左撇子优化，控制中心一点就开",
+   "link": "https://www.ithome.com/1/017/311.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T01:48:03.000Z",
+   "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 今天（10 月 24 日）发布博文，报道称在 苹果首款折叠 iPhone Duo 上，苹果公司针对“左撇子”用户，引入了新的控制中心打开方式。 在 iPhone X 以及后续没有配…",
+   "regions": []
+  },
+  {
    "title": "国产旗舰机最新激活销量数据曝光，华为 Mate 90 系列开售 18 天约 52.8 万台连续多周第一",
    "link": "https://www.ithome.com/1/017/310.htm",
    "source": "IT之家",
@@ -132,6 +516,497 @@
  ],
  "world": [
   {
+   "title": "【子午播报】2026年10月24日",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143064",
+   "source": "联合国新闻",
+   "time": "2026-10-24T12:00:00.000Z",
+   "summary": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，古特雷斯表示，从欧洲街头到全球危机，美好未来正变得遥不可及；环境署警告，本世纪末升温或将达2.8℃；81年前的今天：联合国正式成立。",
+   "regions": [
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄国防部：俄军在乌切尔诺莫斯克港击中无人艇生产车间",
+   "link": "https://sputniknews.cn/20261024/1073768857.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T06:32:41.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月24日电 俄罗斯国防部10月24日表示，俄军夜间实施打击期间在乌克兰切尔诺莫斯克港击中了无人艇生产车间。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "赋能发展中国家 世界人工智能合作组织推动弥合全球智能鸿沟",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720316.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T06:29:46.000Z",
+   "summary": "【中国那些事儿】赋能发展中国家 世界人工智能合作组织推动弥合全球智能鸿沟",
+   "regions": []
+  },
+  {
+   "title": "拜鬼招魂、军演扩武，日方种种消极动向有何图谋？",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720314.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T06:27:04.000Z",
+   "summary": "新华网国际看点丨拜鬼招魂、军演扩武，日方种种消极动向有何图谋？",
+   "regions": []
+  },
+  {
+   "title": "俄专家：欧洲抗议活动激增源于忽视社会民生及对乌援助",
+   "link": "https://sputniknews.cn/20261024/1073768722.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T06:16:42.000Z",
+   "summary": "俄罗斯外交官、东方学家弗拉基米尔·扎哈罗夫在接受俄罗斯卫星通讯社采访时表示，西欧国家街头抗议活动激增，与当局对社会民生领域关注度下降、向乌克兰提供援助、未能兑现竞选承诺以及能源危机等因素有关。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.3】174 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kj",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T06:04:16.367Z",
+   "summary": "美国地质调查局官方监测：174 km NW of Port-Olry, Vanuatu发生 5.3 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.3】108 km NNE of Arctic Village, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbelld",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T05:58:56.682Z",
+   "summary": "美国地质调查局官方监测：108 km NNE of Arctic Village, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "八国外长反对军事打击伊朗，呼吁开放霍尔木兹海峡",
+   "link": "https://sputniknews.cn/20261024/1073768619.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T05:56:31.000Z",
+   "summary": "10月23日，土耳其、埃及、英国等八国外交部长在土耳其伊斯坦布尔举行会议，与会方一致反对对伊朗发动新一轮军事打击。",
+   "regions": [
+    "中东",
+    "欧洲",
+    "非洲"
+   ]
+  },
+  {
+   "title": "中国石化西藏分公司紧急驰援巴青地震灾区 首批油品及生活物资启运",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720298.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:54:54.000Z",
+   "summary": "中新网拉萨10月24日电 (罗布央吉 旦增次央)10月22日那曲市巴青县发生7.0级地震后，中国石化西藏分公司第一时间启动应急预案，调配应急物资和组织运力，支援灾区抗震救灾。",
+   "regions": [
+    "拉萨",
+    "西藏"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 24/10/2026 05:23 UTC, 2 thousand in MMI>=III.",
+   "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573536",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-24T05:42:23.000Z",
+   "summary": "On 10/24/2026 5:23:40 AM, an earthquake occurred in Vanuatu potentially affecting 2 thousand in MMI>=III. The earthquake…",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】175 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kh",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T05:37:46.052Z",
+   "summary": "美国地质调查局官方监测：175 km NW of Port-Olry, Vanuatu发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】184 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ke",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T05:35:54.921Z",
+   "summary": "美国地质调查局官方监测：184 km NW of Port-Olry, Vanuatu发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "台风“蔷琵”移入东海南部海域 4地防汛防台风四级应急响应持续",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720291.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:27:19.000Z",
+   "summary": "中新网10月24日电 据应急管理部网站消息，10月24日上午，国家防总办公室、应急管理部继续组织中国气象局、水利部、自然资源部、工业和信息化部、住房城乡建设部、交通运输部等部门以及上海、江苏、浙江等重点省份联合会商，研判台风“蔷琵”发展趋势…",
+   "regions": [
+    "上海",
+    "江苏"
+   ]
+  },
+  {
+   "title": "受台风“蔷琵”影响 长三角铁路部门调整列车开行方案",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720270.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:24:27.000Z",
+   "summary": "中新网南京10月24日电 (记者 朱晓颖)受今年第30号台风“蔷琵”影响，为确保铁路运输和旅客出行安全，长三角铁路部门启动应急响应，调整列车开行方案，对23日17时至24日24时杭深铁路、金温铁路、杭台高铁等线路部分区段采取临时限速措施，对…",
+   "regions": [
+    "南京"
+   ]
+  },
+  {
+   "title": "菲律宾空军两架教练机训练飞行时发生事故",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720268.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T05:24:21.000Z",
+   "summary": "中新网马尼拉10月24日电 菲律宾空军23日证实，两架SF-260型教练机当天下午在菲律宾八打雁省利帕市费尔南多空军基地附近执行训练飞行任务时发生空中相撞事故。",
+   "regions": [
+    "南海"
+   ]
+  },
+  {
+   "title": "【地震 M5.8】182 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T05:23:40.747Z",
+   "summary": "美国地质调查局官方监测：182 km NW of Port-Olry, Vanuatu发生 5.8 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】219 km WNW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k5",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T05:10:34.753Z",
+   "summary": "美国地质调查局官方监测：219 km WNW of Port-Olry, Vanuatu发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "委内瑞拉石油日产量达到125万桶",
+   "link": "https://sputniknews.cn/20261024/1073768511.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T05:09:33.000Z",
+   "summary": "俄罗斯卫星通讯社墨西哥城10月24日电 委内瑞拉国家石油公司（PDVSA）生产副总裁爱德华多·平托10月23日在视察石油项目时表示，委内瑞拉石油日产量达到125.2万桶，创下近几个月来的最高纪录。",
+   "regions": [
+    "俄乌",
+    "美洲",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】71 km ESE of Denali National Park, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbcpgv",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T05:03:22.377Z",
+   "summary": "美国地质调查局官方监测：71 km ESE of Denali National Park, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.1】217 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T04:49:21.707Z",
+   "summary": "美国地质调查局官方监测：217 km NW of Port-Olry, Vanuatu发生 5.1 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】161 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k2",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T04:44:45.324Z",
+   "summary": "美国地质调查局官方监测：161 km NW of Port-Olry, Vanuatu发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "八国外长反对军事打击伊朗 两油轮在霍尔木兹海峡触雷",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720245.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T04:40:26.000Z",
+   "summary": "中新社北京10月24日电 综合消息：当地时间23日，土耳其、埃及、英国等八国外交部长在土耳其伊斯坦布尔举行会议，与会方一致反对对伊朗发动新一轮军事打击。另据伊朗方面消息，两艘“违规”油轮当天在霍尔木兹海峡触雷爆炸。",
+   "regions": [
+    "中东",
+    "欧洲",
+    "非洲"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu Islands 24/10/2026 04:12 UTC, [unknown].",
+   "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573528",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-24T04:26:14.000Z",
+   "summary": "On 10/24/2026 4:12:05 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had …",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 24/10/2026 04:05 UTC, [unknown].",
+   "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573526",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-24T04:20:01.000Z",
+   "summary": "On 10/24/2026 4:05:36 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had …",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.3】216 km W of Sola, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T04:19:38.628Z",
+   "summary": "美国地质调查局官方监测：216 km W of Sola, Vanuatu发生 5.3 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.8】203 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T04:12:05.337Z",
+   "summary": "美国地质调查局官方监测：203 km NW of Port-Olry, Vanuatu发生 5.8 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.7】205 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T04:05:36.800Z",
+   "summary": "美国地质调查局官方监测：205 km NW of Port-Olry, Vanuatu发生 5.7 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】186 km WNW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jr",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T03:51:35.267Z",
+   "summary": "美国地质调查局官方监测：186 km WNW of Port-Olry, Vanuatu发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】2 km WNW of Fuig, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537543",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T03:34:52.380Z",
+   "summary": "美国地质调查局官方监测：2 km WNW of Fuig, Puerto Rico发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "日本岩手县附近海域发生5.0级地震 多地有震感",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720246.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T03:19:56.000Z",
+   "summary": "中新网10月24日电 据日本气象厅消息，当地时间24日1时07分左右，日本岩手县附近海域发生5.0级地震，震源深度20千米。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】202 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T03:17:55.755Z",
+   "summary": "美国地质调查局官方监测：202 km NW of Port-Olry, Vanuatu发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "朝鲜举行人民军第三次连长大会，金正恩宣布建设最强军队",
+   "link": "https://sputniknews.cn/20261024/1073768403.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T03:14:24.000Z",
+   "summary": "据朝中社10月24日报道，朝鲜人民军第三次连长大会22日至23日在平壤举行。朝鲜劳动党总书记、国务委员长金正恩主持大会。此次大会是朝鲜劳动党第九次代表大会后召开的首次全军会议。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M5.1】170 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T03:08:45.463Z",
+   "summary": "美国地质调查局官方监测：170 km NW of Port-Olry, Vanuatu发生 5.1 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "约旦一教堂发生枪击致7死 政府称系恐袭",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720227.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T03:07:15.000Z",
+   "summary": "中新社北京10月24日电 安曼消息：约旦南部卡拉克省一座教堂当地时间23日发生枪击事件，已造成7人死亡。约旦政府称此事件为极端分子实施的恐怖袭击。",
+   "regions": []
+  },
+  {
+   "title": "瓦努阿图群岛发生6.8级地震 震源深度10千米",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720237.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T03:06:11.000Z",
+   "summary": "中新网10月24日电 据中国地震台网正式测定：10月24日10时31分在瓦努阿图群岛(南纬14.05度，东经165.55度)发生6.8级地震，震源深度10千米。",
+   "regions": [
+    "中国"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】29 km WNW of Atka, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vayrhl",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T03:05:41.678Z",
+   "summary": "美国地质调查局官方监测：29 km WNW of Atka, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 24/10/2026 02:35 UTC, 4 thousand in MMI IV.",
+   "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573517",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-24T02:59:44.000Z",
+   "summary": "On 10/24/2026 2:35:57 AM, an earthquake occurred in Vanuatu potentially affecting 4 thousand in MMI IV. The earthquake h…",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "媒体：欧洲承认基辅防御因“星链”限制而崩溃",
+   "link": "https://sputniknews.cn/20261024/1073768283.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T02:58:05.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月24日电 据西方媒体报道，欧洲承认乌克兰的防御正因“星链”终端运行受限而崩溃。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720235.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T02:57:53.000Z",
+   "summary": "中新网10月24日电 据美国地质调查局地震信息网消息，瓦努阿图附近海域24日发生7.2级地震，震源深度10公里。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, 40 thousand in MMI IV.",
+   "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573515",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-24T02:40:23.000Z",
+   "summary": "On 10/24/2026 2:31:28 AM, an earthquake occurred in Vanuatu potentially affecting 40 thousand in MMI IV. The earthquake …",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M6.3】170 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T02:35:57.362Z",
+   "summary": "美国地质调查局官方监测：170 km NW of Port-Olry, Vanuatu发生 6.3 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "博克拉—迪拜航线开通首月运送旅客逾6000人次",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720217.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-24T02:33:41.000Z",
+   "summary": "中新网加德满都10月24日电 (记者 崔楠)尼泊尔博克拉—阿联酋迪拜定期国际航线开通满一个月，首月累计运送旅客6362人次。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M6.9】197 km WNW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T02:31:28.641Z",
+   "summary": "美国地质调查局官方监测：197 km WNW of Port-Olry, Vanuatu发生 6.9 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "特朗普承认：美国威胁对俄加征关税无效",
+   "link": "https://sputniknews.cn/20261024/1073768174.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T02:24:03.000Z",
+   "summary": "近日，美国总统特朗普在佛罗里达州举行的一场共和党支持者集会上发表讲话，承认美国此前以乌克兰冲突为由威胁对俄罗斯加征高额关税的做法，由于双边贸易规模有限，对华盛顿而言并不会产生实际效果。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】286 km SW of Yakutat, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vawzmj",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T02:14:52.866Z",
+   "summary": "美国地质调查局官方监测：286 km SW of Yakutat, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "五角大楼宣布将孔子学院列为美国国家安全威胁",
+   "link": "https://sputniknews.cn/20261024/1073768045.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T02:09:40.000Z",
+   "summary": "美国国防部长赫格塞斯23日在社媒平台X发布视频称，已将孔子学院列为国家安全威胁。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
    "title": "俄常驻联合国副代表：由于美方过失，朝鲜半岛无核化不再现实",
    "link": "https://sputniknews.cn/20261024/1073767930.html",
    "source": "卫星社中文",
@@ -140,6 +1015,17 @@
    "regions": [
     "俄乌",
     "朝鲜半岛",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.2】135 km SW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vavwte",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T01:42:33.445Z",
+   "summary": "美国地质调查局官方监测：135 km SW of Nikolski, Alaska发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
     "美洲"
    ]
   },
@@ -225,6 +1111,22 @@
    ]
   },
   {
+   "title": "Netanyahu says Israel is planning a major West Bank military operation",
+   "link": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-24T00:39:40.000Z",
+   "summary": "Israel is preparing a major military operation in the West Bank, Israeli Prime Minister Benjamin Netanyahu said on Frida…",
+   "regions": []
+  },
+  {
+   "title": "Cuban FM denounces Trump's new military threat",
+   "link": "https://news.cgtn.com/news/2026-10-24/Cuban-FM-denounces-Trump-s-new-military-threat-1RuFiwdJDkA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-24T00:31:08.000Z",
+   "summary": "Cuban Foreign Minister Bruno Rodriguez on Friday denounced a new threat of military intervention against the Caribbean n…",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.5】195 km NW of Port-Olry, Vanuatu",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ib",
    "source": "USGS地震台网",
@@ -255,6 +1157,14 @@
    ]
   },
   {
+   "title": "Chinese FM meets UN high commissioner for refugees",
+   "link": "https://news.cgtn.com/news/2026-10-24/Chinese-FM-meets-UN-high-commissioner-for-refugees-1RuExVeFJAs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-24T00:13:10.000Z",
+   "summary": "Chinese Foreign Minister Wang Yi on Friday met with UN High Commissioner for Refugees (UNHCR) Barham Salih, who is in Ch…",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.9】209 km ENE of Nagqu, China",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
    "source": "USGS地震台网",
@@ -276,8 +1186,549 @@
    ]
   }
  ],
- "tw": [],
+ "tw": [
+  {
+   "title": "纪念台湾光复81周年 海南各界传承共同记忆",
+   "link": "https://www.chinanews.com.cn/txy/2026/10-24/10720278.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:26:11.000Z",
+   "summary": "中新网海口10月24日电 (记者 符宇群)“1945年10月25日，台湾省受降仪式在台北举行，台湾正式重归中国版图，彻底结束长达50年的日本殖民统治。”海南热带海洋学院台籍教师蔡志鸿感慨道，这份民族荣光，是两岸同胞共同奋斗、浴血抗争换来的。",
+   "regions": [
+    "台海",
+    "亚太",
+    "海口",
+    "海南"
+   ]
+  },
+  {
+   "title": "岛内人士：两岸共同纪念台湾光复 传承先辈爱国主义精神",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720193.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T01:42:27.000Z",
+   "summary": "中新网10月24日电 (常望涛 燕新台 薛金京)10月25日是台湾光复81周年，也是国家设立台湾光复纪念日1周年。",
+   "regions": [
+    "台海"
+   ]
+  }
+ ],
  "cn": [
+  {
+   "title": "青春华章·逐梦北疆｜把“乡土草种”攥在中国人自己手里",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720320.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T06:41:27.000Z",
+   "summary": "编者按：10月20日，“青春华章·逐梦北疆”网络主题宣传活动在内蒙古大学启动，5天沉浸式媒体行，记者们走进内蒙古，沿着生态保护、产业创新、民生温情、文艺传承的主线，挖掘青年扎根草原、实干奉献的青春故事，立体展现内蒙古绿色发展、民生提质、老城…",
+   "regions": [
+    "内蒙古"
+   ]
+  },
+  {
+   "title": "历史建筑续新韵 长沙老城更新激活消费业态",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720311.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T06:41:07.000Z",
+   "summary": "中新社长沙10月24日电 题：历史建筑续新韵 长沙老城更新激活消费业态",
+   "regions": [
+    "长沙"
+   ]
+  },
+  {
+   "title": "（走进中国乡村）山东东楮岛：一株海草串起的“童话渔村”",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720312.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T06:37:35.000Z",
+   "summary": "中新社山东荣成10月24日电 题：山东东楮岛：一株海草串起的“童话渔村”",
+   "regions": [
+    "山东"
+   ]
+  },
+  {
+   "title": "3万亿级参数规模 全球最大开源AI大模型上新",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720310.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T06:37:07.000Z",
+   "summary": "中新社北京10月24日电 (记者 刘亮)10月24日凌晨，中国人工智能(AI)大模型企业月之暗面(Moonshot AI)发布新一代开源大模型Kimi K3.1 Pro。该模型为3万亿级参数规模，支持100万词元(Token)上下文窗口，蝉…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "赋能发展中国家 世界人工智能合作组织推动弥合全球智能鸿沟",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720316.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T06:29:46.000Z",
+   "summary": "【中国那些事儿】赋能发展中国家 世界人工智能合作组织推动弥合全球智能鸿沟",
+   "regions": []
+  },
+  {
+   "title": "2026桂林艺术节开幕 山水为台戏联中外",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720305.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T06:19:06.000Z",
+   "summary": "中新网桂林10月24日电 (俞靖 邓竣缤)以“光”为主题的2026桂林艺术节23日晚间在广西桂林漓江畔开幕。“灯光映着山水，如同一幅流动的东方画卷，这份中式浪漫令我印象深刻。”广西师范大学越南籍留学生范段玉观看开幕式后表示。",
+   "regions": [
+    "亚太",
+    "桂林",
+    "广西"
+   ]
+  },
+  {
+   "title": "新疆铁路双口岸今年通行中欧（亚）班列超1.5万列",
+   "link": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720304.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T06:17:22.000Z",
+   "summary": "中新网乌鲁木齐10月24日电 (吴奇 靳宜泽 郑鑫)10月23日17时，一列满载机械设备、日用百货的中欧班列从霍尔果斯铁路口岸驶出，开往波兰马拉舍维奇。截至当天，今年新疆阿拉山口、霍尔果斯铁路口岸通行中欧(亚)班列超1.5万列，达15052…",
+   "regions": [
+    "欧洲",
+    "乌鲁木齐",
+    "新疆"
+   ]
+  },
+  {
+   "title": "兰西城市群青少年软式棒垒球邀请赛在西宁开赛",
+   "link": "https://www.chinanews.com.cn/ty/2026/10-24/10720303.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T06:15:32.000Z",
+   "summary": "中新网西宁10月24日电 (记者 孙睿)24日，第二届“奔跑吧·少年”兰西城市群青少年软式棒垒球邀请赛在西宁开赛。",
+   "regions": [
+    "西宁"
+   ]
+  },
+  {
+   "title": "工业互联网操作系统产业联盟在深成立",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720300.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T06:07:45.000Z",
+   "summary": "中新网深圳10月24日电 (记者 王坚)CEIC2026消费电子创新大会22日至24日在深圳举行。其间，工业互联网操作系统产业联盟在2026消费电子创新大会·具身智能产业论坛上成立。",
+   "regions": [
+    "深圳"
+   ]
+  },
+  {
+   "title": "武夷玉女峰与瑞士菲斯特峰设立姐妹峰联名打卡地标",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720299.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T06:05:53.000Z",
+   "summary": "中新网武夷山10月24日电(记者张丽君)“双峰遥契·中瑞情长”福建南平武夷山玉女峰与瑞士格林德瓦菲斯特峰姐妹峰联名打卡地标远程揭牌仪式，23日在中瑞两地同步举行，标志着两地“姐妹峰”合作从框架协议落地为实体化文旅交流载体。",
+   "regions": [
+    "福建"
+   ]
+  },
+  {
+   "title": "秋落轨道间：长春 “落叶不扫”的浪漫减法",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720309.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T06:04:37.000Z",
+   "summary": "中新网长春10月24日电 题：秋落轨道间：长春“落叶不扫”的浪漫减法",
+   "regions": [
+    "长春"
+   ]
+  },
+  {
+   "title": "2026全球治理论坛（雄安）开幕 与会外宾参访感受“未来之城”魅力",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720307.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T05:59:37.000Z",
+   "summary": "2026全球治理论坛(雄安)23日晚在河北雄安开幕。中方发布八项务实举措落实全球治理倡议。本次论坛以“重建信心与合作：百年变局与改革完善全球治理”为主题，来自90多个国家的政界、战略界、学界、工商界及青年领袖等近400人参会。",
+   "regions": [
+    "河北"
+   ]
+  },
+  {
+   "title": "中国石化西藏分公司紧急驰援巴青地震灾区 首批油品及生活物资启运",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720298.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T05:54:54.000Z",
+   "summary": "中新网拉萨10月24日电 (罗布央吉 旦增次央)10月22日那曲市巴青县发生7.0级地震后，中国石化西藏分公司第一时间启动应急预案，调配应急物资和组织运力，支援灾区抗震救灾。",
+   "regions": [
+    "拉萨",
+    "西藏"
+   ]
+  },
+  {
+   "title": "重庆：5000架无人机点亮夜空 展现“壮美长江·诗画三峡”",
+   "link": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208721.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:54:02.000Z",
+   "summary": "图为民众拍摄无人机演出。黄建桦 摄 图为民众观看无人机表演。黄建桦 摄 图为民众用手机记录无人机表演。侯本艳 摄 图为民众观看无人机表演。游晓铭 摄 图为5000架无人机在城市上展现万州天生城。付作侨 摄 图为5000架无人机点亮万州城市夜…",
+   "regions": [
+    "重庆"
+   ]
+  },
+  {
+   "title": "“永远的红星”——纪念红军长征胜利90周年群众合唱荟在桂林全州唱响",
+   "link": "https://www.chinanews.com.cn/cul/2026/10-24/10720297.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:52:34.000Z",
+   "summary": "中新网桂林10月24日电(俞靖)由广西壮族自治区党委宣传部主办，广西文化产业集团、广西广播电视台等联合承办的“永远的红星”——纪念红军长征胜利90周年群众合唱荟，近日在桂林市全州县红军长征湘江战役纪念园唱响。八桂楷模等先进模范、社会各界干部…",
+   "regions": [
+    "桂林",
+    "广西"
+   ]
+  },
+  {
+   "title": "以声传经典 诗文诵中山",
+   "link": "https://www.chinanews.com.cn/txy/2026/10-24/10720296.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:50:54.000Z",
+   "summary": "中新网海口10月24日电 题：以声传经典 诗文诵中山",
+   "regions": [
+    "海口",
+    "中山"
+   ]
+  },
+  {
+   "title": "207金117银111铜 中国队亚残运圆满收官",
+   "link": "https://www.chinanews.com.cn/ty/2026/10-24/10720295.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:43:42.000Z",
+   "summary": "今天",
+   "regions": []
+  },
+  {
+   "title": "小小啤酒花 走进新疆兵团“做强特色农业”账本里",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720282.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:36:07.000Z",
+   "summary": "中新网乌鲁木齐10月24日电 (史玉江)近日，在新疆生产建设兵团第二师二十七团一连，墨绿色的酒花穗被成筐送进加工车间，经过脱花、分拣、低温烘干、压粒等工序，变成一包包等待发往沿海的啤酒原料。",
+   "regions": [
+    "乌鲁木齐",
+    "新疆"
+   ]
+  },
+  {
+   "title": "从于右任出发：中外书法家沪上办展，以笔墨作答AI时代",
+   "link": "https://www.chinanews.com.cn/cul/2026/10-24/10720284.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:28:23.000Z",
+   "summary": "中新网上海10月24日电(记者 张亨伟)展览“从于右任出发——中国书法 世界回响”23日在上海静安里唐宅的百年老建筑内开幕。在人工智能(AI)浪潮席卷各行各业的当下，15位中外艺术家试图用笔墨给出一个时代的回答：当机器也能挥毫泼墨时，人类为…",
+   "regions": [
+    "上海"
+   ]
+  },
+  {
+   "title": "话剧《钦差大臣》亮相2026桂林艺术节舞台",
+   "link": "https://www.chinanews.com.cn/cul/2026/10-24/10720285.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:27:21.000Z",
+   "summary": "中新网桂林10月24日电(周利朔 欧惠兰)10月23日晚间，2026桂林艺术节拉开帷幕，由英达导演工作室带来的话剧《钦差大臣》在桂林大剧院大剧场精彩上演。",
+   "regions": [
+    "桂林"
+   ]
+  },
+  {
+   "title": "台风“蔷琵”移入东海南部海域 4地防汛防台风四级应急响应持续",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720291.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T05:27:19.000Z",
+   "summary": "中新网10月24日电 据应急管理部网站消息，10月24日上午，国家防总办公室、应急管理部继续组织中国气象局、水利部、自然资源部、工业和信息化部、住房城乡建设部、交通运输部等部门以及上海、江苏、浙江等重点省份联合会商，研判台风“蔷琵”发展趋势…",
+   "regions": [
+    "上海",
+    "江苏"
+   ]
+  },
+  {
+   "title": "嘉峪关机务段数智赋能守护兰新丝路运输通道",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720280.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T05:27:19.000Z",
+   "summary": "中新网兰州10月24日电 (记者 高莹)兰新铁路是新亚欧大陆桥中国段西通道核心干线，也是中欧班列西行出境的必经之路。保障跨境货运班列安全准点通行，是兰州铁路局嘉峪关机务段肩负的重要使命。",
+   "regions": [
+    "兰州",
+    "嘉峪关"
+   ]
+  },
+  {
+   "title": "受台风“蔷琵”影响 长三角铁路部门调整列车开行方案",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720270.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T05:24:27.000Z",
+   "summary": "中新网南京10月24日电 (记者 朱晓颖)受今年第30号台风“蔷琵”影响，为确保铁路运输和旅客出行安全，长三角铁路部门启动应急响应，调整列车开行方案，对23日17时至24日24时杭深铁路、金温铁路、杭台高铁等线路部分区段采取临时限速措施，对…",
+   "regions": [
+    "南京"
+   ]
+  },
+  {
+   "title": "中欧班列“东通道”年内通行量突破6000列",
+   "link": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720267.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:22:59.000Z",
+   "summary": "中新网哈尔滨10月24日电 (史轶夫 孙涛)中国铁路哈尔滨局集团有限公司10月24日对外发布，截至10月23日，今年以来，中欧班列“东通道”通行班列达6024列，同比增长40.3%，年内通行量首次突破6000列，创历史同期新高。",
+   "regions": [
+    "哈尔滨"
+   ]
+  },
+  {
+   "title": "甘肃“金色田野”里的乡村舞者",
+   "link": "https://www.chinanews.com.cn/cul/2026/10-24/10720266.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-24T05:22:29.000Z",
+   "summary": "中新网兰州10月24日电 (戴文昌)2026年甘肃省“金色的田野”万村广场舞大赛总决赛23日在兰州开赛。来自甘肃省田间地头的乡村舞者同台起舞，把丰收喜悦、乡土风情融进律动之中，以接地气的舞姿展现陇原乡村全民健身新风。",
+   "regions": [
+    "兰州",
+    "甘肃"
+   ]
+  },
+  {
+   "title": "广西纪念中国工农红军长征胜利90周年座谈会在桂林召开",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720269.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T05:14:46.000Z",
+   "summary": "中新网桂林10月24日电(韦佳秀 俞靖)10月23日，广西纪念中国工农红军长征胜利90周年座谈会在桂林市全州县召开。",
+   "regions": [
+    "桂林",
+    "广西"
+   ]
+  },
+  {
+   "title": "在厦门市集品尝提速送达的台湾鲜味",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720287.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T05:01:47.000Z",
+   "summary": "中新社厦门10月24日电 题：在厦门市集品尝提速送达的台湾鲜味",
+   "regions": [
+    "台海",
+    "厦门"
+   ]
+  },
+  {
+   "title": "云南五百年佤寨焕新颜 数智助“幸福的地方”更幸福",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720265.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T04:44:00.000Z",
+   "summary": "中新网保山10月24日电 题：云南五百年佤寨焕新颜 数智助“幸福的地方”更幸福",
+   "regions": [
+    "保山",
+    "云南"
+   ]
+  },
+  {
+   "title": "50余名缅甸青年临沧“开拍” 用镜头向世界发出“云南之约”",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720260.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T04:22:19.000Z",
+   "summary": "中新网云南临沧10月24日电 (陈静 黄兴鸿)23日晚，2026年“云南之约”国际传播活动(临沧站)在位于云南省临沧市的滇西科技师范学院开营。50余名缅甸留学生及网络达人将在未来4天走进临沧的村寨、茶园与古窑，用短视频“遇见临沧”，向世界发…",
+   "regions": [
+    "临沧",
+    "云南"
+   ]
+  },
+  {
+   "title": "以瓷会友 2026海峡两岸（景德镇）陶瓷文化交流活动闭幕",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720258.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T04:21:01.000Z",
+   "summary": "中新网景德镇10月24日电 (朱莹 邓俊萍)为期6天的2026海峡两岸(景德镇)陶瓷文化交流活动23日在江西景德镇闭幕。活动期间，两岸陶艺家互学互鉴、共续瓷缘。",
+   "regions": [
+    "台海",
+    "江西"
+   ]
+  },
+  {
+   "title": "“七一勋章”获得者林丹：小巷里的“养老答卷”",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720259.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T04:18:41.000Z",
+   "summary": "中新网福州10月24日电 题：“七一勋章”获得者林丹：小巷里的“养老答卷”",
+   "regions": [
+    "福州"
+   ]
+  },
+  {
+   "title": "习言道｜全面从严治党，总书记这些比喻深入人心",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720247.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T04:06:34.000Z",
+   "summary": "治国必先治党，党兴才能国强。党的十八大以来，习近平总书记对于全面从严治党作出一系列重要论述，其中有许多深入人心的比喻。“把权力关进制度的笼子里”“扣好廉洁从政的‘第一粒扣子’”“‘病树’该拔就拔、该伐就伐”……重温这些比喻，一起学习领悟其中…",
+   "regions": []
+  },
+  {
+   "title": "冷冷冷！新一波冷空气来袭 供暖季开启前做好这几件事→",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720257.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T04:05:06.000Z",
+   "summary": "最近天气一下子就冷了",
+   "regions": []
+  },
+  {
+   "title": "国家疾控局：西藏巴青地震灾区灾后卫生防疫力量已实现全覆盖",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720250.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T03:26:44.000Z",
+   "summary": "10月22日22时33分许，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。地震发生后，国家疾控局联系西藏自治区疾控局了解灾情和灾民安置情况，迅速派出国家突发急性传染病防控队(西藏)先遣队赶赴灾区一线，组派国家疾控局工作组紧急赶赴灾区指…",
+   "regions": [
+    "西藏"
+   ]
+  },
+  {
+   "title": "长征路上，看见时代巨变",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720242.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T03:17:34.000Z",
+   "summary": "长征，是一场震撼世界、彪炳史册的伟大远征，历经艰难险阻、付出巨大牺牲，实现了中国共产党和中国革命事业从挫折走向胜利的伟大转折，成为中国革命史上一座不朽的丰碑。",
+   "regions": []
+  },
+  {
+   "title": "700余件（套）文物串联两千余年历史，中国长城博物馆开馆",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720236.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T03:05:31.000Z",
+   "summary": "10月24日，中国长城博物馆在北京八达岭长城景区试运行开放。经三年多改造提升，总建筑面积约16000平方米，基本陈列上展文物700余件(套)……这座长城脚下的博物馆，怎样以文物串联起长城沿线15个省(自治区、直辖市)的文明故事，展示两千年间…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "Xi's key remarks on advancing full and rigorous Party self-governance",
+   "link": "https://news.cgtn.com/news/2026-10-24/Xi-s-key-remarks-on-advancing-full-and-rigorous-Party-self-governance-1RuL4xceBB6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-24T02:59:37.000Z",
+   "summary": "Xi Jinping, general secretary of the Communist Party of China (CPC) Central Committee, Chinese president and chairman of…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "西藏巴青7.0级地震后次夜 孩童安睡不再害怕",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720229.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T02:55:59.000Z",
+   "summary": "中新社西藏巴青10月24日电 题：西藏巴青7.0级地震后次夜 孩童安睡不再害怕",
+   "regions": [
+    "西藏"
+   ]
+  },
+  {
+   "title": "一箭六星 长四乙火箭成功发射",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720228.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T02:53:30.000Z",
+   "summary": "中新社北京10月24日电 (记者 马帅莎)据中国航天科技集团消息，北京时间10月24日3时25分，中国在酒泉卫星发射中心使用长征四号乙运载火箭，成功将遥感五十三号07-09星、遥感五十六号19-21星发射升空，卫星顺利进入预定轨道，发射任务…",
+   "regions": [
+    "北京",
+    "酒泉"
+   ]
+  },
+  {
+   "title": "从家族浮沉看家国团圆 在吉台胞追忆峥嵘过往",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720224.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T02:53:00.000Z",
+   "summary": "中新网长春10月24日电 (高龙安 李彦国)23日，台湾光复纪念日到来前夕，吉林省台湾同胞联谊会在长春举办“凝聚民族记忆 两岸同根同源”台湾光复纪念日主题活动，40余位在吉台胞齐聚一堂，共同回望全体中华儿女浴血奋战、赢得抗战胜利与台湾光复的…",
+   "regions": [
+    "台海",
+    "长春",
+    "吉林"
+   ]
+  },
+  {
+   "title": "奥地利驻华大使海沃福：建交55周年，奥中“外交之门”让更多人走近彼此",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720222.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T02:50:44.000Z",
+   "summary": "中新网北京10月24日电 (记者 苏婧欣)在中国与奥地利建交55周年之际，奥地利驻华大使海沃福23日表示，两国关系不仅由政府和官方互访定义，更由两国人民共同构建，过去半个多世纪的人与人交流是双边关系中最宝贵的部分。展望未来，奥方愿继续推进对…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "广西桐金高速通车 金秀县城结束不通高速历史",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720218.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T02:42:58.000Z",
+   "summary": "中新网广西来宾10月24日电 (陈秋霞 罗继梁 谭小荣)10月23日，广西柳州至金秀公路桐木至金秀段(简称“桐金高速”)建成通车，来宾市金秀瑶族自治县县城结束不通高速公路历史。金秀融入柳州、来宾一小时交通圈。",
+   "regions": [
+    "柳州",
+    "来宾"
+   ]
+  },
+  {
+   "title": "2026世界旅游小姐中国区总决赛走进广西宁明花山",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720215.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T02:41:52.000Z",
+   "summary": "中新网广西崇左10月24日电 (黄山)2026世界旅游小姐中国区总决赛欢迎仪式23日在广西崇左市宁明花山游客中心举行。来自全国各地的54名参赛选手齐聚宁明县，让千年骆越文化与时尚之美在此碰撞交融。",
+   "regions": [
+    "西宁",
+    "崇左"
+   ]
+  },
+  {
+   "title": "西藏巴青7.0级地震：医疗救援队连夜驰援震区",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720213.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T02:41:14.000Z",
+   "summary": "中新网拉萨10月23日电(谢牧)10月22日22时33分，西藏那曲市巴青县发生7.0级地震，震源深度10公里。地震发生后，西藏自治区启动地震灾害二级应急响应，自治区卫生健康委员会启动自治区、市、县三级医疗救治应急响应，统筹调度医疗救援力量。…",
+   "regions": [
+    "拉萨",
+    "西藏"
+   ]
+  },
+  {
+   "title": "人民子弟兵投入西藏那曲市巴青县抗震救灾",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720220.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T02:35:35.000Z",
+   "summary": "新华社西藏巴青10月23日电(刘言明、陈利)10月22日22时33分许，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡，人民子弟兵第一时间投入抗震救灾。",
+   "regions": [
+    "西藏"
+   ]
+  },
+  {
+   "title": "中越海事业务交流在南宁举行 聚焦通航秩序与安全",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720209.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T02:34:25.000Z",
+   "summary": "中新网南宁10月24日电(黄艳梅 陈振奋 莫卫华)记者23日从广西海事局获悉，中越海事机构水上交通安全管理技术业务交流近日在广西南宁举行。中越双方围绕船舶通航、监督检查、智慧监管及污染防治等主题展开研讨。",
+   "regions": [
+    "南宁",
+    "广西"
+   ]
+  },
+  {
+   "title": "广西北海归侨安置点开展医疗服务和法治宣传活动",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720207.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T02:33:01.000Z",
+   "summary": "中新网北海10月24日电(徐国颖)为深入践行为侨服务宗旨，不断铸牢中华民族共同体意识，广西北海市侨联23日联合北海市人大外侨民宗委、北海市政协外联民宗委、北海市委统战部(市民宗侨务局)、致公党北海市委会、司法局，共同走进归侨安置点——北海铁…",
+   "regions": [
+    "北海",
+    "广西"
+   ]
+  },
+  {
+   "title": "壹视界｜“娃娃们呐，你们不必受这般苦，但千万莫忘来时路”",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720211.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T02:11:18.000Z",
+   "summary": "我叫赵茂林，1920年4月生，四川达县(今达州市达川区)人，今年106岁。",
+   "regions": [
+    "四川"
+   ]
+  },
+  {
+   "title": "湖南省委主要负责同志职务调整",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720204.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T02:02:44.000Z",
+   "summary": "新华社北京10月24日电 日前，中共中央决定：王志军同志任湖南省委委员、常委、书记，沈晓明同志不再担任湖南省委书记、常委、委员职务。",
+   "regions": [
+    "北京",
+    "湖南"
+   ]
+  },
+  {
+   "title": "肖战来南京开唱！一张“票根”如何玩转全城？",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720192.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T02:01:02.000Z",
+   "summary": "金秋的江苏，",
+   "regions": [
+    "南京",
+    "江苏"
+   ]
+  },
   {
    "title": "“双创”大赛生物医药产业赛区（广东广州）举行颁奖仪式",
    "link": "https://www.chinanews.com.cn/edu/2026/10-24/10720194.shtml",
@@ -287,6 +1738,17 @@
    "regions": [
     "广州",
     "广东"
+   ]
+  },
+  {
+   "title": "All aboard: China and Guinea train Simandou railway crews",
+   "link": "https://news.cgtn.com/news/2026-10-24/All-aboard-China-and-Guinea-train-Simandou-railway-crews-1RuEXeWIDuw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-24T01:17:21.000Z",
+   "summary": "All aboard: China and Guinea train Simandou railway crews",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -400,9 +1862,103 @@
    "time": "2026-10-24T00:26:50.000Z",
    "summary": "台风“蔷琵”正在我国近海活跃，华东沿海即将迎来强风雨。",
    "regions": []
+  },
+  {
+   "title": "Chinese FM meets UN high commissioner for refugees",
+   "link": "https://news.cgtn.com/news/2026-10-24/Chinese-FM-meets-UN-high-commissioner-for-refugees-1RuExVeFJAs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-24T00:13:10.000Z",
+   "summary": "Chinese Foreign Minister Wang Yi on Friday met with UN High Commissioner for Refugees (UNHCR) Barham Salih, who is in Ch…",
+   "regions": []
   }
  ],
  "econ": [
+  {
+   "title": "3万亿级参数规模 全球最大开源AI大模型上新",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720310.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-24T06:37:07.000Z",
+   "summary": "中新社北京10月24日电 (记者 刘亮)10月24日凌晨，中国人工智能(AI)大模型企业月之暗面(Moonshot AI)发布新一代开源大模型Kimi K3.1 Pro。该模型为3万亿级参数规模，支持100万词元(Token)上下文窗口，蝉…",
+   "regions": []
+  },
+  {
+   "title": "扩大经贸合作 释放更多“惠邻”“富邻”效应",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720313.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-24T06:22:16.000Z",
+   "summary": "原标题：新华时评·广交会观察｜扩大经贸合作 释放更多“惠邻”“富邻”效应",
+   "regions": []
+  },
+  {
+   "title": "工业互联网操作系统产业联盟在深成立",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720300.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-24T06:07:45.000Z",
+   "summary": "中新网深圳10月24日电 (记者 王坚)CEIC2026消费电子创新大会22日至24日在深圳举行。其间，工业互联网操作系统产业联盟在2026消费电子创新大会·具身智能产业论坛上成立。",
+   "regions": []
+  },
+  {
+   "title": "小小啤酒花 走进新疆兵团“做强特色农业”账本里",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720282.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-24T05:36:07.000Z",
+   "summary": "中新网乌鲁木齐10月24日电 (史玉江)近日，在新疆生产建设兵团第二师二十七团一连，墨绿色的酒花穗被成筐送进加工车间，经过脱花、分拣、低温烘干、压粒等工序，变成一包包等待发往沿海的啤酒原料。",
+   "regions": []
+  },
+  {
+   "title": "韩国济州代表团访渝考察智能制造 冀深化两地产业合作",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720290.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-24T05:12:16.000Z",
+   "summary": "中新社重庆10月24日电 (梁钦卿)10月22日至24日，韩国济州21世纪韩中国际交流协会代表团一行14人赴重庆参访，走进机器人、智能网联新能源汽车等产业一线，感受重庆智能制造活力，为深化韩国地方与重庆产业合作牵线搭桥。",
+   "regions": [
+    "朝鲜半岛",
+    "重庆"
+   ]
+  },
+  {
+   "title": "广东茂名口岸首票进口“多式联运（水水）”业务落地",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720261.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-24T04:42:40.000Z",
+   "summary": "中新网茂名10月24日电 (梁盛 卢明枢 王子瑞)广东茂名海关24日发布消息：“穗港航5001”轮23日顺利靠泊茂名广港码头，船上装载来自塞内加尔的26个集装箱进口初榨花生油顺利办结通关手续，目前正在卸运中，标志着茂名口岸首票进口“多式联运…",
+   "regions": []
+  },
+  {
+   "title": "累计服务超1亿用户！京东11.11发布家电家居“送装一体”服务升级三大举措",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720240.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-24T03:17:42.000Z",
+   "summary": "随着近年来消费品以旧换新政策的落地，大件家电家居的送装服务正成为影响消费者换新体验的关键环节。配送与安装能否高效衔接并一体化执行，正越来越受到消费者的关注。今年7月，商务部等九部门印发《关于加快零售业创新发展的意见》，鼓励推广送装同步等便利…",
+   "regions": []
+  },
+  {
+   "title": "全球超八成新船订单涌向中国 背后藏着哪些中国制造密码？",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720239.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-24T03:10:47.000Z",
+   "summary": "你知道吗，有一个行业，全球超八成新订单都是由中国来承接的，这个行业就是——造船。",
+   "regions": []
+  },
+  {
+   "title": "西部十二地消协组织联合发布“双十一”网络购物消费提示",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720221.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-24T02:47:42.000Z",
+   "summary": "中新网贵阳10月24日电 (记者 杨茜)一年一度的“双十一”网络集中促销活动已开始，为切实维护消费者合法权益，引导消费者科学理性消费、依法高效维权，贵州省消费者协会联合内蒙古、广西、重庆、四川、云南、西藏、陕西、甘肃、青海、宁夏、新疆西部十…",
+   "regions": []
+  },
+  {
+   "title": "中国石油在巴青震中设立临时油品保供点 保障救援车辆用油",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720208.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-24T02:07:56.000Z",
+   "summary": "中新网拉萨10月24日电(白玛玉珍)10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震，震源深度10千米。10月23日16时，两辆小额配送车火速抵达震中巴青县玛如乡3村，中国石油在抗震救灾现场快速设立临时油品保供点。",
+   "regions": [
+    "拉萨",
+    "西藏"
+   ]
+  },
   {
    "title": "王毅：要共同坚持开放发展的正确方向",
    "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720188.shtml",
@@ -420,5 +1976,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-24T01:46:26.327Z"
+ "updatedAt": "2026-10-24T06:48:42.705Z"
 }
