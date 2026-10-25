@@ -2,6 +2,62 @@
  "date": "2026-10-24",
  "tech": [
   {
+   "title": "微软 Edge 浏览器已原生支持 GPC 隐私控制功能，Chrome 也已开展相关测试",
+   "link": "https://www.ithome.com/1/017/535.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:57:53.000Z",
+   "summary": "IT之家 10 月 25 日消息，微软在 Edge 浏览器中推出了一项和隐私相关的更新：浏览器原生内置了全球隐私控制（GPC）开关。 据IT之家了解，万维网联盟（W3C）在 2020 年 10 月推出了全球隐私控制（GPC）规范，用来帮助用…",
+   "regions": []
+  },
+  {
+   "title": "搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出",
+   "link": "https://www.ithome.com/1/017/534.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:48:40.000Z",
+   "summary": "IT之家 10 月 25 日消息，如果你本周末身在洛杉矶，就有机会亲眼见到特斯拉新款 Roadster。特斯拉在 X 平台宣布，这辆 Roadster 正在彼得森汽车博物馆展出，展览时间为 10 月 24 日至 27 日，展出地点在主大厅。…",
+   "regions": []
+  },
+  {
+   "title": "同人变官方：《赛博朋克 2077》续作设计团队中，半数是被“收编”的模组作者",
+   "link": "https://www.ithome.com/1/017/533.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:47:48.000Z",
+   "summary": "IT之家 10 月 25 日消息，当地时间 23 日，据外媒 VGC 报道，《赛博朋克 2077》续作副总监帕维尔 · 萨斯科透露，续作任务设计团队约有一半成员曾是游戏模组作者。 萨斯科认为，玩家能够随时在游戏内启用或关闭模组，不仅操作更加…",
+   "regions": []
+  },
+  {
+   "title": "三体宇宙全新剧集《三体・智子灾变》官宣：主创阵容首曝，概念海报同步首发",
+   "link": "https://www.ithome.com/1/017/532.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:40:51.000Z",
+   "summary": "IT之家 10 月 25 日消息，三体宇宙衍生真人剧《三体：智子灾变》已正式官宣， 并首发概念海报 。 本片将由路阳监制，忻钰坤执导 ，剧集聚焦三体危机下的年轻一代。当倒计时笼罩全球，熟悉的世界逐渐失序，普通人将如何面对未知、做出抉择？文明…",
+   "regions": []
+  },
+  {
+   "title": "任天堂 Switch 2 破解取得进展，《三角符文》《黄昏之血》资源包流出",
+   "link": "https://www.ithome.com/1/017/531.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:36:38.000Z",
+   "summary": "IT之家 10 月 25 日消息，Switch 2 的破解给这台主机的自制程序生态注入了活力。任天堂已经采取措施封堵 ns2jb 漏洞，但又有一则消息正在传开：《三角符文》第 1 至 4 章以及《黄昏之血》测试版的首批次世代游戏资源包已经流…",
+   "regions": []
+  },
+  {
+   "title": "李小龙：2.4G / 5G 频段同时工作是 Wi-Fi 7 特性，华为在 Wi-Fi 6 时代通过私有协议提前支持",
+   "link": "https://www.ithome.com/1/017/530.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:34:50.000Z",
+   "summary": "IT之家 10 月 25 日消息，博主 @不是郑小康 昨晚发文，谈及了华为鸿蒙 HarmonyOS 7 系统的使用感受。他称在华为 Pura X View 的鸿蒙 7 系统中，“貌似”不能 2.4G 和 5G Wi-Fi 一起连加速上网。 …",
+   "regions": []
+  },
+  {
+   "title": "全球最大“电力超市”开业，南方区域电力市场正式运行",
+   "link": "https://www.ithome.com/1/017/529.htm",
+   "source": "IT之家",
+   "time": "2026-10-24T23:30:42.000Z",
+   "summary": "IT之家 10 月 25 日消息，据央视财经报道，10 月 24 日，我国首个区域电力市场 —— 南方区域电力市场正式运行。 此举标志着全国统一电力市场建设迎来重大里程碑式节点。它打通了广东、广西、云南、贵州、海南五个省区的市场， 把煤电、…",
+   "regions": []
+  },
+  {
    "title": "PHP 基金会负责人坦言资金不足：仅 1 名全职员工",
    "link": "https://www.ithome.com/1/017/528.htm",
    "source": "IT之家",
@@ -1228,6 +1284,59 @@
  ],
  "world": [
   {
+   "title": "【地震 M5.3】44 km ESE of Miyazaki, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T23:59:36.599Z",
+   "summary": "美国地质调查局官方监测：44 km ESE of Miyazaki, Japan发生 5.3 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "中国人民志愿军烈士陵园在朝鲜黄海北道新坪郡竣工",
+   "link": "https://sputniknews.cn/20261025/1073776201.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T23:48:36.000Z",
+   "summary": "据朝中社报道，在中国人民志愿军入朝参战76周年之际，位于朝鲜黄海北道新坪郡的中国人民志愿军烈士墓已改建为烈士陵园，竣工仪式于10月24日在当地举行。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】192 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qp",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T23:44:57.729Z",
+   "summary": "美国地质调查局官方监测：192 km NW of Port-Olry, Vanuatu发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】203 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T23:39:07.167Z",
+   "summary": "美国地质调查局官方监测：203 km NW of Port-Olry, Vanuatu发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "金正恩访问丹东：在中国人民志愿军烈士出兵地缅怀历史，是应尽的道义和义务",
+   "link": "https://sputniknews.cn/20261025/1073775891.html",
+   "source": "卫星社中文",
+   "time": "2026-10-24T23:38:50.000Z",
+   "summary": "据朝中社报道，在中国人民志愿军入朝参战76周年之际，朝鲜劳动党总书记、国务委员长金正恩于10月24日对中国辽宁省丹东市进行了访问。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
    "title": "俄外交部发言人：俄中美元首或将会晤，为世界向稳定过渡带来希望",
    "link": "https://sputniknews.cn/20261025/1073775611.html",
    "source": "卫星社中文",
@@ -1306,6 +1415,16 @@
    "regions": [
     "美国阿拉斯加",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.9】209 km WSW of Pistol River, Oregon",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4q4",
+   "source": "USGS地震台网",
+   "time": "2026-10-24T22:26:04.077Z",
+   "summary": "美国地质调查局官方监测：209 km WSW of Pistol River, Oregon发生 3.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
    ]
   },
   {
@@ -4869,5 +4988,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-24T23:30:46.274Z"
+ "updatedAt": "2026-10-25T01:31:43.215Z"
 }
