@@ -1958,6 +1958,17 @@
    ]
   },
   {
+   "title": "【地震 M4.6】155 km WSW of Ternate, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4u2",
+   "source": "USGS地震台网",
+   "time": "2026-10-25T12:09:05.522Z",
+   "summary": "美国地质调查局官方监测：155 km WSW of Ternate, Indonesia发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
    "title": "巴西总统选举第二轮投票开始",
    "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720807.shtml",
    "source": "中新网国际",
@@ -4957,5 +4968,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-26T04:06:26.062Z"
+ "updatedAt": "2026-10-26T10:22:11.639Z"
 }
