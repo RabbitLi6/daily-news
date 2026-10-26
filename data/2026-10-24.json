@@ -330,6 +330,14 @@
    "regions": []
   },
   {
+   "title": "IDEA enjoy 模板引擎 插件 1.0 发布",
+   "link": "https://www.oschina.net/news/503195",
+   "source": "开源中国",
+   "time": "2026-10-24T11:30:10.000Z",
+   "summary": "Changelog 1.0 (2026-10-24) 首个正式版本。为 JFinal Enjoy 模板引擎提供完整的 IntelliJ IDEA 编辑支持。 语法高亮与编辑 Enjoy 模板语法高亮（指令、表达式、注释、字符串等，可在颜色设…",
+   "regions": []
+  },
+  {
    "title": "戴尔推出“U3226QER”31.5 英寸显示器：4K 120Hz IPS Black 面板、双雷电 4 接口，5199 元",
    "link": "https://www.ithome.com/1/017/488.htm",
    "source": "IT之家",
@@ -607,6 +615,14 @@
    "source": "IT之家",
    "time": "2026-10-24T07:55:48.000Z",
    "summary": "IT之家 10 月 24 日消息，V社宣布旗下 Steam 个人日历（Personal Calendar）功能现已结束 Steam 实验室的实验阶段，正式成为 Steam 商店的常规功能，目前玩家可通过 Steam 商店主页或个人日历页面访…",
+   "regions": []
+  },
+  {
+   "title": "Jync v1.8.0 新增统一认证 & 调整导航页面",
+   "link": "https://www.oschina.net/news/503193",
+   "source": "开源中国",
+   "time": "2026-10-24T07:52:39.000Z",
+   "summary": "企业门户的现有账号可以直接登录 Jync：支持「账号密码（OA 接口校验）」「网关头」「票据」三种统一认证方式，同一时刻只生效一种；导航按「配置管理」「日志管理」分组，新增系统日志查询页。界面把「项目」统一改称「同步任务」。升级后外部认证默…",
    "regions": []
   },
   {
@@ -1871,6 +1887,14 @@
     "美洲",
     "北京"
    ]
+  },
+  {
+   "title": "Voting begins in Brazil's presidential runoff",
+   "link": "https://news.cgtn.com/news/2026-10-24/news-1RvDEEVS4V2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-24T13:58:51.000Z",
+   "summary": "Voting in the second round of Brazil's 2026 presidential election officially began at 8 a.m. local time (1100 GMT) on Su…",
+   "regions": []
   },
   {
    "title": "【地震 M4.8】216 km NW of Port-Olry, Vanuatu",
@@ -5438,5 +5462,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-25T21:58:54.595Z"
+ "updatedAt": "2026-10-26T04:06:26.067Z"
 }
