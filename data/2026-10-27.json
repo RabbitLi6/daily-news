@@ -106,6 +106,14 @@
    "regions": []
   },
   {
+   "title": "Jync v1.8.1 · 批量建任务，按表大小分箱",
+   "link": "https://www.oschina.net/news/503254",
+   "source": "开源中国",
+   "time": "2026-10-27T22:40:50.000Z",
+   "summary": "读一次源库表清单，按估算大小分箱，预览后一次建出多个停用任务。同步链路同样提速：行数估算改为按需读取，元数据库不再每轮空写；另修正大批量基线下的行数计数与几处 CDC 状态问题。 新功能 批量创建任务 入口：任务管理页「新建任务」旁新增「批…",
+   "regions": []
+  },
+  {
    "title": "别学编程了！Anthropic CEO 直言：代码工作快速消失，人类应该学弹钢琴",
    "link": "https://www.ithome.com/1/018/708.htm",
    "source": "IT之家",
@@ -287,6 +295,14 @@
    "source": "IT之家",
    "time": "2026-10-27T13:59:59.000Z",
    "summary": "IT之家 10 月 27 日消息，据韩联社，韩国首尔警察厅今日通报将 80 名涉嫌非法破解从而在原本无法使用 FSD 的特斯拉车型上擅自激活 FSD 功能的车主移送检方，并查扣了 21 台未经授权的激活设备。 警方指控，这些车主涉嫌违反韩国…",
+   "regions": []
+  },
+  {
+   "title": "Hikyuu 3.0 发布：组合即策略，极致性能撑起多策略引擎",
+   "link": "https://www.oschina.net/news/503253",
+   "source": "开源中国",
+   "time": "2026-10-27T13:53:54.000Z",
+   "summary": "始于 2006 年（前身 galaxy）、2012 年起以 Hikyuu 之名开源的量化研究框架，发布 3.0.0。这一版把组合引擎重写为 MultiSystem：策略与组合同构、可任意深度嵌套，用三种运行模式覆盖多策略信号汇总、资金配置与…",
    "regions": []
   },
   {
@@ -487,6 +503,14 @@
    "source": "IT之家",
    "time": "2026-10-27T11:42:47.000Z",
    "summary": "IT之家 10 月 27 日消息，八位堂 (8BitDo) 旗下猎户座 3 代青春竞技版手柄现已在京东发售。这款控制器也就是全球市场的 Ultimate 3C+ ，国行定价 199 元人民币。 京东 八位堂猎户座 3 代青春竞技版游戏手柄 …",
+   "regions": []
+  },
+  {
+   "title": "跑分之外：为什么 Sonnet 5.5 写代码比 Kimi K3.1 和 GPT-6.1 更好用",
+   "link": "https://www.oschina.net/news/503252",
+   "source": "开源中国",
+   "time": "2026-10-27T11:42:45.000Z",
+   "summary": "这几天我的日常开发基本都交给了 Claude Code 里的 Sonnet 5.5：修 bug、加接口、改前端页面、跨文件重构，都是真实项目里的活。用下来最大的感受就一个字：强。 又快又好：响应快，写出来的代码基本一次能用，很少需要返工； …",
    "regions": []
   },
   {
@@ -1806,6 +1830,17 @@
    ]
   },
   {
+   "title": "【地震 M2.8】236 km W of Ferndale, California",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttki",
+   "source": "USGS地震台网",
+   "time": "2026-10-27T23:34:22.541Z",
+   "summary": "美国地质调查局官方监测：236 km W of Ferndale, California发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国加州",
+    "美洲"
+   ]
+  },
+  {
    "title": "日本将对中国产钢板征收5年反倾销税",
    "link": "https://sputniknews.cn/20261028/1073827768.html",
    "source": "卫星社中文",
@@ -1828,6 +1863,14 @@
    ]
   },
   {
+   "title": "Eisenkot says ready to form government as exit polls show deadlock",
+   "link": "https://news.cgtn.com/news/2026-10-28/news-1RBgFrKuNI4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T23:22:48.000Z",
+   "summary": "Israeli opposition leader Gadi Eisenkot said on Tuesday night that exit polls showing his bloc ahead of Prime Minister B…",
+   "regions": []
+  },
+  {
    "title": "美军在东太平洋对一艘“贩毒船”实施打击 已致5人死亡",
    "link": "https://www.chinanews.com.cn/gj/2026/10-28/10721971.shtml",
    "source": "中新网国际",
@@ -1843,6 +1886,14 @@
    "source": "中新网滚动",
    "time": "2026-10-27T23:19:46.000Z",
    "summary": "真相来了丨孟湾气旋真能“撞击”喜马拉雅山脉吗？",
+   "regions": []
+  },
+  {
+   "title": "Eisenkot says Israel has chosen change, hopes to form government",
+   "link": "https://news.cgtn.com/news/2026-10-28/news-1RBgjIg5Xhu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T23:17:54.000Z",
+   "summary": "Eisenkot says Israel has chosen change, hopes to form government",
    "regions": []
   },
   {
@@ -1887,6 +1938,46 @@
    "regions": [
     "中东"
    ]
+  },
+  {
+   "title": "How the US midterm elections could impact Trump's presidency",
+   "link": "https://newsus.cgtn.com/news/2026-10-28/How-the-US-midterm-elections-could-impact-Trump-s-presidency-1RB8cARNfEc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T23:02:13.000Z",
+   "summary": "How the US midterm elections could impact Trump's presidency",
+   "regions": []
+  },
+  {
+   "title": "China hosts exhibition at UN marking 80th anniversary of Tokyo Trials",
+   "link": "https://newsus.cgtn.com/news/2026-10-28/China-hosts-exhibition-at-UN-marking-80th-anniversary-of-Tokyo-Trials-1RB7We7OqTC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T23:02:06.000Z",
+   "summary": "China hosts exhibition at UN marking 80th anniversary of Tokyo Trials",
+   "regions": []
+  },
+  {
+   "title": "Satellite images show oil spill on UAE coast",
+   "link": "https://newsus.cgtn.com/news/2026-10-28/Satellite-images-show-oil-spill-on-UAE-coast-1Rzkv0AN0as/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T23:01:47.000Z",
+   "summary": "Satellite images show oil spill on UAE coast",
+   "regions": []
+  },
+  {
+   "title": "World reacts to Brazil President Lula's reelection",
+   "link": "https://newsus.cgtn.com/news/2026-10-28/World-reacts-to-Brazil-President-Lula-s-reelection-1RzgvCxL8eA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T23:01:39.000Z",
+   "summary": "World reacts to Brazil President Lula's reelection",
+   "regions": []
+  },
+  {
+   "title": "EXCLUSIVE: Interview with an AI actress",
+   "link": "https://newsus.cgtn.com/news/2026-10-28/EXCLUSIVE-Interview-with-an-AI-actress-1RzgppXQgZa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T23:01:31.000Z",
+   "summary": "EXCLUSIVE: Interview with an AI actress",
+   "regions": []
   },
   {
    "title": "中方呼吁各方推进美伊止战促谈",
@@ -2088,6 +2179,17 @@
    "summary": "美国地质调查局官方监测：4 km WSW of Pāhala, Hawaii发生 2.5 级地震，震源深度 未知。",
    "regions": [
     "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】110 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhrydq",
+   "source": "USGS地震台网",
+   "time": "2026-10-27T18:41:48.996Z",
+   "summary": "美国地质调查局官方监测：110 km SSW of Nikolski, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
     "美洲"
    ]
   },
@@ -2891,6 +2993,14 @@
    ]
   },
   {
+   "title": "Xi congratulates Lula on re-election as Brazilian president",
+   "link": "https://news.cgtn.com/news/2026-10-27/Xi-congratulates-Lula-on-re-election-as-Brazilian-president-1RAkGMCkew8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T11:28:29.000Z",
+   "summary": "Chinese President Xi Jinping on Tuesday extended congratulations to Luiz Inacio Lula da Silva on his re-election as pres…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.0】30 km N of Charlotte Amalie, U.S. Virgin Islands",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537738",
    "source": "USGS地震台网",
@@ -2962,6 +3072,14 @@
    ]
   },
   {
+   "title": "Khamenei calls for meeting Iran's conditions to end war: statement",
+   "link": "https://news.cgtn.com/news/2026-10-27/news-1RAp49jb4kw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T10:52:43.000Z",
+   "summary": "Supreme Leader Mojtaba Khamenei on Tuesday called for safeguarding Iran's rights and those of the regional \"resistance f…",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.2】191 km NW of Port-Olry, Vanuatu",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk",
    "source": "USGS地震台网",
@@ -2992,6 +3110,14 @@
     "中东",
     "黑龙江"
    ]
+  },
+  {
+   "title": "Japanese netizens slam govt's late response to Mongolia grassland fire",
+   "link": "https://news.cgtn.com/news/2026-10-27/Japanese-netizens-slam-govt-s-late-response-to-Mongolia-grassland-fire-1RAmgrKC9nW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T10:45:04.000Z",
+   "summary": "Japanese netizens slam govt's late response to Mongolia grassland fire",
+   "regions": []
   },
   {
    "title": "美国或将对涉华船舶的港务费暂停征收再延长两个月",
@@ -3025,6 +3151,14 @@
    ]
   },
   {
+   "title": "UK sanctions 15 Sudan commanders over El Fasher atrocities",
+   "link": "https://newsaf.cgtn.com/news/2026-10-27/UK-sanctions-15-Sudan-commanders-over-El-Fasher-atrocities-1RAjpUX1cGY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T10:30:50.000Z",
+   "summary": "The United Kingdom has imposed sanctions on 15 senior commanders from Sudan’s paramilitary Rapid Support Forces (RSF) an…",
+   "regions": []
+  },
+  {
    "title": "俄媒：中国帮助俄罗斯经济避免2022年后急剧下滑",
    "link": "https://sputniknews.cn/20261027/1073817467.html",
    "source": "卫星社中文",
@@ -3045,6 +3179,14 @@
     "欧洲",
     "美洲"
    ]
+  },
+  {
+   "title": "Qatar's delegation visits Iran to help de-escalate US-Iran tensions",
+   "link": "https://news.cgtn.com/news/2026-10-27/news-1RAm9OJacSY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T10:12:01.000Z",
+   "summary": "Qatar said Tuesday that a Qatari delegation's visit to Tehran on Sunday was part of ongoing mediation efforts to ease Ir…",
+   "regions": []
   },
   {
    "title": "【地震 M5.0】184 km NW of Port-Olry, Vanuatu",
@@ -3099,6 +3241,14 @@
    ]
   },
   {
+   "title": "Gao Fu: Fighting 'Disease X' requires global cooperation",
+   "link": "https://news.cgtn.com/news/2026-10-27/Gao-Fu-Fighting-Disease-X-requires-global-cooperation-1RAiSFnOFCE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T09:49:46.000Z",
+   "summary": "Gao Fu: Fighting 'Disease X' requires global cooperation",
+   "regions": []
+  },
+  {
    "title": "俄外交部：非洲承受住西方压力且没有放弃支持俄罗斯",
    "link": "https://sputniknews.cn/20261027/1073816558.html",
    "source": "卫星社中文",
@@ -3119,6 +3269,14 @@
     "欧洲",
     "美洲"
    ]
+  },
+  {
+   "title": "China-backed biodiversity fund puts $4.5 mln into 9 projects worldwide",
+   "link": "https://news.cgtn.com/news/2026-10-27/China-backed-biodiversity-fund-puts-4-5-mln-into-9-projects-worldwide-1RAcHRHz464/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T09:42:40.000Z",
+   "summary": "China-backed biodiversity fund puts $4.5 mln into 9 projects worldwide",
+   "regions": []
   },
   {
    "title": "塞尔维亚议会选举初步结果公布",
@@ -3148,6 +3306,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "China to send envoy to promote peace and talks in Middle East",
+   "link": "https://news.cgtn.com/news/2026-10-27/China-to-send-envoy-to-promote-peace-and-talks-in-Middle-East-1RAg9fC2FYA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T09:25:07.000Z",
+   "summary": "China to send envoy to promote peace and talks in Middle East",
+   "regions": []
   },
   {
    "title": "【地震 M5.0】206 km NW of Port-Olry, Vanuatu",
@@ -3266,6 +3432,14 @@
    ]
   },
   {
+   "title": "UN officials condemn killing of nurse in DR Congo",
+   "link": "https://newsaf.cgtn.com/news/2026-10-27/UN-officials-condemn-killing-of-nurse-in-DR-Congo-1RAbp1bV6bS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T08:45:30.000Z",
+   "summary": "The UN's Ebola coordinator and head of WHO have deplored the killing of a nurse working to halt the spread of the diseas…",
+   "regions": []
+  },
+  {
    "title": "俄外交部发言人：乌语言监察员称医生可不救治俄语患者的言论是纳粹主义",
    "link": "https://sputniknews.cn/20261027/1073813380.html",
    "source": "卫星社中文",
@@ -3288,6 +3462,30 @@
    ]
   },
   {
+   "title": "China lodges representation over UK police's excessive law enforcement",
+   "link": "https://news.cgtn.com/news/2026-10-27/China-lodges-representation-over-UK-police-s-excessive-law-enforcement-1RAc1zSrKFO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T08:41:30.000Z",
+   "summary": "China has expressed strong dissatisfaction and grave concern regarding the arbitrary and excessive law enforcement actio…",
+   "regions": []
+  },
+  {
+   "title": "US, China bear global responsibility to cooperate, veteran pilot says",
+   "link": "https://news.cgtn.com/news/2026-10-27/US-China-bear-global-responsibility-to-cooperate-veteran-pilot-says-1RyYJD112ve/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T08:40:13.000Z",
+   "summary": "US, China bear global responsibility to cooperate, veteran pilot says",
+   "regions": []
+  },
+  {
+   "title": "China holds UN exhibition marking Tokyo Trial's 80th anniversary",
+   "link": "https://news.cgtn.com/news/2026-10-27/China-holds-UN-exhibition-marking-Tokyo-Trial-s-80th-anniversary-1RA74Eepj5C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T08:39:36.000Z",
+   "summary": "An exhibition marking the 80th anniversary of the opening of the Tokyo Trial opened at UN Headquarters in New York on Mo…",
+   "regions": []
+  },
+  {
    "title": "“严寒老人列车”11月8日启程环游俄罗斯",
    "link": "https://sputniknews.cn/20261027/1073814626.html",
    "source": "卫星社中文",
@@ -3296,6 +3494,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
+   "link": "https://news.cgtn.com/news/2026-10-27/Microsoft-offers-buyouts-to-around-60-000-employees-to-contain-costs-1RA5wdRc54A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T08:38:20.000Z",
+   "summary": "Microsoft said on Monday that it is offering voluntary buyouts to about 60,000 employees, or more than a quarter of its …",
+   "regions": []
   },
   {
    "title": "刚果（金）本轮埃博拉疫情确诊病例超1万例",
@@ -3383,6 +3589,14 @@
    ]
   },
   {
+   "title": "Post-disaster resettlement efforts continue in pastoral village",
+   "link": "https://news.cgtn.com/news/2026-10-27/Post-disaster-resettlement-efforts-continue-in-pastoral-village-1RA3MsADdbq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T07:29:33.000Z",
+   "summary": "Post-disaster resettlement efforts continue in pastoral village",
+   "regions": []
+  },
+  {
    "title": "美空军与洛马签署6.94亿美元高超音速导弹生产合同",
    "link": "https://sputniknews.cn/20261027/1073812555.html",
    "source": "卫星社中文",
@@ -3445,6 +3659,14 @@
    ]
   },
   {
+   "title": "More than a match: How ping-pong connects people beyond the table",
+   "link": "https://news.cgtn.com/news/2026-10-27/More-than-a-Match-How-ping-pong-connects-people-beyond-the-table-1RzVMvY3JKw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T06:34:55.000Z",
+   "summary": "More than a match: How ping-pong connects people beyond the table",
+   "regions": []
+  },
+  {
    "title": "俄国防部：防空部队一夜间在多地上空共击落222架乌无人机",
    "link": "https://sputniknews.cn/20261027/1073808832.html",
    "source": "卫星社中文",
@@ -3475,6 +3697,14 @@
    ]
   },
   {
+   "title": "Kane wins first Ballon d'Or as Putellas takes third women's award",
+   "link": "https://news.cgtn.com/news/2026-10-27/Kane-wins-first-Ballon-d-Or-as-Putellas-takes-third-women-s-award-1RzQ8VbeVhu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T06:22:45.000Z",
+   "summary": "Kane wins first Ballon d'Or as Putellas takes third women's award",
+   "regions": []
+  },
+  {
    "title": "俄国防部：俄军夜间密集打击乌军工企业及交通基础设施",
    "link": "https://sputniknews.cn/20261027/1073808455.html",
    "source": "卫星社中文",
@@ -3495,6 +3725,14 @@
    ]
   },
   {
+   "title": "Apple says it will replace iPhone Duo units showing screen problems",
+   "link": "https://news.cgtn.com/news/2026-10-27/Apple-says-it-will-replace-iPhone-Duo-units-showing-screen-problems-1RzWB33iHAs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T05:48:20.000Z",
+   "summary": "Days after launching its first folding iPhone, Apple acknowledged on Monday that some of the devices exhibit display pro…",
+   "regions": []
+  },
+  {
    "title": "南苏丹瓦拉卜州政府通报一起武装袭击致72死38伤",
    "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721577.shtml",
    "source": "中新网国际",
@@ -3503,6 +3741,30 @@
    "regions": [
     "非洲"
    ]
+  },
+  {
+   "title": "UN: Israel committed war crimes, crimes against humanity in Palestine",
+   "link": "https://news.cgtn.com/news/2026-10-27/UN-Israel-committed-war-crimes-crimes-against-humanity-in-Palestine-1RzVOkUZvMc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T05:43:11.000Z",
+   "summary": "Israel has committed war crimes and crimes against humanity in the occupied Palestinian territory, a United Nations (UN)…",
+   "regions": []
+  },
+  {
+   "title": "Poll shows 55% of Japanese favor more dialogue with China",
+   "link": "https://news.cgtn.com/news/2026-10-27/Poll-shows-55-of-Japanese-favor-more-dialogue-with-China-1RzSQnnAt4A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T05:37:39.000Z",
+   "summary": "More than half of Japanese respondents believe the government should provide more opportunities for dialogue with China,…",
+   "regions": []
+  },
+  {
+   "title": "Israel heads to polls with Netanyahu fighting for political survival",
+   "link": "https://news.cgtn.com/news/2026-10-27/Israel-heads-to-polls-with-Netanyahu-fighting-for-political-survival-1RzS5VgUMAE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T05:34:26.000Z",
+   "summary": "Israelis are heading to the polls on Tuesday for the country's first parliamentary election since the Hamas-led attack o…",
+   "regions": []
   },
   {
    "title": "阿里巴巴起诉美国涉军黑名单获法院支持",
@@ -3624,6 +3886,14 @@
     "厄瓜多尔",
     "拉美"
    ]
+  },
+  {
+   "title": "Tensions persist amid possible US strikes, Saudi-Houthi clashes",
+   "link": "https://news.cgtn.com/news/2026-10-27/Tensions-persist-amid-possible-US-strikes-Saudi-Houthi-clashes-1RzPOIWXOko/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-27T03:41:33.000Z",
+   "summary": "Tensions across the Middle East remain high, with the United States reportedly preparing for potentially major military …",
+   "regions": []
   },
   {
    "title": "日本福岛县近海发生4.6级地震 多地有震感",
@@ -3951,6 +4221,17 @@
    ]
   },
   {
+   "title": "Belt and Road Green Innovation Conference 2026 opens in Hong Kong",
+   "link": "https://news.cgtn.com/news/2026-10-27/Belt-and-Road-Green-Innovation-Conference-2026-opens-in-Hong-Kong-1RA1Aq6V2Te/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T06:14:22.000Z",
+   "summary": "Belt and Road Green Innovation Conference 2026 opens in Hong Kong",
+   "regions": [
+    "香港",
+    "亚太"
+   ]
+  },
+  {
    "title": "不能忘，常思量！84岁宋楚瑜忆唱《台湾光复纪念歌》",
    "link": "https://www.chinanews.com.cn/gn/2026/10-27/10721460.shtml",
    "source": "中新网中国",
@@ -4098,6 +4379,17 @@
    "summary": "中新网上海10月27日电 (记者 许婧)丝绸之路城市文化传承创新暨《千年丝绸之路 二十六座城》新书发布座谈会27日在上海交通大学张元济讲堂举办。",
    "regions": [
     "上海"
+   ]
+  },
+  {
+   "title": "China's internet expo opens November 2 with 6G, AI agents and robots",
+   "link": "https://news.cgtn.com/news/2026-10-27/China-s-internet-expo-opens-November-2-with-6G-AI-agents-and-robots-1RAzFKJn1EQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T14:12:28.000Z",
+   "summary": "China's internet expo opens November 2 with 6G, AI agents and robots",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4364,6 +4656,28 @@
    ]
   },
   {
+   "title": "Xi extends condolences over death of Japan's former PM Yasuo Fukuda",
+   "link": "https://news.cgtn.com/news/2026-10-27/Xi-sends-condolences-over-death-of-Japan-s-former-PM-Yasuo-Fukuda-1RAkZyTvpK0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T12:15:35.000Z",
+   "summary": "Chinese President Xi Jinping on Tuesday extended condolences to the family of the late former Japanese Prime Minister Ya…",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Full, rigorous party self-governance: How the CPC stays accountable",
+   "link": "https://news.cgtn.com/news/2026-10-27/Full-rigorous-party-self-governance-How-the-CPC-stays-accountable-1RAd24nngIw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T12:15:29.000Z",
+   "summary": "In 2012, the Communist Party of China (CPC) introduced a set of rules governing officials' conduct. The document was jus…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "（乡村行·看振兴）寒地农业的“破季”样本：北安市通北镇智能温室助农增收",
    "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721828.shtml",
    "source": "中新网社会",
@@ -4379,6 +4693,17 @@
    "summary": "中新社浙江台州10月27日电 (周健)2026和合文化论坛27日在浙江省台州市天台县开幕。来自全球23个国家和地区的220余位政界、学界代表与会，以“和合”为媒，凝聚全球共识、汇聚全球智慧。",
    "regions": [
     "浙江"
+   ]
+  },
+  {
+   "title": "Xi congratulates Lula on re-election as Brazilian president",
+   "link": "https://news.cgtn.com/news/2026-10-27/Xi-congratulates-Lula-on-re-election-as-Brazilian-president-1RAkGMCkew8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T11:28:29.000Z",
+   "summary": "Chinese President Xi Jinping on Tuesday extended congratulations to Luiz Inacio Lula da Silva on his re-election as pres…",
+   "regions": [
+    "巴西",
+    "拉美"
    ]
   },
   {
@@ -4596,6 +4921,14 @@
    ]
   },
   {
+   "title": "Gao Fu: Fighting 'Disease X' requires global cooperation",
+   "link": "https://news.cgtn.com/news/2026-10-27/Gao-Fu-Fighting-Disease-X-requires-global-cooperation-1RAiSFnOFCE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T09:49:46.000Z",
+   "summary": "Gao Fu: Fighting 'Disease X' requires global cooperation",
+   "regions": []
+  },
+  {
    "title": "2026年9月全国查处违反中央八项规定精神问题32940起",
    "link": "https://www.chinanews.com.cn/gn/2026/10-27/10721751.shtml",
    "source": "中新网中国",
@@ -4613,6 +4946,17 @@
     "南海",
     "亚太",
     "重庆"
+   ]
+  },
+  {
+   "title": "China to send envoy to promote peace and talks in Middle East",
+   "link": "https://news.cgtn.com/news/2026-10-27/China-to-send-envoy-to-promote-peace-and-talks-in-Middle-East-1RAg9fC2FYA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T09:25:07.000Z",
+   "summary": "China to send envoy to promote peace and talks in Middle East",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4648,6 +4992,70 @@
    "time": "2026-10-27T08:48:32.000Z",
    "summary": "中国新闻周刊记者：刘珊珊",
    "regions": []
+  },
+  {
+   "title": "Re-created ironed paper models bring a lost craft to life",
+   "link": "https://news.cgtn.com/news/2026-10-27/Re-created-ironed-paper-models-bring-a-lost-craft-to-life-1RAePJRJFq8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T08:44:41.000Z",
+   "summary": "A set of re-created models of the Qianlong Garden, located within Beijing's Palace Museum, offers a glimpse into a model…",
+   "regions": []
+  },
+  {
+   "title": "China lodges representation over UK police's excessive law enforcement",
+   "link": "https://news.cgtn.com/news/2026-10-27/China-lodges-representation-over-UK-police-s-excessive-law-enforcement-1RAc1zSrKFO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T08:41:30.000Z",
+   "summary": "China has expressed strong dissatisfaction and grave concern regarding the arbitrary and excessive law enforcement actio…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "US, China bear global responsibility to cooperate, veteran pilot says",
+   "link": "https://news.cgtn.com/news/2026-10-27/US-China-bear-global-responsibility-to-cooperate-veteran-pilot-says-1RyYJD112ve/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T08:40:13.000Z",
+   "summary": "US, China bear global responsibility to cooperate, veteran pilot says",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China holds UN exhibition marking Tokyo Trial's 80th anniversary",
+   "link": "https://news.cgtn.com/news/2026-10-27/China-holds-UN-exhibition-marking-Tokyo-Trial-s-80th-anniversary-1RA74Eepj5C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T08:39:36.000Z",
+   "summary": "An exhibition marking the 80th anniversary of the opening of the Tokyo Trial opened at UN Headquarters in New York on Mo…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China, Indonesia hold joint counter-terrorism training",
+   "link": "https://news.cgtn.com/news/2026-10-27/China-Indonesia-hold-joint-counter-terrorism-training-1RA6zO3BzwI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T08:38:41.000Z",
+   "summary": "The opening ceremony for the \"Sharp Knife 2026\" joint army counter-terrorism training between China and Indonesia was he…",
+   "regions": [
+    "印尼",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "Photo exhibition captures modern senior life in China",
+   "link": "https://news.cgtn.com/news/2026-10-27/Photo-exhibition-captures-modern-senior-life-in-China-1RAbXsUoXMQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T08:37:41.000Z",
+   "summary": "A photography exhibition titled \"Life Takes Place,\" dedicated to the lives of modern-day senior citizens, is currently o…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "单兵坚守、刺刀见红、雪夜擒敌，志愿军战斗英雄事迹令人热血沸腾",
@@ -4744,6 +5152,14 @@
    ]
   },
   {
+   "title": "Tracing the Vision: Listening to the Grassroots",
+   "link": "https://news.cgtn.com/news/2026-10-27/Tracing-the-Vision-Listening-to-the-Grassroots-1RwWELpYJiw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T07:39:12.000Z",
+   "summary": "In 1988, while serving as Party Secretary of Ningde Prefecture in Fujian Province, Xi Jinping spearheaded an influential…",
+   "regions": []
+  },
+  {
    "title": "中国首个规模化商用卵内胚胎性别鉴定技术在银川发布",
    "link": "https://www.chinanews.com.cn/gn/2026/10-27/10721659.shtml",
    "source": "中新网中国",
@@ -4800,6 +5216,22 @@
    ]
   },
   {
+   "title": "Post-disaster resettlement efforts continue in pastoral village",
+   "link": "https://news.cgtn.com/news/2026-10-27/Post-disaster-resettlement-efforts-continue-in-pastoral-village-1RA3MsADdbq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T07:29:33.000Z",
+   "summary": "Post-disaster resettlement efforts continue in pastoral village",
+   "regions": []
+  },
+  {
+   "title": "The heart of governance: Sharing the people's joys and sorrows",
+   "link": "https://news.cgtn.com/news/2026-10-27/The-heart-of-governance-Sharing-the-people-s-joys-and-sorrows-1RA6Bc24N7a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T07:25:54.000Z",
+   "summary": "\"He who delights in the people's joys will find the people delighting in his; he who grieves over the people's sorrows w…",
+   "regions": []
+  },
+  {
    "title": "外交部：对英国警方任意、过度执法行为表示强烈不满",
    "link": "https://www.chinanews.com.cn/gn/2026/10-27/10721658.shtml",
    "source": "中新网中国",
@@ -4841,6 +5273,14 @@
     "酒泉",
     "青海"
    ]
+  },
+  {
+   "title": "The rule of law: Where governance begins",
+   "link": "https://news.cgtn.com/news/2026-10-27/The-rule-of-law-Where-governance-begins-1RA6f6u4A2Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T06:59:00.000Z",
+   "summary": "\"Law is the foundation of governance.\" This ancient wisdom still rings true: Good governance cannot rely on personal wil…",
+   "regions": []
   },
   {
    "title": "“蛟龙”号实现迭代升级 顺利完成7000米级海试",
@@ -4893,6 +5333,22 @@
    ]
   },
   {
+   "title": "More than a match: How ping-pong connects people beyond the table",
+   "link": "https://news.cgtn.com/news/2026-10-27/More-than-a-Match-How-ping-pong-connects-people-beyond-the-table-1RzVMvY3JKw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T06:34:55.000Z",
+   "summary": "More than a match: How ping-pong connects people beyond the table",
+   "regions": []
+  },
+  {
+   "title": "Li Hongquan scores 27 as Shanghai beats Guangdong 99-87 in CBA",
+   "link": "https://news.cgtn.com/news/2026-10-27/Li-Hongquan-scores-27-as-Shanghai-beats-Guangdong-99-87-in-CBA-1RzR9rUGGQM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T06:22:58.000Z",
+   "summary": "Li Hongquan scores 27 as Shanghai beats Guangdong 99-87 in CBA",
+   "regions": []
+  },
+  {
    "title": "长征路上学党史丨红旗漫卷六盘山：长征精神在宁夏的传承与新生",
    "link": "https://www.chinanews.com.cn/gn/2026/10-27/10721583.shtml",
    "source": "中新网中国",
@@ -4912,6 +5368,18 @@
    "regions": [
     "非洲",
     "北京"
+   ]
+  },
+  {
+   "title": "Poll shows 55% of Japanese favor more dialogue with China",
+   "link": "https://news.cgtn.com/news/2026-10-27/Poll-shows-55-of-Japanese-favor-more-dialogue-with-China-1RzSQnnAt4A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T05:37:39.000Z",
+   "summary": "More than half of Japanese respondents believe the government should provide more opportunities for dialogue with China,…",
+   "regions": [
+    "日本",
+    "亚太",
+    "中国"
    ]
   },
   {
@@ -4992,6 +5460,14 @@
    "regions": [
     "太原"
    ]
+  },
+  {
+   "title": "Art Up Close | Ancient walls, new sounds",
+   "link": "https://news.cgtn.com/news/2026-10-27/Art-Up-Close-Ancient-walls-new-sounds-1RzWrik2tBC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T04:47:45.000Z",
+   "summary": "What happens when Peking Opera meets the cello inside a 400-year-old temple?",
+   "regions": []
   },
   {
    "title": "民盟辽宁省委会赴天德镇开展“烛光行动”中考备考辅导活动",
@@ -5664,6 +6140,14 @@
    "regions": []
   },
   {
+   "title": "Post-Earthquake water purification in place for people and livestock",
+   "link": "https://news.cgtn.com/news/2026-10-27/Post-Earthquake-water-purification-in-place-for-people-and-livestock-1RAkei5adHy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T10:54:02.000Z",
+   "summary": "Post-Earthquake water purification in place for people and livestock",
+   "regions": []
+  },
+  {
    "title": "汇聚全球领军企业 2026世界智能制造大会开幕在即",
    "link": "https://www.chinanews.com.cn/cj/2026/10-27/10721790.shtml",
    "source": "中新网财经",
@@ -5767,6 +6251,17 @@
    "summary": "中新网扬州10月27日电 (杨庆林 佟才红)10月27日10时55分，搭载67名旅客的9C7047次航班从扬州泰州国际机场起飞前往韩国济州，标志着扬州直飞济州国际客运航线正式复航，扬州空港口岸“空中网络”进一步加密。扬州出入境边防检查站提前…",
    "regions": [
     "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "China-backed biodiversity fund puts $4.5 mln into 9 projects worldwide",
+   "link": "https://news.cgtn.com/news/2026-10-27/China-backed-biodiversity-fund-puts-4-5-mln-into-9-projects-worldwide-1RAcHRHz464/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T09:42:40.000Z",
+   "summary": "China-backed biodiversity fund puts $4.5 mln into 9 projects worldwide",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -5943,6 +6438,17 @@
    "regions": []
   },
   {
+   "title": "Film market tops 31.5 billion yuan, with new 'film + sports' momentum",
+   "link": "https://news.cgtn.com/news/2026-10-27/Film-market-tops-31-5-billion-yuan-with-new-film-sports-momentum-1RA9WRw5Ipa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T07:32:34.000Z",
+   "summary": "China's box office has surpassed 31.5 billion yuan (around US $4.7 billion) as of October 26, 2026, including pre-sales,…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "中国作为首批签约国签署《联合国可转让货物单证公约》",
    "link": "https://www.chinanews.com.cn/cj/2026/10-27/10721660.shtml",
    "source": "中新网财经",
@@ -6005,6 +6511,17 @@
    "time": "2026-10-27T07:09:25.000Z",
    "summary": "当地时间10月26日，《联合国可转让货物单证公约》(以下简称《公约》)签约仪式在加纳首都阿克拉举行，共有60余个国家和地区代表团约400人参加。商务部副部长蒋成华出席签约仪式，并代表中国政府签署《公约》。包括中国、加纳在内的26个国家成为《…",
    "regions": []
+  },
+  {
+   "title": "Electronics, high-tech manufacturing drive China's industrial profits",
+   "link": "https://news.cgtn.com/news/2026-10-27/Electronics-high-tech-manufacturing-drive-China-s-industrial-profits-1RA2lLZLN3a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-27T05:54:54.000Z",
+   "summary": "Electronics, high-tech manufacturing drive China's industrial profits",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "广东激活富硒资源 走出乡村振兴新路径",
@@ -6309,5 +6826,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-28T00:37:59.102Z"
+ "updatedAt": "2026-10-28T06:34:03.989Z"
 }
