@@ -2,6 +2,110 @@
  "date": "2026-10-29",
  "tech": [
   {
+   "title": "IT早报 1030：华为制药军团称不做药定位 AI 赋能药企；国产游戏《影之刃零》首发登顶 Steam 全球畅销榜；谷歌盘中跌超 13% 创历史最大单日跌幅...",
+   "link": "https://www.ithome.com/1/019/839.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T23:57:42.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 30 日星期五，今天的重要科技资讯有： 1. 华为制药军团总裁樊杰明确“华为不做药”，希望成为 AI 制药产业技术底座 对于外界关心的华为是否会直接进入药物研发，华为制药军团总裁樊确…",
+   "regions": []
+  },
+  {
+   "title": "大众集团 CFO 安特里茨：电车卖得越好，我们的盈利压力反而越大",
+   "link": "https://www.ithome.com/1/019/838.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T23:48:49.000Z",
+   "summary": "IT之家 10 月 30 日消息，大众集团 CFO 兼 COO 阿诺 · 安特里茨在昨天发布的前三季度业绩声明中坦言：“电动汽车卖得越好， 我们的盈利压力反而越大 ，因为现阶段电动汽车的利润仍低于燃油车。” 今年前三季度，电动汽车占大众集团…",
+   "regions": []
+  },
+  {
+   "title": "告别“裸奔”状态，张雪机车“ZXMOTO”等核心商标完成注册",
+   "link": "https://www.ithome.com/1/019/837.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T23:45:52.000Z",
+   "summary": "IT之家 10 月 30 日消息，10 月 29 日，重庆知识产权局官方披露，日前， 张雪机车的“ZXMOTO”等核心商标正式完成注册 。 IT之家注意到，张雪本人通过重庆知识产权发布视频，呼吁广大创业者，尊重知识产权，提高专利、商标等知识…",
+   "regions": []
+  },
+  {
+   "title": "英特尔 2026Q3 营收 165 亿美元超预期：数据中心业务暴增近 80% 创 15 年最强增长",
+   "link": "https://www.ithome.com/1/019/836.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T23:45:20.000Z",
+   "summary": "IT之家 10 月 30 日消息，太平洋时间 10 月 29 日星期四下午 2 点（北京时间 10 月 30 日凌晨 5 点）举办的 2026 财年第三财季（2026 年 6 月 28 日至 2026 年 9 月 26 日）财报电话会议上，…",
+   "regions": []
+  },
+  {
+   "title": "奔驰全新纯电 E 级明年问世，CEO 康林松称几乎全部采用中国本土采购零部件",
+   "link": "https://www.ithome.com/1/019/807.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T23:31:47.000Z",
+   "summary": "IT之家 10 月 30 日消息，当地时间 29 日，据外媒 motor1 报道，奔驰 CEO 康林松在 2026 年第三季度财报电话会议上透露，纯电 E 级是一款 从零开始研发的豪华轿车 。新车与燃油版共用 E 级名称，采用独立的纯电平台…",
+   "regions": []
+  },
+  {
+   "title": "智元发布具身模型 GO-3 Preview：能做煎饼果子、在便利店上岗，登顶三大榜单",
+   "link": "https://www.ithome.com/1/019/806.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T23:22:24.000Z",
+   "summary": "IT之家 10 月 30 日消息，10 月 29 日，智元正式推出预训练 / 后训练 / 部署后 实现全链路规模化学习的具身模型 —— GO-3 Preview。 该模型采用具身原生的 WRAM（World Reasoning Action…",
+   "regions": []
+  },
+  {
+   "title": "口袋里的体育直播控制台：苹果 iPhone Duo 等支持四路同屏看球",
+   "link": "https://www.ithome.com/1/019/805.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T23:20:37.000Z",
+   "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在 iOS 27.2 正式版更新中，苹果升级 Apple TV 应用，带来“多画面”（Multiview）功能， iPhone 用户现在可…",
+   "regions": []
+  },
+  {
+   "title": "Instagram 重启长视频业务，试图以最高 50 万美元吸引 YouTube 创作者",
+   "link": "https://www.ithome.com/1/019/804.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T23:09:49.000Z",
+   "summary": "IT之家 10 月 30 日消息，据《商业内幕》今天凌晨报道，Instagram 想要 YouTube 的长视频创作者，为此不惜砸下重金。 为了吸引更多创作者在 Instagram 发布长视频，平台开始向部分创作者开出高额报酬。据多名知情人…",
+   "regions": []
+  },
+  {
+   "title": "旧版“爆米花时间”应用成隐形后门，至少影响 25 万 ~35 万台苹果 Mac",
+   "link": "https://www.ithome.com/1/019/803.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T23:07:04.000Z",
+   "summary": "IT之家 10 月 30 日消息，安全公司 Eye Research 于 10 月 22 日发布博文，指出 曾以“爆米花时间”（Popcorn Time）名义分发的非官方流媒体应用 Time4Popcorn，在 Mac 上遗留了一个高风险的…",
+   "regions": []
+  },
+  {
+   "title": "苹果 HomePod mini 2 智能音箱发售：五种配色可选，1099 元",
+   "link": "https://www.ithome.com/1/019/802.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T23:06:47.000Z",
+   "summary": "IT之家 10 月 30 日消息，苹果 HomePod mini 2 智能音箱今日正式发售，提供粉色、绿色、蓝色、白色和午夜色五种外观选项， 售价 1,099 元。 HomePod mini 2 搭载 S10 芯片，用户可以仅使用单只扬声器…",
+   "regions": []
+  },
+  {
+   "title": "Mac 触控时代开启，苹果称 macOS 触控优化“才刚刚开始”",
+   "link": "https://www.ithome.com/1/019/801.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T22:57:40.000Z",
+   "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在洛杉矶举办的特别活动媒体群访环节中， 苹果公司高管回应表示针对 macOS 系统的触控优化“才刚刚开始”。 当前的触控体验并非最终形态，…",
+   "regions": []
+  },
+  {
+   "title": "索尼发布 RIALTO 65 摄影机扩展系统，CineAltaV 2 迈入 65mm 大画幅时代",
+   "link": "https://www.ithome.com/1/019/800.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T22:53:50.000Z",
+   "summary": "IT之家 10 月 30 日消息，10 月 29 日晚，索尼正式发布专为旗舰级数字电影摄影机 CineAltaV 2（海外名称：VENICE 2）打造的 RIALTO 65 摄影机扩展系统， 将于 2027 年上半年正式上市 。 RIALT…",
+   "regions": []
+  },
+  {
+   "title": "苹果高管回应“iPad mini 8 屏幕刷新率为何依然为 60Hz”",
+   "link": "https://www.ithome.com/1/019/799.htm",
+   "source": "IT之家",
+   "time": "2026-10-29T22:49:27.000Z",
+   "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在接受 YouTube 频道 Christopher Lawley 采访时，苹果硬件工程副总裁戴夫 · 帕库拉（Dave Pakula）讨…",
+   "regions": []
+  },
+  {
    "title": "59.9 万元梅赛德斯 AMG GLC 53 4MATIC+ 车型上市，3.0T 六缸回归",
    "link": "https://www.ithome.com/1/019/798.htm",
    "source": "IT之家",
@@ -287,6 +391,14 @@
    "source": "IT之家",
    "time": "2026-10-29T12:48:53.000Z",
    "summary": "IT之家 10 月 29 日消息，微软 XBOX CEO 阿莎 · 夏尔马今日在 X 平台表示， XBOX 业务 2027 财年第一季度营收同比下降 2% ， 相比上一季度 10% 降幅有所收窄 ，问责利润率也有所改善。 IT之家注意到， …",
+   "regions": []
+  },
+  {
+   "title": "VibeVoice-ASR-BitNet 实测：AIGCPanel 上 CPU 实时转写",
+   "link": "https://www.oschina.net/news/503305",
+   "source": "开源中国",
+   "time": "2026-10-29T12:34:53.000Z",
+   "summary": "微软把语音识别模型从 4.62GB 压到 1.58GB，AIGCPanel 把它做成了一键运行包。 过去想在本地跑出能用的中文转写，常见路径要么上显卡，要么花半天折腾 Python 和 CUDA。纯 CPU 的方案不是没有，但大多在速度和准…",
    "regions": []
   },
   {
@@ -1428,6 +1540,222 @@
  ],
  "world": [
   {
+   "title": "普京警告：若俄罗斯与欧洲真走到战争那一步，将不会有赢家",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723099.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-29T23:48:35.000Z",
+   "summary": "中新网10月30日电 综合俄媒报道，俄罗斯总统普京29日表示，俄罗斯不希望与欧洲发生战争，但已做好准备。他同时警告，要是俄罗斯与欧洲真走到战争那一步，这场战争将不会有赢家，这一点绝不能忘记。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】27 km ENE of Denali Park, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlubvz",
+   "source": "USGS地震台网",
+   "time": "2026-10-29T23:44:05.000Z",
+   "summary": "美国地质调查局官方监测：27 km ENE of Denali Park, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "中国商务部：中秘自贸协定升级议定书今年11月1日正式生效",
+   "link": "https://sputniknews.cn/20261030/1073869144.html",
+   "source": "卫星社中文",
+   "time": "2026-10-29T23:26:05.000Z",
+   "summary": "10月29日，中国商务部新闻发言人黄玲在例行新闻发布会上表示，中秘自贸协定升级议定书将于11月1日正式生效，这体现出两国共同维护多边主义和自由贸易的决心。",
+   "regions": []
+  },
+  {
+   "title": "刚果（金）卫生部长：刚俄两国就加快埃博拉疫苗在俄注册问题进行讨论",
+   "link": "https://sputniknews.cn/20261030/1073869005.html",
+   "source": "卫星社中文",
+   "time": "2026-10-29T23:21:32.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 刚果（金）卫生部长坎巴在俄非峰会期间向卫星通讯社表示，刚果（金）与俄罗斯就加快埃博拉疫苗在俄罗斯注册的问题进行讨论。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "以媒：超10架美国军机飞抵以色列空军基地",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723088.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-29T23:21:09.000Z",
+   "summary": "中新网10月30日电 综合外媒29日报道，据监测公开来源航班追踪数据的分析人士称，过去一周，有10多架美国军用运输机降落在以色列南部的空军基地。报道指出运输机的具体载货情况尚不清楚，但据推测与美国在可能与伊朗爆发新一轮冲突之前，为加强该地区…",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】59 km SW of Port-Vila, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z",
+   "source": "USGS地震台网",
+   "time": "2026-10-29T23:04:49.300Z",
+   "summary": "美国地质调查局官方监测：59 km SW of Port-Vila, Vanuatu发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "西班牙高铁事故首份报告公布",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723086.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-29T23:02:56.000Z",
+   "summary": "当地时间10月29日，西班牙铁路、海事和民用航空事故和事件技术调查独立行政机构在其网站上公布了托莱多省高铁事故第一份报告，该报告估计追尾的西班牙国家铁路公司旗下列车和停止的伊尔约公司列车相撞时，时速在160至200公里之间，但具体数据尚待对…",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄社会组织：“波塞冬”潜航器载具“哈巴罗夫斯克”号核潜艇即将列装海军部队",
+   "link": "https://sputniknews.cn/20261030/1073868701.html",
+   "source": "卫星社中文",
+   "time": "2026-10-29T22:59:16.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯社会组织“全俄舰队支援运动”主任弗拉基米尔·马尔采夫在莫斯科举行的俄罗斯海事论坛上表示，搭载“波塞冬”水下无人潜航器的“哈巴罗夫斯克”号核潜艇即将列装俄罗斯海军部队。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄外交部司长：欧盟和北约领导人在破坏美国就乌克兰问题的谈判努力",
+   "link": "https://sputniknews.cn/20261030/1073868600.html",
+   "source": "卫星社中文",
+   "time": "2026-10-29T22:50:01.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月30日电 俄罗斯外交部欧洲事务司司长弗拉季斯拉夫·马斯连尼科夫表示，欧盟和北约领导层正在破坏美国就乌克兰冲突的谈判努力。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "乌克兰基辅遭弹道导弹袭击",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723084.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-29T22:47:15.000Z",
+   "summary": "中新网10月30日电 综合乌克兰媒体报道，乌克兰首都基辅29日深夜传出爆炸声。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】124 km E of McCarthy, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4p",
+   "source": "USGS地震台网",
+   "time": "2026-10-29T22:46:54.997Z",
+   "summary": "美国地质调查局官方监测：124 km E of McCarthy, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "普京：肯尼亚的大学生在俄罗斯学习愉快",
+   "link": "https://sputniknews.cn/20261030/1073868482.html",
+   "source": "卫星社中文",
+   "time": "2026-10-29T22:36:08.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月30日电 俄罗斯总统普京表示，肯尼亚学生乐于在俄罗斯接受教育，为他们正逐步增加留学名额。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "普京：俄罗斯农工综合体产品对肯尼亚的供应增加",
+   "link": "https://sputniknews.cn/20261030/1073868190.html",
+   "source": "卫星社中文",
+   "time": "2026-10-29T22:26:51.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月30日电 俄总统普京表示，俄罗斯农工综合体产品对肯尼亚的供应增加，俄罗斯是重要的化肥供应国。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "美军中央司令部司令向特朗普汇报对伊朗军事选项",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723083.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-29T22:16:10.000Z",
+   "summary": "总台记者当地时间10月29日获悉，美军中央司令部司令布拉德·库珀当天在白宫向美国总统特朗普汇报了针对伊朗的军事行动选项。美国国防部长赫格塞思和美军参谋长联席会议主席丹·凯恩也参加了此次会谈。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.",
+   "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574623",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-29T22:07:35.000Z",
+   "summary": "On 10/29/2026 9:46:44 PM, an earthquake occurred in Vanuatu potentially affecting 120 thousand in MMI IV. The earthquake…",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄联邦消费者权益保护和公益监督局局长：俄罗斯正在为非洲研制新的检测试剂和疫苗，非洲对此具有迫切需求",
+   "link": "https://sputniknews.cn/20261030/1073867873.html",
+   "source": "卫星社中文",
+   "time": "2026-10-29T21:52:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯联邦消费者权益保护和公益监督局局长安娜·波波娃表示，俄罗斯正在为非洲研制新的检测试剂和疫苗，非洲对此具有迫切需求。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "【地震 M6.2】43 km ESE of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f",
+   "source": "USGS地震台网",
+   "time": "2026-10-29T21:46:44.786Z",
+   "summary": "美国地质调查局官方监测：43 km ESE of Port-Olry, Vanuatu发生 6.2 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "英国海上贸易行动办公室：一艘木制帆船在霍尔木兹海峡起火、沉没",
+   "link": "https://sputniknews.cn/20261030/1073867573.html",
+   "source": "卫星社中文",
+   "time": "2026-10-29T21:35:19.000Z",
+   "summary": "俄罗斯卫星通讯社伦敦电 英国海上贸易行动办公室（UKMTO）表示，在霍尔木兹海峡起火的是一艘木制阿拉伯“达乌”（Dhow）帆船，这艘帆船随后沉没。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】26 km SW of Tambolaka, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4e",
+   "source": "USGS地震台网",
+   "time": "2026-10-29T21:34:37.360Z",
+   "summary": "美国地质调查局官方监测：26 km SW of Tambolaka, Indonesia发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】121 km ENE of Shikotan, Russia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4a",
+   "source": "USGS地震台网",
+   "time": "2026-10-29T21:12:36.287Z",
+   "summary": "美国地质调查局官方监测：121 km ENE of Shikotan, Russia发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
    "title": "俄罗斯-非洲宣言：人工智能应当助力创造体面劳动条件",
    "link": "https://sputniknews.cn/20261030/1073867280.html",
    "source": "卫星社中文",
@@ -1436,6 +1764,17 @@
    "regions": [
     "俄乌",
     "非洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】1 km SSE of Radwanice, Poland",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu46",
+   "source": "USGS地震台网",
+   "time": "2026-10-29T21:00:15.784Z",
+   "summary": "美国地质调查局官方监测：1 km SSE of Radwanice, Poland发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "波兰",
+    "欧洲"
    ]
   },
   {
@@ -2073,6 +2412,14 @@
    "regions": []
   },
   {
+   "title": "全球生态系统恢复取得进展，实现2030年目标仍需加快行动",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143092",
+   "source": "联合国新闻",
+   "time": "2026-10-29T12:00:00.000Z",
+   "summary": "联合国周四发布的一份报告显示，全球149个国家正在开展生态系统恢复工作，涉及2.52亿公顷，创造了超过100万个绿色就业岗位。这是有记录以来规模最大的全球生态系统恢复行动。 不过，要兑现2030年承诺，各方仍需迅速扩大行动，尤其要加强淡水、…",
+   "regions": []
+  },
+  {
    "title": "埃塞俄比亚总理：埃塞俄比亚认为建设首座核电站离不开俄罗斯合作",
    "link": "https://sputniknews.cn/20261029/1073861478.html",
    "source": "卫星社中文",
@@ -2319,6 +2666,17 @@
    "regions": [
     "俄乌",
     "非洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】103 km ESE of Akutan, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vksppo",
+   "source": "USGS地震台网",
+   "time": "2026-10-29T10:00:22.018Z",
+   "summary": "美国地质调查局官方监测：103 km ESE of Akutan, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -3363,6 +3721,58 @@
   }
  ],
  "cn": [
+  {
+   "title": "11月起，这些新规将影响你我生活",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723094.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-29T23:41:38.000Z",
+   "summary": "11月起，一批新规将正式施行，涉及社会民生多个领域，一起来了解↓",
+   "regions": []
+  },
+  {
+   "title": "兼职意外受伤，副业收入损失能计入误工费吗？",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723092.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-29T23:31:32.000Z",
+   "summary": "随着外卖、网约车等新业态发展，兼职劳动者收入结构日益多样化",
+   "regions": []
+  },
+  {
+   "title": "世界杯分组出炉，中国女排再拼奥运“门票”",
+   "link": "https://www.chinanews.com.cn/ty/2026/10-30/10723091.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-29T23:28:58.000Z",
+   "summary": "世界杯分组出炉，前3名球队将获得洛杉矶奥运会席位",
+   "regions": []
+  },
+  {
+   "title": "自主性不断增强 AI智能体如何守住安全边界",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723090.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-29T23:26:48.000Z",
+   "summary": "从能对话到会思考，甚至能够自主行动，大模型驱动的人工智能智能体正变得越来越聪明。然而，随着自主性不断增强，智能体也可能突破预设边界，带来新的安全风险。",
+   "regions": []
+  },
+  {
+   "title": "西班牙高铁事故首份报告公布",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723086.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-29T23:02:56.000Z",
+   "summary": "当地时间10月29日，西班牙铁路、海事和民用航空事故和事件技术调查独立行政机构在其网站上公布了托莱多省高铁事故第一份报告，该报告估计追尾的西班牙国家铁路公司旗下列车和停止的伊尔约公司列车相撞时，时速在160至200公里之间，但具体数据尚待对…",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "“十五五”时期我国将全面提升农产品品质",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-30/10723085.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-29T22:58:42.000Z",
+   "summary": "本报北京10月29日电(记者陈晨)农业农村部近期印发《全国农产品品质提升“十五五”规划》，明确提出，到2030年，我国农业高质量发展标准体系更加健全，农产品标准化、绿色化生产能力明显提高，以市场需求为导向的品质评价和质量分级制度基本建立，全…",
+   "regions": [
+    "北京"
+   ]
+  },
   {
    "title": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
    "link": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
@@ -4770,6 +5180,50 @@
  ],
  "econ": [
   {
+   "title": "2025年欧盟和欧元区宏观税负水平双双走高",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-30/10723100.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-29T23:59:25.000Z",
+   "summary": "中新社布鲁塞尔10月29日电 (记者 德永健)欧盟统计局29日公布的数据显示，2025年欧盟宏观税负(税收收入和社保净缴款之和占GDP比重)为40.7%，欧元区宏观税负为41.3%，较2024年双双走高。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "身份证到期社保卡要换吗？关于社保卡这些知识需掌握→",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723098.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-29T23:49:39.000Z",
+   "summary": "社会保障卡是持卡人享有社会保障和公共就业服务权益的凭证，具有信息记录、信息查询、业务办理等基本功能。目前，全国持卡人数已达13.9亿。该如何正确使用社保卡呢？",
+   "regions": []
+  },
+  {
+   "title": "美国稀土计划遭重挫",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-30/10723095.shtml",
+   "source": "中新网滚动",
+   "time": "2026-10-29T23:49:01.000Z",
+   "summary": "去年11月，美国财政部长贝森特站在南卡罗来纳州萨姆特的一家稀土永磁体工厂里，手里举着一块钕铁硼磁铁，对福克斯新闻的镜头激动地说：“这是美国25年来制造的第一块磁铁——我们正在终结中国对我们供应链的扼制。”",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "从机械臂到无线光通信技术 我国深海装备加快创新突破",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-30/10723093.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-29T23:34:32.000Z",
+   "summary": "央视网消息：自然资源部发布消息，今年前三季度，我国海洋经济总量保持平稳增长。前三季度，我国海工装备制造竞争力持续提升。一批科创力量围绕核心零部件、感知设备和传输系统协同攻关，推动深海装备加快创新突破。",
+   "regions": []
+  },
+  {
+   "title": "国际殊荣+1！“中国蓝色海湾整治行动”获评意义几何",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-30/10723089.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-29T23:24:21.000Z",
+   "summary": "当地时间10月29日，在亚美尼亚埃里温举办的《生物多样性公约》第十七次缔约方大会“恢复日”活动上，联合国环境规划署正式宣布，因我国在海洋生态保护修复方面取得突出成效，由自然资源部、财政部牵头组织实施的“中国蓝色海湾整治行动”获评2026年联…",
+   "regions": []
+  },
+  {
    "title": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
    "link": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
    "source": "中新网财经",
@@ -5562,5 +6016,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-29T21:17:20.411Z"
+ "updatedAt": "2026-10-30T01:13:06.039Z"
 }
