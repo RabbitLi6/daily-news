@@ -2,6 +2,14 @@
  "date": "2026-10-31",
  "tech": [
   {
+   "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
+   "link": "https://www.ithome.com/1/020/632.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T15:56:00.000Z",
+   "summary": "IT之家 10 月 31 日消息，据彭博社今天（31 日）凌晨报道，AI 基础设施建设仍将吸引巨额资金。Alphabet、Meta、微软、亚马逊和甲骨文五大科技巨头承诺，未来数年将在数据中心等领域投入超过 3 万亿美元 （IT之家注：现汇率…",
+   "regions": []
+  },
+  {
    "title": "马斯克公布 Neuralink 脑机新产品进展：第二款产品“盲视”只待监管批准",
    "link": "https://www.ithome.com/1/020/630.htm",
    "source": "IT之家",
@@ -1204,6 +1212,247 @@
  ],
  "world": [
   {
+   "title": "加密货币交易所币安称已弥补黑客攻击造成的90%损失",
+   "link": "https://sputniknews.cn/20261101/1073885843.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T19:01:00.000Z",
+   "summary": "加密货币交易所币安（Binance）表示，已弥补黑客攻击造成的90%损失。",
+   "regions": []
+  },
+  {
+   "title": "【地震 M4.5】111 km ESE of Atka, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuk4",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T18:51:02.721Z",
+   "summary": "美国地质调查局官方监测：111 km ESE of Atka, Alaska发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊朗国家安全委员会主席：德黑兰伊朗没有就其核学说作出新的决定",
+   "link": "https://sputniknews.cn/20261101/1073894792.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T18:38:11.000Z",
+   "summary": "俄罗斯卫星通讯社10月31日电 伊朗国家最高国家安全委员会秘书穆赫森·雷扎伊表示，伊朗没有就其核学说作出新的决定。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄军在敖德萨以南击中一艘运送乌军物资的船只",
+   "link": "https://sputniknews.cn/20261101/1073885734.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T18:31:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月31日电 俄罗斯国防部发布消息称，俄军在敖德萨以南37公里处击中了一艘运送乌克兰武装部队物资的海上船只。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "专家：“黎明”卫星星座将保障俄罗斯及其伙伴的数字主权",
+   "link": "https://sputniknews.cn/20261101/1073894663.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T18:26:05.000Z",
+   "summary": "俄罗斯宇航科学院通讯院士安德烈·约宁向俄罗斯卫星通讯社表示，“黎明”卫星星座旨在支撑俄罗斯数字经济并维护其独立性。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "芬兰总统：他和斯特雷应基辅的要求给普京打电话",
+   "link": "https://sputniknews.cn/20261101/1073885626.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T18:01:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月31日电 芬兰总统亚历山大·斯图布表示，他和挪威首相约纳斯·加尔·斯特雷应乌克兰的请求打电话给俄罗斯总统弗拉基米尔·普京。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄罗斯在G20指出制裁和资产冻结破坏世界贸易",
+   "link": "https://sputniknews.cn/20261101/1073894353.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T17:41:18.000Z",
+   "summary": "俄罗斯外交部网站发布的二十国集团外长会成果公报称，俄方对破坏国际贸易的破坏性行为作出综合评价，包括拦截商船、制裁、资产冻结及其他不正当手段。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "美国国务卿：G20会议与会者认可一系列共同问题的重要性",
+   "link": "https://sputniknews.cn/20261101/1073894258.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T17:39:18.000Z",
+   "summary": "美国国务卿马尔科·鲁比奥表示，在美国举行的二十国集团（G20）会议与会者一致认为，关键矿产供应、粮食安全和航行自由等问题具有重要意义。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "法国议员批准对Google、Meta和Netflix征收互联网流量税",
+   "link": "https://sputniknews.cn/20261101/1073885525.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T17:33:00.000Z",
+   "summary": "据法国《费加罗报》报道，法国国民议会议员批准了一项针对谷歌（Google）、奈飞（Netflix）、亚马逊（Amazon）和Meta（因被认定为极端主义组织而在俄罗斯被禁）等大型企业征收互联网流量税的提案。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄人权事务专员：已就定期开展人道主义援助达成协议",
+   "link": "https://sputniknews.cn/20261101/1073893993.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T17:20:03.000Z",
+   "summary": "俄罗斯人权事务专员亚娜·兰特拉托娃在奥列什基的人道主义援助行动结束后表示，已就定期开展此类行动达成协议，并表示这是非常重要的一步。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】54 km W of Gerāsh, Iran",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujw",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T17:16:16.500Z",
+   "summary": "美国地质调查局官方监测：54 km W of Gerāsh, Iran发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "伊朗",
+    "中东"
+   ]
+  },
+  {
+   "title": "伊朗外长：伊朗要求解冻所有被冻结资金",
+   "link": "https://sputniknews.cn/20261101/1073886233.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T17:14:00.000Z",
+   "summary": "伊朗外交部长阿巴斯·阿拉格齐周六表示，伊朗要求解除石油出口限制，并解冻所有被冻结的伊朗资金，包括存放在卡塔尔账户中的资金。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "媒体：美国在战斗无人机生产方面落后于俄罗斯和中国",
+   "link": "https://sputniknews.cn/20261101/1073885203.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T16:59:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月31日电 据彭博社报道，美国在廉价军用无人机生产方面落后，几乎从零开始生产。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美国国务卿：美国与伊朗的谈判从未停止",
+   "link": "https://sputniknews.cn/20261101/1073891929.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T16:57:10.000Z",
+   "summary": "俄罗斯卫星通讯社亚特兰大10月31日电 美国国务卿马可·鲁比奥表示，美国与伊朗的谈判从未停止，并且既有直接进行的，也有通过中间人进行的。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：与非洲的伙伴关系是俄罗斯的战略选择",
+   "link": "https://sputniknews.cn/20261101/1073885958.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T16:45:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月31日电 俄罗斯外交部非洲伙伴关系司司长塔季扬娜·多夫加连科表示，与非洲建立伙伴关系是俄罗斯的战略选择，而非与西方关系危机的结果。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】27 km WSW of Westley, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460382",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T16:44:50.250Z",
+   "summary": "美国地质调查局官方监测：27 km WSW of Westley, CA发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "特朗普表示乌克兰问题解决协议正在接近尾声",
+   "link": "https://sputniknews.cn/20261101/1073884964.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T16:28:00.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿10月31日电 美国总统唐纳德·特朗普表示，乌克兰问题解决协议正在接近尾声。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：非洲人口年龄中位数为19岁",
+   "link": "https://sputniknews.cn/20261031/1073884667.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T15:56:00.000Z",
+   "summary": "俄罗斯外交部非洲伙伴关系司司长塔季扬娜·多夫加连科表示，非洲人口的年龄中位数为19岁。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】4 km S of Bajo Corral, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T15:50:18.909Z",
+   "summary": "美国地质调查局官方监测：4 km S of Bajo Corral, Panama发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】35 km NW of Ninilchik, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vovsfh",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T15:32:36.070Z",
+   "summary": "美国地质调查局官方监测：35 km NW of Ninilchik, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "白俄外交官：美国商务部批准波音公司与白俄罗斯航空公司开展合作",
+   "link": "https://sputniknews.cn/20261031/1073884574.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T15:31:00.000Z",
+   "summary": "白俄罗斯常驻联合国代表瓦连京·雷巴科夫表示，美国商务部已批准波音公司与白俄罗斯航空公司（Belavia）开展合作。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄安全局：从美方收到关于策划莫斯科实施恐怖袭击情报",
+   "link": "https://sputniknews.cn/20261031/1073885330.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T15:26:53.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科10月31日电 俄罗斯联邦安全局发布消息称，美方已收到关于策划在莫斯科实施恐怖袭击的情报，为此已经开展相关工作。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "泰国着手制定第四个国家旅游发展计划",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-31T15:23:46.000Z",
+   "summary": "中新社曼谷10月31日电 (王茜 李映民)泰国总理府副发言人拉丽达31日表示，泰国政府着手制定第四个国家旅游发展计划(2028—2032年)，目标是将旅游业总收入提高至至少4万亿泰铢。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
    "title": "伊朗外长：目前没有与美国官员会面的计划",
    "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724122.shtml",
    "source": "中新网国际",
@@ -1319,6 +1568,28 @@
    "time": "2026-10-31T13:42:59.000Z",
    "summary": "中新网吉隆坡10月31日电 (记者 刘育英)10月31日，《大道同行——孙中山诞辰160周年纪念图片展》在位于雪兰莪的马来西亚华人博物馆特展展厅开幕。这项展览由中国侨联指导，马来西亚中华大会堂总会统筹，马来西亚华人博物馆与中国华侨历史博物馆…",
    "regions": []
+  },
+  {
+   "title": "【地震 M4.3】190 km NNW of Nagqu, China",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuj2",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T13:38:39.154Z",
+   "summary": "美国地质调查局官方监测：190 km NNW of Nagqu, China发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】62 km NNW of Claveria, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuj1",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T13:31:14.759Z",
+   "summary": "美国地质调查局官方监测：62 km NNW of Claveria, Philippines发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
+   ]
   },
   {
    "title": "伊朗最高领袖下达指示军方对任何威胁作出有效回应",
@@ -4074,5 +4345,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-31T15:26:48.185Z"
+ "updatedAt": "2026-10-31T19:26:55.813Z"
 }
