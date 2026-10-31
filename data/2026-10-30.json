@@ -2,6 +2,142 @@
  "date": "2026-10-30",
  "tech": [
   {
+   "title": "全球首例，美国一公司完成在人体内直接编辑 DNA 试验",
+   "link": "https://www.ithome.com/1/020/403.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:52:32.000Z",
+   "summary": "IT之家 10 月 31 日消息，美国生物技术公司先导医药（Prime Medicine）10 月初宣布，已利用先导编辑技术， 全球首次在人体内直接编辑 DNA ，治疗一名威尔逊病患者。首批临床试验结果预计 2027 年公布。 IT之家注：…",
+   "regions": []
+  },
+  {
+   "title": "谷歌宣布达成“Hello World”里程碑：在轨运行的数据中心级 TPU 首次给出 AI 响应，生成了一首俳句",
+   "link": "https://www.ithome.com/1/020/402.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:51:47.000Z",
+   "summary": "IT之家 10 月 31 日消息，当地时间 10 月 1 日，谷歌成功发射了“逐日者计划”（Project Suncatcher）的原型卫星。此后数周，团队逐步完成了在轨测试与调试清单，其中包括为主机与 TPU 托盘通电，并顺利完成了早期的…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 1031：Apple 智能官宣入华；华为 Mate 60 Pro 处理器官方首次“揭秘”；《影之刃零》媒体评分超《黑神话：悟空》；小米 17 亿入股欣旺达动力...",
+   "link": "https://www.ithome.com/1/020/401.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:50:42.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 31 日星期六，今天的重要科技资讯有： 1. 苹果 Apple 智能国行版官宣落地：接入阿里千问，11 月 4 日随 iOS 开发者 Beta 版开放测试 苹果宣布首批 Apple …",
+   "regions": []
+  },
+  {
+   "title": "不是字节跳动：联发科拿下第二家 AI 芯片大客户，2028 年量产",
+   "link": "https://www.ithome.com/1/020/400.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:35:47.000Z",
+   "summary": "IT之家 10 月 31 日消息，昨日（10 月 30 日）召开的 2026 年第三季度（7~9 月）财报电话会上，联发科（MediaTek）确认已获得第二家人工智能专用集成电路（AI ASIC）客户（官方暂未公布），预计该项目将于 202…",
+   "regions": []
+  },
+  {
+   "title": "把空气“冷冻”起来存电能：我国液态空气储能重大突破，全球最大规模、百分百国产",
+   "link": "https://www.ithome.com/1/020/399.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:33:03.000Z",
+   "summary": "IT之家 10 月 31 日消息，据央视新闻今日报道， 全球最大规模 60 兆瓦液态空气储能国家示范项目 成功并网发电，实现液态空气储能技术工程化、商业化落地的重大突破。 该液态空气储能项目位于青海省格尔木市，总规模 6 万千瓦，每天可助力…",
+   "regions": []
+  },
+  {
+   "title": "Anthropic Claude Max 20x 订阅更名 Ultra，已验证账户无五小时限制",
+   "link": "https://www.ithome.com/1/020/398.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:26:41.000Z",
+   "summary": "IT之家 10 月 31 日消息，Anthropic 调整了 Claude 针对个人消费者的付费套餐命名： 原 Max 20x 计划更名为 Ultra 计划（价格仍为 200 美元 （IT之家注：现汇率约合 1,335 元人民币） / 月）…",
+   "regions": []
+  },
+  {
+   "title": "消息称苹果下发指引，要求门店按标准流程维修 / 更换 iPhone Duo 内屏开裂",
+   "link": "https://www.ithome.com/1/020/397.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:22:13.000Z",
+   "summary": "IT之家 10 月 31 日消息，科技媒体 MacRumors 今天（10 月 31 日）发布博文，报道称苹果公司本周已向 Apple Store 零售店及授权服务提供商下发指引， 在收到用户报告的 iPhone Duo 内屏开裂后，要求技…",
+   "regions": []
+  },
+  {
+   "title": "可免费生成粤语歌，香港自研 AI 助手“港话通”推出 AI 音乐功能",
+   "link": "https://www.ithome.com/1/020/396.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:20:41.000Z",
+   "summary": "IT之家 10 月 31 日消息，由香港生成式人工智能研发中心（HKGAI）研发的本地 AI 智能助理“港话通”（HKChat）于 10 月 30 日迎来更新， 推出全新 AI 音乐生成功能 。 新功能接入由 HKGAI 研发的 YuE2 …",
+   "regions": []
+  },
+  {
+   "title": "阿里巴巴：苹果 Apple 智能国行用户可以自主选择是否开通千问集成功能",
+   "link": "https://www.ithome.com/1/020/395.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:09:21.000Z",
+   "summary": "IT之家 10 月 31 日消息，苹果今日（10 月 31 日）凌晨宣布 首批 Apple 智能功能即将在中国推出 ，并与阿里巴巴达成合作，在部分体验中接入千问。这是 Apple 智能自 2024 年发布以来，国行版本首次获得实质性落地进展…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 称 ChatGPT 可自动终止表现出暴力执念的对话，并承诺定期发布社区安全报告",
+   "link": "https://www.ithome.com/1/020/394.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:09:09.000Z",
+   "summary": "IT之家 10 月 31 日消息，OpenAI 于当地时间 10 月 30 日发布博文表示，维护社区安全始终是 OpenAI 的重中之重。其日常工作包括主动向执法机关通报迫在眉睫的暴力威胁。仅在 2026 年第三季度，OpenAI 就向执法…",
+   "regions": []
+  },
+  {
+   "title": "微软发布 Win11 26220.9836 等预览版更新：搜索功能可“动手”了，调音量 / 亮度不再进设置",
+   "link": "https://www.ithome.com/1/020/388.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T23:05:56.000Z",
+   "summary": "IT之家 10 月 31 日消息，微软昨天（10 月 30 日）发布博文，邀请 Beta、Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多版本预览更新，各频道版本如下： Be…",
+   "regions": []
+  },
+  {
+   "title": "苹果 Apple 智能入华亮点：AirPods 实时翻译登场，戴上耳机跨语言聊天",
+   "link": "https://www.ithome.com/1/020/393.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T22:58:43.000Z",
+   "summary": "IT之家 10 月 31 日消息，苹果公司今天（10 月 31 日）发布公告，宣布将面向中国 iPhone 18 Pro 等机型用户，于 11 月 4 日开放测试，并于 12 月推出的 iOS 27.3 更新，在国内上线首批 Apple 智…",
+   "regions": []
+  },
+  {
+   "title": "Apple 智能官宣入华：阿里千问接入苹果生态，可帮用户写文案、读文档、识图像",
+   "link": "https://www.ithome.com/1/020/392.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T22:47:48.000Z",
+   "summary": "IT之家 10 月 31 日消息，苹果公司今天（10 月 31 日）发布公告，宣布将面向中国 iPhone 18 Pro 等机型用户，于 11 月 4 日开放测试，并于 12 月推出的 iOS 27.3 更新，在国内上线首批 Apple 智…",
+   "regions": []
+  },
+  {
+   "title": "11 月 5 日起国内航线燃油附加费上调：800 公里及以下上涨 30 元，800 公里以上涨 50 元",
+   "link": "https://www.ithome.com/1/020/391.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T22:40:39.000Z",
+   "summary": "IT之家 10 月 31 日消息，据央视财经报道， 自 2026 年 11 月 5 日起，调整国内航线旅客运输燃油附加费征收标准。 800 公里 (含) 以下航段向每位成人旅客收取燃油费 80 元，800 公里以上航段向每位成人旅客收取燃油…",
+   "regions": []
+  },
+  {
+   "title": "国行 Apple 智能官网正式上线：千问接入，11 月推送",
+   "link": "http://www.geekpark.net/news/373238",
+   "source": "极客公园",
+   "time": "2026-10-30T22:26:23.000Z",
+   "summary": "头图图片来源：Apple 10 月 31 日，苹果中国官网的 Newsroom 发布新闻稿《Apple 智能即将登陆中国》，给了一张具体的时间表：11 月 4 日起，首批 Apple 智能功能随最新的 iOS 开发者 Beta 版开放测试；…",
+   "regions": []
+  },
+  {
+   "title": "米哈游《崩坏 3》爱莉希雅 · 霁月婵娟高保真蓝牙耳机礼盒开售，499 元",
+   "link": "https://www.ithome.com/1/020/390.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T21:30:12.000Z",
+   "summary": "IT之家 10 月 31 日消息，米哈游《崩坏 3》爱莉希雅 · 霁月婵娟高保真蓝牙耳机礼盒今日正式开售，官方标价 499 元。 在此之前，米哈游还推出了一款同样基于水月雨轻巧豆 Dots 设计的《崩坏：星穹铁道》火花真无线蓝牙耳机，同样 …",
+   "regions": []
+  },
+  {
+   "title": "苹果 Apple 智能国行版官宣落地：接入阿里千问，11 月 4 日随 iOS 开发者 Beta 版开放测试",
+   "link": "https://www.ithome.com/1/020/389.htm",
+   "source": "IT之家",
+   "time": "2026-10-30T21:02:33.000Z",
+   "summary": "IT之家 10 月 31 日消息，苹果今日宣布首批 Apple 智能功能即将在中国推出，并与阿里巴巴达成合作，在部分体验中接入千问。这是 Apple 智能自 2024 年发布以来，国行版本首次获得实质性落地进展。 这一系列 Apple 智能…",
+   "regions": []
+  },
+  {
    "title": "华为官网公开鸿蒙智行享界 V8 选配：标配 ±12° 后轮转向、Ultra 采用 L3 自动驾驶架构，32.98 万元起",
    "link": "https://www.ithome.com/1/020/386.htm",
    "source": "IT之家",
@@ -1404,6 +1540,198 @@
  ],
  "world": [
   {
+   "title": "媒体：澳大利亚总理阿尔巴尼斯拟下月访华",
+   "link": "https://sputniknews.cn/20261031/1073880168.html",
+   "source": "卫星社中文",
+   "time": "2026-10-30T23:56:18.000Z",
+   "summary": "香港《南华早报》10月30日引述知情人士的话称，澳大利亚总理阿尔巴尼斯预计将于下个月访问北京，寻求进一步深化中澳关系。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "习近平呼吁德国坚持务实友好对华政策，强调中欧合作大于竞争",
+   "link": "https://sputniknews.cn/20261031/1073880053.html",
+   "source": "卫星社中文",
+   "time": "2026-10-30T23:25:11.000Z",
+   "summary": "中欧经贸摩擦加剧、德国对华贸易立场日趋强硬之际，中国国家主席习近平呼吁德国坚持理性、务实、友好的对华政策，强调中欧合作大于竞争、共识大于分歧，凸显北京稳定对欧关系的意愿。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "中国商务部：坚决反对美联邦通信委员会投票通过检测实验室限制措施",
+   "link": "https://sputniknews.cn/20261031/1073879745.html",
+   "source": "卫星社中文",
+   "time": "2026-10-30T23:19:07.000Z",
+   "summary": "据中国商务部消息，中国商务部新闻发言人就美国联邦通信委员会投票通过检测实验室限制措施表示，中方强烈不满，坚决反对。如美方一意孤行，中方将进一步采取必要措施，坚定维护自身正当权益。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外长：俄方感谢特朗普政府承认乌克兰冲突的根源",
+   "link": "https://sputniknews.cn/20261031/1073879628.html",
+   "source": "卫星社中文",
+   "time": "2026-10-30T23:18:25.000Z",
+   "summary": "俄罗斯卫星通讯社亚特兰大10月31日电 俄罗斯外长拉夫罗夫表示，俄罗斯感谢美国特朗普政府的立场，其为西方唯一承认乌克兰冲突根源的政府。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】74 km SSE of McGrath, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnovmh",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T23:06:11.538Z",
+   "summary": "美国地质调查局官方监测：74 km SSE of McGrath, Alaska发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "18件高棉文物回归柬埔寨",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723721.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-30T22:59:35.000Z",
+   "summary": "中新社金边10月30日电 (张安琪 张堰林 杨强)柬埔寨文化艺术部当地时间30日发布的新闻稿称，18件此前在英国伦敦被追回的高棉文物当天已正式移交柬埔寨驻英国大使馆，将于近期安排将其运送回国内。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723724.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-30T22:53:02.000Z",
+   "summary": "当地时间10月30日晚，伊朗伊斯兰革命卫队海军宣布，当天下午，第四艘油轮在霍尔木兹海峡违规航行时发生触雷爆炸并起火。这艘载有超过200万桶原油的油轮，无视伊朗伊斯兰革命卫队海军的无线电警告，试图驶离霍尔木兹海峡南部未经授权的航道。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】54 km WNW of Anchor Point, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnojyv",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T22:53:01.409Z",
+   "summary": "美国地质调查局官方监测：54 km WNW of Anchor Point, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美使馆称美国务院已要求非紧急岗位人员离开沙特",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723723.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-30T22:50:24.000Z",
+   "summary": "当地时间10月30日，美国驻沙特大使馆表示，美国国务院下令非紧急岗位工作人员及其家属离开沙特阿拉伯，该命令自10月23日起生效。大使馆称，此举是出于安全风险。(央视记者 吴汉婴)",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "奥列什基人道主义任务完成 俄乌均未违反停火制度",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723722.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-30T22:49:06.000Z",
+   "summary": "中新社莫斯科10月30日电 俄罗斯人权事务专员兰特拉托娃30日表示，赫尔松地区奥列什基的人道主义救援行动已经完成。俄乌代表均表示，在赫尔松方向的停火制度得到了双方遵守。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】33 km NE of Mazo Cruz, Peru",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufp",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T22:46:57.982Z",
+   "summary": "美国地质调查局官方监测：33 km NE of Mazo Cruz, Peru发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "秘鲁",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄罗斯总统助理：俄美已开始磋商三方会谈的具体日期",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723717.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-30T22:41:40.000Z",
+   "summary": "当地时间30日，俄罗斯总统助理乌沙科夫表示，俄美已开始磋商预计在阿联酋阿布扎比举行的俄美乌三方会谈的具体日期。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】south of the Fiji Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufe",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T22:23:42.517Z",
+   "summary": "美国地质调查局官方监测：south of the Fiji Islands发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "斐济",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】222 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufc",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T22:14:55.008Z",
+   "summary": "美国地质调查局官方监测：222 km NW of Port-Olry, Vanuatu发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】36 km E of Koseda, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuey",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T21:15:19.819Z",
+   "summary": "美国地质调查局官方监测：36 km E of Koseda, Japan发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】73 km SSW of Calama, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuep",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T20:54:16.156Z",
+   "summary": "美国地质调查局官方监测：73 km SSW of Calama, Chile发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】37 km S of Nishinoomote, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuej",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T20:26:46.635Z",
+   "summary": "美国地质调查局官方监测：37 km S of Nishinoomote, Japan发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】56 km NNW of Petersville, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnjdai",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T20:14:53.127Z",
+   "summary": "美国地质调查局官方监测：56 km NNW of Petersville, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M2.5】63 km WNW of Happy Valley, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnhpxc",
    "source": "USGS地震台网",
@@ -1412,6 +1740,16 @@
    "regions": [
     "美国阿拉斯加",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】120 km N of Cruz Bay, U.S. Virgin Islands",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537968",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T19:13:55.660Z",
+   "summary": "美国地质调查局官方监测：120 km N of Cruz Bay, U.S. Virgin Islands发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
    ]
   },
   {
@@ -1542,6 +1880,17 @@
     "中东",
     "俄乌",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】7 km NE of Tago, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tub8",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T17:06:26.864Z",
+   "summary": "美国地质调查局官方监测：7 km NE of Tago, Philippines发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
    ]
   },
   {
@@ -2052,6 +2401,26 @@
    "summary": "联合国难民署周五表示，也门战事已导致超过28万人流离失所。与此同时，该国还有超过6.5万名难民和寻求庇护者，面临日益严峻的人道主义危机。由于安全局势恶化，许多弱势群体难以获得维持生命所需的援助。",
    "regions": [
     "中东"
+   ]
+  },
+  {
+   "title": "冲突、埃博拉疫情和气候冲击加剧刚果（金）饥饿危机",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143104",
+   "source": "联合国新闻",
+   "time": "2026-10-30T12:00:00.000Z",
+   "summary": "联合国粮农组织粮食安全阶段综合分类周五发布最新预警显示，刚果民主共和国（刚果（金））目前有超过2800万人面临食物短缺问题。这一数字预计在未来几个月内将持续增加。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "厄尔尼诺加剧东非裂谷热疫情风险",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143103",
+   "source": "联合国新闻",
+   "time": "2026-10-30T12:00:00.000Z",
+   "summary": "联合国粮食及农业组织和政府间发展组织周五警告，受厄尔尼诺现象影响，东非多地强降雨和洪水可能增加裂谷热疫情暴发风险。埃塞俄比亚、肯尼亚、索马里、南苏丹、坦桑尼亚和乌干达目前面临最高风险，两家机构呼吁有关国家加强疾病监测，提前储备疫苗和医疗物资…",
+   "regions": [
+    "非洲"
    ]
   },
   {
@@ -3061,6 +3430,68 @@
   }
  ],
  "cn": [
+  {
+   "title": "“Hi China！”展示的是什么？",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723738.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-30T23:59:56.000Z",
+   "summary": "中新网宁波10月31日电(记者 王逸飞)“Hi China！我的中国故事”展示活动(下称“Hi China！”)29日在浙江宁波举行，17位外国年轻人与他们的中国结对伙伴相继登台，以情景剧、开放麦、小品等形式，分享近一个月在浙江参访的感受。",
+   "regions": [
+    "宁波",
+    "浙江"
+   ]
+  },
+  {
+   "title": "“中国最冷小镇”呼中迎暴雪 正式开启入冬模式",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723732.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-30T23:46:35.000Z",
+   "summary": "中新网大兴安岭10月31日电(白玉 孙富国 田德雨)10月29日至30日，素有“中国最冷小镇”之称的大兴安岭呼中区迎来大范围降雪、大风、强降温天气。",
+   "regions": []
+  },
+  {
+   "title": "中俄界江漠河段流冰期迎降雪",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723733.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-30T23:46:21.000Z",
+   "summary": "中新网漠河10月31日电 (孙铂程 张瑞鹏 韩雪)30日，受持续降温影响，中俄界江黑龙江漠河市北极村江段进入冬季流冰期，江面出现“跑冰排”景象。同期当地降下大雪，北极村被积雪覆盖，独特的北国冰雪风光吸引不少游客前往观赏。",
+   "regions": [
+    "黑龙江"
+   ]
+  },
+  {
+   "title": "广西防城港海警局查获走私案 查扣香烟2.9万余条",
+   "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723731.shtml",
+   "source": "中新网社会",
+   "time": "2026-10-30T23:42:59.000Z",
+   "summary": "中新网广西防城港10月31日电(李民旺 吴宏志 黄煜和)广西防城港海警局30日通报，该局近期在辖区海域查获一起涉嫌走私香烟案，查扣艉部搭载4台大马力发动机摩托艇1艘、香烟2.9万余条，案值约600万元。",
+   "regions": [
+    "防城港",
+    "广西"
+   ]
+  },
+  {
+   "title": "全球治理与国际传播：人类命运共同体国际智库论坛（2026）在京举办",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-31/10723727.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-30T23:41:47.000Z",
+   "summary": "中新网北京10月31日电(记者 李双南)日前，“全球治理与国际传播：人类命运共同体国际智库论坛(2026)”在中国传媒大学举办。来自中国、日本、马来西亚、巴基斯坦、斯里兰卡、英国、法国、安哥拉、坦桑尼亚、墨西哥、阿根廷、委内瑞拉等12个国家…",
+   "regions": [
+    "欧洲",
+    "美洲",
+    "亚太",
+    "拉美",
+    "北京"
+   ]
+  },
+  {
+   "title": "多个领域捷报频传！本周我国硬核成果持续上新",
+   "link": "https://www.chinanews.com.cn/gn/2026/10-31/10723716.shtml",
+   "source": "中新网中国",
+   "time": "2026-10-30T22:39:16.000Z",
+   "summary": "本周",
+   "regions": []
+  },
   {
    "title": "奥地利合唱团走进乐山 江边放歌感受山水",
    "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723714.shtml",
@@ -4661,6 +5092,68 @@
  ],
  "econ": [
   {
+   "title": "上海以战略耐心培育卫星互联网产业",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723740.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-30T23:58:10.000Z",
+   "summary": "有些产业，体量不大，但能决定一座城市能否持续保持竞争力。",
+   "regions": []
+  },
+  {
+   "title": "“水、陆、铁”轮番接力！渝黔背靠背联网工程首台换流变压器运抵施工现场",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723734.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-30T23:46:23.000Z",
+   "summary": "中新网重庆10月31日电 (记者 周毅)30日，国家“十四五”电力发展规划重点项目——渝黔背靠背联网工程有序推进，首台换流变压器顺利运抵重庆市綦江区隆盛镇渝黔换流站施工现场，工程正式进入核心电气设备安装攻坚阶段。",
+   "regions": []
+  },
+  {
+   "title": "今年广西消费品以旧换新政策已带动消费额超400亿元",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723729.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-30T23:42:53.000Z",
+   "summary": "中新网南宁10月31日电(黄力 林浩)10月30日，广西壮族自治区商务厅介绍，截至10月29日，2026年广西消费品以旧换新累计惠及消费者近700万人次，带动销售额超400亿元，政策惠民助企效应持续显现。",
+   "regions": []
+  },
+  {
+   "title": "华南首个“邮轮无目的地海上游”航次启航",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723728.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-30T23:42:49.000Z",
+   "summary": "中新网深圳10月31日电 (记者 蔡敏婕)“梦想”号邮轮30日从深圳蛇口国际邮轮母港出发，标志着华南地区首条无目的地海上游试点航线正式启航，这也是继上海、天津之后，全国第三个落地无目的地海上游试点的港口。",
+   "regions": []
+  },
+  {
+   "title": "中欧两大商会举办对话会 探讨推动中欧贸易向上平衡",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723725.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-30T23:00:33.000Z",
+   "summary": "中新社布鲁塞尔10月30日电 (记者 德永健)欧盟中国商会与中国欧盟商会29日在布鲁塞尔举办圆桌对话会，探讨如何扩大中欧经贸合作共同利益，推动中欧贸易向上平衡、向前发展。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "第十届中德汽车大会在德国沃尔夫斯堡举行",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723720.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-30T22:48:40.000Z",
+   "summary": "中新社德国沃尔夫斯堡10月30日电 (记者 马秀秀)第十届中德汽车大会30日在德国下萨克森州沃尔夫斯堡市举行。来自中德两国政府部门、行业协会、汽车制造及零部件企业、科研机构等约600名代表与会，围绕汽车产业转型发展、技术创新、双向投资及产业…",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "国际金价跌破每盎司3900美元",
+   "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723718.shtml",
+   "source": "中新网财经",
+   "time": "2026-10-30T22:44:30.000Z",
+   "summary": "美国纽约商品交易所黄金期货市场12月黄金期价30日在早盘跌破每盎司4000美元关键心理价位后，价格继续下探，午盘跌破每盎司3900美元。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
    "title": "青海都兰：“蚕豆+”轮作解锁高原农业“绿色密码”",
    "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723710.shtml",
    "source": "中新网财经",
@@ -5369,5 +5862,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-30T19:36:08.626Z"
+ "updatedAt": "2026-10-31T02:37:38.341Z"
 }
