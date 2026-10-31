@@ -1751,6 +1751,17 @@
    ]
   },
   {
+   "title": "【地震 M3.0】7 km W of Dutch Harbor, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugx",
+   "source": "USGS地震台网",
+   "time": "2026-10-30T19:53:02.186Z",
+   "summary": "美国地质调查局官方监测：7 km W of Dutch Harbor, Alaska发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M2.5】63 km WNW of Happy Valley, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnhpxc",
    "source": "USGS地震台网",
@@ -6413,5 +6424,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-31T09:12:40.317Z"
+ "updatedAt": "2026-10-31T15:26:48.187Z"
 }
