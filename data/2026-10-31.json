@@ -2,6 +2,110 @@
  "date": "2026-10-31",
  "tech": [
   {
+   "title": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+   "link": "https://www.ithome.com/1/020/645.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:58:31.000Z",
+   "summary": "IT之家 11 月 1 日消息，OpenAI 发布公告，宣布从 12 月开始，随着将 Work 的智能体能力引入至 ChatGPT 主要体验中，Plus、Pro 以及 Business 订阅方案的用户将 在 ChatGPT 与 Codex …",
+   "regions": []
+  },
+  {
+   "title": "BLG 2:0 HLE：英雄联盟 S16 全球总决赛 8 强诞生，LPL 赛区三支队伍晋级",
+   "link": "https://www.ithome.com/1/020/644.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:53:17.000Z",
+   "summary": "IT之家 11 月 1 日消息，在今日的英雄联盟 2026 全球总决赛瑞士轮第八日比赛中，来自中国大陆 LPL 赛区的二号种子 BLG 战队， 以 2:0 的比分战胜来自韩国 LCK 赛区的二号种子 HLE 战队 ，成功晋级八强。 至此，英…",
+   "regions": []
+  },
+  {
+   "title": "联电 CEO 王石：成熟制程明年预计将涨价约 10%",
+   "link": "https://www.ithome.com/1/020/643.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:46:05.000Z",
+   "summary": "IT之家 11 月 1 日消息，在 10 月 28 日召开的联电（UMC）第三季度法人说明会上，联电首席执行官王石向投资者表示，因成熟制程产能利用率已突破九成且部分技术满载， 2027 年全年的综合平均销售价格 （ASP） 预计将增加约 1…",
+   "regions": []
+  },
+  {
+   "title": "AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器",
+   "link": "https://www.ithome.com/1/020/642.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:44:36.000Z",
+   "summary": "IT之家 11 月 1 日消息，据 Tom's Hardware 昨日报道，尽管消费级 PC 市场正在缩小，但英特尔有信心，AI 行业的需求将抵消客户端市场的下滑。 为此，英特尔正在将部分产能从客户端 CPU 重新分配给数据中心 CPU，扩…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 1101：苹果中国官网上线 Apple 智能介绍页面；新款小米 SU7 Ultra 无伪装实车曝光；我国首次载人登月任务乘组计划由三人组成...",
+   "link": "https://www.ithome.com/1/020/641.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:40:23.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 1 日星期日，今天的重要科技资讯有： 1. 苹果中国官网上线 Apple 智能介绍页面：首批核心功能今年稍晚推出，千问整合一体 苹果中国区官网 10 月 31 日上线了 Apple …",
+   "regions": []
+  },
+  {
+   "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
+   "link": "https://www.ithome.com/1/020/640.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:38:59.000Z",
+   "summary": "IT之家 11 月 1 日消息，特斯拉最近在海外市场推出全新推荐奖励计划，车主可邀请朋友（也得是特斯拉车主）体验一个月 FSD 监督版，最终双方都能拿到免费权益。 据介绍，现有特斯拉车主可以分享自己的推荐链接，被邀请人打开后可获一个月 FS…",
+   "regions": []
+  },
+  {
+   "title": "消息称华硕可能结束手机业务：现有产品纷纷下市，已无零售商提供报价",
+   "link": "https://www.ithome.com/1/020/639.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:33:51.000Z",
+   "summary": "IT之家 11 月 1 日消息，据台媒经济日报消息，PC 品牌华硕今年初证实，2026 年暂无推出手机新机型的计划。 如今市场传出， 华硕手机库存到了第 4 季度已几乎销售一空 ，上周已无手机零售商（通讯行）提供报价，显示现货已经售罄，产品…",
+   "regions": []
+  },
+  {
+   "title": "Linux Mint 系统将重新支持合盖休眠，带来全新终端和文件预览功能",
+   "link": "https://www.ithome.com/1/020/638.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:30:22.000Z",
+   "summary": "IT之家 11 月 1 日消息，Linux Mint 是较为适合新手的热门 Linux 发行版之一，尤其适合想从 Windows 转向 Linux 的用户。然而，该系统基于 Ubuntu 打造，受制于 Ubuntu 的许多上游决策，比如之前…",
+   "regions": []
+  },
+  {
+   "title": "微信支付智慧经营机器人首次进店：支持迎宾、导购、点单等，基于腾讯混元打造",
+   "link": "https://www.ithome.com/1/020/637.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:16:13.000Z",
+   "summary": "IT之家 11 月 1 日消息，10 月 29 日，广东 7-ELEVEN 第 2000 家门店在深圳腾讯总部园区开业。 当天，一台印有微信支付标识的智慧经营机器人 第一次进店“打工” ，这款机器人能推荐商品和优惠套餐，帮忙下单。选好了，再…",
+   "regions": []
+  },
+  {
+   "title": "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身",
+   "link": "https://www.ithome.com/1/020/636.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:12:21.000Z",
+   "summary": "IT之家 11 月 1 日消息，据 The Information 昨天报道，Meta 最近与中国企业傅利叶（Fourier）合作，打造一款名为 Max 的人形机器人原型。 据介绍，这款机器人研发用时三个月，其身高接近 5 英尺 （IT之家…",
+   "regions": []
+  },
+  {
+   "title": "微软 Turn 10 与 Playground Games 游戏工作室合并，《极限竞速》负责人 Dan Greenawalt 辞职",
+   "link": "https://www.ithome.com/1/020/635.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T23:06:29.000Z",
+   "summary": "IT之家 11 月 1 日消息，微软旗下游戏部门 Xbox 今年进行大规模裁员，将《极限竞速》开发商 Turn 10 和《极限竞速：地平线》开发商 Playground Games 合并为一家游戏工作室。 据 The Verge 本周报道，…",
+   "regions": []
+  },
+  {
+   "title": "金标联盟发布 SharedView Kit 一镜到底 / 无缝动画，荣耀、OPPO、vivo、小米联合推动",
+   "link": "https://www.ithome.com/1/020/634.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T22:56:41.000Z",
+   "summary": "IT之家 11 月 1 日消息，2026 年 10 月，金标联盟（ITGSA）正式发布 SharedView Kit「一镜到底 / 无缝动画」。 荣耀、OPPO、vivo、小米四家头部手机厂商联合推动该 Kit 落地 。 据介绍，所谓「一镜…",
+   "regions": []
+  },
+  {
+   "title": "美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业",
+   "link": "https://www.ithome.com/1/020/633.htm",
+   "source": "IT之家",
+   "time": "2026-10-31T22:56:28.000Z",
+   "summary": "IT之家 11 月 1 日消息，美国白宫科学与技术顾问会议主席戴维 · 奥利弗 · 萨克斯（David Oliver Sacks）最近出席 All-In 播客，深入分析 Anthropic 的 S-1 注册文件， 称这家人工智能初创公司很可…",
+   "regions": []
+  },
+  {
    "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
    "link": "https://www.ithome.com/1/020/632.htm",
    "source": "IT之家",
@@ -1212,6 +1316,145 @@
  ],
  "world": [
   {
+   "title": "【地震 M4.8】199 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T23:57:55.354Z",
+   "summary": "美国地质调查局官方监测：199 km NW of Port-Olry, Vanuatu发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄军10月在特别军事行动区解放39个居民点",
+   "link": "https://sputniknews.cn/20261101/1073895427.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T23:36:59.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月1日电 卫星通讯社根据俄罗斯国防部的数据统计，俄罗斯武装力量10月在特别军事行动区解放了39个居民点，其中哈尔科夫州最多。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "德国多地抗议爆发冲突，法兰克福多家商铺遭砸抢",
+   "link": "https://sputniknews.cn/20261101/1073895326.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T23:32:03.000Z",
+   "summary": "10月31日，德国柏林、法兰克福、慕尼黑等30多座城市爆发抗议游行，数万民众走上街头，要求改善教育条件、降低生活成本。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】63 km W of Petrolia, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460612",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T23:21:44.410Z",
+   "summary": "美国地质调查局官方监测：63 km W of Petrolia, CA发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "朝鲜国防科研单位进行重要武器系统威力评估试验",
+   "link": "https://sputniknews.cn/20261101/1073895108.html",
+   "source": "卫星社中文",
+   "time": "2026-10-31T23:19:44.000Z",
+   "summary": "据朝中社报道，朝鲜导弹总局10月31日进行了战术弹道导弹散布战斗部战斗适用性及威力评估试验。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】10 km WSW of Hope, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vplgct",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T23:17:43.520Z",
+   "summary": "美国地质调查局官方监测：10 km WSW of Hope, Alaska发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M5.2】200 km NW of Port-Olry, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T22:42:39.540Z",
+   "summary": "美国地质调查局官方监测：200 km NW of Port-Olry, Vanuatu发生 5.2 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【灾害警报】Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
+   "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574997",
+   "source": "GDACS灾害监测",
+   "time": "2026-10-31T22:31:13.000Z",
+   "summary": "On 10/31/2026 10:15:02 PM, an earthquake occurred in Japan potentially affecting 60 thousand in MMI III. The earthquake …",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
+   "source": "中新网国际",
+   "time": "2026-10-31T22:29:54.000Z",
+   "summary": "为期两天的二十国集团(G20)外长会10月31日在美国南部佐治亚州首府亚特兰大结束。会议笼罩在乌克兰危机和美伊冲突的阴影下，未能就重要全球地缘和经济安全问题达成共识。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M6.0】58 km SSE of Shima, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T22:15:02.901Z",
+   "summary": "美国地质调查局官方监测：58 km SSE of Shima, Japan发生 6.0 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】115 km SE of Bushehr, Iran",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T21:20:39.173Z",
+   "summary": "美国地质调查局官方监测：115 km SE of Bushehr, Iran发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "伊朗",
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】18 km NNE of Tierras Nuevas Poniente, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538123",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T21:03:19.370Z",
+   "summary": "美国地质调查局官方监测：18 km NNE of Tierras Nuevas Poniente, Puerto Rico发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M3.1】4 km SSE of Maria Antonia, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538103",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T19:58:08.010Z",
+   "summary": "美国地质调查局官方监测：4 km SSE of Maria Antonia, Puerto Rico发生 3.1 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
    "title": "加密货币交易所币安称已弥补黑客攻击造成的90%损失",
    "link": "https://sputniknews.cn/20261101/1073885843.html",
    "source": "卫星社中文",
@@ -1225,6 +1468,17 @@
    "source": "USGS地震台网",
    "time": "2026-10-31T18:51:02.721Z",
    "summary": "美国地质调查局官方监测：111 km ESE of Atka, Alaska发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】121 km SE of Atka, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpcige",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T18:50:58.577Z",
+   "summary": "美国地质调查局官方监测：121 km SE of Atka, Alaska发生 4.5 级地震，震源深度 未知。",
    "regions": [
     "美国阿拉斯加",
     "美洲"
@@ -1464,6 +1718,17 @@
    ]
   },
   {
+   "title": "【地震 M3.4】100 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukr",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T15:10:11.082Z",
+   "summary": "美国地质调查局官方监测：100 km SSW of Nikolski, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "伊朗最高领袖：若美国再次发动袭击伊朗将决定结束军事行动的条件",
    "link": "https://sputniknews.cn/20261031/1073884463.html",
    "source": "卫星社中文",
@@ -1693,6 +1958,17 @@
    ]
   },
   {
+   "title": "【地震 M2.9】111 km SSE of Sand Point, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026voqkjn",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T12:52:32.085Z",
+   "summary": "美国地质调查局官方监测：111 km SSE of Sand Point, Alaska发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "媒体：德国莱茵金属公司承认防空系统测试结果未达预期",
    "link": "https://sputniknews.cn/20261031/1073883578.html",
    "source": "卫星社中文",
@@ -1712,6 +1988,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "联合国驻索马里政治特派团结束任务，双方合作开启新篇章",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143105",
+   "source": "联合国新闻",
+   "time": "2026-10-31T12:00:00.000Z",
+   "summary": "应索马里联邦政府请求，联合国索马里过渡时期援助团于10月31日完成为期两年的过渡安排，正式结束任务。自1995年以来，联合国先后通过多个政治特派团，支持索马里恢复国家治理、重建机构、推进和平与和解。此次结束任务后，相关工作将由索马里有关部门…",
+   "regions": []
   },
   {
    "title": "俄瓦赫坦戈夫剧院院长：期待与中国观众再次相见",
@@ -4345,5 +4629,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-10-31T19:26:55.813Z"
+ "updatedAt": "2026-11-01T01:47:18.421Z"
 }
