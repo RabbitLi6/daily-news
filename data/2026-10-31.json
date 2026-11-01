@@ -106,6 +106,14 @@
    "regions": []
   },
   {
+   "title": "Jync v1.9.0 · Webhook 告警与 ETL 批次",
+   "link": "https://www.oschina.net/news/503327",
+   "source": "开源中国",
+   "time": "2026-10-31T16:53:21.000Z",
+   "summary": "新增 Webhook 告警通知与 ETL 批次，ETL 连接类型扩到 7 种新库；同步链路修复了租约与连接池的一组问题。 新增 Webhook 告警通知：同步失败、CDC 异常等按分类推送，支持冷却时间与通用/钉钉/企业微信/飞书格式；地址…",
+   "regions": []
+  },
+  {
    "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
    "link": "https://www.ithome.com/1/020/632.htm",
    "source": "IT之家",
@@ -578,6 +586,14 @@
    "regions": []
   },
   {
+   "title": "酷瓜云课堂（网校企业版）v2.0.3 发布，PHP在线网校系统",
+   "link": "https://www.oschina.net/news/503326",
+   "source": "开源中国",
+   "time": "2026-10-31T08:50:03.000Z",
+   "summary": "更新内容 【增加】后台登录双因素验证（2FA/TOTP），支持在安全设置中开启 【增加】资金、积分、发票流水记录事前/事后余额 【增加】编辑器远程图片本地化开关（biz.editor.save_remote_image） 【优化】文件上传流…",
+   "regions": []
+  },
+  {
    "title": "微软 Edge 企业版新增开机自启管理策略，未配置时由用户自行决定",
    "link": "https://www.ithome.com/1/020/525.htm",
    "source": "IT之家",
@@ -938,6 +954,14 @@
    "regions": []
   },
   {
+   "title": "🔥 优化及缺陷修复：开源 AI 无代码平台 NocoBase",
+   "link": "https://www.oschina.net/news/503325",
+   "source": "开源中国",
+   "time": "2026-10-31T04:46:42.000Z",
+   "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本，推荐安装此版本。 next： 包含即将发布的新功能，经过初步测试…",
+   "regions": []
+  },
+  {
    "title": "腾讯地图公布 Agent 能力全景图，元宝、微信小微、OPPO 小布助手等已接入",
    "link": "https://www.ithome.com/1/020/457.htm",
    "source": "IT之家",
@@ -1042,11 +1066,27 @@
    "regions": []
   },
   {
+   "title": "MiniToolDesk v1.0 发布：纯前端离线开发者工具箱，杜绝数据泄露与广告骚扰",
+   "link": "https://www.oschina.net/news/503324",
+   "source": "开源中国",
+   "time": "2026-10-31T03:14:25.000Z",
+   "summary": "近日，现代化纯前端离线开发者工具箱 MiniToolDesk v1.0 正式发布，并同步上架 Google Chrome 网上应用店与微软 Edge 官方扩展中心。 该项目致力于解决日常研发工作中，在线转换工具满屏牛皮癣广告、以及敏感数据被…",
+   "regions": []
+  },
+  {
    "title": "告别“网页套壳”：微软完善 Win11 原生框架 WinUI 体验，减少内存占用",
    "link": "https://www.ithome.com/1/020/443.htm",
    "source": "IT之家",
    "time": "2026-10-31T03:09:10.000Z",
    "summary": "IT之家 10 月 31 日消息，科技媒体 Windows Latest 今天（10 月 31 日）发布博文，报道称微软于 10 月 27 日发布 Windows App SDK 2.6.4，进一步完善 Windows 11 原生应用框架 …",
+   "regions": []
+  },
+  {
+   "title": "DataY 轻量数据平台，v1.0.5 版本更新",
+   "link": "https://www.oschina.net/news/503323",
+   "source": "开源中国",
+   "time": "2026-10-31T02:40:41.000Z",
+   "summary": "DataY 是一套开源、轻量的一体化数据平台，理念很简单： 数据平台可以很小，功能不打折。 传统数据平台往往需要 Hadoop、Spark、Flink、ClickHouse 一整套组件，几十台机器起步，运维门槛高。DataY 选择另一条路：…",
    "regions": []
   },
   {
@@ -1808,6 +1848,24 @@
    ]
   },
   {
+   "title": "【地震 M4.5】295 km ESE of Tadine, New Caledonia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumt",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T13:56:59.106Z",
+   "summary": "美国地质调查局官方监测：295 km ESE of Tadine, New Caledonia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "UN political mission in Somalia ends after more than three decades",
+   "link": "https://newsaf.cgtn.com/news/2026-10-31/UN-political-mission-in-Somalia-ends-after-more-than-three-decades-1RH94jlw208/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T13:52:38.000Z",
+   "summary": "The UN Transitional Assistance Mission in Somalia (UNTMIS) officially ceased operations on Saturday, marking the end of …",
+   "regions": []
+  },
+  {
    "title": "130名持马来西亚护照人员涉嫌网络诈骗在巴基斯坦被捕",
    "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724089.shtml",
    "source": "中新网国际",
@@ -1958,6 +2016,17 @@
    ]
   },
   {
+   "title": "【地震 M2.5】105 km SSE of Sand Point, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukq",
+   "source": "USGS地震台网",
+   "time": "2026-10-31T12:52:32.807Z",
+   "summary": "美国地质调查局官方监测：105 km SSE of Sand Point, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M2.9】111 km SSE of Sand Point, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026voqkjn",
    "source": "USGS地震台网",
@@ -1980,6 +2049,22 @@
    ]
   },
   {
+   "title": "Fact Check: Colombia gym video falsely linked to earthquake in Xizang",
+   "link": "https://news.cgtn.com/news/2026-10-31/Fact-Check-Colombia-gym-video-falsely-linked-to-earthquake-in-Xizang-1RGVT8PfDI4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T12:27:35.000Z",
+   "summary": "A video showing people fleeing a shaking building was falsely shared on social media as footage of the magnitude-7.0 ear…",
+   "regions": []
+  },
+  {
+   "title": "Top scientists debate AI at World Laureates Forum",
+   "link": "https://news.cgtn.com/news/2026-10-31/Top-scientists-debate-AI-at-World-Laureates-Forum-1RGZet71MIg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T12:17:37.000Z",
+   "summary": "Top scientists debate AI at World Laureates Forum",
+   "regions": []
+  },
+  {
    "title": "俄政府将生产商柴油出口禁令延长至1月底",
    "link": "https://sputniknews.cn/20261031/1073883450.html",
    "source": "卫星社中文",
@@ -1996,6 +2081,24 @@
    "time": "2026-10-31T12:00:00.000Z",
    "summary": "应索马里联邦政府请求，联合国索马里过渡时期援助团于10月31日完成为期两年的过渡安排，正式结束任务。自1995年以来，联合国先后通过多个政治特派团，支持索马里恢复国家治理、重建机构、推进和平与和解。此次结束任务后，相关工作将由索马里有关部门…",
    "regions": []
+  },
+  {
+   "title": "世界城市日：城市焕新：人人享有适当住房",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143111",
+   "source": "联合国新闻",
+   "time": "2026-10-31T12:00:00.000Z",
+   "summary": "世界城市日全球纪念活动周六在中国福州举行，主题为“城市焕新：人人享有适当住房”，聚焦城市复兴，将城市复兴视为实现人人享有适当住房的推动力。",
+   "regions": []
+  },
+  {
+   "title": "人权高专办工作人员在胡塞武装羁押期间死亡，联合国强烈谴责并要求展开调查",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143110",
+   "source": "联合国新闻",
+   "time": "2026-10-31T12:00:00.000Z",
+   "summary": "秘书长古特雷斯和人权事务高级专员蒂尔克周六分别发表声明，对一名联合国人权事务高级专员办事处驻也门工作人员在被胡塞事实当局羁押期间死亡一事，深表震惊并予以强烈谴责。",
+   "regions": [
+    "中东"
+   ]
   },
   {
    "title": "俄瓦赫坦戈夫剧院院长：期待与中国观众再次相见",
@@ -2081,6 +2184,14 @@
    ]
   },
   {
+   "title": "From Karakoram to Arabian Sea, Ep. 3: A Friendship Across Generations",
+   "link": "https://news.cgtn.com/news/2026-10-31/From-Karakoram-to-Arabian-Sea-Ep-3-A-Friendship-Across-Generations-1RGUKVssuCk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T10:16:04.000Z",
+   "summary": "From Karakoram to Arabian Sea, Ep. 3: A Friendship Across Generations",
+   "regions": []
+  },
+  {
    "title": "中非共和国总统：俄非峰会尊重国家主权",
    "link": "https://sputniknews.cn/20261031/1073882722.html",
    "source": "卫星社中文",
@@ -2090,6 +2201,22 @@
     "俄乌",
     "非洲"
    ]
+  },
+  {
+   "title": "China-Africa green mobility cooperation gains momentum",
+   "link": "https://newsaf.cgtn.com/news/2026-10-31/China-Africa-green-mobility-cooperation-gains-momentum--1RGW5ON6OMU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T09:51:38.000Z",
+   "summary": "More than 700 industry, government and finance delegates from over 20 African countries converged at Nelson Mandela Bay …",
+   "regions": []
+  },
+  {
+   "title": "Ruto secures Putin's pledge to halt military recruitment, expand ties",
+   "link": "https://newsaf.cgtn.com/news/2026-10-31/Ruto-secures-Putin-s-pledge-to-halt-military-recruitment-expand-ties-1RGOwus6Nqw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T09:35:38.000Z",
+   "summary": "Ruto said Putin had confirmed that Kenya would be designated a \"non-source country\" for recruitment into the Russian arm…",
+   "regions": []
   },
   {
    "title": "俄国防部：俄军过去一昼夜对乌军使用的交通基础设施实施打击",
@@ -2123,6 +2250,14 @@
    ]
   },
   {
+   "title": "Graphics: Post-fire reforms for Wang Fuk Court",
+   "link": "https://news.cgtn.com/news/2026-10-31/Graphics-Post-fire-reforms-for-Wang-Fuk-Court-1RGPYkn72RG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T09:16:25.000Z",
+   "summary": "Graphics: Post-fire reforms for Wang Fuk Court",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.9】213 km W of Sola, Vanuatu",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs",
    "source": "USGS地震台网",
@@ -2132,6 +2267,14 @@
     "瓦努阿图",
     "亚太"
    ]
+  },
+  {
+   "title": "China warns sidelining development undermines human rights",
+   "link": "https://news.cgtn.com/news/2026-10-31/China-warns-sidelining-development-undermines-human-rights-1RGQFzRoRoI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T08:59:31.000Z",
+   "summary": "China on Friday called for stronger international cooperation to advance the right to development, and urged countries t…",
+   "regions": []
   },
   {
    "title": "梅德韦杰夫：波兰正在发生宪法政变",
@@ -2154,6 +2297,14 @@
     "多米尼加",
     "拉美"
    ]
+  },
+  {
+   "title": "Global housing forum opens in China with focus on affordable housing",
+   "link": "https://news.cgtn.com/news/2026-10-31/Global-housing-forum-opens-in-China-with-focus-on-affordable-housing-1RGKTxOtKH6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T08:36:22.000Z",
+   "summary": "The world has a housing problem and it shows up mostly in the cities, where nearly half of humanity is crammed. Shining …",
+   "regions": []
   },
   {
    "title": "全球媒体聚焦|中瑞自贸协定升级议定书对贸易壁垒发出信号",
@@ -2203,6 +2354,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "DR Congo Ebola death toll surpasses 5,000 as outbreak spreads",
+   "link": "https://newsaf.cgtn.com/news/2026-10-31/DR-Congo-Ebola-death-toll-surpasses-5-000-as-outbreak-spreads-1RGNgK3MiGs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T07:41:51.000Z",
+   "summary": "The outbreak has spread to eight of the country's 26 provinces. It is the deadliest Ebola epidemic recorded in the DRC a…",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】12 km NW of Junction, Utah",
@@ -2293,6 +2452,14 @@
    ]
   },
   {
+   "title": "Crowds rally in Japan against Takaichi's push to revise nuclear policy",
+   "link": "https://news.cgtn.com/news/2026-10-31/Crowds-rally-in-Japan-against-Takaichi-s-push-to-revise-nuclear-policy-1RGGarSgOis/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T06:38:49.000Z",
+   "summary": "Nearly 10,000 Japanese citizens gathered in front of the National Diet Building in Tokyo on Friday evening to protest mo…",
+   "regions": []
+  },
+  {
    "title": "香港电讯迫于压力同意停止在美业务",
    "link": "https://sputniknews.cn/20261031/1073881698.html",
    "source": "卫星社中文",
@@ -2375,6 +2542,14 @@
    ]
   },
   {
+   "title": "Lavrov urges Japan to abandon its unfriendly policy toward Moscow",
+   "link": "https://news.cgtn.com/news/2026-10-31/Lavrov-urges-Japan-to-abandon-its-unfriendly-policy-toward-Moscow-1RGzn3nv4IM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T05:17:02.000Z",
+   "summary": "Russian Foreign Minister Sergei Lavrov told his Japanese counterpart, Toshimitsu Motegi, on Friday that Tokyo needs to a…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.3】44 km SSW of Nikolski, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vobaga",
    "source": "USGS地震台网",
@@ -2414,6 +2589,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "Russia, Ukraine discuss trilateral talks amid continued fighting",
+   "link": "https://news.cgtn.com/news/2026-10-31/Russia-Ukraine-discuss-trilateral-talks-amid-continued-fighting-1RGwD9LzDd6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-10-31T04:36:02.000Z",
+   "summary": "Russia plans to hold trilateral talks with Ukraine in Abu Dhabi in November under US mediation, with the meeting seen as…",
+   "regions": []
   },
   {
    "title": "中国铼、金、镍、锆等保有资源量大幅增加",
@@ -2796,6 +2979,19 @@
    "regions": []
   },
   {
+   "title": "China Coast Guard patrols around China’s Taiwan island",
+   "link": "https://news.cgtn.com/news/2026-10-31/China-Coast-Guard-patrols-around-China-s-Taiwan-island-1RHax73lX4Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T13:44:00.000Z",
+   "summary": "China Coast Guard patrols around China’s Taiwan island",
+   "regions": [
+    "台湾",
+    "台海",
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
    "link": "https://www.chinanews.com.cn/gn/2026/10-31/10724013.shtml",
    "source": "中新网中国",
@@ -2813,6 +3009,17 @@
    "summary": "中新网北京10月31日电 (记者 陈杭)第二十九届北京·香港经济合作研讨洽谈会(以下简称“京港洽谈会”)将于11月3日至4日在京举行。作为北京市14场专题推介活动之一，东城区专题推介活动将于11月3日下午在国家会议中心二期举办，以“紫金筑梦…",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "Observing Hong Kong's governance after 2025 Tai Po fire",
+   "link": "https://news.cgtn.com/news/2026-10-31/Observing-Hong-Kong-s-governance-after-2025-Tai-Po-fire-1RGMOiiUNLW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T07:41:09.000Z",
+   "summary": "Observing Hong Kong's governance after 2025 Tai Po fire",
+   "regions": [
+    "香港",
+    "亚太"
    ]
   },
   {
@@ -2873,6 +3080,14 @@
   }
  ],
  "cn": [
+  {
+   "title": "Alibaba's Qwen to integrate into Apple Intelligence in landmark deal",
+   "link": "https://news.cgtn.com/news/2026-10-31/Alibaba-s-Qwen-to-integrate-into-Apple-Intelligence-in-landmark-deal-1RHilSeJsbK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T15:02:32.000Z",
+   "summary": "Alibaba's Qwen to integrate into Apple Intelligence in landmark deal",
+   "regions": []
+  },
   {
    "title": "广交会观察：彰显时尚价值 中国非遗潮品走俏海外市场",
    "link": "https://www.chinanews.com.cn/cj/2026/10-31/10724109.shtml",
@@ -3158,6 +3373,17 @@
    ]
   },
   {
+   "title": "Fact Check: Colombia gym video falsely linked to earthquake in Xizang",
+   "link": "https://news.cgtn.com/news/2026-10-31/Fact-Check-Colombia-gym-video-falsely-linked-to-earthquake-in-Xizang-1RGVT8PfDI4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T12:27:35.000Z",
+   "summary": "A video showing people fleeing a shaking building was falsely shared on social media as footage of the magnitude-7.0 ear…",
+   "regions": [
+    "哥伦比亚",
+    "拉美"
+   ]
+  },
+  {
    "title": "旅居荷兰欧维汉动物园大熊猫“朗月”平安回国",
    "link": "https://www.chinanews.com.cn/sh/2026/10-31/10724027.shtml",
    "source": "中新网社会",
@@ -3188,6 +3414,14 @@
     "西双版纳",
     "云南"
    ]
+  },
+  {
+   "title": "Top scientists debate AI at World Laureates Forum",
+   "link": "https://news.cgtn.com/news/2026-10-31/Top-scientists-debate-AI-at-World-Laureates-Forum-1RGZet71MIg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T12:17:37.000Z",
+   "summary": "Top scientists debate AI at World Laureates Forum",
+   "regions": []
   },
   {
    "title": "风景园林专家齐聚重庆 共探园林植物赋能城市更新路径",
@@ -3251,6 +3485,14 @@
    ]
   },
   {
+   "title": "From Karakoram to Arabian Sea, Ep. 3: A Friendship Across Generations",
+   "link": "https://news.cgtn.com/news/2026-10-31/From-Karakoram-to-Arabian-Sea-Ep-3-A-Friendship-Across-Generations-1RGUKVssuCk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T10:16:04.000Z",
+   "summary": "From Karakoram to Arabian Sea, Ep. 3: A Friendship Across Generations",
+   "regions": []
+  },
+  {
    "title": "11月1日起一批国家标准开始实施",
    "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723963.shtml",
    "source": "中新网社会",
@@ -3288,6 +3530,14 @@
    "regions": [
     "广西"
    ]
+  },
+  {
+   "title": "Graphics: Post-fire reforms for Wang Fuk Court",
+   "link": "https://news.cgtn.com/news/2026-10-31/Graphics-Post-fire-reforms-for-Wang-Fuk-Court-1RGPYkn72RG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T09:16:25.000Z",
+   "summary": "Graphics: Post-fire reforms for Wang Fuk Court",
+   "regions": []
   },
   {
    "title": "世博讲堂在沪举办 共论如何延续上海世博会主题效应",
@@ -3352,6 +3602,17 @@
    ]
   },
   {
+   "title": "China warns sidelining development undermines human rights",
+   "link": "https://news.cgtn.com/news/2026-10-31/China-warns-sidelining-development-undermines-human-rights-1RGQFzRoRoI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T08:59:31.000Z",
+   "summary": "China on Friday called for stronger international cooperation to advance the right to development, and urged countries t…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "中国小将孙心然首进广网巡回赛四强",
    "link": "https://www.chinanews.com.cn/ty/2026/10-31/10723939.shtml",
    "source": "中新网滚动",
@@ -3381,6 +3642,17 @@
    "regions": [
     "西宁",
     "青海"
+   ]
+  },
+  {
+   "title": "Global housing forum opens in China with focus on affordable housing",
+   "link": "https://news.cgtn.com/news/2026-10-31/Global-housing-forum-opens-in-China-with-focus-on-affordable-housing-1RGKTxOtKH6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T08:36:22.000Z",
+   "summary": "The world has a housing problem and it shows up mostly in the cities, where nearly half of humanity is crammed. Shining …",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3476,6 +3748,33 @@
    ]
   },
   {
+   "title": "2026 World Laureates Forum: Backing the next generation of scientists",
+   "link": "https://news.cgtn.com/news/2026-10-31/2026-World-Laureates-Forum-Backing-the-next-generation-of-scientists-1RFDRMgMQVy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T07:44:59.000Z",
+   "summary": "2026 World Laureates Forum: Backing the next generation of scientists",
+   "regions": []
+  },
+  {
+   "title": "70 years on, why global buyers keep coming back to Canton Fair",
+   "link": "https://news.cgtn.com/news/2026-10-31/70-years-on-why-global-buyers-keep-coming-back-to-Canton-Fair-1RGCbuksOl2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T07:37:07.000Z",
+   "summary": "70 years on, why global buyers keep coming back to Canton Fair",
+   "regions": []
+  },
+  {
+   "title": "Why CPC stresses unwavering efforts to enhance Party self-governance",
+   "link": "https://news.cgtn.com/news/2026-10-31/Why-CPC-stresses-unwavering-efforts-to-enhance-Party-self-governance-1RGuMZ4Bt8A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T07:16:05.000Z",
+   "summary": "The Fifth Plenary Session of the 20th Central Committee of the Communist Party of China (CPC), held in Beijing from Octo…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "重庆开州“烹”出职教新局：课堂连灶台，毕业能上岗",
    "link": "https://www.chinanews.com.cn/edu/2026/10-31/10723905.shtml",
    "source": "中新网滚动",
@@ -3483,6 +3782,17 @@
    "summary": "中新网重庆10月31日电 题：重庆开州“烹”出职教新局：课堂连灶台，毕业能上岗",
    "regions": [
     "重庆"
+   ]
+  },
+  {
+   "title": "Film 'Caravan of Gratitude' to hit theaters in China on November 6",
+   "link": "https://news.cgtn.com/news/2026-10-31/Film-Caravan-of-Gratitude-to-hit-theaters-in-China-on-November-6-1RGHt7L5No4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T06:48:01.000Z",
+   "summary": "The new film Caravan of Gratitude – which invites audiences to better understand the Chinese values of filial respect th…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3526,6 +3836,14 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "Gang Aoping: HKSAR govt. responded to Tai Po fire with accountability",
+   "link": "https://news.cgtn.com/news/2026-10-31/Gang-Aoping-HKSAR-govt-responded-to-Tai-Po-fire-with-accountability-1RGwhgNB7A4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T06:01:51.000Z",
+   "summary": "Gang Aoping: HKSAR govt. responded to Tai Po fire with accountability",
+   "regions": []
   },
   {
    "title": "姚家平水利枢纽工程成功截流 进入主体施工阶段",
@@ -3924,6 +4242,19 @@
  ],
  "econ": [
   {
+   "title": "China's Geely Auto Group to enter the Canadian auto market in 2027",
+   "link": "https://newsus.cgtn.com/news/2026-11-01/China-s-Geely-Auto-Group-to-enter-the-Canadian-auto-market-in-2027-1RHEnWMgsbC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T19:41:37.000Z",
+   "summary": "The Chinese electric vehicle automaker Geely has announced it’s coming to Canada. The company says that it has assembled…",
+   "regions": [
+    "中国",
+    "亚太",
+    "加拿大",
+    "美洲"
+   ]
+  },
+  {
    "title": "广交会观察：彰显时尚价值 中国非遗潮品走俏海外市场",
    "link": "https://www.chinanews.com.cn/cj/2026/10-31/10724109.shtml",
    "source": "中新网财经",
@@ -4188,6 +4519,17 @@
    "time": "2026-10-31T10:07:45.000Z",
    "summary": "十月的杭州，秋意正浓，街道两侧的梧桐叶刚染上微黄，一场关于“调”的试验，就在这样的季节里悄然开场。",
    "regions": []
+  },
+  {
+   "title": "China-Africa green mobility cooperation gains momentum",
+   "link": "https://newsaf.cgtn.com/news/2026-10-31/China-Africa-green-mobility-cooperation-gains-momentum--1RGW5ON6OMU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-10-31T09:51:38.000Z",
+   "summary": "More than 700 industry, government and finance delegates from over 20 African countries converged at Nelson Mandela Bay …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
@@ -4629,5 +4971,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-11-01T01:47:18.421Z"
+ "updatedAt": "2026-11-01T08:36:57.356Z"
 }

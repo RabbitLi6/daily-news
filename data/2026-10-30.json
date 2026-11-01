@@ -42,6 +42,14 @@
    "regions": []
   },
   {
+   "title": "Jync v1.8.2 · 日志 CDC 覆盖信创数据库，并发与审计更稳",
+   "link": "https://www.oschina.net/news/503322",
+   "source": "开源中国",
+   "time": "2026-10-30T23:32:43.000Z",
+   "summary": "日志 CDC 从 MySQL / Oracle / PostgreSQL / SQL Server 扩到更多国产与兼容数据库：崖山 YStream、达梦 DM8 LogMiner、openGauss 等 PG 方言家族、MySQL 兼容家族…",
+   "regions": []
+  },
+  {
    "title": "Anthropic Claude Max 20x 订阅更名 Ultra，已验证账户无五小时限制",
    "link": "https://www.ithome.com/1/020/398.htm",
    "source": "IT之家",
@@ -6424,5 +6432,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-01T01:47:18.425Z"
+ "updatedAt": "2026-11-01T08:36:57.359Z"
 }
