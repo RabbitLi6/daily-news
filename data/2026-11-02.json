@@ -2,6 +2,86 @@
  "date": "2026-11-02",
  "tech": [
   {
+   "title": "IT早报 1103：奥尔特曼称个人电脑浪费内存遭全网声讨；苹果 2026 财年净利润 1321 亿美元；美团称外卖 15 元以下订单数量减半；世界机器人登泰山大赛收官...",
+   "link": "https://www.ithome.com/1/021/302.htm",
+   "source": "IT之家",
+   "time": "2026-11-02T23:59:56.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 3 日星期一，今天的重要科技资讯有： 1. OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀 OpenAI CEO 奥尔特曼称把 DRAM 装在个人电脑中是…",
+   "regions": []
+  },
+  {
+   "title": "宝马高管：我们的纯电卖的好，反而有助于继续生产 V8 发动机",
+   "link": "https://www.ithome.com/1/021/301.htm",
+   "source": "IT之家",
+   "time": "2026-11-02T23:54:45.000Z",
+   "summary": "IT之家 11 月 3 日消息，据外媒 motor1 今天（3 日）凌晨报道，对于一直以燃油车“驾驶乐趣”著称的宝马而言，纯电车型的热销，却可能帮助宝马延续 V8 发动机的生产。 以澳大利亚市场为例，2025 年，纯电车型占宝马澳大利亚市场…",
+   "regions": []
+  },
+  {
+   "title": "苹果 HomeView OS 探秘：支持液态玻璃调节，CarPlay 技术成“临时桥梁”",
+   "link": "https://www.ithome.com/1/021/300.htm",
+   "source": "IT之家",
+   "time": "2026-11-02T23:53:56.000Z",
+   "summary": "IT之家 11 月 3 日消息，科技媒体 AppleInsider 昨日（11 月 2 日）发布博文，报道称苹果首款智能家居中枢 HomeView 所搭载系统高度封闭，对第三方开发者的限制远超此前预期。 该系统目前没有 App Store，…",
+   "regions": []
+  },
+  {
+   "title": "科技股暴跌拖累 Anthropic“史上最大 IPO”估值，预期已从 2 万亿美元降至 1.5 万亿区间",
+   "link": "https://www.ithome.com/1/021/299.htm",
+   "source": "IT之家",
+   "time": "2026-11-02T23:44:35.000Z",
+   "summary": "IT之家 11 月 3 日消息，据《华尔街日报》今日报道，上周科技股的暴跌，正在改变计划参与 Anthropic IPO 的机构投资者对这家 AI 公司的估值判断。 过去几天里，这些投资者已向 Anthropic 及其顾问团队表示，本月晚些…",
+   "regions": []
+  },
+  {
+   "title": "苹果承认 iPhone Duo 折叠屏手机交货延迟，供货紧张何时缓解仍难以预测",
+   "link": "https://www.ithome.com/1/021/298.htm",
+   "source": "IT之家",
+   "time": "2026-11-02T23:39:49.000Z",
+   "summary": "IT之家 11 月 3 日消息，苹果 COO 萨比赫 · 汗在第四财季财报电话会议上承认，新款折叠屏手机 iPhone Duo 交货延迟，供货紧张何时能够缓解仍无法确定。 他透露：“iPhone Duo 目前供不应求。产能提升进展顺利，我们…",
+   "regions": []
+  },
+  {
+   "title": "拿下 17 万台订单：MacBook Neo 成为苹果瞄准教育市场的新王牌",
+   "link": "https://www.ithome.com/1/021/297.htm",
+   "source": "IT之家",
+   "time": "2026-11-02T23:35:32.000Z",
+   "summary": "IT之家 11 月 3 日消息，苹果公司近日在 2026 财年第四季度财报电话会议上披露， 已向菲律宾的教师和学生售出 17 万台 MacBook Neo。 这一规模使其成为苹果迄今最重要的教育采购订单之一，也表明该公司正借助更低价的入门级…",
+   "regions": []
+  },
+  {
+   "title": "《GTA 6》发售前索尼回收旧 PS5，光驱版搭配两只手柄以旧换新最高优惠 400 美元",
+   "link": "https://www.ithome.com/1/021/296.htm",
+   "source": "IT之家",
+   "time": "2026-11-02T23:34:23.000Z",
+   "summary": "IT之家 11 月 3 日消息，大量美国用户反馈称，索尼近期开始通过与二手交易平台 Back Market 合作，为用户提供 PS5 主机以旧换新服务，符合条件的设备完成回收后最高可获得 400 美元 （IT之家注：现汇率约合 2,664 …",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 喊话 2028 美大选候选人：AI 将是重要的必答题",
+   "link": "https://www.ithome.com/1/021/295.htm",
+   "source": "IT之家",
+   "time": "2026-11-02T23:27:52.000Z",
+   "summary": "IT之家 11 月 3 日消息，据《商业内幕》2 日晚间报道，OpenAI 首席全球事务官、负责游说事务的克里斯 · 莱汉私下向有意参加 2028 年美国总统大选的人士提出， AI 将成为左右下一届总统竞选的重要议题 。 莱汉在一份备忘录中…",
+   "regions": []
+  },
+  {
+   "title": "腾讯 TenPay Global 与万事达卡签署合作备忘录，入境扫码支付、汇款与智能体支付同步推进",
+   "link": "https://www.ithome.com/1/021/294.htm",
+   "source": "IT之家",
+   "time": "2026-11-02T23:20:06.000Z",
+   "summary": "IT之家 11 月 3 日消息，在 11 月 2 日 2026 年香港金融科技周期间，腾讯旗下跨境支付平台 TenPay Global 与万事达卡签署合作备忘录。 腾讯表示，双方将结合万事达卡的全球网络与微信支付生态，推动入境游客使用其已有…",
+   "regions": []
+  },
+  {
+   "title": "Counterpoint：苹果 iPhone 18 Pro/Max 在中国前 3 周销量同比增 29%，预估 2026 年 iPhone Duo 全球出货 600 万台",
+   "link": "https://www.ithome.com/1/021/289.htm",
+   "source": "IT之家",
+   "time": "2026-11-02T23:12:09.000Z",
+   "summary": "IT之家 11 月 3 日消息，Counterpoint 最新数据显示，苹果 2026 财年第四财季（2026 年 6 月 28 日～2026 年 9 月 26 日）营收同比增长 12%，达到 1,145 亿美元 （现汇率约合 7,626.…",
+   "regions": []
+  },
+  {
    "title": "安森美 2026 财年前三季度报归母净利润 5.07 亿美元，同比扭亏为盈",
    "link": "https://www.ithome.com/1/021/282.htm",
    "source": "IT之家",
@@ -119,6 +199,14 @@
    "source": "IT之家",
    "time": "2026-11-02T12:49:03.000Z",
    "summary": "IT之家 11 月 2 日消息，为庆祝本周《塞尔达传说：时之笛》重制版发售，谷歌搜索上线了一个彩蛋。 这款 Nintendo 64 经典作品的重制版将于 11 月 5 日上线，谷歌为此准备了标志性的隐藏互动彩蛋。 在谷歌主页搜索框输入 ze…",
+   "regions": []
+  },
+  {
+   "title": "Cordonix 0.0.5 发布：新增原生手机工具与 Windows 进程查询",
+   "link": "https://www.oschina.net/news/503354",
+   "source": "开源中国",
+   "time": "2026-11-02T12:47:49.000Z",
+   "summary": "Cordonix 0.0.5 已发布。Cordonix（简称 cdx）是面向 AI 编程代理的原生本地工具运行时，使用 C11 实现，通过 MCP stdio 服务和 JSON 命令行接口提供本地程序执行、内存文件工作区、严格编码处理、目录…",
    "regions": []
   },
   {
@@ -1228,6 +1316,269 @@
  ],
  "world": [
   {
+   "title": "美特使：美斡旋俄乌谈判11月10日至11日在阿联酋举行",
+   "link": "https://sputniknews.cn/20261103/1073925363.html",
+   "source": "卫星社中文",
+   "time": "2026-11-02T23:59:48.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿11月3日电 美国总统特使威特科夫表示，美国将在俄罗斯与乌克兰于11月10日至11日在阿联酋阿布扎比举行的工作级谈判中担任调解方。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】63 km W of Flaxmere, New Zealand",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv1e",
+   "source": "USGS地震台网",
+   "time": "2026-11-02T23:35:13.864Z",
+   "summary": "美国地质调查局官方监测：63 km W of Flaxmere, New Zealand发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "新西兰",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Will California pass a Billionaire’s Tax?",
+   "link": "https://newsus.cgtn.com/news/2026-11-03/Will-California-pass-a-Billionaire-s-Tax--1RLeiNkug9y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T23:26:51.000Z",
+   "summary": "Will California pass a Billionaire’s Tax?",
+   "regions": []
+  },
+  {
+   "title": "US midterm elections: Senate control could hinge on Texas",
+   "link": "https://newsus.cgtn.com/news/2026-11-03/US-midterm-elections-Senate-control-could-hinge-on-Texas-1RLe3gQoY3m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T23:26:43.000Z",
+   "summary": "US midterm elections: Senate control could hinge on Texas",
+   "regions": []
+  },
+  {
+   "title": "【地震 M2.6】15 km NNE of Milford, Utah",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162486",
+   "source": "USGS地震台网",
+   "time": "2026-11-02T23:26:35.950Z",
+   "summary": "美国地质调查局官方监测：15 km NNE of Milford, Utah发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "朝中社：朝鲜导弹总局进行重要武器系统试验",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725093.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-02T23:25:26.000Z",
+   "summary": "中新网11月3日电 据朝中社3日报道，朝鲜导弹总局2日进行战略巡航导弹散布战斗部威力评估试验和垂直打击飞行特性试验。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "媒体：阿联酋一周内向加沙地带运送超340吨人道物资",
+   "link": "https://sputniknews.cn/20261103/1073925257.html",
+   "source": "卫星社中文",
+   "time": "2026-11-02T23:25:10.000Z",
+   "summary": "俄罗斯卫星通讯社迪拜11月3日电 据阿联酋通讯社11月2日报道，过去一周，阿联酋派出4支卡车车队，向加沙地带运送了343吨的人道物资。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "也门胡塞武装称塔伊兹省一市场遭袭 造成多人死伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725090.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-02T23:18:46.000Z",
+   "summary": "中新网11月3日电 据外媒报道，也门胡塞武装称，当地时间2日，也门西南部塔伊兹省一市场遭袭，造成多人死伤。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "泽连斯基办公室主任在基辅州一所秘密监狱旁与抗议者交谈时改用俄语",
+   "link": "https://sputniknews.cn/20261103/1073925122.html",
+   "source": "卫星社中文",
+   "time": "2026-11-02T23:17:49.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月3日电 泽连斯基办公室主任布达诺夫（被列入俄罗斯恐怖分子和极端分子名单）在基辅州一栋长期强行关押人员的房屋附近与抗议者交流时，多次改用俄语。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "朝鲜导弹总局进行重要武器系统试验",
+   "link": "https://sputniknews.cn/20261103/1073925027.html",
+   "source": "卫星社中文",
+   "time": "2026-11-02T23:15:17.000Z",
+   "summary": "据朝中社11月3日报道，朝鲜导弹总局2日进行战略巡航导弹散布战斗部威力评估试验和垂直打击飞行特性试验。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】26 km SE of Susitna North, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtdcvd",
+   "source": "USGS地震台网",
+   "time": "2026-11-02T23:12:52.619Z",
+   "summary": "美国地质调查局官方监测：26 km SE of Susitna North, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "US to host trilateral talks with Russia, Ukraine next week in UAE",
+   "link": "https://news.cgtn.com/news/2026-11-03/news-1RLdcyocydO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T23:10:21.000Z",
+   "summary": "US special envoy Steve Witkoff said on Monday that the United States will mediate working-level talks between Russia and…",
+   "regions": []
+  },
+  {
+   "title": "乌媒：抗议者在基辅附近一所秘密监狱外砸穿一堵砖墙",
+   "link": "https://sputniknews.cn/20261103/1073924705.html",
+   "source": "卫星社中文",
+   "time": "2026-11-02T23:04:18.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月3日电 据乌克兰网站“Novosti.LIVE”报道，在基辅州一栋长期强行关押人员的房屋附近，抗议者砸穿了一堵砖墙。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "All 69 victims of Spain's Urda train collision identified",
+   "link": "https://news.cgtn.com/news/2026-11-03/news-1RLcKmrtXs4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T23:03:59.000Z",
+   "summary": "All 69 victims of last week's deadly high-speed train collision in Urda, central Spain, have been identified, while 29 i…",
+   "regions": []
+  },
+  {
+   "title": "US to mediate Ukraine-Russia talks in Abu Dhabi, US envoy says",
+   "link": "https://news.cgtn.com/news/2026-11-03/news-1RLcuhqzYmk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T23:00:22.000Z",
+   "summary": "The United States will bring together delegations from Ukraine and Russia in Abu Dhabi on November 10-11 to discuss endi…",
+   "regions": []
+  },
+  {
+   "title": "特朗普：美伊正在对话，“不急于”决定是否重启对伊战事",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725087.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-02T22:53:20.000Z",
+   "summary": "中新网11月3日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普当地时间2日表示，对于是否重启对伊朗的战事，他“并不急于”作出决定。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "英国探险家历时28年徒步环球终返家乡",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725086.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-02T22:52:16.000Z",
+   "summary": "中新社伦敦11月2日电 (记者 欧阳开宇)当地时间11月2日，英国探险家卡尔·布什比重返家乡赫尔，正式收官耗时28年的环球徒步远征，为这场超长旅途画上句号。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "英国推出新政：部分移民永居基准等候期上调至十年",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725085.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-02T22:51:36.000Z",
+   "summary": "中新社伦敦11月2日电 (记者 欧阳开宇)当地时间11月2日，英国政府公布一揽子移民改革方案，永久居留申请时限实施差异化调整：原统一为五年的合法移民永居等候基准，上调至十年。作为弹性安排，护理行业合格从业者仍可维持五年申请资格。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "中美国家公园影像展在华盛顿举办",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725084.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-02T22:50:42.000Z",
+   "summary": "中新社华盛顿11月2日电 (记者 沙晗汀)中美国家公园影像展当地时间10月30日在华盛顿中国驻美国大使馆举办，展出来自中美两国的摄影师在中美多个国家公园拍摄的精美影像。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-02T22:35:18.000Z",
+   "summary": "中新网11月3日电 11月3日，美国中期选举将迎来正式投票日。共和党和民主党围绕国会两院席位及诸多州级和地方层面席位，展开激烈争夺。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "泽连斯基办公室主任承认乌克兰有许多强行关押人员的房屋",
+   "link": "https://sputniknews.cn/20261103/1073924405.html",
+   "source": "卫星社中文",
+   "time": "2026-11-02T22:25:34.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月3日电 泽连斯基办公室主任布达诺夫（被列入俄罗斯恐怖分子和极端分子名单）承认，乌克兰有许多类似基辅州那栋房屋的建筑，其地下室曾长期强行关押数十人。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "特朗普否认选举后恢复打击伊朗的计划",
+   "link": "https://sputniknews.cn/20261103/1073924117.html",
+   "source": "卫星社中文",
+   "time": "2026-11-02T22:15:36.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿11月3日电 据白宫记者团报道，美国总统特朗普对是否打算在中期选举后恢复对伊朗打击的问题作出了否定回答。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】10 km WSW of Manley Hot Springs, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtbewf",
+   "source": "USGS地震台网",
+   "time": "2026-11-02T22:14:59.633Z",
+   "summary": "美国地质调查局官方监测：10 km WSW of Manley Hot Springs, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊议员：若侵略重启，伊朗或将攻击美国在欧洲的军事基地",
+   "link": "https://sputniknews.cn/20261103/1073924012.html",
+   "source": "卫星社中文",
+   "time": "2026-11-02T22:08:18.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰11月3日电 伊朗议会议员马努切赫尔·穆塔基认为，如果针对伊朗的侵略恢复，伊朗可能攻击美国在欧洲的基地。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "莫斯科市长：18架飞往莫斯科的无人机被摧毁",
+   "link": "https://sputniknews.cn/20261103/1073923918.html",
+   "source": "卫星社中文",
+   "time": "2026-11-02T21:59:12.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月3日电 俄罗斯莫斯科市市长索比亚宁表示，俄军防空系统摧毁18架飞往莫斯科的无人机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "也门西南部一市场遭袭致10死16伤",
+   "link": "https://sputniknews.cn/20261103/1073923819.html",
+   "source": "卫星社中文",
+   "time": "2026-11-02T21:52:02.000Z",
+   "summary": "俄罗斯星通讯社多哈11月3日电 据也门胡塞武装控制的马西拉电视台报道，也门胡塞武装发言人奥马尔·布海提11月2日发布消息称，也门西南部塔伊兹省一个市场遭袭，造成十名平民死亡，另有16人受伤。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
    "title": "俄罗斯计划在中国展示其传统手工艺品",
    "link": "https://sputniknews.cn/20261103/1073923540.html",
    "source": "卫星社中文",
@@ -1245,6 +1596,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科电 莫斯科大型动画电影节主办方表示，由李文愉导演的中国动画电影《燃比娃》获莫斯科大型动画电影节最佳长篇动画电影奖。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】201 km W of Port McNeill, Canada",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv08",
+   "source": "USGS地震台网",
+   "time": "2026-11-02T21:10:29.183Z",
+   "summary": "美国地质调查局官方监测：201 km W of Port McNeill, Canada发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "加拿大",
+    "美洲"
    ]
   },
   {
@@ -1692,6 +2054,14 @@
    ]
   },
   {
+   "title": "China's top diplomat holds talks with Saudi national security advisor",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-s-top-diplomat-holds-talks-with-Saudi-national-security-advisor-1RKCPHQlegM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T15:15:20.000Z",
+   "summary": "China's top diplomat holds talks with Saudi national security advisor",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.7】7 km NW of The Geysers, CA",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461397",
    "source": "USGS地震台网",
@@ -1947,6 +2317,22 @@
    ]
   },
   {
+   "title": "China to send envoys to Middle East, Gulf & Red Sea, Horn of Africa",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-to-send-envoys-to-Middle-East-Gulf-Red-Sea-Horn-of-Africa-1RKeEIQd4n6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T13:13:18.000Z",
+   "summary": "China to send envoys to Middle East, Gulf & Red Sea, Horn of Africa",
+   "regions": []
+  },
+  {
+   "title": "Chinese FM meets deputy secretary of Iran SNSC",
+   "link": "https://news.cgtn.com/news/2026-11-02/Chinese-FM-meets-deputy-secretary-of-Iran-SNSC-1RKmyPJi3wk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T13:11:56.000Z",
+   "summary": "Chinese FM meets deputy secretary of Iran SNSC",
+   "regions": []
+  },
+  {
    "title": "英国内政部在重点街区启动反持刀犯罪行动",
    "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724918.shtml",
    "source": "中新网国际",
@@ -2093,6 +2479,44 @@
    "source": "联合国新闻",
    "time": "2026-11-02T12:00:00.000Z",
    "summary": "联合国教科文组织周一表示，全球记者遇害案件中，凶手未受惩罚的比例十多年来首次上升。同时，无人机越来越多地被用于袭击记者，成为冲突地区新闻工作者面临的新威胁。",
+   "regions": []
+  },
+  {
+   "title": "乌克兰：联合国援助400多名撤离围困的民众，呼吁保障冬季能源供应",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143119",
+   "source": "联合国新闻",
+   "time": "2026-11-02T12:00:00.000Z",
+   "summary": "联合国世界粮食计划署周一表示，在乌克兰赫尔松地区短暂停火期间，400多名民众得以从俄罗斯控制的奥莱什基市撤离。粮食署已向他们提供紧急食品援助，并准备根据后续撤离情况扩大援助规模。与此同时，联合国开发计划署呼吁国际社会继续提供资金支持，帮助乌…",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "联合国推出保险计划，为灾前援助提供资金保障",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143118",
+   "source": "联合国新闻",
+   "time": "2026-11-02T12:00:00.000Z",
+   "summary": "联合国周一宣布推出一项首创的保险计划。在多场灾害同时构成威胁、现有援助资源面临巨大压力时，可提供最多4000万美元的额外资金，帮助更多家庭在失去住所、食物或生计之前获得援助。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "世卫组织警告：埃塞俄比亚北部暴力冲突使卫生系统濒临崩溃",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143117",
+   "source": "联合国新闻",
+   "time": "2026-11-02T12:00:00.000Z",
+   "summary": "埃塞俄比亚北部上周末发生致命无人机袭击后，世界卫生组织总干事谭德塞周一呼吁加强对受冲突影响平民的保护。他警告，持续的暴力正将本已脆弱的卫生系统推向崩溃边缘。",
+   "regions": [
+    "非洲"
+   ]
+  },
+  {
+   "title": "移民组织警告：AI助长虚假信息传播，移民成为替罪羊",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143116",
+   "source": "联合国新闻",
+   "time": "2026-11-02T12:00:00.000Z",
+   "summary": "国际移民组织总干事艾米·波普（Amy Pope）周一警告，随着人工智能和社交媒体加速传播有关移民的虚假信息，公众的焦虑与不安正在演变为猜疑，移民也越来越容易成为攻击和排斥的对象。这不仅加剧了社会分歧，也使各国政府更难赢得公众信任、开展移民治…",
    "regions": []
   },
   {
@@ -2265,6 +2689,22 @@
    ]
   },
   {
+   "title": "Chinese technology powers Kenya's packaging industry",
+   "link": "https://newsaf.cgtn.com/news/2026-11-02/Chinese-technology-powers-Kenya-s-packaging-industry-1RK6QxTOeRO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T10:33:41.000Z",
+   "summary": "In Kenya's lakeside city of Kisumu, Chinese-made machinery is helping local manufacturers improve efficiency, expand pro…",
+   "regions": []
+  },
+  {
+   "title": "Belgian PM offers resignation over budget, king defers decision",
+   "link": "https://news.cgtn.com/news/2026-11-02/news-1RKkCXiIDv2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T10:26:40.000Z",
+   "summary": "Belgian Prime Minister Bart De Wever tendered his resignation on Monday after budget talks failed, the Royal Palace said…",
+   "regions": []
+  },
+  {
    "title": "欧洲周末近五十万人参加抗议活动",
    "link": "https://sputniknews.cn/20261102/1073913637.html",
    "source": "卫星社中文",
@@ -2285,6 +2725,22 @@
     "俄乌",
     "非洲"
    ]
+  },
+  {
+   "title": "Africa Watch: The Moyale Crisis — Over 50,000 Flee into Kenya",
+   "link": "https://newsaf.cgtn.com/news/2026-11-02/Africa-Watch-The-Moyale-Crisis-Over-50-000-Flee-into-Kenya-1RKdIJWsh2w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T10:16:07.000Z",
+   "summary": "A sudden wave of displacement is putting the Kenya–Ethiopia border around the Moyale town under pressure, with tens of t…",
+   "regions": []
+  },
+  {
+   "title": "China's top diplomat meets deputy secretary of Iran SNSC",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-s-top-diplomat-meets-deputy-secretary-of-Iran-SNSC-1RKgzMiVQqc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T10:15:12.000Z",
+   "summary": "China's top diplomat meets deputy secretary of Iran SNSC",
+   "regions": []
   },
   {
    "title": "敦煌莫高窟连续50年“零火灾”，怎么做到的？",
@@ -2437,6 +2893,14 @@
    ]
   },
   {
+   "title": "China's Wang Yi, Wang Wentao to co-chair 37th APEC Ministerial Meeting",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-s-Wang-Yi-Wang-Wentao-to-co-chair-37th-APEC-Ministerial-Meeting-1RKcEPAO96o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T08:53:30.000Z",
+   "summary": "China's Wang Yi, Wang Wentao to co-chair 37th APEC Ministerial Meeting",
+   "regions": []
+  },
+  {
    "title": "沙漠里的绿色能源——中企助力阿联酋低碳转型",
    "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724827.shtml",
    "source": "中新网国际",
@@ -2445,6 +2909,14 @@
    "regions": [
     "中东"
    ]
+  },
+  {
+   "title": "Chinese FM to chair 11th LMC Foreign Ministers' Meeting",
+   "link": "https://news.cgtn.com/news/2026-11-02/Chinese-FM-to-chair-11th-LMC-Foreign-Ministers-Meeting-1RKcJmCxIju/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T08:48:34.000Z",
+   "summary": "Chinese FM to chair 11th LMC Foreign Ministers' Meeting",
+   "regions": []
   },
   {
    "title": "阿曼各界：阿曼苏丹海赛姆访华将为两国关系开辟新机遇",
@@ -2487,6 +2959,22 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "Xi, Peru leader exchange congratulations over 55th anniversary of ties",
+   "link": "https://news.cgtn.com/news/2026-11-02/Xi-Peru-leader-exchange-congratulations-over-55th-anniversary-of-ties-1RK79ozukRq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T08:24:49.000Z",
+   "summary": "Xi, Peru leader exchange congratulations over 55th anniversary of ties",
+   "regions": []
+  },
+  {
+   "title": "China to send special envoys to Middle East, Horn of Africa",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-to-send-special-envoys-to-Middle-East-Horn-of-Africa-1RKanaxGfAc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T08:22:03.000Z",
+   "summary": "China to send special envoys to Middle East, Horn of Africa",
+   "regions": []
   },
   {
    "title": "中国将帮助塔吉克斯坦改扩建穆尔加布-阔勒买公路",
@@ -2548,6 +3036,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "NASA's simulated Mars mission crew emerges after 378 days in isolation",
+   "link": "https://news.cgtn.com/news/2026-11-02/NASA-s-simulated-Mars-mission-crew-emerges-after-378-days-in-isolation-1RK4qd8aOic/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T07:41:59.000Z",
+   "summary": "The four crew members who took part in a simulated mission to Mars have emerged after 378 days in isolation at the US sp…",
+   "regions": []
   },
   {
    "title": "俄外交部：基辅政权迫害俄罗斯媒体代表",
@@ -2643,6 +3139,14 @@
     "印尼",
     "亚太"
    ]
+  },
+  {
+   "title": "Xi, Sultan of Oman attend signing ceremony of cooperation documents",
+   "link": "https://news.cgtn.com/news/2026-11-02/Xi-Sultan-of-Oman-attend-signing-ceremony-of-cooperation-documents-1RJR6N2crNm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T06:38:19.000Z",
+   "summary": "Xi, Sultan of Oman attend signing ceremony of cooperation documents",
+   "regions": []
   },
   {
    "title": "美国第一夫人：阿廖什基人道主义行动取得成功",
@@ -2797,6 +3301,14 @@
    ]
   },
   {
+   "title": "US midterms 2026: The trends and races to watch",
+   "link": "https://news.cgtn.com/news/2026-11-02/US-midterms-2026-The-trends-and-races-to-watch--1RJPYK2TWwM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T04:52:13.000Z",
+   "summary": "The elections for Congress, where federal laws are written and budgets authorized, are potentially hugely consequential.…",
+   "regions": []
+  },
+  {
    "title": "俄联邦委员会主席：俄中是构建多极、公正世界秩序的领导者",
    "link": "https://sputniknews.cn/20261102/1073905151.html",
    "source": "卫星社中文",
@@ -2850,6 +3362,22 @@
    ]
   },
   {
+   "title": "President Xi holds welcome ceremony for Sultan of Oman",
+   "link": "https://news.cgtn.com/news/2026-11-02/President-Xi-holds-welcome-ceremony-for-Sultan-of-Oman-1RJNoz6vemI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T04:10:47.000Z",
+   "summary": "President Xi holds welcome ceremony for Sultan of Oman",
+   "regions": []
+  },
+  {
+   "title": "Xi stresses China-Oman partnership in energy, investment, innovation",
+   "link": "https://news.cgtn.com/news/2026-11-02/Xi-Jinping-holds-talks-with-Sultan-of-Oman--1RJPL7YnSBa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T04:10:20.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that China is ready to deepen the synergy of development strategies with Oma…",
+   "regions": []
+  },
+  {
    "title": "韩政府拟明年对AI和半导体领域投资翻倍",
    "link": "https://sputniknews.cn/20261102/1073904768.html",
    "source": "卫星社中文",
@@ -2858,6 +3386,22 @@
    "regions": [
     "朝鲜半岛"
    ]
+  },
+  {
+   "title": "Talks to end US-Iran war continue as military tensions rise",
+   "link": "https://news.cgtn.com/news/2026-11-02/Talks-to-end-US-Iran-war-continue-as-military-tensions-rise-1RJOwN0N2Ug/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T03:51:52.000Z",
+   "summary": "Iranian negotiators were in Doha on Sunday for a third consecutive day of talks with Qatari mediators aimed at ​pushing …",
+   "regions": []
+  },
+  {
+   "title": "Zelenskyy proposes meeting Putin in Türkiye, Kremlin says in Moscow",
+   "link": "https://news.cgtn.com/news/2026-11-02/Zelenskyy-proposes-meeting-Putin-in-T-rkiye-Kremlin-says-in-Moscow-1RJMuK5sfLO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-02T03:50:58.000Z",
+   "summary": "Ukrainian President Volodymyr Zelenskyy has floated the possibility of a face-to-face meeting with Russian President Vla…",
+   "regions": []
   },
   {
    "title": "【地震 M3.0】83 km E of Cruz Bay, U.S. Virgin Islands",
@@ -3290,6 +3834,77 @@
  ],
  "cn": [
   {
+   "title": "赵乐际同俄罗斯联邦委员会主席马特维延科会谈",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-03/10725092.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-02T23:59:50.000Z",
+   "summary": "11月2日，全国人大常委会委员长赵乐际在北京人民大会堂同俄罗斯联邦委员会主席马特维延科举行会谈。新华社记者 庞兴雷 摄 新华社北京11月2日电 全国人大常委会委员长赵乐际2日在北京人民大会堂同俄罗斯联邦委员会主席马特维延科举行会谈。",
+   "regions": [
+    "俄乌",
+    "北京"
+   ]
+  },
+  {
+   "title": "陈文清主持召开中央政法委员会全体会议 传达学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-03/10725091.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-02T23:59:00.000Z",
+   "summary": "新华社北京11月2日电 中共中央政治局委员、中央政法委书记陈文清11月2日主持召开中央政法委员会全体会议，传达学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "核心商业秘密和技术人员被“打包”带走 高新企业遭遇“塌方式”技术迁移",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-03/10725101.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-02T23:54:34.000Z",
+   "summary": "核心商业秘密和技术人员被“打包”带走，公司前员工直接“拿来主义”撬走近2亿元生意——",
+   "regions": []
+  },
+  {
+   "title": "年轻人爱上云养“AI宠物”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-03/10725100.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-02T23:49:10.000Z",
+   "summary": "中青报·中青网见习记者 杨蕾 记者 宁迪",
+   "regions": []
+  },
+  {
+   "title": "酒店长租业务，法律关系待厘清",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-03/10725097.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-02T23:43:11.000Z",
+   "summary": "本报记者 孙天骄",
+   "regions": []
+  },
+  {
+   "title": "“炸药包”突然扔向人群？沉浸式体验不能吓着观众",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-03/10725096.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-02T23:41:57.000Z",
+   "summary": "童方萍",
+   "regions": []
+  },
+  {
+   "title": "【乌镇“网事”】习言道｜让更多国家和人民共享互联网发展成果",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-03/10725089.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-02T23:30:47.000Z",
+   "summary": "网络空间关乎人类命运，网络空间未来应由世界各国共同开创。习近平总书记多次深入阐述构建网络空间命运共同体的中国方案，强调“让互联网更好造福人民、造福世界”。",
+   "regions": []
+  },
+  {
+   "title": "小心！向陌生小程序授予位置权限，行踪可能被悄悄定位",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-03/10725083.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-02T22:44:42.000Z",
+   "summary": "近日，江苏扬州的陈先生前往辖区派出所报案称，自己和周某有个人纠纷，比较蹊跷的是，周某总是能轻易找到他的位置，所以陈先生怀疑自己身上被安装了定位器。",
+   "regions": [
+    "江苏"
+   ]
+  },
+  {
    "title": "西藏那曲市巴青县发生4.2级地震",
    "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
    "source": "中新网社会",
@@ -3297,6 +3912,17 @@
    "summary": "中国地震台网正式测定：11月2日23时35分，在西藏那曲市巴青县(北纬32.38度，东经93.86度)发生4.2级地震，震源深度10公里。",
    "regions": [
     "西藏"
+   ]
+  },
+  {
+   "title": "China's top diplomat holds talks with Saudi national security advisor",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-s-top-diplomat-holds-talks-with-Saudi-national-security-advisor-1RKCPHQlegM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T15:15:20.000Z",
+   "summary": "China's top diplomat holds talks with Saudi national security advisor",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3659,6 +4285,25 @@
    ]
   },
   {
+   "title": "How the CPC drives China's success in poverty alleviation",
+   "link": "https://news.cgtn.com/news/2026-11-02/How-the-CPC-drives-China-s-success-in-poverty-alleviation-1RKtssZnjoc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T13:31:10.000Z",
+   "summary": "The CPC has translated its commitment to poverty reduction into targeted policies, nationwide coordination and sustained…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "200 Years of East-West Exchange",
+   "link": "https://news.cgtn.com/news/2026-11-02/200-Years-of-East-West-Exchange-1RKfIrPTZHa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T13:28:35.000Z",
+   "summary": "200 Years of East-West Exchange",
+   "regions": []
+  },
+  {
    "title": "王毅会见伊朗最高国家安全委员会副秘书巴盖里",
    "link": "https://www.chinanews.com.cn/gn/2026/11-02/10724960.shtml",
    "source": "中新网中国",
@@ -3690,6 +4335,39 @@
    "regions": [
     "非洲",
     "北京"
+   ]
+  },
+  {
+   "title": "Chinese and Austrian firefighters exchange emergency expertise",
+   "link": "https://news.cgtn.com/news/2026-11-02/Chinese-and-Austrian-firefighters-exchange-emergency-expertise-1RKoYA9ZeEM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T13:16:19.000Z",
+   "summary": "Chinese and Austrian firefighters exchange emergency expertise",
+   "regions": [
+    "奥地利",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "China to send envoys to Middle East, Gulf & Red Sea, Horn of Africa",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-to-send-envoys-to-Middle-East-Gulf-Red-Sea-Horn-of-Africa-1RKeEIQd4n6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T13:13:18.000Z",
+   "summary": "China to send envoys to Middle East, Gulf & Red Sea, Horn of Africa",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Chinese FM meets deputy secretary of Iran SNSC",
+   "link": "https://news.cgtn.com/news/2026-11-02/Chinese-FM-meets-deputy-secretary-of-Iran-SNSC-1RKmyPJi3wk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T13:11:56.000Z",
+   "summary": "Chinese FM meets deputy secretary of Iran SNSC",
+   "regions": [
+    "伊朗",
+    "中东"
    ]
   },
   {
@@ -3730,6 +4408,17 @@
    "summary": "中新网北京11月2日电(罗春昊)近日，职场观察真人秀《令人心动的offer》第八季暂缓更新。此前，节目已因实习生的言行与履历呈现引发争议。",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "New high-speed railway bridge advances connectivity in northwest China",
+   "link": "https://news.cgtn.com/news/2026-11-02/New-high-speed-railway-bridge-advances-connectivity-in-northwest-China-1RKn7JdUhlS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T11:40:43.000Z",
+   "summary": "New high-speed railway bridge advances connectivity in northwest China",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3834,6 +4523,46 @@
    ]
   },
   {
+   "title": "Chinese technology powers Kenya's packaging industry",
+   "link": "https://newsaf.cgtn.com/news/2026-11-02/Chinese-technology-powers-Kenya-s-packaging-industry-1RK6QxTOeRO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T10:33:41.000Z",
+   "summary": "In Kenya's lakeside city of Kisumu, Chinese-made machinery is helping local manufacturers improve efficiency, expand pro…",
+   "regions": [
+    "肯尼亚",
+    "非洲"
+   ]
+  },
+  {
+   "title": "How is the CPC addressing challenges of long-term governance?",
+   "link": "https://news.cgtn.com/news/2026-11-02/How-is-the-CPC-addressing-challenges-of-long-term-governance--1RKhfkMcJos/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T10:18:49.000Z",
+   "summary": "How is the CPC addressing challenges of long-term governance?",
+   "regions": []
+  },
+  {
+   "title": "Xi calls for better protection, coordination to beautify Yellow River",
+   "link": "https://news.cgtn.com/news/2026-11-02/Xi-calls-for-better-protection-coordination-to-beautify-Yellow-River-1RKhAHZWF9e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T10:16:41.000Z",
+   "summary": "Chinese President Xi Jinping has stressed efforts to continuously improve protection and coordination to make the Yellow…",
+   "regions": []
+  },
+  {
+   "title": "China's top diplomat meets deputy secretary of Iran SNSC",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-s-top-diplomat-meets-deputy-secretary-of-Iran-SNSC-1RKgzMiVQqc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T10:15:12.000Z",
+   "summary": "China's top diplomat meets deputy secretary of Iran SNSC",
+   "regions": [
+    "伊朗",
+    "中东",
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "敦煌莫高窟连续50年“零火灾”，怎么做到的？",
    "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724899.shtml",
    "source": "中新网社会",
@@ -3868,6 +4597,28 @@
    "summary": "中新网11月2日电 据吉林省纪委监委消息：吉林省自然资源厅原党组书记、厅长李相国涉嫌严重违纪违法，主动向组织交代问题，目前正接受吉林省纪委监委纪律审查和监察调查。",
    "regions": [
     "吉林"
+   ]
+  },
+  {
+   "title": "How the CPC hears people's opinions and responds to their needs",
+   "link": "https://news.cgtn.com/news/2026-11-02/How-the-CPC-hears-people-s-opinions-and-responds-to-their-needs--1RJJmHyJYsM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T09:49:55.000Z",
+   "summary": "The Communist Party of China was founded to serve the people, a mission that puts people at the center of its work. So h…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China mulls amendment to Law on Renewable Energy",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-mulls-amendment-to-Law-on-Renewable-Energy-1RKgMQDsdIk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T09:43:22.000Z",
+   "summary": "China's top legislature on Monday began deliberating a draft amendment to the Law on Renewable Energy that would strengt…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3940,6 +4691,14 @@
    ]
   },
   {
+   "title": "'Jiuzhang 4.0' wins leading science and technology award at 2026 WIC",
+   "link": "https://news.cgtn.com/news/2026-11-02/-Jiuzhang-4-0-wins-leading-science-and-technology-award-at-2026-WIC-1RKcN7C5UTS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T09:08:05.000Z",
+   "summary": "A total of 20 projects, including the \"Jiuzhang 4.0\" programmable photonic quantum computing prototype, won the 2026 Wor…",
+   "regions": []
+  },
+  {
    "title": "三亚开启国际传播共创季 邀全球创作者来采风创作",
    "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724838.shtml",
    "source": "中新网社会",
@@ -4010,6 +4769,25 @@
    ]
   },
   {
+   "title": "Autumn foliage draws visitors to Beijing's Xiangshan Park",
+   "link": "https://news.cgtn.com/news/2026-11-02/Autumn-foliage-draws-visitors-to-Beijing-s-Xiangshan-Park-1RKbXelEupG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T08:54:00.000Z",
+   "summary": "Beijing's Xiangshan Park is now at the height of its autumn foliage season, with colorful leaves and traditional-style a…",
+   "regions": []
+  },
+  {
+   "title": "China's Wang Yi, Wang Wentao to co-chair 37th APEC Ministerial Meeting",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-s-Wang-Yi-Wang-Wentao-to-co-chair-37th-APEC-Ministerial-Meeting-1RKcEPAO96o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T08:53:30.000Z",
+   "summary": "China's Wang Yi, Wang Wentao to co-chair 37th APEC Ministerial Meeting",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "古道茶咖香 澜湄六国青年携手记录云南普洱发展新貌",
    "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724821.shtml",
    "source": "中新网社会",
@@ -4019,6 +4797,14 @@
     "普洱",
     "云南"
    ]
+  },
+  {
+   "title": "Chinese FM to chair 11th LMC Foreign Ministers' Meeting",
+   "link": "https://news.cgtn.com/news/2026-11-02/Chinese-FM-to-chair-11th-LMC-Foreign-Ministers-Meeting-1RKcJmCxIju/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T08:48:34.000Z",
+   "summary": "Chinese FM to chair 11th LMC Foreign Ministers' Meeting",
+   "regions": []
   },
   {
    "title": "外交部：中方愿同各方一道 为世界稳定与繁荣提供更多确定性",
@@ -4084,12 +4870,34 @@
    "regions": []
   },
   {
+   "title": "Xi, Peru leader exchange congratulations over 55th anniversary of ties",
+   "link": "https://news.cgtn.com/news/2026-11-02/Xi-Peru-leader-exchange-congratulations-over-55th-anniversary-of-ties-1RK79ozukRq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T08:24:49.000Z",
+   "summary": "Xi, Peru leader exchange congratulations over 55th anniversary of ties",
+   "regions": [
+    "秘鲁",
+    "拉美"
+   ]
+  },
+  {
    "title": "候鸟翩飞、生态蝶变 黄河流域治理保护成绩单亮眼",
    "link": "https://www.chinanews.com.cn/gn/2026/11-02/10724803.shtml",
    "source": "中新网中国",
    "time": "2026-11-02T08:24:45.000Z",
    "summary": "今年是党领导人民治理黄河80年。沿黄各省区正共同抓好大保护，协同推进大治理，黄河流域治理水土流失面积29万平方公里，流域生态面貌持续向好。",
    "regions": []
+  },
+  {
+   "title": "China to send special envoys to Middle East, Horn of Africa",
+   "link": "https://news.cgtn.com/news/2026-11-02/China-to-send-special-envoys-to-Middle-East-Horn-of-Africa-1RKanaxGfAc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T08:22:03.000Z",
+   "summary": "China to send special envoys to Middle East, Horn of Africa",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "7天“剧本”套路聊天 揭秘“AI生成女友”网恋诈骗流水线",
@@ -4110,6 +4918,19 @@
    "regions": [
     "西宁",
     "青海"
+   ]
+  },
+  {
+   "title": "Remembering Israel Epstein and the Spanish edition of China Today",
+   "link": "https://news.cgtn.com/news/2026-11-02/Remembering-Israel-Epstein-and-the-Spanish-edition-of-China-Today-1RK7hjhGfvy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T08:13:48.000Z",
+   "summary": "Remembering Israel Epstein and the Spanish edition of China Today",
+   "regions": [
+    "中国",
+    "亚太",
+    "以色列",
+    "中东"
    ]
   },
   {
@@ -4224,6 +5045,33 @@
    ]
   },
   {
+   "title": "Xi, Sultan of Oman attend signing ceremony of cooperation documents",
+   "link": "https://news.cgtn.com/news/2026-11-02/Xi-Sultan-of-Oman-attend-signing-ceremony-of-cooperation-documents-1RJR6N2crNm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T06:38:19.000Z",
+   "summary": "Xi, Sultan of Oman attend signing ceremony of cooperation documents",
+   "regions": [
+    "阿曼",
+    "中东"
+   ]
+  },
+  {
+   "title": "A simple tweak helps passengers navigate Nanjing metro with ease",
+   "link": "https://news.cgtn.com/news/2026-11-02/A-simple-tweak-helps-passengers-navigate-Nanjing-metro-with-ease-1RK2u2fFW1O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T06:31:14.000Z",
+   "summary": "New directional signs at Nanjing South Railway Station have gone viral online, winning praise for their straightforward,…",
+   "regions": []
+  },
+  {
+   "title": "Global South Voices: Governance In Focus",
+   "link": "https://news.cgtn.com/news/2026-11-02/Global-South-Voices-Governance-In-Focus-1RK07bz2tyg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T06:27:42.000Z",
+   "summary": "Global South Voices: Governance In Focus",
+   "regions": []
+  },
+  {
    "title": "河北乐亭建筑支护产业集群“组队升级” “架”起外贸“出海桥”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724721.shtml",
    "source": "中新网社会",
@@ -4251,12 +5099,31 @@
    "regions": []
   },
   {
+   "title": "Satellite internet, 6G, embodied intelligence shine at Wuzhen expo",
+   "link": "https://news.cgtn.com/news/2026-11-02/Satellite-internet-6G-embodied-intelligence-shine-at-Wuzhen-expo-1RJSNzGGoCY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T05:34:42.000Z",
+   "summary": "The 2026 \"Light of the Internet\" Expo, a flagship event of the World Internet Conference (WIC) Wuzhen Summit, opened on …",
+   "regions": []
+  },
+  {
    "title": "他身有残疾心却火热，14年累计折合献血超5.8万毫升",
    "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724725.shtml",
    "source": "中新网社会",
    "time": "2026-11-02T05:34:28.000Z",
    "summary": "身有残疾心却火热，14年累计折合献血超5.8万毫升",
    "regions": []
+  },
+  {
+   "title": "President Xi holds welcome ceremony for Sultan of Oman",
+   "link": "https://news.cgtn.com/news/2026-11-02/President-Xi-holds-welcome-ceremony-for-Sultan-of-Oman-1RJNoz6vemI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T04:10:47.000Z",
+   "summary": "President Xi holds welcome ceremony for Sultan of Oman",
+   "regions": [
+    "阿曼",
+    "中东"
+   ]
   },
   {
    "title": "湖南城步苗寨畅通消防通道 “电子哨兵”盯住老旧木房",
@@ -4378,6 +5245,17 @@
    "regions": [
     "非洲",
     "北京"
+   ]
+  },
+  {
+   "title": "How Party's discipline push is benefiting households in China",
+   "link": "https://news.cgtn.com/news/2026-11-02/How-Party-s-discipline-push-is-benefiting-households-in-China-1RJB3ZoGJTG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T03:05:01.000Z",
+   "summary": "The benefits of improved Party discipline reach households. The livelihood payoff is where the governance argument becom…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4726,6 +5604,22 @@
   }
  ],
  "econ": [
+  {
+   "title": "算力用电年均新增一千亿度以上，怎么接住？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-03/10725099.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-02T23:46:45.000Z",
+   "summary": "中青报·中青网记者 贾骥业",
+   "regions": []
+  },
+  {
+   "title": "Token登上“双十一”货架",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-03/10725098.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-02T23:45:19.000Z",
+   "summary": "中青报·中青网记者 刘佳佳",
+   "regions": []
+  },
   {
    "title": "港交所扩大人民币债券抵押品适用范围 首日抵押总值超4亿元人民币",
    "link": "https://www.chinanews.com.cn/cj/2026/11-02/10725078.shtml",
@@ -5329,6 +6223,19 @@
    "regions": []
   },
   {
+   "title": "Xi stresses China-Oman partnership in energy, investment, innovation",
+   "link": "https://news.cgtn.com/news/2026-11-02/Xi-Jinping-holds-talks-with-Sultan-of-Oman--1RJPL7YnSBa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-02T04:10:20.000Z",
+   "summary": "Chinese President Xi Jinping said on Monday that China is ready to deepen the synergy of development strategies with Oma…",
+   "regions": [
+    "中国",
+    "亚太",
+    "阿曼",
+    "中东"
+   ]
+  },
+  {
    "title": "A股午评：超4700只个股飘红，三大指数集体大涨",
    "link": "https://www.chinanews.com.cn/cj/2026/11-02/10724684.shtml",
    "source": "中新网滚动",
@@ -5535,5 +6442,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-11-02T21:51:03.795Z"
+ "updatedAt": "2026-11-03T03:15:43.640Z"
 }
