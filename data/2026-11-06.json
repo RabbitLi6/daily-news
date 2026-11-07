@@ -1606,6 +1606,17 @@
    ]
   },
   {
+   "title": "【地震 M3.2】87 km NE of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twp1",
+   "source": "USGS地震台网",
+   "time": "2026-11-06T20:00:13.886Z",
+   "summary": "美国地质调查局官方监测：87 km NE of Adak, Alaska发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M2.7】88 km NE of Adak, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026waguel",
    "source": "USGS地震台网",
@@ -6573,5 +6584,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-11-07T09:32:25.968Z"
+ "updatedAt": "2026-11-07T16:02:57.186Z"
 }
