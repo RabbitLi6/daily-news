@@ -1414,6 +1414,17 @@
    ]
   },
   {
+   "title": "【地震 M4.0】203 km SE of Unalaska, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcchuf",
+   "source": "USGS地震台网",
+   "time": "2026-11-07T19:45:08.410Z",
+   "summary": "美国地质调查局官方监测：203 km SE of Unalaska, Alaska发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M2.5】1 km NW of Magas Arriba, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538718",
    "source": "USGS地震台网",
@@ -5185,5 +5196,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-08T04:00:05.563Z"
+ "updatedAt": "2026-11-08T11:12:47.815Z"
 }
