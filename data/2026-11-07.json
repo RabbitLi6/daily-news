@@ -2,6 +2,158 @@
  "date": "2026-11-07",
  "tech": [
   {
+   "title": "庆祝《霍格沃茨之遗》上线 DLSS 5，英伟达推出定制版 RTX 5090 显卡抽奖活动",
+   "link": "https://www.ithome.com/1/023/847.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:57:55.000Z",
+   "summary": "IT之家 11 月 8 日消息，为庆祝 DLSS 5 于 11 月 5 日登陆《霍格沃茨之遗》，英伟达正在举办抽奖活动，送出一张采用《霍格沃茨之遗》定制主题外观的 GeForce RTX 5090 Founders Edition 显卡。 …",
+   "regions": []
+  },
+  {
+   "title": "IT早报 1108：比亚迪超豪华行政旗舰轿车仰望鼎曜行政版发布；中国空间站将迎首位外籍航天员；深蓝汽车“车载洗脚装置”专利公布；搜狗问问正式停运...",
+   "link": "https://www.ithome.com/1/023/846.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:56:39.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 8 日星期日，今天的重要科技资讯有： 1. 比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里 新车采用中轴对称布局与对开门设计，后排配零重力云感座椅和中央行…",
+   "regions": []
+  },
+  {
+   "title": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致",
+   "link": "https://www.ithome.com/1/023/845.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:51:36.000Z",
+   "summary": "IT之家 11 月 8 日消息，埃森哲（Accenture）被指发布了一份充斥人工智能“幻觉”的研究报告，其中不仅包含大量虚假信息，还出现了多处疑似捏造的研究案例。 据 GPTZero 最新分析，这家咨询巨头发布的一份报告涉嫌包含 15 条…",
+   "regions": []
+  },
+  {
+   "title": "神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周",
+   "link": "https://www.ithome.com/1/023/844.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:44:20.000Z",
+   "summary": "IT之家 11 月 8 日消息，据央视新闻报道，按照计划， 神舟二十四号 乘 组 将于本月飞往中国空间站与 神舟二十三号 乘 组 太空会师，然后进行乘组轮换。这意味着， 神舟二十三号乘组 中，将有一名航天员会在太空再执行半年左右的空间站任务…",
+   "regions": []
+  },
+  {
+   "title": "育碧被曝正开发两款《刺客信条》新作，一款以古罗马为背景",
+   "link": "https://www.ithome.com/1/023/843.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:43:10.000Z",
+   "summary": "IT之家 11 月 8 日消息，据报道，育碧正在开发两款全新的《刺客信条》游戏，其中一款将以古罗马为背景。 IT之家注意到，这一消息来自 YouTube 博主 Xj0nathan。他透露，以古罗马为背景的游戏代号为“Mars”。他声称，有两…",
+   "regions": []
+  },
+  {
+   "title": "索尼 PS Plus 推出新福利：订阅可获得 YouTube Premium 试用资格或硬件产品折扣，玩家并不买账",
+   "link": "https://www.ithome.com/1/023/842.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:40:01.000Z",
+   "summary": "IT之家 11 月 8 日消息，索尼近期为 PlayStation Plus 订阅服务推出新福利，包含 YouTube Premium 试用资格或硬件产品折扣等。部分玩家对此并不热情，因为领取福利有许多限制。 IT之家了解到，这项优惠已在德…",
+   "regions": []
+  },
+  {
+   "title": "《塞尔达传说：时之笛》重制版刚发售，就已可在越狱版 PS5 和 iPhone 上运行",
+   "link": "https://www.ithome.com/1/023/841.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:36:39.000Z",
+   "summary": "IT之家 11 月 8 日消息，任天堂《塞尔达传说：时之笛》重制版于 11 月 5 日登陆了 Switch 2，但游戏发售后没过多久，就已经有人成功让其在越狱版 PlayStation 5 和 iPhone 上运行。 在 PS5 方面，开发…",
+   "regions": []
+  },
+  {
+   "title": "PS5 版《GTA 6》实体版包装盒曝光：仅含兑换码，无游戏光盘",
+   "link": "https://www.ithome.com/1/023/840.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:29:22.000Z",
+   "summary": "IT之家 11 月 8 日消息，距离《侠盗猎车手 6》（GTA 6）正式发售越来越近，玩家很快就会发现，商店货架上摆放的实体游戏盒里竟然没有游戏光盘。PS5 版《GTA 6》的实体包装盒已经提前出流出，不过零售商要到 11 月 12 日才能…",
+   "regions": []
+  },
+  {
+   "title": "Backglow 应用上线：可让新款 MacBook Pro 发光苹果 Logo 随音乐律动",
+   "link": "https://www.ithome.com/1/023/839.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:25:12.000Z",
+   "summary": "IT之家 11 月 8 日消息，由设计师胡安 · 布伊斯（Juan Buis）开发的一款名为“Backglow”的新应用，允许用户自定义新款 MacBook Pro 笔记本电脑顶盖上的发光苹果 Logo。 该应用的免费版本允许用户手动调节苹…",
+   "regions": []
+  },
+  {
+   "title": "微软 Outlook 邮箱出 Bug：邮件无故丢失，部分认证配置正确的发件人也遭拦截",
+   "link": "https://www.ithome.com/1/023/838.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:17:19.000Z",
+   "summary": "IT之家 11 月 8 日消息，据科技媒体 Windows Latest 今天报道，部分 Outlook.com 和 Hotmail 邮箱用户近期发现，他们无法正常接收邮件。 发件人侧收到的提示是 ， 邮件未能通过身份验证检查 。 据报道，…",
+   "regions": []
+  },
+  {
+   "title": "千公里仅 3.43 毫秒，空芯光纤未来有望替代实芯光纤",
+   "link": "https://www.ithome.com/1/023/837.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:14:24.000Z",
+   "summary": "IT之家 11 月 8 日消息，据央视新闻报道，近日，我国完成全球首个千公里空芯光纤双向实时传输验证。这意味着我国在新一代通信网关键技术领域取得新的突破。 技术人员告诉记者，这次试验在 1007.48 公里的光纤线路上，首次实现了双向各 6…",
+   "regions": []
+  },
+  {
+   "title": "谷歌高管哈里森辞去 SpaceX 董事会职务，任职已超十年",
+   "link": "https://www.ithome.com/1/023/836.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:07:49.000Z",
+   "summary": "IT之家 11 月 8 日消息，SpaceX 当地时间周五披露，谷歌高管唐纳德 · 哈里森（Donald Harrison）已辞去该公司董事会职务，其在该职位任职已超过十年。 哈里森于 11 月 4 日通知 SpaceX 自己的辞职决定，并…",
+   "regions": []
+  },
+  {
+   "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年",
+   "link": "https://www.ithome.com/1/023/835.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T23:02:43.000Z",
+   "summary": "IT之家 11 月 8 日消息，Adobe 公司最近针对初创企业推出 Adobe for Startups 计划， 入选企业可免费使用 Firefly Pro Plus、Acrobat Studio（包含 Adobe Express Pre…",
+   "regions": []
+  },
+  {
+   "title": "全球最大、发展最快：我国可再生能源技术占据全球主导地位",
+   "link": "https://www.ithome.com/1/023/834.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T22:56:24.000Z",
+   "summary": "IT之家 11 月 8 日消息，据央视新闻报道，11 月 7 日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。 报告指出，目前，化石能源活动仍是全球碳排放的最大来…",
+   "regions": []
+  },
+  {
+   "title": "马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单",
+   "link": "https://www.ithome.com/1/023/833.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T22:56:15.000Z",
+   "summary": "IT之家 11 月 8 日消息，特斯拉 CEO 埃隆 · 马斯克（Elon Musk）当地时间周六表示，为了在明年拆除生产线、转而扩大 Cybercab 产能之前完成现有 Cybertruck 订单，特斯拉将为 Cybertruck 增加一…",
+   "regions": []
+  },
+  {
+   "title": "B 社陶德回应《上古卷轴 6：哨兵》是否独占 XBOX：现在评论还为时过早",
+   "link": "https://www.ithome.com/1/023/832.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T22:51:09.000Z",
+   "summary": "IT之家 11 月 8 日消息，贝塞斯达（Bethesda）最近终于公布了《上古卷轴 6：哨兵》游戏，至少公布了副标题。但玩家们如今仍然好奇：这款游戏是否会成为微软 XBOX 独占？ 最近几年，XBOX 的独占游戏政策发生了猛烈变革，先是菲…",
+   "regions": []
+  },
+  {
+   "title": "欧洲多地爆发抗议，民众走上街头要求暂停数据中心建设",
+   "link": "https://www.ithome.com/1/023/831.htm",
+   "source": "IT之家",
+   "time": "2026-11-07T22:46:04.000Z",
+   "summary": "IT之家 11 月 8 日消息，据彭博社报道，当地时间周六，欧洲多地继续爆发反对数据中心建设的抗议活动。民众走上街头，表达对数据中心扩张可能带来的社会和环境影响的担忧。 据爱尔兰国家广播电视台（RTÉ）报道，约有 2000 人在都柏林举行游…",
+   "regions": []
+  },
+  {
+   "title": "Cordonix 0.4.1 发布：每日后台更新，完善全部 MCP 工具说明",
+   "link": "https://www.oschina.net/news/503467",
+   "source": "开源中国",
+   "time": "2026-11-07T17:15:32.000Z",
+   "summary": "Cordonix 0.4.1 已发布。Cordonix（简称 cdx）是一款面向 AI 编程智能体的原生执行与文件工作区工具，使用 C11 实现，支持 Windows 和 Linux，通过 MCP 提供本地程序执行、文件读取、编码转换和内存…",
+   "regions": []
+  },
+  {
+   "title": "OpenGoLive 0.9.8 发布：改进数据恢复，新增本地编辑冲突检测与组权限",
+   "link": "https://www.oschina.net/news/503466",
+   "source": "开源中国",
+   "time": "2026-11-07T16:14:13.000Z",
+   "summary": "OpenGoLive（html-golive）0.9.8 已发布。它是一款 MIT 开源的自部署 HTML 发布与管理工具，可将报告、看板和小工具部署到自己的电脑、NAS 或内网服务器，提供 CLI 和中英文管理台。 本次更新主要包括： 数…",
+   "regions": []
+  },
+  {
    "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
    "link": "https://www.ithome.com/1/023/829.htm",
    "source": "IT之家",
@@ -1084,6 +1236,173 @@
  ],
  "world": [
   {
+   "title": "美英等十国谴责黄之锋再获刑十年，中方呼吁停止干涉中国内政",
+   "link": "https://sputniknews.cn/20261108/1073993579.html",
+   "source": "卫星社中文",
+   "time": "2026-11-07T23:57:56.000Z",
+   "summary": "乱港分子黄之锋被追加判刑10年后，美英等十国发表联合声明，呼吁“立即停止对所有受到《国安法》指控的人士的不公正起诉”。香港特区政府和中国驻多国使馆予以驳斥，呼吁停止干涉中国内政。",
+   "regions": []
+  },
+  {
+   "title": "日本静冈县西部发生5.7级地震",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728203.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-07T23:54:25.000Z",
+   "summary": "据日本气象厅发布的消息，当地时间8日凌晨1时04分左右，日本静冈县西部发生5.7级地震，震源深度40千米，最大震感为震度5强。日本爱知县、兵库县、静冈县、东京等较大范围区域均有震感。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "日媒：外交关系恶化冲击经济，“中国风险”再凸显",
+   "link": "https://sputniknews.cn/20261108/1073993470.html",
+   "source": "卫星社中文",
+   "time": "2026-11-07T23:42:10.000Z",
+   "summary": "据日本共同社报道，日中外交关系恶化对经济活动造成巨大冲击。日本首相高市早苗发表涉台言论后，中国再次暂停刚恢复的日本水产品进口，经济文化交流活动接连取消。政治问题影响经济的“中国风险”再次凸显。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M5.1】91 km ENE of Hihifo, Tonga",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twus",
+   "source": "USGS地震台网",
+   "time": "2026-11-07T23:27:09.444Z",
+   "summary": "美国地质调查局官方监测：91 km ENE of Hihifo, Tonga发生 5.1 级地震，震源深度 未知。",
+   "regions": [
+    "汤加",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】41 km WSW of Gadung, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twur",
+   "source": "USGS地震台网",
+   "time": "2026-11-07T23:25:35.852Z",
+   "summary": "美国地质调查局官方监测：41 km WSW of Gadung, Philippines发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】77 km SW of La Gomera, Guatemala",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twuq",
+   "source": "USGS地震台网",
+   "time": "2026-11-07T23:22:35.649Z",
+   "summary": "美国地质调查局官方监测：77 km SW of La Gomera, Guatemala发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "危地马拉",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M5.9】central Mid-Atlantic Ridge",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun",
+   "source": "USGS地震台网",
+   "time": "2026-11-07T23:17:06.073Z",
+   "summary": "美国地质调查局官方监测：central Mid-Atlantic Ridge发生 5.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "媒体：两艘载有石油的油轮在霍尔木兹海峡触雷爆炸起火",
+   "link": "https://sputniknews.cn/20261108/1073993363.html",
+   "source": "卫星社中文",
+   "time": "2026-11-07T23:15:02.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月8日电 塔斯尼姆通讯社援引伊朗伊斯兰革命卫队海军新闻处的消息称，两艘载有石油的油轮在霍尔木兹海峡发生爆炸并起火。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】91 km ESE of Kyzyl-Eshme, Kyrgyzstan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twum",
+   "source": "USGS地震台网",
+   "time": "2026-11-07T23:14:33.811Z",
+   "summary": "美国地质调查局官方监测：91 km ESE of Kyzyl-Eshme, Kyrgyzstan发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "吉尔吉斯斯坦",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728199.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-07T22:53:16.000Z",
+   "summary": "也门胡塞武装卫生部门7日晚间发布消息称，沙特主导的联军当天针对也门萨那省巴尼哈希什地区的空袭已造成27人死亡、36人受伤。伤亡者中包括妇女儿童和民防救援人员。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728198.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-07T22:49:32.000Z",
+   "summary": "伊朗伊斯兰革命卫队发言人7日说，伊朗已解除导弹射程限制，将打击敌人预想不到的地点。并警告称，如果美国再次出现误判，伊朗下一次的打击将更加沉重。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728193.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-07T22:35:15.000Z",
+   "summary": "中新社莫斯科11月7日电 俄罗斯外交部发言人扎哈罗娃7日表示，欧洲多国部队举行演习将挑动局势升级，在乌克兰部署任何外国军事力量都是不可接受的，并将成为俄方合法打击目标。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "伊朗南部多地接连传出类似爆炸巨响",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728194.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-07T22:34:31.000Z",
+   "summary": "总台记者自伊朗方面获悉，当地时间7日晚，该国格什姆岛、锡里克、贾斯克和阿巴斯港等地均听到类似爆炸的巨响。巨响的原因尚不清楚。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M3.0】1 km WSW of La Parguera, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538728",
+   "source": "USGS地震台网",
+   "time": "2026-11-07T21:47:14.980Z",
+   "summary": "美国地质调查局官方监测：1 km WSW of La Parguera, Puerto Rico发生 3.0 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】43 km ESE of Ambon, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twu1",
+   "source": "USGS地震台网",
+   "time": "2026-11-07T20:55:38.512Z",
+   "summary": "美国地质调查局官方监测：43 km ESE of Ambon, Indonesia发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】14 km NE of Milford, Utah",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twu0",
+   "source": "USGS地震台网",
+   "time": "2026-11-07T20:49:35.485Z",
+   "summary": "美国地质调查局官方监测：14 km NE of Milford, Utah发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "【地震 M4.5】65 km WSW of Masachapa, Nicaragua",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twtv",
    "source": "USGS地震台网",
@@ -1362,6 +1681,14 @@
    "regions": []
   },
   {
+   "title": "7th World Media Summit opens in Beijing",
+   "link": "https://news.cgtn.com/news/2026-11-07/7th-World-Media-Summit-opens-in-Beijing-1RSQt6E7PuE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T14:31:55.000Z",
+   "summary": "The 7th World Media Summit held its opening ceremony in Beijing on Saturday under the theme \"Media in the Intelligent Ag…",
+   "regions": []
+  },
+  {
    "title": "俄外交部大使：泽连斯基非常清楚乌境内存在秘密酷刑场所但拒不承认",
    "link": "https://sputniknews.cn/20261107/1073991754.html",
    "source": "卫星社中文",
@@ -1370,6 +1697,38 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Cote d'Ivoire seeks to boost rubber industry through local processing",
+   "link": "https://newsaf.cgtn.com/news/2026-11-07/Cote-d-Ivoire-seeks-to-boost-rubber-industry-through-local-processing-1RSOVbU3d6g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T14:06:41.000Z",
+   "summary": "Cote d'Ivoire plans to expand local rubber processing to increase value addition and make agriculture a driver of econom…",
+   "regions": []
+  },
+  {
+   "title": "Chinese vice president meets Georgian president",
+   "link": "https://news.cgtn.com/news/2026-11-07/Chinese-vice-president-meets-Georgian-president-1RSOlYSNNvy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T13:58:51.000Z",
+   "summary": "Chinese Vice President Han Zheng met with Georgian President Mikheil Kavelashvili in Tbilisi on Friday.",
+   "regions": []
+  },
+  {
+   "title": "Chinese vice president meets Georgian prime minister on bilateral ties",
+   "link": "https://news.cgtn.com/news/2026-11-07/Chinese-vice-president-meets-Georgian-prime-minister-on-bilateral-ties-1RSKBWHBqX6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T13:57:32.000Z",
+   "summary": "Chinese Vice President Han Zheng met with Georgian Prime Minister Irakli Kobakhidze on bilateral relations in Tbilisi on…",
+   "regions": []
+  },
+  {
+   "title": "China's governance and worldwide development dialogue held in Moscow",
+   "link": "https://news.cgtn.com/news/2026-11-07/China-s-governance-and-worldwide-development-dialogue-held-in-Moscow-1RSG44bMnhm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T13:56:09.000Z",
+   "summary": "China's Governance and Worldwide Development Global Dialogue was held in Moscow, Russia, on November 5. Co-hosted by Chi…",
+   "regions": []
   },
   {
    "title": "英国国防部：英国将第二颗军用卫星送入轨道",
@@ -1454,6 +1813,14 @@
    ]
   },
   {
+   "title": "Iran's Araghchi in 48-hour diplomatic spree with 12 counterparts",
+   "link": "https://news.cgtn.com/news/2026-11-07/Iran-s-Araghchi-in-48-hour-diplomatic-spree-with-12-counterparts-1RSFYbwUd1K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T12:52:58.000Z",
+   "summary": "Iran's Foreign Minister Abbas Araghchi shared details on Saturday about a flurry of phone calls he held over the previou…",
+   "regions": []
+  },
+  {
    "title": "中国驻墨尔本总领事就领区一名中国公民不幸遇害案件同维州州长紧急通话",
    "link": "https://www.chinanews.com.cn/gj/2026/11-07/10728061.shtml",
    "source": "中新网国际",
@@ -1493,6 +1860,14 @@
    ]
   },
   {
+   "title": "Midterm power shift sets up new policy battles in US Congress",
+   "link": "https://news.cgtn.com/news/2026-11-07/Midterm-power-shift-sets-up-new-policy-battles-in-US-Congress-1RSzpMBT4zu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T12:44:02.000Z",
+   "summary": "With the US midterm elections over, Democrats began outlining their priorities for the next Congress, signaling potentia…",
+   "regions": []
+  },
+  {
    "title": "男子称受“脑中声音”驱使来华盛顿行刺特朗普，车内搜出三支枪支、数十发子弹",
    "link": "https://www.chinanews.com.cn/gj/2026/11-07/10728125.shtml",
    "source": "中新网国际",
@@ -1501,6 +1876,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "CIIE 2026: Major names in semiconductor industry deepen links",
+   "link": "https://news.cgtn.com/news/2026-11-07/CIIE-2026-Major-names-in-semiconductor-industry-deepen-links-1RSx6Zb5IuA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T12:39:53.000Z",
+   "summary": "CIIE 2026: Major names in semiconductor industry deepen links",
+   "regions": []
   },
   {
    "title": "日本茨城县附近海域发生5.6级地震，东京有震感",
@@ -1575,6 +1958,22 @@
    ]
   },
   {
+   "title": "Two races, two golds in one day for China's Chang Mohan at Dakar 2026",
+   "link": "https://news.cgtn.com/news/2026-11-07/Two-races-two-golds-in-one-day-for-China-s-Chang-Mohan-at-Dakar-2026-1RS7olCiWXu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T11:17:01.000Z",
+   "summary": "Two races, two golds in one day for China's Chang Mohan at Dakar 2026",
+   "regions": []
+  },
+  {
+   "title": "Best car or best driver? Inside Kimi Antonelli’s historic F1 crown",
+   "link": "https://news.cgtn.com/news/2026-11-07/Best-car-or-best-driver-Inside-Kimi-Antonelli-s-historic-F1-crown-1RS6FPi4yzu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T11:13:52.000Z",
+   "summary": "Best car or best driver? Inside Kimi Antonelli’s historic F1 crown",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.5】74 km NE of Hasaki, Japan",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq",
    "source": "USGS地震台网",
@@ -1605,6 +2004,14 @@
     "智利",
     "拉美"
    ]
+  },
+  {
+   "title": "Ghana dialogue explores China's governance and global development",
+   "link": "https://newsaf.cgtn.com/news/2026-11-07/Ghana-dialogue-explores-China-s-governance-and-global-development-1RSCJH7DDOM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T10:49:23.000Z",
+   "summary": "China Media Group (CMG) and the Chinese Embassy in Ghana jointly hosted a high-level dialogue on governance and global d…",
+   "regions": []
   },
   {
    "title": "新中国恢复联合国合法席位55周年主题活动在维也纳联合国总部举办",
@@ -1697,6 +2104,14 @@
    ]
   },
   {
+   "title": "What global mayors want to learn from manufacturing powerhouse Ningbo",
+   "link": "https://news.cgtn.com/news/2026-11-07/What-global-mayors-want-to-learn-from-manufacturing-powerhouse-Ningbo-1RSx3TM3Fxm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T09:37:06.000Z",
+   "summary": "What global mayors want to learn from manufacturing powerhouse Ningbo",
+   "regions": []
+  },
+  {
    "title": "俄国防部：乌军一天在特别军事行动中损失约1155名军人",
    "link": "https://sputniknews.cn/20261107/1073991012.html",
    "source": "卫星社中文",
@@ -1705,6 +2120,22 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "From Karakoram to Arabian Sea, Ep. 5: Made in China, Found in Pakistan",
+   "link": "https://news.cgtn.com/news/2026-11-07/From-Karakoram-to-Arabian-Sea-Ep-5-Made-in-China-Found-in-Pakistan-1RSwFmtbDQk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T09:17:04.000Z",
+   "summary": "From Karakoram to Arabian Sea, Ep. 5: Made in China, Found in Pakistan",
+   "regions": []
+  },
+  {
+   "title": "Iranian Expert: US midterms show Trump's miscalculations toward Iran",
+   "link": "https://news.cgtn.com/news/2026-11-07/Iranian-Expert-US-midterms-show-Trump-s-miscalculations-toward-Iran-1RSmD2KCKgU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T09:07:53.000Z",
+   "summary": "Iranian Expert: US midterms show Trump's miscalculations toward Iran",
+   "regions": []
   },
   {
    "title": "兼具东方内核与国际审美 《只此青绿》等作品屡登国际舞台展中国文化底蕴",
@@ -1787,6 +2218,30 @@
    ]
   },
   {
+   "title": "Islamist militants force Ebola patients to flee in deadly DRC raid",
+   "link": "https://newsaf.cgtn.com/news/2026-11-07/Islamist-militants-force-Ebola-patients-to-flee-in-deadly-DRC-raid-1RSqA72G1W0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T08:17:21.000Z",
+   "summary": "At least 33 civilians were killed, according to a local civil society leader. Some victims had gunshot wounds, while oth…",
+   "regions": []
+  },
+  {
+   "title": "Africa Watch: The Shakahola Tragedy—What lessons have we learned",
+   "link": "https://newsaf.cgtn.com/news/2026-11-07/Africa-Watch-The-Shakahola-Tragedy-What-lessons-have-we-learned--1RSrSeKfPTW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T08:07:01.000Z",
+   "summary": "Can stronger oversight prevent future tragedies, and how can governments balance freedom of worship with the duty to pro…",
+   "regions": []
+  },
+  {
+   "title": "Death toll from collapsed building in Kenya reaches 8",
+   "link": "https://newsaf.cgtn.com/news/2026-11-07/Death-toll-from-collapsed-building-in-Kenya-reaches-8-1RSoiZS3N2o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T08:05:50.000Z",
+   "summary": "The 18-story building, which was under construction, collapsed on October 23 in Eastleigh, a high-density commercial and…",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.9】2 km N of Tyonek, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wbexmo",
    "source": "USGS地震台网",
@@ -1845,6 +2300,14 @@
     "美国阿拉斯加",
     "美洲"
    ]
+  },
+  {
+   "title": "What China's first Antarctic law means for science, tourism and beyond",
+   "link": "https://news.cgtn.com/news/2026-11-07/What-China-s-first-Antarctic-law-means-for-science-tourism-and-beyond-1RR6c3WASOI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T07:00:24.000Z",
+   "summary": "What China's first Antarctic law means for science, tourism and beyond",
+   "regions": []
   },
   {
    "title": "【地震 M4.4】92 km W of Meulaboh, Indonesia",
@@ -1974,6 +2437,14 @@
    ]
   },
   {
+   "title": "Giant pandas Ping Ping and Fu Shuang make public debut at US zoo",
+   "link": "https://news.cgtn.com/news/2026-11-07/Giant-pandas-Ping-Ping-and-Fu-Shuang-make-public-debut-at-US-zoo-1RS2ig5JBlK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T04:29:22.000Z",
+   "summary": "Chinese giant pandas Ping Ping and Fu Shuang made their highly anticipated debut at Zoo Atlanta on Friday, meeting the m…",
+   "regions": []
+  },
+  {
    "title": "欧洲多地接连遭遇炸弹威胁和网络攻击 民用设施安全引发关注",
    "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727833.shtml",
    "source": "中新网国际",
@@ -1989,6 +2460,14 @@
    "source": "卫星社中文",
    "time": "2026-11-07T04:24:42.000Z",
    "summary": "11月6日，中国外交部发言人郭嘉昆在例行记者会上表示，进博会见证了中国推动高水平对外开放的坚定决心和务实行动，中方愿同各方一道，充分发挥国际采购、投资促进、人文交流、开放合作四大平台作用，更好造福世界各国人民。",
+   "regions": []
+  },
+  {
+   "title": "4th Sustainable Mineral Supply Chain Conference eyes long-term growth",
+   "link": "https://news.cgtn.com/news/2026-11-07/4th-Sustainable-Mineral-Supply-Chain-Conference-eyes-long-term-growth-1RRhZaKCVAQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-07T04:06:35.000Z",
+   "summary": "4th Sustainable Mineral Supply Chain Conference eyes long-term growth",
    "regions": []
   },
   {
@@ -2407,6 +2886,14 @@
    "regions": []
   },
   {
+   "title": "7th World Media Summit opens in Beijing",
+   "link": "https://news.cgtn.com/news/2026-11-07/7th-World-Media-Summit-opens-in-Beijing-1RSQt6E7PuE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T14:31:55.000Z",
+   "summary": "The 7th World Media Summit held its opening ceremony in Beijing on Saturday under the theme \"Media in the Intelligent Ag…",
+   "regions": []
+  },
+  {
    "title": "中国—东盟推进媒体务实合作 提升区域国际传播力",
    "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728164.shtml",
    "source": "中新网滚动",
@@ -2414,6 +2901,41 @@
    "summary": "【东盟专线】中国—东盟推进媒体务实合作 提升区域国际传播力",
    "regions": [
     "亚太"
+   ]
+  },
+  {
+   "title": "Chinese vice president meets Georgian president",
+   "link": "https://news.cgtn.com/news/2026-11-07/Chinese-vice-president-meets-Georgian-president-1RSOlYSNNvy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T13:58:51.000Z",
+   "summary": "Chinese Vice President Han Zheng met with Georgian President Mikheil Kavelashvili in Tbilisi on Friday.",
+   "regions": [
+    "格鲁吉亚",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "Chinese vice president meets Georgian prime minister on bilateral ties",
+   "link": "https://news.cgtn.com/news/2026-11-07/Chinese-vice-president-meets-Georgian-prime-minister-on-bilateral-ties-1RSKBWHBqX6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T13:57:32.000Z",
+   "summary": "Chinese Vice President Han Zheng met with Georgian Prime Minister Irakli Kobakhidze on bilateral relations in Tbilisi on…",
+   "regions": [
+    "格鲁吉亚",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "China's governance and worldwide development dialogue held in Moscow",
+   "link": "https://news.cgtn.com/news/2026-11-07/China-s-governance-and-worldwide-development-dialogue-held-in-Moscow-1RSG44bMnhm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T13:56:09.000Z",
+   "summary": "China's Governance and Worldwide Development Global Dialogue was held in Moscow, Russia, on November 5. Co-hosted by Chi…",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
    ]
   },
   {
@@ -2644,6 +3166,25 @@
    "regions": []
   },
   {
+   "title": "New frog species hops into the spotlight in China's Hainan rainforest",
+   "link": "https://news.cgtn.com/news/2026-11-07/New-frog-species-hops-into-the-spotlight-in-China-s-Hainan-rainforest-1RSABdDdr3O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T12:30:32.000Z",
+   "summary": "Chinese researchers have discovered a brand-new amphibian species hidden in the tropical rainforests of south China's Ha…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Expert: New anti-cross-border corruption law turns experience into law",
+   "link": "https://news.cgtn.com/news/2026-11-07/Expert-New-anti-cross-border-corruption-law-turns-experience-into-law-1RSwwa9E8IE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T12:22:58.000Z",
+   "summary": "Expert: New anti-cross-border corruption law turns experience into law",
+   "regions": []
+  },
+  {
    "title": "第一观察｜总书记投下庄严一票，率先垂范践行民主",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10728104.shtml",
    "source": "中新网中国",
@@ -2858,6 +3399,30 @@
    ]
   },
   {
+   "title": "Hot Take: Chinese scientists create substance colder than deep space",
+   "link": "https://news.cgtn.com/news/2026-11-07/Hot-Take-Chinese-scientists-create-substance-colder-than-deep-space-1RSrSrAKgPS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T09:56:44.000Z",
+   "summary": "Hot Take: Chinese scientists create substance colder than deep space",
+   "regions": []
+  },
+  {
+   "title": "What global mayors want to learn from manufacturing powerhouse Ningbo",
+   "link": "https://news.cgtn.com/news/2026-11-07/What-global-mayors-want-to-learn-from-manufacturing-powerhouse-Ningbo-1RSx3TM3Fxm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T09:37:06.000Z",
+   "summary": "What global mayors want to learn from manufacturing powerhouse Ningbo",
+   "regions": []
+  },
+  {
+   "title": "'Like it, want it, got it': Shenzhen, an engineer's wonderland",
+   "link": "https://news.cgtn.com/news/2026-11-07/-Like-it-want-it-got-it-Shenzhen-an-engineer-s-wonderland-1RSyJeyvKZq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T09:30:47.000Z",
+   "summary": "American Zach Bielak chose Shenzhen because it's an \"engineer's paradise.\"",
+   "regions": []
+  },
+  {
    "title": "安徽消防宣传月活动启动 民众近距离感受蓝焰力量",
    "link": "https://www.chinanews.com.cn/tp/2026/11-07/10727919.shtml",
    "source": "中新网滚动",
@@ -2982,6 +3547,17 @@
    ]
   },
   {
+   "title": "China tests high-altitude floating wind power system over city",
+   "link": "https://news.cgtn.com/news/2026-11-07/China-tests-high-altitude-floating-wind-power-system-over-city-1RSnqN95HGw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T08:57:36.000Z",
+   "summary": "The world's first 4,000-meter-class airborne wind power system on Friday successfully completed a test flight in Yueyang…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "两岸“小三通”客运航线今年出入境旅客量突破203万人次 创历史新高",
    "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727955.shtml",
    "source": "中新网社会",
@@ -2990,6 +3566,17 @@
    "regions": [
     "台海",
     "厦门"
+   ]
+  },
+  {
+   "title": "Experts: Why CPC's self-reform matters for China's governance",
+   "link": "https://news.cgtn.com/news/2026-11-07/Experts-Why-CPC-s-self-reform-matters-for-China-s-governance-1RRUotgdh3a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T08:54:54.000Z",
+   "summary": "Experts: Why CPC's self-reform matters for China's governance",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3170,6 +3757,33 @@
    ]
   },
   {
+   "title": "Yizhao Highway: Xinjiang's summer sky road",
+   "link": "https://news.cgtn.com/news/2026-11-07/Yizhao-Highway-Xinjiang-s-summer-sky-road-1RSu6d5w4A8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T08:25:57.000Z",
+   "summary": "Winding over the Wusun Mountains, the seasonal Yizhao Highway in Xinjiang packs snow peaks, forests and blooming grassla…",
+   "regions": []
+  },
+  {
+   "title": "Beef and bitter melon cheung fun",
+   "link": "https://news.cgtn.com/news/2026-11-07/Beef-and-bitter-melon-cheung-fun-1RSlYamOi6Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T08:25:03.000Z",
+   "summary": "Cheung fun is a classic Guangdong snack. However, the beef and bitter melon filling is a new flavor created only in the …",
+   "regions": []
+  },
+  {
+   "title": "A welcoming tea culture journey begins in Beijing",
+   "link": "https://news.cgtn.com/news/2026-11-07/A-welcoming-tea-culture-journey-begins-in-Beijing--1RSsxRi9Ixq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T08:24:20.000Z",
+   "summary": "A grand tea fair opened on Friday, November 6, at the China National Convention Center in Beijing. The bustling event fe…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "弘扬崇军风尚 湖南选树一批最美退役军人与拥军人物",
    "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727887.shtml",
    "source": "中新网社会",
@@ -3218,6 +3832,14 @@
    ]
   },
   {
+   "title": "Why are 'giant pandas of the sea' thriving in Xiamen?",
+   "link": "https://news.cgtn.com/news/2026-11-07/Why-are-giant-pandas-of-the-sea-thriving-in-Xiamen--1RScQgjOWuQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T07:52:15.000Z",
+   "summary": "Why are 'giant pandas of the sea' thriving in Xiamen?",
+   "regions": []
+  },
+  {
    "title": "习近平主席复信令澳大利亚青年学生和教育界人士深受鼓舞",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727903.shtml",
    "source": "中新网中国",
@@ -3249,6 +3871,51 @@
    ]
   },
   {
+   "title": "China-Mexico ties explore AI's potential in fisheries",
+   "link": "https://news.cgtn.com/news/2026-11-07/China-Mexico-ties-explore-AI-s-potential-in-fisheries-1RSoBYO5QMo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T07:32:48.000Z",
+   "summary": "From the symbolism of the Chinese dragon to the future of smart fisheries, Armando Herrero Perezrul sees fresh opportuni…",
+   "regions": [
+    "中国",
+    "亚太",
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
+   "title": "Egypt looks to China for a model of ocean development",
+   "link": "https://news.cgtn.com/news/2026-11-07/Egypt-looks-to-China-for-a-model-of-ocean-development-1RSp1SJ8eqI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T07:31:48.000Z",
+   "summary": "China's experience in marine resource development and biodiversity protection offers valuable lessons for other countrie…",
+   "regions": [
+    "中国",
+    "亚太",
+    "埃及",
+    "非洲"
+   ]
+  },
+  {
+   "title": "Benin seeks China's expertise to better manage marine resources",
+   "link": "https://news.cgtn.com/news/2026-11-07/Benin-seeks-China-s-expertise-to-better-manage-marine-resources-1RSodyfUa2I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T07:30:12.000Z",
+   "summary": "How can countries make better use of their marine resources? For Fernand Maxime Ahoyo, Maritime Prefect at Benin's Natio…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Insane Chinese opera stunts at Wulin Conference",
+   "link": "https://news.cgtn.com/news/2026-11-07/Insane-Chinese-opera-stunts-at-Wulin-Conference-1RSpwdsqUKI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T07:28:14.000Z",
+   "summary": "How many Chinese opera styles do you actually know, and how far can the human body really be pushed on stage? In Jinhua,…",
+   "regions": []
+  },
+  {
    "title": "河北保定通报桥体脱落事故：4人受伤 其中2名施工人员伤势较重",
    "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727892.shtml",
    "source": "中新网社会",
@@ -3257,6 +3924,36 @@
    "regions": [
     "保定",
     "河北"
+   ]
+  },
+  {
+   "title": "Inside Xiamen's preparations to host the BBNJ Secretariat",
+   "link": "https://news.cgtn.com/news/2026-11-07/Inside-Xiamen-s-preparations-to-host-the-BBNJ-Secretariat-1RSh30pjCOk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T07:08:01.000Z",
+   "summary": "Inside Xiamen's preparations to host the BBNJ Secretariat",
+   "regions": []
+  },
+  {
+   "title": "What China's first Antarctic law means for science, tourism and beyond",
+   "link": "https://news.cgtn.com/news/2026-11-07/What-China-s-first-Antarctic-law-means-for-science-tourism-and-beyond-1RR6c3WASOI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T07:00:24.000Z",
+   "summary": "What China's first Antarctic law means for science, tourism and beyond",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "CIIE showcases innovations shaping the future of industry",
+   "link": "https://news.cgtn.com/news/2026-11-07/CIIE-showcases-innovations-shaping-the-future-of-industry-1RS9d1KCIlG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T06:58:22.000Z",
+   "summary": "The ninth China International Import Expo (CIIE), which runs from November 5 to November 10, in Shanghai, features a wid…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3329,6 +4026,17 @@
    ]
   },
   {
+   "title": "CPC initiates election process for delegates to 21st national congress",
+   "link": "https://news.cgtn.com/news/2026-11-07/CPC-initiates-election-process-for-delegates-to-21st-national-congress-1RSbTiXvrl6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T05:26:59.000Z",
+   "summary": "The Central Committee of the Communist Party of China (CPC) has released a circular for the election of delegates to the…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "数字化保护中的权利边界与文化延续——读《非物质文化遗产的数字化保护及其与知识产权保护的冲突与协调》",
    "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727860.shtml",
    "source": "中新网社会",
@@ -3387,6 +4095,14 @@
    ]
   },
   {
+   "title": "Giant pandas Ping Ping and Fu Shuang make public debut at US zoo",
+   "link": "https://news.cgtn.com/news/2026-11-07/Giant-pandas-Ping-Ping-and-Fu-Shuang-make-public-debut-at-US-zoo-1RS2ig5JBlK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T04:29:22.000Z",
+   "summary": "Chinese giant pandas Ping Ping and Fu Shuang made their highly anticipated debut at Zoo Atlanta on Friday, meeting the m…",
+   "regions": []
+  },
+  {
    "title": "刘海星同朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男举行会谈",
    "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727816.shtml",
    "source": "中新网中国",
@@ -3395,6 +4111,18 @@
    "regions": [
     "朝鲜半岛",
     "北京"
+   ]
+  },
+  {
+   "title": "First foreign astronaut set to visit China's space station",
+   "link": "https://news.cgtn.com/news/2026-11-07/First-foreign-astronaut-set-to-visit-China-s-space-station-1RS6aTZm5he/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T04:17:36.000Z",
+   "summary": "A Pakistani astronaut will join China's Shenzhou-24 crewed spaceflight mission as a payload specialist, marking the firs…",
+   "regions": [
+    "巴基斯坦",
+    "亚太",
+    "中国"
    ]
   },
   {
@@ -3858,6 +4586,17 @@
    "regions": []
   },
   {
+   "title": "AI tokens a hit on China's Singles' Day as consumers embrace AI boom",
+   "link": "https://news.cgtn.com/news/2026-11-07/AI-tokens-a-hit-on-China-s-Singles-Day-as-consumers-embrace-AI-boom-1RSuuGzn2z6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T13:12:21.000Z",
+   "summary": "Artificial intelligence (AI) tokens, the basic units used by large language models to process information, have emerged …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "赋能千行百业 进博会服贸展区打造企业出海全链条服务",
    "link": "https://www.chinanews.com.cn/cj/2026/11-07/10728157.shtml",
    "source": "中新网财经",
@@ -3958,6 +4697,27 @@
    "time": "2026-11-07T12:53:15.000Z",
    "summary": "中新社上海11月7日电 题：进博会现“九年之变”：中国市场与世界经济联系更广更深",
    "regions": []
+  },
+  {
+   "title": "CIIE 2026: Major names in semiconductor industry deepen links",
+   "link": "https://news.cgtn.com/news/2026-11-07/CIIE-2026-Major-names-in-semiconductor-industry-deepen-links-1RSx6Zb5IuA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T12:39:53.000Z",
+   "summary": "CIIE 2026: Major names in semiconductor industry deepen links",
+   "regions": []
+  },
+  {
+   "title": "Austrian companies deepen roots in China as bilateral trade ties grow",
+   "link": "https://news.cgtn.com/news/2026-11-07/Austrian-companies-deepen-roots-in-China-as-bilateral-trade-ties-grow-1RSFLOUBRII/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T12:35:52.000Z",
+   "summary": "Austrian companies deepen roots in China as bilateral trade ties grow",
+   "regions": [
+    "中国",
+    "亚太",
+    "奥地利",
+    "欧洲"
+   ]
   },
   {
    "title": "中原农谷这场会议，为全国粮食增产开出“良方”",
@@ -4200,6 +4960,17 @@
    ]
   },
   {
+   "title": "Pacific islands turn to the blue economy for a sustainable future",
+   "link": "https://news.cgtn.com/news/2026-11-07/Pacific-islands-turn-to-the-blue-economy-for-a-sustainable-future-1RSrtVe40Ra/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-07T07:51:26.000Z",
+   "summary": "For Pacific island communities, the ocean is not just a vast natural resource – it is the foundation of everyday life. A…",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
    "title": "进博之问｜6天精彩，如何转化为365天的生意？",
    "link": "https://www.chinanews.com.cn/cj/2026/11-07/10727907.shtml",
    "source": "中新网财经",
@@ -4414,5 +5185,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-07T20:23:22.606Z"
+ "updatedAt": "2026-11-08T04:00:05.563Z"
 }
