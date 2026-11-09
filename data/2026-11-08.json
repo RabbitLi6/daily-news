@@ -1128,6 +1128,38 @@
    ]
   },
   {
+   "title": "【地震 M4.7】119 km SW of Kokopo, Papua New Guinea",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twzn",
+   "source": "USGS地震台网",
+   "time": "2026-11-08T22:30:10.325Z",
+   "summary": "美国地质调查局官方监测：119 km SW of Kokopo, Papua New Guinea发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "巴布亚新几内亚",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】85 km NE of Hasaki, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twzl",
+   "source": "USGS地震台网",
+   "time": "2026-11-08T22:25:40.750Z",
+   "summary": "美国地质调查局官方监测：85 km NE of Hasaki, Japan发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】Mariana Islands region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twzm",
+   "source": "USGS地震台网",
+   "time": "2026-11-08T22:24:04.721Z",
+   "summary": "美国地质调查局官方监测：Mariana Islands region发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "特朗普：美伊谈判若取得进展 “极不可能”再对伊动武",
    "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728581.shtml",
    "source": "中新网国际",
@@ -1583,6 +1615,14 @@
    ]
   },
   {
+   "title": "4 killed, 88 injured in train collision in Egypt",
+   "link": "https://news.cgtn.com/news/2026-11-08/news-1RUzbfypc9G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T14:26:22.000Z",
+   "summary": "4 killed, 88 injured in train collision in Egypt",
+   "regions": []
+  },
+  {
    "title": "法国外交部：欧洲代表将前往阿布扎比参加乌问题谈判",
    "link": "https://sputniknews.cn/20261108/1073996746.html",
    "source": "卫星社中文",
@@ -1615,6 +1655,22 @@
    ]
   },
   {
+   "title": "Yemen's Houthis claim strikes on Saudi oil facilities, Riyadh airport",
+   "link": "https://news.cgtn.com/news/2026-11-08/news-1RUvV3tOERG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T13:40:44.000Z",
+   "summary": "Yemen's Houthis claim strikes on Saudi oil facilities, Riyadh airport",
+   "regions": []
+  },
+  {
+   "title": "The CIIE social edit: How to cook perfect pasta with an Italian chef",
+   "link": "https://news.cgtn.com/news/2026-11-08/The-CIIE-social-edit-How-to-cook-perfect-pasta-with-an-Italian-chef-1RUuEhWS7hS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T13:35:36.000Z",
+   "summary": "The CIIE social edit: How to cook perfect pasta with an Italian chef",
+   "regions": []
+  },
+  {
    "title": "埃及列车脱轨事故致司机死亡 64人受伤",
    "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728548.shtml",
    "source": "中新网国际",
@@ -1623,6 +1679,14 @@
    "regions": [
     "非洲"
    ]
+  },
+  {
+   "title": "101 migrants rescued after boat catches fire off Gambia coast",
+   "link": "https://newsaf.cgtn.com/news/2026-11-08/101-migrants-rescued-after-boat-catches-fire-off-Gambia-coast-1RUppUmsBQk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T13:16:24.000Z",
+   "summary": "101 migrants were rescued off Sika and Albreda in The Gambia on Saturday after their boat caught fire, the Gambia Immigr…",
+   "regions": []
   },
   {
    "title": "波内政部：克拉科夫恐袭的死伤者中包括俄罗斯和其他国家公民",
@@ -1636,6 +1700,14 @@
    ]
   },
   {
+   "title": "From Karakoram to Arabian Sea, Ep. 6: A Shared Drive",
+   "link": "https://news.cgtn.com/news/2026-11-08/From-Karakoram-to-Arabian-Sea-Ep-6-A-Shared-Drive-1RUocYw172M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T13:12:53.000Z",
+   "summary": "From Karakoram to Arabian Sea, Ep. 6: A Shared Drive",
+   "regions": []
+  },
+  {
    "title": "山西太原一高层建筑发生火灾 有人员送医",
    "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728536.shtml",
    "source": "中新网滚动",
@@ -1645,6 +1717,14 @@
     "太原",
     "山西"
    ]
+  },
+  {
+   "title": "Egypt reopens embassy in Tripoli after 12-year closure",
+   "link": "https://newsaf.cgtn.com/news/2026-11-08/Egypt-reopens-embassy-in-Tripoli-after-12-year-closure-1RUefWAKgsE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T13:03:02.000Z",
+   "summary": "Egypt has reopened its embassy in Tripoli, resuming diplomatic operations at its original premises after a 12-year closu…",
+   "regions": []
   },
   {
    "title": "舞剧《五星出东方》将亮相希腊舞台",
@@ -1683,6 +1763,22 @@
    ]
   },
   {
+   "title": "A Pakistani brand's journey into China's market at CIIE",
+   "link": "https://news.cgtn.com/news/2026-11-08/A-Pakistani-brand-s-journey-into-China-s-market-at-CIIE-1RTQwXdu8dW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T13:00:12.000Z",
+   "summary": "A Pakistani brand's journey into China's market at CIIE",
+   "regions": []
+  },
+  {
+   "title": "Tanzania, UNDP allocate $2 million for environmental projects",
+   "link": "https://newsaf.cgtn.com/news/2026-11-08/Tanzania-UNDP-allocate-2-million-for-environmental-projects-1RUhW6FhMgo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T12:47:39.000Z",
+   "summary": "Tanzania and the United Nations Development Programme (UNDP) have pledged $2 million to fund 49 community-led environmen…",
+   "regions": []
+  },
+  {
    "title": "埃及发生火车脱轨事故 已致约50人受伤",
    "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728530.shtml",
    "source": "中新网国际",
@@ -1701,6 +1797,14 @@
    "regions": [
     "非洲"
    ]
+  },
+  {
+   "title": "How food innovation is connecting China and APEC markets",
+   "link": "https://news.cgtn.com/news/2026-11-08/How-food-innovation-is-connecting-China-and-APEC-markets-1RUpOcJ7vYA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T12:43:35.000Z",
+   "summary": "How food innovation is connecting China and APEC markets",
+   "regions": []
   },
   {
    "title": "摩尔多瓦总理不顾居民抗议容认与罗马尼亚合并",
@@ -1743,6 +1847,22 @@
    ]
   },
   {
+   "title": "At least 4 killed, 88 injured after passenger train derails in Egypt",
+   "link": "https://news.cgtn.com/news/2026-11-08/news-1RUpGpmNoha/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T12:13:28.000Z",
+   "summary": "At least four people were killed and 88 injured in a passenger train derailment in Egypt's Giza Governorate, the Health …",
+   "regions": []
+  },
+  {
+   "title": "Africa Watch: US suspends SA from AGOA - What could be lost?",
+   "link": "https://newsaf.cgtn.com/news/2026-11-08/Africa-Watch-US-suspends-SA-from-AGOA-What-could-be-lost--1RU2YZZ1lJu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T12:11:15.000Z",
+   "summary": "South Africa’s access to one of its most important export markets is facing fresh uncertainty as Washington moves toward…",
+   "regions": []
+  },
+  {
    "title": "2026年中国能源投资预计达9400亿美元，居全球首位",
    "link": "https://sputniknews.cn/20261108/1073996172.html",
    "source": "卫星社中文",
@@ -1750,6 +1870,16 @@
    "summary": "中国企业改革与发展研究会发布的《全球能源转型报告（2026）》预测，2026年中国能源投资总额将达到9400亿美元，继续位居全球首位。",
    "regions": [
     "美洲"
+   ]
+  },
+  {
+   "title": "古特雷斯谴责波兰克拉科夫市发生的大规模枪击事件",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143160",
+   "source": "联合国新闻",
+   "time": "2026-11-08T12:00:00.000Z",
+   "summary": "联合国秘书长古特雷斯周日通过发言人发表声明，对日前发生在波兰克拉科夫市主广场的大规模枪击事件深感震惊和悲痛。",
+   "regions": [
+    "欧洲"
    ]
   },
   {
@@ -1871,6 +2001,14 @@
    ]
   },
   {
+   "title": "Japan's LDP considers disciplinary action against former PM Ishiba",
+   "link": "https://news.cgtn.com/news/2026-11-08/Japan-s-LDP-considers-disciplinary-action-against-former-PM-Ishiba-1RUdhl75UZO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T10:40:38.000Z",
+   "summary": "Japan's ruling Liberal Democratic Party (LDP) is considering disciplinary action against former Prime Minister Shigeru I…",
+   "regions": []
+  },
+  {
    "title": "山西太原一高层建筑发生火灾 消防人员仍在扑救",
    "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728461.shtml",
    "source": "中新网滚动",
@@ -1901,6 +2039,14 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "Poland mourns Krakow shooting victims as terrorism probe launched",
+   "link": "https://news.cgtn.com/news/2026-11-08/news-1RUgvgnvxLy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T10:05:01.000Z",
+   "summary": "Poland began two days of ​national mourning on Sunday and police bolstered security after six people were killed in a ma…",
+   "regions": []
   },
   {
    "title": "美国SpaceX公司称将于11月中旬进行第15次星舰测试发射",
@@ -2019,6 +2165,22 @@
    ]
   },
   {
+   "title": "Soak up the Rwandan vibe at CIIE",
+   "link": "https://news.cgtn.com/news/2026-11-08/Soak-up-the-Rwandan-vibe-at-CIIE-1RTY6WBNeRG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T08:01:35.000Z",
+   "summary": "Soak up the Rwandan vibe at CIIE",
+   "regions": []
+  },
+  {
+   "title": "Taste and paint: Experience Georgian culture at CIIE",
+   "link": "https://news.cgtn.com/news/2026-11-08/Taste-and-paint-Experience-Georgian-culture-at-CIIE-1RTXTawurza/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T08:01:09.000Z",
+   "summary": "Taste and paint: Experience Georgian culture at CIIE",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.0】8 km SSE of Maria Antonia, Puerto Rico",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538788",
    "source": "USGS地震台网",
@@ -2124,6 +2286,14 @@
    ]
   },
   {
+   "title": "Dialogue in Ghana explores China's governance, global contribution",
+   "link": "https://news.cgtn.com/news/2026-11-08/Dialogue-in-Ghana-explores-China-s-governance-global-contribution-1RTJUgpIuMU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T06:06:54.000Z",
+   "summary": "China's Governance and Worldwide Development Global Dialogue took place in Accra, Ghana, on Friday.",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.0】16 km SW of Susitna, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcwnow",
    "source": "USGS地震台网",
@@ -2146,6 +2316,22 @@
    ]
   },
   {
+   "title": "China's Liao sweeps women's 86kg gold medals, breaks two world records",
+   "link": "https://news.cgtn.com/news/2026-11-08/China-s-Liao-sweeps-women-s-86kg-gold-medals-breaks-two-world-records-1RTGV4B2DTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T05:49:23.000Z",
+   "summary": "China's Liao sweeps women's 86kg gold medals, breaks two world records",
+   "regions": []
+  },
+  {
+   "title": "China retains women's trampoline team world title in Nanjing",
+   "link": "https://news.cgtn.com/news/2026-11-08/China-retains-women-s-trampoline-team-world-title-in-Nanjing-1RTHJuAjm48/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T05:46:48.000Z",
+   "summary": "China retains women's trampoline team world title in Nanjing",
+   "regions": []
+  },
+  {
    "title": "上芭舞剧《梁山伯与祝英台》亮相美国弗吉尼亚州",
    "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728311.shtml",
    "source": "中新网国际",
@@ -2154,6 +2340,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "Saudi-led coalition intercepts two Houthi missiles targeting Riyadh",
+   "link": "https://news.cgtn.com/news/2026-11-08/news-1RTX6Gd8fuM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T05:33:35.000Z",
+   "summary": "The Saudi-led coalition fighting Yemen's Houthis said it ​intercepted and destroyed two ballistic missiles fired ‌by the…",
+   "regions": []
   },
   {
    "title": "以色列总统决定授权正直党领导人埃森科特组建新政府",
@@ -2230,6 +2424,14 @@
    ]
   },
   {
+   "title": "Report highlights China's role in sustaining peace in South China Sea",
+   "link": "https://news.cgtn.com/news/2026-11-08/Report-highlights-China-s-role-in-sustaining-peace-in-South-China-Sea-1RTEAdEWHhC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T03:29:53.000Z",
+   "summary": "A report released on Saturday highlighted China's efforts to help sustain peace and stability in the South China Sea.",
+   "regions": []
+  },
+  {
    "title": "俄外交部：欧盟不愿对“北溪”管道爆炸事件作出政治和法律评价",
    "link": "https://sputniknews.cn/20261108/1073994286.html",
    "source": "卫星社中文",
@@ -2267,6 +2469,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "More than a vast market: What else does China offer?",
+   "link": "https://news.cgtn.com/news/2026-11-08/More-than-a-vast-market-What-else-does-China-offer--1RSZUbqDx84/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-08T03:14:13.000Z",
+   "summary": "More than a vast market: What else does China offer?",
+   "regions": []
   },
   {
    "title": "哥伦比亚一军事基地遇袭 致3死8伤",
@@ -2673,6 +2883,22 @@
    "regions": []
   },
   {
+   "title": "Official Trailer: The Sea We Call Home",
+   "link": "https://news.cgtn.com/news/2026-11-09/Official-Trailer-The-Sea-We-Call-Home-1RTvXd0ShZ6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T23:01:03.000Z",
+   "summary": "For generations, the sea has shaped how people here live, work and find their way home. Discover the people and stories …",
+   "regions": []
+  },
+  {
+   "title": "Two Women, One Wait",
+   "link": "https://news.cgtn.com/news/2026-11-09/Two-Women-One-Wait-1RTwGDbxIWY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T23:00:38.000Z",
+   "summary": "More than half a century ago, Fu Yuhua's husband and Lu Chunxiang's father went out to sea on the same fishing boat. Nei…",
+   "regions": []
+  },
+  {
    "title": "我国成功发射卫星互联网低轨29组卫星",
    "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728582.shtml",
    "source": "中新网中国",
@@ -2702,6 +2928,17 @@
    "regions": [
     "宁波",
     "浙江"
+   ]
+  },
+  {
+   "title": "5 dead following fire in north China's Shanxi",
+   "link": "https://news.cgtn.com/news/2026-11-08/5-dead-following-fire-in-north-China-s-Shanxi--1RUBycmgKsw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T14:59:32.000Z",
+   "summary": "5 dead following fire in north China's Shanxi",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2752,6 +2989,14 @@
    "regions": [
     "新疆"
    ]
+  },
+  {
+   "title": "The CIIE social edit: How to cook perfect pasta with an Italian chef",
+   "link": "https://news.cgtn.com/news/2026-11-08/The-CIIE-social-edit-How-to-cook-perfect-pasta-with-an-Italian-chef-1RUuEhWS7hS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T13:35:36.000Z",
+   "summary": "The CIIE social edit: How to cook perfect pasta with an Italian chef",
+   "regions": []
   },
   {
    "title": "山西太原一高层建筑发生火灾 有人员送医",
@@ -3240,6 +3485,33 @@
    ]
   },
   {
+   "title": "Soak up the Rwandan vibe at CIIE",
+   "link": "https://news.cgtn.com/news/2026-11-08/Soak-up-the-Rwandan-vibe-at-CIIE-1RTY6WBNeRG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T08:01:35.000Z",
+   "summary": "Soak up the Rwandan vibe at CIIE",
+   "regions": []
+  },
+  {
+   "title": "Taste and paint: Experience Georgian culture at CIIE",
+   "link": "https://news.cgtn.com/news/2026-11-08/Taste-and-paint-Experience-Georgian-culture-at-CIIE-1RTXTawurza/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T08:01:09.000Z",
+   "summary": "Taste and paint: Experience Georgian culture at CIIE",
+   "regions": [
+    "格鲁吉亚",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "From viral TikTok trend to real-life adventure",
+   "link": "https://news.cgtn.com/news/2026-11-08/From-viral-TikTok-trend-to-real-life-adventure-1RSxrV7lY8U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T07:58:24.000Z",
+   "summary": "From viral TikTok trend to real-life adventure",
+   "regions": []
+  },
+  {
    "title": "受气象条件影响 “两马”航线9日双向停航",
    "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728363.shtml",
    "source": "中新网社会",
@@ -3255,6 +3527,25 @@
    "source": "中新网中国",
    "time": "2026-11-08T07:40:52.000Z",
    "summary": "编者按",
+   "regions": []
+  },
+  {
+   "title": "Chinese intangible cultural heritage expo reimagines tradition",
+   "link": "https://news.cgtn.com/news/2026-11-08/Chinese-intangible-cultural-heritage-expo-reimagines-tradition-1RU2uaGIB3O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T07:33:25.000Z",
+   "summary": "The ninth China Intangible Cultural Heritage Expo opened in Chongqing, southwest China, on Friday.",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Shenzhen and GBA: A hub of opportunity for global talent",
+   "link": "https://news.cgtn.com/news/2026-11-08/Shenzhen-and-GBA-A-hub-of-opportunity-for-global-talent-1RSOC52X6co/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T07:29:27.000Z",
+   "summary": "Shenzhen has become a global intersection of talent and opportunity.",
    "regions": []
   },
   {
@@ -3325,6 +3616,52 @@
    "summary": "中新网福建清流11月8日电 题：全国119消防奖先进个人阳剑华：一只“蓝色背包”把安全背进村里",
    "regions": [
     "福建"
+   ]
+  },
+  {
+   "title": "China boasts world's largest renewable energy system: report",
+   "link": "https://news.cgtn.com/news/2026-11-08/China-boasts-world-s-largest-renewable-energy-system-report-1RTGgkzPkk0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T06:09:06.000Z",
+   "summary": "China boasts world's largest renewable energy system: report",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Dialogue in Ghana explores China's governance, global contribution",
+   "link": "https://news.cgtn.com/news/2026-11-08/Dialogue-in-Ghana-explores-China-s-governance-global-contribution-1RTJUgpIuMU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T06:06:54.000Z",
+   "summary": "China's Governance and Worldwide Development Global Dialogue took place in Accra, Ghana, on Friday.",
+   "regions": [
+    "中国",
+    "亚太",
+    "加纳",
+    "非洲"
+   ]
+  },
+  {
+   "title": "China's Liao sweeps women's 86kg gold medals, breaks two world records",
+   "link": "https://news.cgtn.com/news/2026-11-08/China-s-Liao-sweeps-women-s-86kg-gold-medals-breaks-two-world-records-1RTGV4B2DTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T05:49:23.000Z",
+   "summary": "China's Liao sweeps women's 86kg gold medals, breaks two world records",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China retains women's trampoline team world title in Nanjing",
+   "link": "https://news.cgtn.com/news/2026-11-08/China-retains-women-s-trampoline-team-world-title-in-Nanjing-1RTHJuAjm48/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T05:46:48.000Z",
+   "summary": "China retains women's trampoline team world title in Nanjing",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3404,6 +3741,17 @@
    "regions": []
   },
   {
+   "title": "Report highlights China's role in sustaining peace in South China Sea",
+   "link": "https://news.cgtn.com/news/2026-11-08/Report-highlights-China-s-role-in-sustaining-peace-in-South-China-Sea-1RTEAdEWHhC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T03:29:53.000Z",
+   "summary": "A report released on Saturday highlighted China's efforts to help sustain peace and stability in the South China Sea.",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "地球深部探测与亚洲四维地形国际研讨会在京开幕",
    "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728289.shtml",
    "source": "中新网中国",
@@ -3411,6 +3759,17 @@
    "summary": "中新网北京11月8日电 (记者 黄钰钦)11月7日，地球深部探测与亚洲四维地形国际研讨会在北京开幕。来自多个国家和地区的专家学者围绕地球内部结构与动力过程、矿产与能源资源形成、地震与地质灾害等议题展开交流，为资源能源保障、防灾减灾和可持续发…",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "Making it together - China's Guangdong industrial clusters and APEC",
+   "link": "https://news.cgtn.com/news/2026-11-08/Making-it-together-China-s-Guangdong-industrial-clusters-and-APEC-1RSWKkhIcla/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T03:23:05.000Z",
+   "summary": "Making it together - China's Guangdong industrial clusters and APEC",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3939,12 +4298,35 @@
    ]
   },
   {
+   "title": "A Pakistani brand's journey into China's market at CIIE",
+   "link": "https://news.cgtn.com/news/2026-11-08/A-Pakistani-brand-s-journey-into-China-s-market-at-CIIE-1RTQwXdu8dW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T13:00:12.000Z",
+   "summary": "A Pakistani brand's journey into China's market at CIIE",
+   "regions": [
+    "巴基斯坦",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "文旅体商加速融合释放消费潜力——中国经济三季报亮点解析",
    "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728531.shtml",
    "source": "中新网滚动",
    "time": "2026-11-08T12:48:59.000Z",
    "summary": "前三季度文体休闲服务类零售额增速明显快于整体服务零售增速——",
    "regions": []
+  },
+  {
+   "title": "How food innovation is connecting China and APEC markets",
+   "link": "https://news.cgtn.com/news/2026-11-08/How-food-innovation-is-connecting-China-and-APEC-markets-1RUpOcJ7vYA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T12:43:35.000Z",
+   "summary": "How food innovation is connecting China and APEC markets",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "（第九届进博会）借进博之窗融通中外 世界500强华侨华人高管共话AI全球化新机遇",
@@ -4246,6 +4628,17 @@
    "regions": []
   },
   {
+   "title": "China's growing demand for quality food boosts Irish exports",
+   "link": "https://news.cgtn.com/news/2026-11-08/China-s-growing-demand-for-quality-food-boosts-Irish-exports-1RTXL8uZ8c0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T08:00:35.000Z",
+   "summary": "China's growing demand for quality food boosts Irish exports",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "（第九届进博会）美国康菲石油高管：中国能源政策令人备受鼓舞",
    "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728367.shtml",
    "source": "中新网财经",
@@ -4359,6 +4752,17 @@
    ]
   },
   {
+   "title": "More than a vast market: What else does China offer?",
+   "link": "https://news.cgtn.com/news/2026-11-08/More-than-a-vast-market-What-else-does-China-offer--1RSZUbqDx84/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-08T03:14:13.000Z",
+   "summary": "More than a vast market: What else does China offer?",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "（第九届进博会）上海美国商会会长：带美国中小企业参加“甲级联赛”",
    "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728277.shtml",
    "source": "中新网财经",
@@ -4465,5 +4869,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-09T01:04:57.478Z"
+ "updatedAt": "2026-11-09T08:20:51.410Z"
 }
