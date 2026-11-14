@@ -980,6 +980,134 @@
  ],
  "world": [
   {
+   "title": "【地震 M2.9】70 km E of Cedarville, California",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926979",
+   "source": "USGS地震台网",
+   "time": "2026-11-14T19:51:04.046Z",
+   "summary": "美国地质调查局官方监测：70 km E of Cedarville, California发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国加州",
+    "美洲"
+   ]
+  },
+  {
+   "title": "巴勒斯坦专家：普京提出的康斯坦丁诺夫卡倡议揭露了基辅的真实策略",
+   "link": "https://sputniknews.cn/20261115/1074116412.html",
+   "source": "卫星社中文",
+   "time": "2026-11-14T19:00:00.000Z",
+   "summary": "巴勒斯坦政治分析人士艾曼·拉卡卜（Ayman Al-Raqab）在接受俄罗斯卫星通讯社采访时表示，俄罗斯总统普京就顿涅茨克人民共和国康斯坦丁诺夫卡提出的倡议，体现了莫斯科保护平民、防止更多流血事件发生的决心。此前有消息称，该市已于7月初获得…",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "马斯克：黄仁勋离职后 英伟达将失去部分重要交易",
+   "link": "https://sputniknews.cn/20261115/1074116302.html",
+   "source": "卫星社中文",
+   "time": "2026-11-14T18:35:00.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿11月14日电 亿万富翁马斯克认为，英伟达前负责人黄仁勋达成的是口头协议，并未签署合同，随着他的离职，部分交易可能丢失。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "中国副总理与亚太经合组织企业代表探讨亚太地区贸易协作",
+   "link": "https://sputniknews.cn/20261115/1074116184.html",
+   "source": "卫星社中文",
+   "time": "2026-11-14T18:05:00.000Z",
+   "summary": "俄罗斯卫星通讯社北京11月14日电 据中国国务院消息，中国国务院副总理何立峰11月14日与亚太经合组织各经济体企业代表讨论了亚太地区经贸合作发展问题。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】24 km S of Yacuiba, Bolivia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9z",
+   "source": "USGS地震台网",
+   "time": "2026-11-14T18:04:01.078Z",
+   "summary": "美国地质调查局官方监测：24 km S of Yacuiba, Bolivia发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "玻利维亚",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】29 km NE of Dannevirke, New Zealand",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9x",
+   "source": "USGS地震台网",
+   "time": "2026-11-14T17:51:29.113Z",
+   "summary": "美国地质调查局官方监测：29 km NE of Dannevirke, New Zealand发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "新西兰",
+    "亚太"
+   ]
+  },
+  {
+   "title": "峰会筹备工作组：亚太经合组织深圳峰会的各项筹备工作已经就绪",
+   "link": "https://sputniknews.cn/20261115/1074116562.html",
+   "source": "卫星社中文",
+   "time": "2026-11-14T17:35:00.000Z",
+   "summary": "俄罗斯卫星通讯社北京11月14日电 亚太经合组织会议广东省筹备工作领导小组副组长王曦11月14日在新闻发布会上表示，即将在中国深圳举行的亚太经合组织（APEC）峰会筹备工作已经全部就绪。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "乌克兰前最高拉达议员：泽连斯基必须辞职才能调解乌克兰冲突",
+   "link": "https://sputniknews.cn/20261115/1074115801.html",
+   "source": "卫星社中文",
+   "time": "2026-11-14T17:05:00.000Z",
+   "summary": "乌克兰前最高拉达议员瓦季姆·诺温斯基表示，泽连斯基辞职是通过外交途径解决乌克兰冲突的必要条件。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】96 km SSE of Pondaguitan, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9v",
+   "source": "USGS地震台网",
+   "time": "2026-11-14T16:56:39.533Z",
+   "summary": "美国地质调查局官方监测：96 km SSE of Pondaguitan, Philippines发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】62 km WNW of San Antonio de los Cobres, Argentina",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9n",
+   "source": "USGS地震台网",
+   "time": "2026-11-14T16:36:19.635Z",
+   "summary": "美国地质调查局官方监测：62 km WNW of San Antonio de los Cobres, Argentina发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "阿根廷",
+    "拉美"
+   ]
+  },
+  {
+   "title": "胡塞武装称，袭击也门境内沙特联军造成数十人伤亡",
+   "link": "https://sputniknews.cn/20261115/1074116020.html",
+   "source": "卫星社中文",
+   "time": "2026-11-14T16:35:00.000Z",
+   "summary": "也门“安萨尔真主”运动（胡塞武装）军事发言人叶海亚·萨雷亚表示，胡塞武装使用弹道导弹袭击了也门南部拉赫季省由沙特主导的联军的阵地。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】20 km W of Pole Ojea, Puerto Rico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539258",
+   "source": "USGS地震台网",
+   "time": "2026-11-14T16:15:08.450Z",
+   "summary": "美国地质调查局官方监测：20 km W of Pole Ojea, Puerto Rico发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "波多黎各",
+    "拉美"
+   ]
+  },
+  {
    "title": "伊朗伊斯兰革命卫队：在霍尔木兹海峡地区格什姆岛岛上空击落美军MQ-1无人机",
    "link": "https://sputniknews.cn/20261115/1074115679.html",
    "source": "卫星社中文",
@@ -987,6 +1115,17 @@
    "summary": "卫星通讯社德黑兰11月14日电 伊朗伊斯兰革命卫队表示，伊朗伊斯兰革命卫队航空航天部队防空部队在霍尔木兹海峡地区格什姆岛上空击落了一架美军MQ-1无人机。",
    "regions": [
     "中东"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】7 km SE of Tagbina, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l",
+   "source": "USGS地震台网",
+   "time": "2026-11-14T16:04:22.205Z",
+   "summary": "美国地质调查局官方监测：7 km SE of Tagbina, Philippines发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
    ]
   },
   {
@@ -1086,6 +1225,17 @@
    "summary": "伊朗海军新闻处发布消息称，一艘油轮在霍尔木兹海峡以东的限制区域内触雷起火。",
    "regions": [
     "中东"
+   ]
+  },
+  {
+   "title": "【地震 M3.9】103 km SSW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wonuxw",
+   "source": "USGS地震台网",
+   "time": "2026-11-14T13:25:58.258Z",
+   "summary": "美国地质调查局官方监测：103 km SSW of Nikolski, Alaska发生 3.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -1563,6 +1713,17 @@
    "summary": "11月13日下午，中国国务院总理李强在曼谷同泰国总理阿努廷举行会谈时表示，中方愿同泰方进一步夯实政治互信基础，支持彼此核心利益和重大关切，深挖各领域合作潜力，取得更多实际成果，更好惠及两国人民。",
    "regions": [
     "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.2】188 km SSE of Akhiok, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wnzisb",
+   "source": "USGS地震台网",
+   "time": "2026-11-14T06:11:38.842Z",
+   "summary": "美国地质调查局官方监测：188 km SSE of Akhiok, Alaska发生 3.2 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
    ]
   },
   {
@@ -3728,5 +3889,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-11-14T16:20:15.588Z"
+ "updatedAt": "2026-11-14T20:51:17.994Z"
 }
