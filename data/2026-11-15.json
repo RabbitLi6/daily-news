@@ -2,6 +2,30 @@
  "date": "2026-11-15",
  "tech": [
   {
+   "title": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元",
+   "link": "https://www.ithome.com/1/027/461.htm",
+   "source": "IT之家",
+   "time": "2026-11-15T16:14:44.000Z",
+   "summary": "IT之家 11 月 16 日消息，零刻 (Beelink) 现已启动 ME Pro 358H 四盘位 NAS 的销售。其 基于英特尔酷睿 Ultra X7 处理器 358H ，包含 32GB LPDDR5X-9600 内存、1TB PCIe…",
+   "regions": []
+  },
+  {
+   "title": "微星推出 PRO CORELIQUID R13 360 液冷，399 / 419 元",
+   "link": "https://www.ithome.com/1/027/460.htm",
+   "source": "IT之家",
+   "time": "2026-11-15T15:56:43.000Z",
+   "summary": "IT之家 11 月 15 日消息，微星 (MSI) 近期推出了处理器 AIO 液冷散热器 PRO CORELIQUID R13 360。这一型号兼容英特尔 FCLGA 1851 / 1700、AMD Socket AM5 / AM4 处理器…",
+   "regions": []
+  },
+  {
+   "title": "《GTA 6》通关时长爆料：主线约 50 小时，白金全成就预计 200 小时",
+   "link": "https://www.ithome.com/1/027/459.htm",
+   "source": "IT之家",
+   "time": "2026-11-15T15:06:17.000Z",
+   "summary": "IT之家 11 月 15 日消息，《GTA 6》定于 2026 年 11 月 19 日正式发售，不少玩家已经开始关注游戏的奖杯和成就系统：想要拿到白金奖杯或完成全部成就，究竟需要投入多少时间？ 从目前披露的信息来看，《GTA 6》的主线剧情…",
+   "regions": []
+  },
+  {
    "title": "法国 Crédit Mutuel Arkéa 银行遭网络攻击，被黑客转走 1 亿欧元",
    "link": "https://www.ithome.com/1/027/458.htm",
    "source": "IT之家",
@@ -1004,6 +1028,245 @@
  ],
  "world": [
   {
+   "title": "俄总统新闻秘书：如果欧洲不想要和平那么与他们讨论安全架构毫无意义",
+   "link": "https://sputniknews.cn/20261116/1074121601.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T20:04:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯总统新闻秘书佩斯科夫表示，如果欧洲不想要和平，那么与他们讨论安全架构将毫无意义。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄国防部：过去一日执勤防空部队摧毁230架乌克兰无人机",
+   "link": "https://sputniknews.cn/20261116/1074121494.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T20:00:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯国防部11月15日表示，过去一日，俄罗斯值勤防空部队在俄罗斯各地区上空摧毁了230架乌克兰固定翼无人机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】19 km ESE of Silver Springs, Nevada",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00927024",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T19:58:06.017Z",
+   "summary": "美国地质调查局官方监测：19 km ESE of Silver Springs, Nevada发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】18 km NW of Old Harbor, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wqwoem",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T19:47:38.312Z",
+   "summary": "美国地质调查局官方监测：18 km NW of Old Harbor, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "财长：正在调查英伟达是否违反出口限制规定",
+   "link": "https://sputniknews.cn/20261116/1074121166.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T19:00:00.000Z",
+   "summary": "美国财政部长斯科特·贝森特表示，美国政府正在调查英伟达是否违反了出口限制规定。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "国际冰联：因加拿大立场，俄青年队将缺席世青赛",
+   "link": "https://sputniknews.cn/20261116/1074121283.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T18:52:00.000Z",
+   "summary": "国际冰球联合会（IIHF）官网消息，因加拿大政府的立场俄罗斯国家冰球队将不会参加在加拿大举行的20岁以下世界青年冰球锦标赛。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄常驻维也纳国际组织代表：俄罗斯在其他国家恢复核试验的情况下将采取相应措施",
+   "link": "https://sputniknews.cn/20261116/1074121048.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T18:35:00.000Z",
+   "summary": "俄罗斯常驻维也纳国际组织代表米哈伊尔·乌里扬诺夫表示，俄罗斯在其他国家恢复核试验的情况下将采取相应措施，完全否认恢复核试验的可能性过于乐观。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】155 km SE of Chignik, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wqtvhn",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T18:25:32.230Z",
+   "summary": "美国地质调查局官方监测：155 km SE of Chignik, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊朗原子能组织主席：伊朗将很快启用自己的聚变反应堆",
+   "link": "https://sputniknews.cn/20261116/1074120948.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T18:05:00.000Z",
+   "summary": "伊朗原子能组织（AEOI）主席穆罕默德·伊斯拉米表示，伊朗科学家已可以制造出国产聚变反应堆，这个反应堆将很快投入使用。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "【地震 M5.0】74 km N of Pārūn, Afghanistan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T17:48:36.959Z",
+   "summary": "美国地质调查局官方监测：74 km N of Pārūn, Afghanistan发生 5.0 级地震，震源深度 未知。",
+   "regions": [
+    "阿富汗",
+    "中东"
+   ]
+  },
+  {
+   "title": "俄外交部无任所大使：泽连斯基正在推行一种旨在摧毁平民群体的策略",
+   "link": "https://sputniknews.cn/20261116/1074120841.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T17:35:00.000Z",
+   "summary": "俄罗斯卫星通讯社卢甘斯克11月15日电 俄外交部无任所大使米罗什尼克向卫星通讯社表示，泽连斯基政权正在推行一项策略，旨在消灭那些拒绝离开前线地区、前往基辅控制区的本国平民。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】19 km ENE of Susitna North, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wqrlbd",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T17:13:49.502Z",
+   "summary": "美国地质调查局官方监测：19 km ENE of Susitna North, Alaska发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄罗斯有望在2030年前研制出超音速客机",
+   "link": "https://sputniknews.cn/20261116/1074120622.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T17:05:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月15日电 俄罗斯科学院院士、俄罗斯航空制造商联盟主席鲍里斯·阿廖申向卫星通讯社表示，俄罗斯有望在2030年前研制出一架超音速客运飞机的演示样机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "胡塞武装宣布释放600名被俘的也门军人",
+   "link": "https://sputniknews.cn/20261116/1074120719.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T16:35:00.000Z",
+   "summary": "胡塞武装战俘事务委员会主席阿卜杜勒·卡德尔·穆尔塔达表示，也门“安萨尔真主”运动（胡塞武装）单方面释放了600名被俘的也门政府军士兵，并确认他们准备履行此前达成的交换1600多名战俘的协议。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "法国周末示威活动中超过400人被拘捕",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-15T16:06:52.000Z",
+   "summary": "当地时间11月15日，法国内政部和巴黎检察院公布的最新数据显示，在14日举行的全国性示威活动中，共有404人被警方拘捕，其中在巴黎被拘捕的人员为134人。",
+   "regions": [
+    "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】273 km W of Tual, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfb",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T16:06:14.983Z",
+   "summary": "美国地质调查局官方监测：273 km W of Tual, Indonesia发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄常驻代表：格罗西今年不太可能赴扎波罗热核电站因为乌方无法保证安全",
+   "link": "https://sputniknews.cn/20261116/1074120492.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T16:05:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月15日电 俄罗斯常驻维也纳国际组织代表乌里扬诺夫对俄罗斯《生意人报》表示，2026年底前国际原子能机构总干事格罗西很可能不会访问扎波罗热核电站，因为没有迹象表明乌克兰会为他的访问提供安全保障。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "乒乓球前国手方博夺得复出后首冠",
+   "link": "https://www.chinanews.com.cn/ty/2026/11-15/10732529.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-15T15:55:31.000Z",
+   "summary": "新华社北京11月15日电 世界乒乓球职业大联盟(WTT)常规挑战赛伊斯坦布尔站15日结束。代表哈萨克斯坦队参赛的老将方博在男单决赛中以4:1击败韩国选手姜东秀，收获复出后的首个冠军。",
+   "regions": [
+    "朝鲜半岛",
+    "北京"
+   ]
+  },
+  {
+   "title": "【地震 M3.4】114 km NNE of Punta Cana, Dominican Republic",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539328",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T15:52:44.490Z",
+   "summary": "美国地质调查局官方监测：114 km NNE of Punta Cana, Dominican Republic发生 3.4 级地震，震源深度 未知。",
+   "regions": [
+    "多米尼加",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M5.1】169 km NW of Gorontalo, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T15:41:14.978Z",
+   "summary": "美国地质调查局官方监测：169 km NW of Gorontalo, Indonesia发生 5.1 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "媒体：英伟达前CEO黄仁勋参与寻找自己继任者新CEO的工作",
+   "link": "https://sputniknews.cn/20261115/1074120381.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T15:35:00.000Z",
+   "summary": "外国媒体援引消息人士的信息报道，英伟达前CEO黄仁勋在丑闻事件被解雇后在参与新CEO的遴选工作。",
+   "regions": []
+  },
+  {
+   "title": "【地震 M2.5】10 km WSW of Manley Hot Springs, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wqnvmg",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T15:25:49.835Z",
+   "summary": "美国地质调查局官方监测：10 km WSW of Manley Hot Springs, Alaska发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄外交部：乌军在哈尔科夫州袭击撤离平民致七人死亡",
+   "link": "https://sputniknews.cn/20261115/1074120166.html",
+   "source": "卫星社中文",
+   "time": "2026-11-15T15:05:00.000Z",
+   "summary": "俄罗斯卫星通讯社卢甘斯克11月15日电 俄罗斯外交部无任所大使米罗什尼克对卫星通讯社表示，乌军袭击了22名平民，当时俄军正在将他们从库皮扬斯克-乌兹洛维撤离到哈尔科夫州俄罗斯控制的后方地区，其中7人遇难，包括1名儿童。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
    "title": "东盟呼吁在中东危机的背景下加快建设共用电网",
    "link": "https://sputniknews.cn/20261115/1074119890.html",
    "source": "卫星社中文",
@@ -1012,6 +1275,17 @@
    "regions": [
     "中东",
     "南海",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】27 km SW of Minbu, Burma (Myanmar)",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyeu",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T14:32:03.788Z",
+   "summary": "美国地质调查局官方监测：27 km SW of Minbu, Burma (Myanmar)发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "缅甸",
     "亚太"
    ]
   },
@@ -1035,6 +1309,17 @@
    "regions": [
     "美国阿拉斯加",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】27 km ESE of Union, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyes",
+   "source": "USGS地震台网",
+   "time": "2026-11-15T14:17:52.535Z",
+   "summary": "美国地质调查局官方监测：27 km ESE of Union, Philippines发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
    ]
   },
   {
@@ -3155,5 +3440,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-11-15T14:55:17.521Z"
+ "updatedAt": "2026-11-15T20:06:06.639Z"
 }
