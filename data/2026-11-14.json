@@ -34,6 +34,14 @@
    "regions": []
   },
   {
+   "title": "Jync 捷同 v2.2.1 发布：告警通知支持中英文，CDC 与 ETL 可靠性修复",
+   "link": "https://www.oschina.net/news/503578",
+   "source": "开源中国",
+   "time": "2026-11-14T23:27:47.000Z",
+   "summary": "新增 告警通知语言：告警设置可选跟随系统、中文或 English，通知正文按配置渲染；配置包携带该字段，旧包缺省按中文处理。 告警投递状态与设置审计：告警设置页显示最近一次投递的时间、成功与否及平台给出的原因；保存告警设置与外部认证设置写入…",
+   "regions": []
+  },
+  {
    "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
    "link": "https://www.ithome.com/1/027/253.htm",
    "source": "IT之家",
@@ -1180,6 +1188,14 @@
    ]
   },
   {
+   "title": "World Diabetes Day: South Africa pushes early detection",
+   "link": "https://newsaf.cgtn.com/news/2026-11-15/World-Diabetes-Day-South-Africa-pushes-early-detection-1S4qWiRknUA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T17:51:43.000Z",
+   "summary": "The World Health Organization (WHO) says diabetes can be managed through a combination of healthy eating, regular physic…",
+   "regions": []
+  },
+  {
    "title": "【地震 M4.3】29 km NE of Dannevirke, New Zealand",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9x",
    "source": "USGS地震台网",
@@ -1241,6 +1257,14 @@
    "regions": [
     "中东"
    ]
+  },
+  {
+   "title": "Xi's Shenzhen visits show China's commitment to reform and opening up",
+   "link": "https://news.cgtn.com/news/2026-11-15/Xi-s-Shenzhen-visits-show-China-s-commitment-to-reform-and-opening-up-1S4eOfT7K6Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T16:21:39.000Z",
+   "summary": "In November 1991, China officially joined APEC. Thirty-five years later, China is bringing APEC to Shenzhen, the very pl…",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】20 km W of Pole Ojea, Puerto Rico",
@@ -1314,6 +1338,14 @@
    ]
   },
   {
+   "title": "Shenzhen ready to host APEC 2026, officials say",
+   "link": "https://news.cgtn.com/news/2026-11-14/Shenzhen-ready-to-host-APEC-2026-officials-say-1S4soTAJ6lq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T15:07:29.000Z",
+   "summary": "Shenzhen is officially ready to host the 33rd APEC Economic Leaders' Meeting on November 18 and 19, local officials conf…",
+   "regions": []
+  },
+  {
    "title": "俄波罗的海舰队举行反无人艇袭击演习",
    "link": "https://sputniknews.cn/20261114/1074115577.html",
    "source": "卫星社中文",
@@ -1322,6 +1354,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "China's anti-poverty victory shines a light on other nations' paths",
+   "link": "https://news.cgtn.com/news/2026-11-14/-China-s-anti-poverty-victory-shines-a-light-on-other-nations-paths-1S4bmqXDbLW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T15:02:53.000Z",
+   "summary": "For other developing countries looking for their own strategies, China's experience is extremely valuable. Global progre…",
+   "regions": []
   },
   {
    "title": "英国格拉斯哥公寓楼发生蓄意纵火案 15人送医",
@@ -1343,6 +1383,14 @@
     "俄乌",
     "南海"
    ]
+  },
+  {
+   "title": "China, Thailand eye higher-level cooperation in digital, green sectors",
+   "link": "https://news.cgtn.com/news/2026-11-14/China-Thailand-eye-higher-level-cooperation-in-digital-green-sectors-1S4nYHxKgtW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T14:05:56.000Z",
+   "summary": "Chinese Premier Li Qiang on Saturday called on Chinese and Thai enterprises to seize new opportunities and elevate bilat…",
+   "regions": []
   },
   {
    "title": "东盟与中国已就《南海行为准则》草案中77%的条款达成一致",
@@ -1393,6 +1441,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "Raffarin: Asia-Pacific region is important for world's economy",
+   "link": "https://news.cgtn.com/news/2026-11-14/Raffarin-Asia-Pacific-region-is-important-for-world-s-economy-1S48aNef61y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T13:15:41.000Z",
+   "summary": "Raffarin: Asia-Pacific region is important for world's economy",
+   "regions": []
   },
   {
    "title": "俄总统新闻秘书：俄方最好与欧方进行沟通，弄清其立场能在多大程度上促进和平",
@@ -1466,6 +1522,14 @@
     "美国夏威夷",
     "美洲"
    ]
+  },
+  {
+   "title": "China, US pledge to stabilize trade ties in first council meeting",
+   "link": "https://news.cgtn.com/news/2026-11-14/China-US-pledge-to-stabilize-trade-ties-in-first-council-meeting-1S42eJ7XDc4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T11:58:28.000Z",
+   "summary": "China and the United States held the first meeting of their trade council under the bilateral economic and trade consult…",
+   "regions": []
   },
   {
    "title": "主播说联播丨95岁美国老人的“中国乡愁”，为何引发全网关注？",
@@ -1560,6 +1624,14 @@
    ]
   },
   {
+   "title": "Evidence speaks for itself: Irrefutable crimes of Unit 731",
+   "link": "https://news.cgtn.com/news/2026-11-14/Evidence-speaks-for-itself-Irrefutable-crimes-of-Unit-731-1S45IQbWLM4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T10:57:19.000Z",
+   "summary": "Evidence speaks for itself: Irrefutable crimes of Unit 731",
+   "regions": []
+  },
+  {
    "title": "俄国防部：俄武装力量过去一天内打击了乌军的能源及交通基础设施",
    "link": "https://sputniknews.cn/20261114/1074114531.html",
    "source": "卫星社中文",
@@ -1568,6 +1640,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "President Xi Jinping's key quotes on advancing APEC cooperation",
+   "link": "https://news.cgtn.com/news/2026-11-14/President-Xi-Jinping-s-key-quotes-on-advancing-APEC-cooperation-1S3KpqcrJTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T10:33:34.000Z",
+   "summary": "Chinese President Xi Jinping has repeatedly called for greater openness and cooperation to promote shared prosperity in …",
+   "regions": []
   },
   {
    "title": "报告：美国驻欧陆军抱怨，因援助基辅，自身装备零部件库存出现短缺",
@@ -1581,6 +1661,14 @@
     "美洲",
     "非洲"
    ]
+  },
+  {
+   "title": "From Karakoram to Arabian Sea, Ep. 7: Woven Together",
+   "link": "https://news.cgtn.com/news/2026-11-14/From-Karakoram-to-Arabian-Sea-Ep-7-Woven-Together-1S4cQePUc5G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T10:22:11.000Z",
+   "summary": "From Karakoram to Arabian Sea, Ep. 7: Woven Together",
+   "regions": []
   },
   {
    "title": "菲律宾外长：菲律宾与美国正就防务合作进行磋商",
@@ -1654,6 +1742,14 @@
     "波多黎各",
     "拉美"
    ]
+  },
+  {
+   "title": "China willing to further boost political mutual trust with Thailand",
+   "link": "https://news.cgtn.com/news/2026-11-14/China-willing-to-further-boost-political-mutual-trust-with-Thailand-1S3vVvzVNKg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T08:57:10.000Z",
+   "summary": "Chinese Premier Li Qiang said on Friday that China is willing to work with Thailand to further consolidate the foundatio…",
+   "regions": []
   },
   {
    "title": "美国侦察机在黑海上空飞行",
@@ -1801,6 +1897,14 @@
    ]
   },
   {
+   "title": "Premier Li says China ready to deepen economic exchanges with Thailand",
+   "link": "https://news.cgtn.com/news/2026-11-14/Premier-Li-urges-stronger-China-Thailand-cooperation-in-emerging-areas-1S3Y77VWMYo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T06:55:11.000Z",
+   "summary": "Chinese Premier Li Qiang said on Saturday that China is ready to deepen trade and economic exchanges with Thailand and a…",
+   "regions": []
+  },
+  {
    "title": "【地震 M5.2】State of Yap, Federated States of Micronesia",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d",
    "source": "USGS地震台网",
@@ -1809,6 +1913,14 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "Shenzhen's approach to AI governance in the Asia-Pacific",
+   "link": "https://news.cgtn.com/news/2026-11-14/Shenzhen-s-approach-to-AI-governance-in-the-Asia-Pacific-1S3VLDZZEm4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T06:41:23.000Z",
+   "summary": "Shenzhen's approach to AI governance in the Asia-Pacific",
+   "regions": []
   },
   {
    "title": "美国联邦航空管理局：已解除全美航班停飞令",
@@ -1860,6 +1972,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "A robot showdown like no other",
+   "link": "https://news.cgtn.com/news/2026-11-14/A-robot-showdown-like-no-other-1S3LkRzgoyk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T06:12:58.000Z",
+   "summary": "A robot showdown like no other",
+   "regions": []
   },
   {
    "title": "【地震 M3.2】188 km SSE of Akhiok, Alaska",
@@ -1954,6 +2074,22 @@
    "source": "中新网国际",
    "time": "2026-11-14T03:41:12.000Z",
    "summary": "爱尔兰警方13日查获一枚简易爆炸装置，发现地点距多国领导人前一天晚宴的场所较近。军方拆弹专家出动，成功处置这枚“制作粗糙但具备引爆能力”的爆炸装置。",
+   "regions": []
+  },
+  {
+   "title": "Microsoft apologizes for global outage, rules out cyberattack",
+   "link": "https://news.cgtn.com/news/2026-11-14/Microsoft-apologizes-for-global-outage-rules-out-cyberattack-1S3I9qOB6F2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T03:29:04.000Z",
+   "summary": "Microsoft apologizes for global outage, rules out cyberattack",
+   "regions": []
+  },
+  {
+   "title": "EU institutions, E5 to represent Europe in Ukraine peace talks",
+   "link": "https://news.cgtn.com/news/2026-11-14/EU-institutions-E5-to-represent-Europe-in-Ukraine-peace-talks-1S3x46aI1Ko/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T03:23:06.000Z",
+   "summary": "EU leaders have agreed that Europe's team for Ukraine peace talks will comprise five major military powers – non-member …",
    "regions": []
   },
   {
@@ -2082,6 +2218,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "FAA lifts nationwide ground stop after thousands of flights disrupted",
+   "link": "https://news.cgtn.com/news/2026-11-14/news-1S3CjcBaTg4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-14T01:18:36.000Z",
+   "summary": "FAA lifts nationwide ground stop after thousands of flights disrupted",
+   "regions": []
   },
   {
    "title": "泰国湄南河灯光节开启",
@@ -2220,6 +2364,63 @@
    "regions": []
   },
   {
+   "title": "Xi's Shenzhen visits show China's commitment to reform and opening up",
+   "link": "https://news.cgtn.com/news/2026-11-15/Xi-s-Shenzhen-visits-show-China-s-commitment-to-reform-and-opening-up-1S4eOfT7K6Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T16:21:39.000Z",
+   "summary": "In November 1991, China officially joined APEC. Thirty-five years later, China is bringing APEC to Shenzhen, the very pl…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Mandarin program marks 10 years of opening doors for UK students",
+   "link": "https://newseu.cgtn.com/news/2026-11-14/Mandarin-program-marks-10-years-of-opening-doors-for-UK-students-1S4tkhQO7NS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T15:46:09.000Z",
+   "summary": "Zhou Wei, Minister Counsellor at the Chinese Embassy in the UK, highlighted the role of language education in fostering …",
+   "regions": []
+  },
+  {
+   "title": "Shenzhen ready to host APEC 2026, officials say",
+   "link": "https://news.cgtn.com/news/2026-11-14/Shenzhen-ready-to-host-APEC-2026-officials-say-1S4soTAJ6lq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T15:07:29.000Z",
+   "summary": "Shenzhen is officially ready to host the 33rd APEC Economic Leaders' Meeting on November 18 and 19, local officials conf…",
+   "regions": []
+  },
+  {
+   "title": "Chinese vice premier opens 4th APEC Business Advisory Council meeting",
+   "link": "https://news.cgtn.com/news/2026-11-14/Chinese-vice-premier-opens-4th-APEC-Business-Advisory-Council-meeting-1S4sPLyMi1W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T15:04:12.000Z",
+   "summary": "Chinese Vice Premier He Lifeng attended and addressed the opening ceremony of the fourth meeting of the APEC Business Ad…",
+   "regions": []
+  },
+  {
+   "title": "China's anti-poverty victory shines a light on other nations' paths",
+   "link": "https://news.cgtn.com/news/2026-11-14/-China-s-anti-poverty-victory-shines-a-light-on-other-nations-paths-1S4bmqXDbLW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T15:02:53.000Z",
+   "summary": "For other developing countries looking for their own strategies, China's experience is extremely valuable. Global progre…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China's Gen Z AI Entrepreneurs: Turning passion into a business",
+   "link": "https://news.cgtn.com/news/2026-11-14/China-s-Gen-Z-AI-Entrepreneurs-Turning-passion-into-a-business--1S4y7UDoG8U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T14:53:41.000Z",
+   "summary": "China's Gen Z AI Entrepreneurs: Turning passion into a business",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "跨越山海照亮万家！一度电，如何点亮亚太合作之光？",
    "link": "https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml",
    "source": "中新网滚动",
@@ -2240,6 +2441,17 @@
    ]
   },
   {
+   "title": "World's largest unmanned cargo aircraft makes maiden flight in China",
+   "link": "https://news.cgtn.com/news/2026-11-14/World-s-largest-unmanned-cargo-aircraft-makes-maiden-flight-in-China-1S4smvcM3yo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T14:23:03.000Z",
+   "summary": "China's W5000, the world's largest unmanned cargo aircraft, successfully completed its maiden flight in Ordos, north Chi…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "解锁多样化主题乐园IP密码 把“看热闹”一次性消费拉长为复合消费",
    "link": "https://www.chinanews.com.cn/cj/2026/11-14/10732201.shtml",
    "source": "中新网滚动",
@@ -2247,6 +2459,29 @@
    "summary": "央视网消息：正值学生们陆续放秋假的窗口期，主题乐园成为很多家庭的选择。如何充分开发IP价值，创新消费场景，是拉动主题公园、带动区域消费的重要抓手。2025年7月5日开园的上海乐高乐园，是目前全球开园规模最大的乐高乐园。园区如何开发积木这一代…",
    "regions": [
     "上海"
+   ]
+  },
+  {
+   "title": "China, Thailand eye higher-level cooperation in digital, green sectors",
+   "link": "https://news.cgtn.com/news/2026-11-14/China-Thailand-eye-higher-level-cooperation-in-digital-green-sectors-1S4nYHxKgtW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T14:05:56.000Z",
+   "summary": "Chinese Premier Li Qiang on Saturday called on Chinese and Thai enterprises to seize new opportunities and elevate bilat…",
+   "regions": [
+    "泰国",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "Innovation, green growth: Yangtze River Economic Belt's driving force",
+   "link": "https://news.cgtn.com/news/2026-11-14/Innovation-green-growth-Yangtze-River-Economic-Belt-s-driving-force-1S4bSX89iZq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T13:50:05.000Z",
+   "summary": "Stretching from southwest China's upper reaches to central China and the Yangtze River Delta in the east, the belt offer…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2544,6 +2779,17 @@
    ]
   },
   {
+   "title": "China's electric passenger plane aces first manned flight",
+   "link": "https://news.cgtn.com/news/2026-11-14/China-s-electric-passenger-plane-aces-first-manned-flight--1S47OD6o0SI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T12:13:42.000Z",
+   "summary": "China's new electric passenger plane has taken to the skies with flying colors, completing its first manned flight. The …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "绿皮车里“赶巴扎”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-14/10732145.shtml",
    "source": "中新网社会",
@@ -2625,6 +2871,53 @@
    ]
   },
   {
+   "title": "A Future We Share | Trailer: A Shared Future Across the Asia-Pacific",
+   "link": "https://news.cgtn.com/news/2026-11-14/A-Future-We-Share-Trailer-A-Shared-Future-Across-the-Asia-Pacific-1S3X786gw6I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T11:11:59.000Z",
+   "summary": "A search for a smarter way to sort ore. A race against the elements to install an offshore wind turbine.",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Why Japan must speed up destruction of its ACWs in China",
+   "link": "https://news.cgtn.com/news/2026-11-14/Why-Japan-must-speed-up-destruction-of-its-ACWs-in-China-1S3XGplvGO4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T10:59:04.000Z",
+   "summary": "Why Japan must speed up destruction of its ACWs in China",
+   "regions": [
+    "日本",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "Evidence speaks for itself: Irrefutable crimes of Unit 731",
+   "link": "https://news.cgtn.com/news/2026-11-14/Evidence-speaks-for-itself-Irrefutable-crimes-of-Unit-731-1S45IQbWLM4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T10:57:19.000Z",
+   "summary": "Evidence speaks for itself: Irrefutable crimes of Unit 731",
+   "regions": []
+  },
+  {
+   "title": "APEC Business Advisory Council opened in Shenzhen",
+   "link": "https://news.cgtn.com/news/2026-11-14/APEC-Business-Advisory-Council-opened-in-Shenzhen-1S4fVmAYByg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T10:55:52.000Z",
+   "summary": "APEC Business Advisory Council opened in Shenzhen",
+   "regions": []
+  },
+  {
+   "title": "Wang Yi Holds Talks with ROK Foreign Minister Cho Hyun",
+   "link": "https://news.cgtn.com/news/2026-11-14/Wang-Yi-Holds-Talks-with-ROK-Foreign-Minister-Cho-Hyun-1S47F31EmD6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T10:55:04.000Z",
+   "summary": "Wang Yi Holds Talks with ROK Foreign Minister Cho Hyun",
+   "regions": []
+  },
+  {
    "title": "鼎州窑博物馆16件瓷器亮相2026中意陶瓷艺术展",
    "link": "https://www.chinanews.com.cn/sh/2026/11-14/10732101.shtml",
    "source": "中新网社会",
@@ -2688,6 +2981,14 @@
    ]
   },
   {
+   "title": "President Xi Jinping's key quotes on advancing APEC cooperation",
+   "link": "https://news.cgtn.com/news/2026-11-14/President-Xi-Jinping-s-key-quotes-on-advancing-APEC-cooperation-1S3KpqcrJTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T10:33:34.000Z",
+   "summary": "Chinese President Xi Jinping has repeatedly called for greater openness and cooperation to promote shared prosperity in …",
+   "regions": []
+  },
+  {
    "title": "医养赋能和美乡村 第四届乡村康养学术交流会在江西婺源举办",
    "link": "https://www.chinanews.com.cn/sh/2026/11-14/10732086.shtml",
    "source": "中新网社会",
@@ -2696,6 +2997,14 @@
    "regions": [
     "江西"
    ]
+  },
+  {
+   "title": "One land, many winters",
+   "link": "https://news.cgtn.com/news/2026-11-14/One-land-many-winters-1S4eCUPyxEI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T10:30:54.000Z",
+   "summary": "One land, many winters",
+   "regions": []
   },
   {
    "title": "上海多方携手共育青少年人工智能创新人才",
@@ -2766,6 +3075,17 @@
    "summary": "中新网海口11月14日电(记者 王晓斌)当前“博物馆热”持续升温，但“一票难求”与“门可罗雀”并存、观众“走马观花”缺乏深度体验等问题也随之凸显。11月14日，在第十一届“博博会”公共讲座上，知名学者易中天针对上述痛点给出了解题建议，其中特…",
    "regions": [
     "海口"
+   ]
+  },
+  {
+   "title": "Deeper integration: China, ASEAN continue to gain cooperation momentum",
+   "link": "https://news.cgtn.com/news/2026-11-14/Deeper-integration-China-ASEAN-continue-to-gain-cooperation-momentum-1S3KuPZD128/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T10:14:52.000Z",
+   "summary": "Five years into their comprehensive strategic partnership, China and ASEAN are fostering a high-density, multi-dimension…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2962,6 +3282,18 @@
    ]
   },
   {
+   "title": "China willing to further boost political mutual trust with Thailand",
+   "link": "https://news.cgtn.com/news/2026-11-14/China-willing-to-further-boost-political-mutual-trust-with-Thailand-1S3vVvzVNKg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T08:57:10.000Z",
+   "summary": "Chinese Premier Li Qiang said on Friday that China is willing to work with Thailand to further consolidate the foundatio…",
+   "regions": [
+    "泰国",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "能点头会眨眼却不是真人 谁在帮AI深度伪造“假人脸”通过验证？",
    "link": "https://www.chinanews.com.cn/sh/2026/11-14/10732054.shtml",
    "source": "中新网社会",
@@ -3030,6 +3362,17 @@
    ]
   },
   {
+   "title": "Fujian holds grand tribute to Mazu, China's beloved sea goddess",
+   "link": "https://news.cgtn.com/news/2026-11-14/Fujian-holds-grand-tribute-to-Mazu-China-s-beloved-sea-goddess-1S41yYO4RDW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T07:21:47.000Z",
+   "summary": "A grand sacrificial ceremony honoring Mazu took place on Meizhou Island in Putian, Fujian Province on November 1, 2026.",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "（深圳APEC）深圳市市长李运：会议筹备就绪 静候八方宾客",
    "link": "https://www.chinanews.com.cn/gn/2026/11-14/10732008.shtml",
    "source": "中新网中国",
@@ -3083,6 +3426,28 @@
    ]
   },
   {
+   "title": "How tourism is creating new livelihoods in China's rural villages",
+   "link": "https://news.cgtn.com/news/2026-11-14/How-tourism-is-creating-new-livelihoods-in-China-s-rural-villages-1S2pIWNooOQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T06:41:41.000Z",
+   "summary": "Tourism is opening fresh avenues for boosting incomes in rural China. In two villages across central and southwest China…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Shenzhen's approach to AI governance in the Asia-Pacific",
+   "link": "https://news.cgtn.com/news/2026-11-14/Shenzhen-s-approach-to-AI-governance-in-the-Asia-Pacific-1S3VLDZZEm4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T06:41:23.000Z",
+   "summary": "Shenzhen's approach to AI governance in the Asia-Pacific",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
    "title": "面孔丨此心归处是湟源",
    "link": "https://www.chinanews.com.cn/sh/2026/11-14/10731993.shtml",
    "source": "中新网社会",
@@ -3091,6 +3456,25 @@
    "regions": [
     "美洲",
     "青海"
+   ]
+  },
+  {
+   "title": "A robot showdown like no other",
+   "link": "https://news.cgtn.com/news/2026-11-14/A-robot-showdown-like-no-other-1S3LkRzgoyk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T06:12:58.000Z",
+   "summary": "A robot showdown like no other",
+   "regions": []
+  },
+  {
+   "title": "Healthcare as a bridge for US-China cooperation",
+   "link": "https://news.cgtn.com/news/2026-11-14/Healthcare-as-a-bridge-for-US-China-cooperation-1S2SKGjlofS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T05:53:28.000Z",
+   "summary": "Healthcare as a bridge for US-China cooperation",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3551,6 +3935,17 @@
    "regions": []
   },
   {
+   "title": "Raffarin: Asia-Pacific region is important for world's economy",
+   "link": "https://news.cgtn.com/news/2026-11-14/Raffarin-Asia-Pacific-region-is-important-for-world-s-economy-1S48aNef61y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T13:15:41.000Z",
+   "summary": "Raffarin: Asia-Pacific region is important for world's economy",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
    "title": "（深圳APEC）2026年亚太经合组织工商咨询理事会第四次会议开幕式在深圳举行",
    "link": "https://www.chinanews.com.cn/cj/2026/11-14/10732178.shtml",
    "source": "中新网财经",
@@ -3616,6 +4011,19 @@
    "summary": "一颗智利车厘子，从南半球果园摘下，72小时就能摆上深圳家庭的餐桌。",
    "regions": [
     "拉美"
+   ]
+  },
+  {
+   "title": "China, US pledge to stabilize trade ties in first council meeting",
+   "link": "https://news.cgtn.com/news/2026-11-14/China-US-pledge-to-stabilize-trade-ties-in-first-council-meeting-1S42eJ7XDc4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T11:58:28.000Z",
+   "summary": "China and the United States held the first meeting of their trade council under the bilateral economic and trade consult…",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
    ]
   },
   {
@@ -3876,6 +4284,18 @@
    ]
   },
   {
+   "title": "Premier Li says China ready to deepen economic exchanges with Thailand",
+   "link": "https://news.cgtn.com/news/2026-11-14/Premier-Li-urges-stronger-China-Thailand-cooperation-in-emerging-areas-1S3Y77VWMYo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-14T06:55:11.000Z",
+   "summary": "Chinese Premier Li Qiang said on Saturday that China is ready to deepen trade and economic exchanges with Thailand and a…",
+   "regions": [
+    "泰国",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
    "link": "https://www.chinanews.com.cn/cj/2026/11-14/10732003.shtml",
    "source": "中新网财经",
@@ -4054,5 +4474,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-11-15T00:39:43.044Z"
+ "updatedAt": "2026-11-15T07:28:28.112Z"
 }
