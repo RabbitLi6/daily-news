@@ -2,6 +2,190 @@
  "date": "2026-11-17",
  "tech": [
   {
+   "title": "微软自研芯片 Maia 200 投入生产：每瓦 token 性能提升 1.7 倍",
+   "link": "https://www.ithome.com/1/028/597.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:51:16.000Z",
+   "summary": "IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中，微软宣布旗下第二代自研人工智能加速器 Maia 200 现已正式投入规模化生产， 并开始在数据中心运行微软最大规模的前沿 AI 大模型。 与…",
+   "regions": []
+  },
+  {
+   "title": "TGA 2026 各奖项入围游戏完整名单公布，《GTA 6》8 项提名领跑",
+   "link": "https://www.ithome.com/1/028/596.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:49:24.000Z",
+   "summary": "IT之家 11 月 18 日消息，TGA（游戏大奖）现已公布 2026 年度游戏入围名单，以及各奖项入围游戏，最终的颁奖典礼将在 12 月 11 日举行。 在本次年度游戏提名中， 《GTA 6》以 8 项提名领跑 ，《控制：共振》和《生化危…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断...",
+   "link": "https://www.ithome.com/1/028/595.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:43:51.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 18 日星期三，今天的重要科技资讯有： 1. 英伟达董事会主席明确表态：无意让黄仁勋回归重新担任 CEO 英伟达新任董事长哈维・琼斯在财报电话会议上表示，黄仁勋因个人行为违反公司准则…",
+   "regions": []
+  },
+  {
+   "title": "英伟达 Q3 电话会议：公司业务一切照常，不会急于寻找黄仁勋继任者",
+   "link": "https://www.ithome.com/1/028/594.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:42:46.000Z",
+   "summary": "北京时间 11 月 18 日，AI 芯片巨头英伟达公司今天发布了 2027 财年第三季度财报。财报发布后，英伟达临时 CEO 科莱特 · 克雷斯 (Colette Kress)、新任董事会主席哈维 · 琼斯 (Harvey Jones) 出…",
+   "regions": []
+  },
+  {
+   "title": "微软决策模型 Microsoft-Decision-1.1 登场，跑赢 GPT-6 Luna 与 Gemini",
+   "link": "https://www.ithome.com/1/028/593.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:40:07.000Z",
+   "summary": "IT之家 11 月 18 日消息， 微软昨日（11 月 17 日）宣布正式推出 Microsoft-Decision-1.1 决策 AI 模型， 目前已在 Microsoft Foundry、OpenRouter 和 Vercel 平台上线…",
+   "regions": []
+  },
+  {
+   "title": "Steam 突发大规模服务故障：游戏下载、好友列表、云存档均受影响",
+   "link": "https://www.ithome.com/1/028/592.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:33:00.000Z",
+   "summary": "IT之家 11 月 18 日消息，Valve 旗下游戏平台 Steam 当地时间 11 月 17 日突发服务故障，商店、游戏下载、好友列表及云存档等多项在线功能受到影响，部分用户即使网络连接正常，也会遇到“No Connection”（无连…",
+   "regions": []
+  },
+  {
+   "title": "微软苹果接连宕机，谷歌紧急回应 Gmail 故障传闻“服务运行正常”",
+   "link": "https://www.ithome.com/1/028/591.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:28:49.000Z",
+   "summary": "IT之家 11 月 18 日消息，在接连经历了微软 365 和苹果服务大规模故障之后，网上突然又传出“谷歌 Gmail 故障”的传闻。 北京时间今日凌晨，谷歌紧急回应称目前没有发现 Gmail 出现大范围服务中断的迹象，并提醒用户可以通过 …",
+   "regions": []
+  },
+  {
+   "title": "多语言错误率直降 50%：微软升级医患对话 AI 转录引擎，已覆盖全美 1/3 医师",
+   "link": "https://www.ithome.com/1/028/590.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:27:25.000Z",
+   "summary": "IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中， 微软宣布其医疗 AI 产品 Dragon Copilot Transcribe 已正式采用自研语音识别模型 MAI-Transcribe-…",
+   "regions": []
+  },
+  {
+   "title": "苹果回应服务大规模中断：内部系统更新引发故障，Apple Pay、iCloud、App Store 均受影响",
+   "link": "https://www.ithome.com/1/028/589.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:22:05.000Z",
+   "summary": "IT之家 11 月 18 日消息，苹果公司当地时间 11 月 17 日针对宕机事故回应称，由于一次内部系统更新引发技术故障，公司正在努力恢复多项服务。 此次故障影响了 Apple Pay、iCloud、Apple Support 等服务，部…",
+   "regions": []
+  },
+  {
+   "title": "微软首款语音对语音模型：MAI Realtime 1 登场，起价每分钟 0.01 美元",
+   "link": "https://www.ithome.com/1/028/588.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:15:42.000Z",
+   "summary": "IT之家 11 月 18 日消息，在昨日（11 月 17 日）召开的 Ignite 2026 大会上， 微软宣布其首款语音对语音模型 MAI Realtime 1，定位为面向真实企业场景的实时语音 AI 。该模型可处理打断、快速确认和等待对…",
+   "regions": []
+  },
+  {
+   "title": "黄仁勋仍可影响英伟达：辞职后仍可提名最多两名董事候选人",
+   "link": "https://www.ithome.com/1/028/587.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:14:47.000Z",
+   "summary": "IT之家 11 月 18 日消息，据路透社今日报道，英伟达创始人黄仁勋虽然已经辞去公司 CEO 和董事职务，但仍有机会通过股东提名机制影响公司董事会。 据介绍，黄仁勋符合公司「代理权准入」（Proxy Access）规则，可以在年度股东大会…",
+   "regions": []
+  },
+  {
+   "title": "Framework 无线触控板键盘开放预订：99 美元，集成 120Hz 精密触控板",
+   "link": "https://www.ithome.com/1/028/586.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:11:42.000Z",
+   "summary": "IT之家 11 月 18 日消息，Framework 旗下新品 Wireless Touchpad Keyboard（无线触控板键盘）现已在海外开启预订， 新品定价 99 美元 （IT之家注：现汇率约合 661.2 元人民币） ，预计将在 …",
+   "regions": []
+  },
+  {
+   "title": "微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本约为其 2%",
+   "link": "https://www.ithome.com/1/028/585.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:06:55.000Z",
+   "summary": "IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 MAI Cyber 2 Flash， 定位为面向企业安全团队的“高性价比”网络安全 AI。 该模型旨在帮助安全人员全天候发现软件漏洞、推荐修复方案…",
+   "regions": []
+  },
+  {
+   "title": "TGA 2026 年度游戏入围名单公布：含《GTA6》《影之刃零》《塞尔达传说：时之笛》重制版等",
+   "link": "https://www.ithome.com/1/028/584.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T23:01:24.000Z",
+   "summary": "IT之家 11 月 18 日消息，TGA（游戏大奖）今日公布 2026 年度游戏入围名单。 IT之家注意到，本次入围的游戏有《007：初露锋芒》《控制：共振》《侠盗猎车手 VI》《影之刃零》《生化危机：安魂曲》和《塞尔达传说：时之笛》重制版…",
+   "regions": []
+  },
+  {
+   "title": "微软宣布 PowerShell 7 将随 Windows 默认提供，Win11 26H2 为最后一个预启用 5.1 的版本",
+   "link": "https://www.ithome.com/1/028/583.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T22:56:02.000Z",
+   "summary": "IT之家 11 月 18 日消息，微软今日宣布，未来的 Windows 版本将默认提供 PowerShell 7，逐步推动这款现代化命令行工具取代 Windows PowerShell 5.1。 微软 PowerShell 团队高级产品经理…",
+   "regions": []
+  },
+  {
+   "title": "“全球第一修图 AI 模型”：微软 MAI Image 2.7 登场，用 1/5 价格击败 GPT Image 2.6 登顶",
+   "link": "https://www.ithome.com/1/028/582.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T22:55:12.000Z",
+   "summary": "IT之家 11 月 18 日消息，微软昨日（11 月 17 日）发布推出 MAI Image 2.7 和 MAI Image 2.7 Flash 图像生成与编辑模型，并上线由 Flash 驱动的交互式创作空间 Canvas。 费用方面，两款…",
+   "regions": []
+  },
+  {
+   "title": "谷歌更新 Gemini 隐私控制，可保留聊天记录且不参与 AI 训练",
+   "link": "https://www.ithome.com/1/028/581.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T22:51:05.000Z",
+   "summary": "IT之家 11 月 18 日消息，谷歌昨日发布公告，宣布更新 Gemini 应用程序的控制选项， 允许用户自行决定是否将 Gemini 聊天记录用于 AI 模型训练 。 谷歌表示，新增的设置选项允许用户在保留 Gemini 聊天记录的同时，…",
+   "regions": []
+  },
+  {
+   "title": "英伟达董事会主席明确表态：无意让黄仁勋回归重新担任 CEO",
+   "link": "https://www.ithome.com/1/028/580.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T22:47:10.000Z",
+   "summary": "IT之家 11 月 18 日消息，据 CNBC 报道，英伟达新任董事会主席哈维 · 琼斯（Harvey C. Jones）在今日的财报电话会议上表示，董事会无意让黄仁勋（Jensen Huang）回归、重新担任公司 CEO。 琼斯在电话会议…",
+   "regions": []
+  },
+  {
+   "title": "微软性价比最高编程 AI 模型：MAI Code 2 用 5% 成本达 Claude Opus 5.5 约 96% 性能",
+   "link": "https://www.ithome.com/1/028/579.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T22:42:53.000Z",
+   "summary": "IT之家 11 月 18 日消息，在今天召开的 Ignite 2026 活动中， 微软发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并在 GitHub Copilot 上线。 IT之家附上相关视频如下： 定位…",
+   "regions": []
+  },
+  {
+   "title": "Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录",
+   "link": "https://www.ithome.com/1/028/577.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T22:23:42.000Z",
+   "summary": "IT之家 11 月 18 日消息，就在 Anthropic IPO 定价前一天，OpenAI 突然毫无预兆地送上了一份“惊喜”。 OpenAI 今日正式发布了最新的 GPT-6.2 Astra 和 GPT-6.2 Sol 模型，重点提升专业…",
+   "regions": []
+  },
+  {
+   "title": "英伟达公布黄仁勋离职后的首份财报：2027 财年前三季度归母净利润 1832.97 亿美元同比增长 137.72%，Q3 营收 1158.44 亿美元同比增长 103%",
+   "link": "https://www.ithome.com/1/028/575.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T21:25:38.000Z",
+   "summary": "IT之家 11 月 18 日消息，英伟达今日发布 2027 财年（2026 年 1 月 26 日～2027 年 1 月 31 日）前三季度（2026 年 1 月 26 日～2026 年 10 月 25 日）及第三财季（2026 年 7 月 …",
+   "regions": []
+  },
+  {
+   "title": "iPhone Duo 开售三周后，苹果 Apple Store 完成适配",
+   "link": "https://www.ithome.com/1/028/573.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T18:00:30.000Z",
+   "summary": "IT之家 11 月 18 日消息，苹果 Apple Store 在线商店昨晚发布了 6.10 版本升级，更新日志显示为“多种改进和性能增强”。 据用户反馈， 该版本的 Apple Store 终于完成了对 iPhone Duo 的适配 。值…",
+   "regions": []
+  },
+  {
+   "title": "华为智选车产品总监详解尚界 Z7T 星野套装：“不动骨相”，只在风格层面做外放",
+   "link": "https://www.ithome.com/1/028/572.htm",
+   "source": "IT之家",
+   "time": "2026-11-17T17:38:52.000Z",
+   "summary": "IT之家 11 月 18 日消息，鸿蒙智行尚界汽车官方在 11 月 11 日宣布，尚界 Z7T 星野套装即将上市，将在 11 月 20 日 14:30 鸿蒙智行享界 V8 及星芒品牌发布会上亮相。 从画面可以看到，尚界 Z7T 星野套装新增…",
+   "regions": []
+  },
+  {
    "title": "华为 Mate 90 系列手机 AI 快捷栏全新交互体验曝光，与星芒 OSTA O1 Pro 风格完全不同",
    "link": "https://www.ithome.com/1/028/571.htm",
    "source": "IT之家",
@@ -1124,6 +1308,337 @@
  ],
  "world": [
   {
+   "title": "俄“艺术驻留”竞赛获奖者将赴华进行文化研习和创作",
+   "link": "https://sputniknews.cn/20261118/1074176447.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T23:59:50.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 据俄罗斯《新闻报》报道，俄罗斯“艺术驻留”竞赛的6名获奖者将前往中国进行文化研习、创作和旅行。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄技术集团：联合航空制造集团向俄国防部交付新一批苏-34战机",
+   "link": "https://sputniknews.cn/20261118/1074176222.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T23:45:23.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 据俄罗斯国家技术集团新闻处消息，该集团的联合航空制造集团公司向俄国防部交付了新一批苏-34轰炸机。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "美媒：美军对伊朗格什姆岛实施“自卫”打击",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733838.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-17T23:39:06.000Z",
+   "summary": "中新网11月18日电 据美国有线电视新闻网(CNN)援引一名美国军方官员消息，当地时间17日，美军对伊朗格什姆岛一处导弹发射场实施“自卫”打击。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普最新表态：期待访问中国",
+   "link": "https://sputniknews.cn/20261118/1074176004.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T23:37:14.000Z",
+   "summary": "11月17日，美国总统特朗普在菲律宾马尼拉表示，“我期待访问中国，我们有一些十分重要的议题需要磋商。”",
+   "regions": [
+    "南海",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄对外情报局：欧盟意图使在塞尔维亚选举中获胜的“学生名单”服从其意志",
+   "link": "https://sputniknews.cn/20261118/1074175894.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T23:34:33.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯对外情报局新闻办公室表示，欧盟和欧洲主要国家决心使塞尔维亚“学生名单”的领导人服从其意志。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "中国商务部回应美收紧AI芯片出口管制：破坏国际经贸秩序",
+   "link": "https://sputniknews.cn/20261118/1074175778.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T23:23:33.000Z",
+   "summary": "就美国商务部发布限制远程获取先进半导体相关措施，中国商务部新闻发言人11月17日表示，中方对此强烈不满、坚决反对。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "媒体：警方在里约贫民窟发现大规模生产武器的设备",
+   "link": "https://sputniknews.cn/20261118/1074175664.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T23:17:19.000Z",
+   "summary": "俄罗斯卫星通讯社里约热内卢11月18日电 新闻网站G1报道称，巴西警方在里约热内卢一处贫民窟发现了一个属于犯罪团伙的作坊，该作坊每年可生产多达3000支步枪。",
+   "regions": [
+    "俄乌",
+    "拉美"
+   ]
+  },
+  {
+   "title": "外媒：沙特联军袭击也门多地，已致17人死亡、39人受伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733825.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-17T23:09:36.000Z",
+   "summary": "中新网11月18日电 据阿拉伯媒体当地时间17日消息，过去24小时内，沙特阿拉伯主导的多国联军对也门萨那、荷台达等地发动空袭已致56人伤亡。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "刚果（金）埃博拉感染人数已达1.15万人",
+   "link": "https://sputniknews.cn/20261118/1074175559.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T23:07:47.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月18日电 刚果民主共和国（刚果（金））国家公共卫生研究所（INSP）通报称，自该国疫情暴发以来，埃博拉病毒确诊病例数已增至1.15万例，死亡5630人。",
+   "regions": [
+    "俄乌",
+    "非洲"
+   ]
+  },
+  {
+   "title": "以色列议会选举马坦·卡哈纳担任新任议长",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733823.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-17T22:49:15.000Z",
+   "summary": "中新网11月18日电 据美国有线电视新闻网(CNN)报道，当地时间17日，以色列第26届议会举行全体会议，选举正直党议员马坦·卡哈纳为新一任议长，接替利库德集团议员阿米尔·奥哈纳。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "五角大楼承认乌军对俄罗斯境内基础设施的打击无法阻止俄军推进",
+   "link": "https://sputniknews.cn/20261118/1074175420.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T22:25:29.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿11月18日电 美国国防部负责政治事务的副部长埃尔布里奇·科尔比认为，乌克兰对俄罗斯境内基础设施的打击无助于结束冲突，也无法阻止俄军推进。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】51 km SSW of Nanwalek, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wutnex",
+   "source": "USGS地震台网",
+   "time": "2026-11-17T22:19:27.830Z",
+   "summary": "美国地质调查局官方监测：51 km SSW of Nanwalek, Alaska发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "英国警方将一名涉嫌为俄罗斯从事间谍活动的军人移交美国政府",
+   "link": "https://sputniknews.cn/20261118/1074175305.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T22:18:57.000Z",
+   "summary": "俄罗斯卫星通讯社伦敦11月18日电 英国警方表示，已将一名涉嫌与俄罗斯情报机关合作的美国军人移交美国政府。",
+   "regions": [
+    "俄乌",
+    "欧洲",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733822.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-17T22:13:45.000Z",
+   "summary": "新华社华盛顿11月17日电(记者黄强 徐剑梅)美国军方官员17日说，美军当天对伊朗格什姆岛一处导弹发射场实施精确打击，以回应伊朗伊斯兰革命卫队针对美国人员和资产的“侵略行径”。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "以色列议会选举马坦·卡哈纳为新任议长",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733821.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-17T22:13:35.000Z",
+   "summary": "当地时间17日深夜，以色列第26届议会举行全体会议，选举正直党议员马坦·卡哈纳为新一任议长，接替利库德集团议员阿米尔·奥哈纳。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "比利时总参谋长：欧洲对与俄罗斯的潜在冲突尚未做好准备",
+   "link": "https://sputniknews.cn/20261118/1074175178.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T22:03:23.000Z",
+   "summary": "俄罗斯卫星通讯社布鲁塞尔电 比利时武装力量总参谋长弗雷德里克·万西纳在接受RTL电视台采访时表示，欧洲军队对与俄罗斯的潜在军事冲突尚未做好准备。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄副总理：超两万名俄大学生和研究生在华学习",
+   "link": "https://sputniknews.cn/20261118/1074174875.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T21:45:08.000Z",
+   "summary": "俄罗斯卫星通讯社深圳电 俄罗斯副总理德米特里∙切尔内申科表示，目前有超过2万名俄罗斯大学生和研究生在中国高校学习，同时有超过6.2万名中国大学生和研究生在俄罗斯学校就读。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "胡塞武装表示对沙特东西石油管道发动无人机打击",
+   "link": "https://sputniknews.cn/20261118/1074174779.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T21:34:13.000Z",
+   "summary": "俄罗斯卫星通讯社多哈电 控制也门北部的“安萨尔安拉”运动（胡塞武装）宣布，出动5架无人机，对东西石油管道发动了2次打击，该管道从沙特阿拉伯东部的油田一直延伸至延布港。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "媒体：沙特因也门战事不利撤换多国联军指挥官",
+   "link": "https://sputniknews.cn/20261118/1074174666.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T21:22:44.000Z",
+   "summary": "俄罗斯卫星通讯社多哈电 据卡塔尔半岛电视台援引沙特国王发布的国王令报道，由于没能夺回红海沿岸城市的控制权，沙特打击也门胡塞武装暴动分子的多国联军指挥官被撤职。",
+   "regions": [
+    "中东",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "欧盟批评卡拉斯强硬作风和野心阻碍就乌问题形成统一立场",
+   "link": "https://sputniknews.cn/20261118/1074174329.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T20:56:57.000Z",
+   "summary": "俄罗斯卫星通讯社布鲁塞尔电 据欧洲新闻台报道，欧盟外交与安全政策高级代表卡娅∙卡拉斯的强硬作风以及她试图扮演独立角色的做法，引发了欧洲外交官的不满，并使欧盟在乌克兰谈判中形成统一立场的努力变得困难。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "自2021年以来中国企业在俄的布局规模扩大4倍以上",
+   "link": "https://sputniknews.cn/20261118/1074174220.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T20:37:21.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯卫星通讯社援引俄罗斯商业信息核查平台Rusprofile分析师的数据报道，11月，在俄罗斯经营的中国法人实体和个体经营者数量与2021年底相比增长了4倍以上。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "中国是俄罗斯工业及农工综合体产品的最大消费国",
+   "link": "https://sputniknews.cn/20261118/1074174116.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T20:28:58.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯联邦国务秘书兼工业和贸易部副部长罗曼·切库绍夫在“俄罗斯制造”国际出口论坛期间表示，俄罗斯工业及农工综合体产品的最大消费国是中国。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.4】35 km WSW of Palauig, Philippines",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyum",
+   "source": "USGS地震台网",
+   "time": "2026-11-17T20:12:28.569Z",
+   "summary": "美国地质调查局官方监测：35 km WSW of Palauig, Philippines发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "菲律宾",
+    "南海"
+   ]
+  },
+  {
+   "title": "阿曼表示已从一艘起火的油轮上疏散24名船员",
+   "link": "https://sputniknews.cn/20261118/1074173984.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T20:00:05.000Z",
+   "summary": "俄罗斯卫星通讯社伊斯坦布尔电 阿曼海事安全中心表示，阿曼海岸警卫队已从在阿曼沿海起火的“塔拉天然气”号油轮上疏散了24名船员。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄科教部长：深圳北理莫斯科大学已成为俄中教育合作的象征",
+   "link": "https://sputniknews.cn/20261118/1074157107.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T19:03:00.000Z",
+   "summary": "俄罗斯卫星通讯社深圳11月17日电 俄罗斯科学与高等教育部长瓦列里·法利科夫11月17日表示，深圳北理莫斯科大学已成为俄中科教合作最著名的象征。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】12 km SE of Pocsi, Peru",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyu4",
+   "source": "USGS地震台网",
+   "time": "2026-11-17T18:50:40.298Z",
+   "summary": "美国地质调查局官方监测：12 km SE of Pocsi, Peru发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "秘鲁",
+    "拉美"
+   ]
+  },
+  {
+   "title": "俄罗斯专家：欧盟试图将巴尔干变成北约的前哨",
+   "link": "https://sputniknews.cn/20261118/1074172717.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T18:45:00.000Z",
+   "summary": "俄罗斯欧亚主义研究与发展中心主任尤里·萨蒙金认为，欧盟要求塞尔维亚放弃独立的外交方针，是企图将巴尔干变成北约的前哨。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "法国承认乌境内存在一个执行军事任务的法国机构",
+   "link": "https://sputniknews.cn/20261118/1074171410.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T18:30:00.000Z",
+   "summary": "俄罗斯卫星通讯社巴黎11月17日电 法国国防部部长级代表吕福承认，乌克兰境内存在法国机构，该机构负责开展军事训练指导并执行装备维护任务。",
+   "regions": [
+    "俄乌",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "Votour品牌开始销售新款V6 SUV 起价24.2万元人民币",
+   "link": "https://sputniknews.cn/20261118/1074169692.html",
+   "source": "卫星社中文",
+   "time": "2026-11-17T18:27:00.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月17日电 俄罗斯汽车品牌Votour表示，开始销售自身品牌旗下产品线中的第二款SUV-Votour V6，售价24.2万元人民币起。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】26 km NW of Port-Vila, Vanuatu",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tytz",
+   "source": "USGS地震台网",
+   "time": "2026-11-17T18:15:19.134Z",
+   "summary": "美国地质调查局官方监测：26 km NW of Port-Vila, Vanuatu发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】1 km NW of Macaracas, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tytu",
+   "source": "USGS地震台网",
+   "time": "2026-11-17T18:02:32.376Z",
+   "summary": "美国地质调查局官方监测：1 km NW of Macaracas, Panama发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
    "title": "英国政治家称只有在金砖国家才能自由表达意见",
    "link": "https://sputniknews.cn/20261118/1074172229.html",
    "source": "卫星社中文",
@@ -1230,6 +1745,27 @@
    ]
   },
   {
+   "title": "【地震 M3.3】192 km W of Langlois, Oregon",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyta",
+   "source": "USGS地震台网",
+   "time": "2026-11-17T16:42:54.346Z",
+   "summary": "美国地质调查局官方监测：192 km W of Langlois, Oregon发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.8】141 km NW of Kavieng, Papua New Guinea",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyt9",
+   "source": "USGS地震台网",
+   "time": "2026-11-17T16:35:58.497Z",
+   "summary": "美国地质调查局官方监测：141 km NW of Kavieng, Papua New Guinea发生 4.8 级地震，震源深度 未知。",
+   "regions": [
+    "巴布亚新几内亚",
+    "亚太"
+   ]
+  },
+  {
    "title": "莫斯科普希金博物馆与中国国家博物馆将分别在莫斯科和北京举办周年纪念展览",
    "link": "https://sputniknews.cn/20261118/1074171292.html",
    "source": "卫星社中文",
@@ -1326,6 +1862,17 @@
    ]
   },
   {
+   "title": "【地震 M4.4】6 km ENE of Bachajón, Mexico",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tysx",
+   "source": "USGS地震台网",
+   "time": "2026-11-17T15:39:08.643Z",
+   "summary": "美国地质调查局官方监测：6 km ENE of Bachajón, Mexico发生 4.4 级地震，震源深度 未知。",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
    "title": "法国总统候选人发起请愿反对法国军人驻留乌克兰",
    "link": "https://sputniknews.cn/20261117/1074170704.html",
    "source": "卫星社中文",
@@ -1348,6 +1895,17 @@
    ]
   },
   {
+   "title": "【地震 M4.0】249 km WSW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tytj",
+   "source": "USGS地震台网",
+   "time": "2026-11-17T15:19:39.728Z",
+   "summary": "美国地质调查局官方监测：249 km WSW of Adak, Alaska发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "俄外交部：俄罗斯呼吁停止中东敌对行动",
    "link": "https://sputniknews.cn/20261117/1074170606.html",
    "source": "卫星社中文",
@@ -1357,6 +1915,17 @@
     "中东",
     "俄乌",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】86 km SSW of Atocha, Bolivia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyst",
+   "source": "USGS地震台网",
+   "time": "2026-11-17T15:00:17.137Z",
+   "summary": "美国地质调查局官方监测：86 km SSW of Atocha, Bolivia发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "玻利维亚",
+    "拉美"
    ]
   },
   {
@@ -2925,6 +3494,89 @@
  ],
  "cn": [
   {
+   "title": "点进去容易，退出来难 弹窗广告为何“越关越多”？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-18/10733844.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-17T23:48:56.000Z",
+   "summary": "弹窗广告为何“越关越多”？",
+   "regions": []
+  },
+  {
+   "title": "深化党建引领基层治理和基层政权建设（学习贯彻党的二十届五中全会精神）",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733843.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-17T23:45:48.000Z",
+   "summary": "陈文清",
+   "regions": []
+  },
+  {
+   "title": "植物能“听”会“说”，你知道吗？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733834.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-17T23:34:51.000Z",
+   "summary": "植物能“听”会“说”，你知道吗？(把自然讲给你听)",
+   "regions": []
+  },
+  {
+   "title": "西藏拉萨：民众参观朗孜夏陈列馆",
+   "link": "https://www.chinanews.com.cn/tp/2026/11-18/10733833.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-17T23:33:17.000Z",
+   "summary": "图为民众在朗孜夏陈列馆参观展陈中的枷锁。中新社记者 李林 摄",
+   "regions": [
+    "拉萨",
+    "西藏"
+   ]
+  },
+  {
+   "title": "神舟二十四号船箭就位 发射准备进展如何？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733832.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-17T23:29:53.000Z",
+   "summary": "11月17日，在酒泉卫星发射中心，神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体，稳稳完成垂直转运，从技术区平安抵达发射区。近60米高的船箭组合体，在1.5公里无缝钢轨上平稳行进约一个半小时，标志着神舟二十四号载人飞行任务进入发射倒…",
+   "regions": [
+    "酒泉"
+   ]
+  },
+  {
+   "title": "中共全国政协党组理论学习中心组举行2026年第五次集体学习 王沪宁主持并讲话",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733826.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-17T23:29:49.000Z",
+   "summary": "本报讯(记者 吕巍)中共全国政协党组理论学习中心组11月17日举行2026年第五次集体学习，深入学习贯彻党的二十届五中全会精神。中共中央政治局常委、全国政协主席、党组书记王沪宁主持并讲话。",
+   "regions": []
+  },
+  {
+   "title": "手机中虚拟骰子扔出的随机数，真的“随机”吗？",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733827.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-17T23:26:29.000Z",
+   "summary": "你有没有过这样的经历：在和朋友玩桌游时忘了带骰子，只好用手机中的虚拟骰子来代替；在游戏中抽卡、开箱时，期待能够获得顶级装备；用手机号登录账户时，系统会发送一条验证码。这些结果都来自计算机生成的随机数，看起来毫无规律，似乎是随机决定的。但你有…",
+   "regions": []
+  },
+  {
+   "title": "聚焦APEC｜俄罗斯总统普京抵达深圳 蔡奇前往机场迎接",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733815.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-17T18:13:56.000Z",
+   "summary": "新华社深圳11月18日电(记者赵瀚泽、周颖)俄罗斯总统普京11月18日凌晨乘专机抵达深圳，出席亚太经合组织第三十三次领导人非正式会议。中共中央政治局常委、中央书记处书记蔡奇前往机场迎接。(完）",
+   "regions": [
+    "俄乌",
+    "深圳"
+   ]
+  },
+  {
+   "title": "大国外交进行时丨俄罗斯总统普京抵达深圳",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733813.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-17T18:04:30.000Z",
+   "summary": "11月18日凌晨，俄罗斯总统普京乘专机抵达深圳，将出席11月18日至19日举行的亚太经合组织第三十三次领导人非正式会议。",
+   "regions": [
+    "俄乌",
+    "深圳"
+   ]
+  },
+  {
    "title": "聚焦APEC｜韩国总统李在明抵达深圳",
    "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733805.shtml",
    "source": "中新网中国",
@@ -4170,6 +4822,40 @@
  ],
  "econ": [
   {
+   "title": "出国干工程 未来五年，我国工程师这样“走出去”",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-18/10733842.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-17T23:41:04.000Z",
+   "summary": "未来五年，我国工程师这样“走出去”",
+   "regions": []
+  },
+  {
+   "title": "新国货品牌，从“看见”到“记住”",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-18/10733836.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-17T23:38:14.000Z",
+   "summary": "找准真实需求、做好扎实产品——",
+   "regions": []
+  },
+  {
+   "title": "新型电网，新在哪？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-18/10733835.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-17T23:36:50.000Z",
+   "summary": "“十五五”时期我国新型电网投资预计将超过5万亿元",
+   "regions": []
+  },
+  {
+   "title": "从1.0到3.0 中国—东盟自贸区“升级包”带来哪些商机",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-18/10733820.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-17T22:12:05.000Z",
+   "summary": "中国—东盟自贸区3.0版升级议定书将于今年12月1日正式生效实施。升级议定书将赋能覆盖近21亿人口的区域大市场和产业链供应链，为企业带来巨大商机。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
    "title": "（深圳APEC）1500把椅子的“亚太时刻”",
    "link": "https://www.chinanews.com.cn/cj/2026/11-17/10733795.shtml",
    "source": "中新网财经",
@@ -4818,5 +5504,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-17T18:04:16.808Z"
+ "updatedAt": "2026-11-18T01:07:24.983Z"
 }
