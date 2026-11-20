@@ -2,6 +2,14 @@
  "date": "2026-11-19",
  "tech": [
   {
+   "title": "Casvisor 2.0.0 发布：新增系统账号与自动改密、MySQL 和 PostgreSQL 审计、作业中心",
+   "link": "https://www.oschina.net/news/503687",
+   "source": "开源中国",
+   "time": "2026-11-19T18:03:08.000Z",
+   "summary": "Apache-2.0 开源堡垒机 Casvisor 发布 2.0.0。该版本补齐了系统账号、数据库审计、批量作业、访问申请和审计日志导出等能力，仍是单个 Go 二进制，没有企业版。 系统账号与改密 一个资产现在可以挂多个系统账号（如 roo…",
+   "regions": []
+  },
+  {
    "title": "Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低",
    "link": "https://www.ithome.com/1/029/744.htm",
    "source": "IT之家",
@@ -23,6 +31,14 @@
    "source": "IT之家",
    "time": "2026-11-19T15:50:53.000Z",
    "summary": "IT之家 11 月 19 日消息，北京时间今天（19 日）深夜，AI 初创企业 Anthropic 正式登陆美股，以 813 亿美元 （IT之家注：现汇率约合 5,431.47 亿元人民币） 的募资额创下 IPO 历史纪录。 公司 CEO …",
+   "regions": []
+  },
+  {
+   "title": "Jync v2.4.1 · TDengine 轮询源与布尔 / 改列修复",
+   "link": "https://www.oschina.net/news/503686",
+   "source": "开源中国",
+   "time": "2026-11-19T15:50:25.000Z",
+   "summary": "新增 TDengine 轮询源：新增 TDengine 3.x 预设（预设数 35 种），经官方驱动 3.10.0 的 WebSocket 接口（6041 端口）读取，需自备 taos-jdbcdriver-3.10.0-dist.jar（…",
    "regions": []
   },
   {
@@ -1244,6 +1260,216 @@
  ],
  "world": [
   {
+   "title": "美国审计署：五角大楼缺乏补充弹药的计划",
+   "link": "https://sputniknews.cn/20261120/1074272730.html",
+   "source": "卫星社中文",
+   "time": "2026-11-19T23:58:58.000Z",
+   "summary": "美国审计署发布的一份报告显示，五角大楼没有统一的弹药增产计划，且行动往往具有被动应对的性质。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "尼泊尔法院批准羁押两名前劳工部长",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734994.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-19T23:40:39.000Z",
+   "summary": "中新社加德满都11月19日电 (记者 崔楠)尼泊尔警方中央调查局发言人19日证实，加德满都地方法院当天批准警方继续羁押两名前劳工部长等六人4天。六人因涉嫌参与一起向赴马来西亚务工人员违规收费的案件，于18日被捕。",
+   "regions": []
+  },
+  {
+   "title": "国际能源署：中东冲突很可能对能源市场构成持久影响",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734995.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-19T23:39:17.000Z",
+   "summary": "中新社巴黎11月19日电 （记者 李洋）国际能源署当地时间19日发布《2026年世界能源展望》报告，警告中东冲突很可能对能源市场构成持久影响。",
+   "regions": [
+    "中东",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "美国航空航天局：收到探测器从距离地球一光日发来的信号",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734996.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-19T23:38:17.000Z",
+   "summary": "中新社华盛顿11月19日电 (记者 沙晗汀)美国国家航空航天局19日表示，已接收到“旅行者一号”探测器从距离地球一光日位置发来的信号。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "Anthropic上市 创史上最大IPO融资纪录",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734997.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-19T23:36:17.000Z",
+   "summary": "中新社纽约11月19日电 (记者 王帆)美国人工智能公司Anthropic当地时间19日在纽约纳斯达克证券交易所上市，其首次公开募股(IPO)融资总额超过813亿美元，创下美股史上最大IPO融资规模纪录。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "韩国最高法院将前总理韩德洙涉内乱案发回重审",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734993.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-19T23:35:17.000Z",
+   "summary": "中新社首尔11月19日电 (金旭 陈艺玲)韩国大法院(最高法院)当地时间19日就韩国前国务总理韩德洙涉内乱案作出判决，认定韩德洙的行为构成参与内乱重要任务罪，但撤销二审判决中的部分有罪认定，并将案件发回首尔高等法院重审。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "美菲拟推进逾20亿美元军事融资方案，深化防务合作",
+   "link": "https://sputniknews.cn/20261120/1074272611.html",
+   "source": "卫星社中文",
+   "time": "2026-11-19T23:30:27.000Z",
+   "summary": "据菲媒报道，菲律宾与美国将推进一项价值超过20亿美元（约26亿新元）的军事融资方案，协助菲律宾采购美国防务装备，以加强菲律宾的防务能力。",
+   "regions": [
+    "南海",
+    "美洲"
+   ]
+  },
+  {
+   "title": "五角大楼：美国与伊朗的冲突已耗资超过480亿美元",
+   "link": "https://sputniknews.cn/20261120/1074272506.html",
+   "source": "卫星社中文",
+   "time": "2026-11-19T23:27:14.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿11月20日电 五角大楼预算事务代表阿瑟·米勒表示，自2月底冲突爆发以来，美国针对伊朗的军事行动已耗资超过480亿美元。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "伊朗外交部：美国正试图按照伊拉克剧本指责伊朗研发化学武器",
+   "link": "https://sputniknews.cn/20261120/1074272385.html",
+   "source": "卫星社中文",
+   "time": "2026-11-19T23:19:10.000Z",
+   "summary": "俄罗斯卫星通讯社德黑兰11月20日电 伊朗外交部发言人伊斯梅尔·巴加埃11月19日表示，美国正试图按照2003年“伊拉克剧本”指责伊朗研发化学和生物武器，为可能对伊朗发动地面入侵做国内舆论准备。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "外媒：一移民船在塞内加尔沿海倾覆 已致数十人失踪",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734992.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-19T23:18:42.000Z",
+   "summary": "中新网11月20日电 据路透社报道，当地官员19日表示，一艘载有移民的船只在西非国家塞内加尔沿海倾覆，已造成数十人下落不明。",
+   "regions": []
+  },
+  {
+   "title": "俄交通部正研究俄罗斯公民驾驶私家车前往中国旅行的问题",
+   "link": "https://sputniknews.cn/20261120/1074272289.html",
+   "source": "卫星社中文",
+   "time": "2026-11-19T23:11:11.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月20日电 俄罗斯交通部长德米特里·亚德罗夫向卫星通讯社表示，俄交通部正在研究让俄罗斯人能够驾驶私家车前往中国旅行的问题。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "US nationwide ground stop remains under investigation",
+   "link": "https://newsus.cgtn.com/news/2026-11-20/US-nationwide-ground-stop-remains-under-investigation-1SdjOJjUvF6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T23:09:37.000Z",
+   "summary": "US nationwide ground stop remains under investigation",
+   "regions": []
+  },
+  {
+   "title": "Mexico sees opportunities for business at APEC in Shenzhen",
+   "link": "https://newsus.cgtn.com/news/2026-11-20/Mexico-sees-opportunities-for-business-at-APEC-in-Shenzhen-1Sdk1deFshW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T23:09:28.000Z",
+   "summary": "Mexico sees opportunities for business at APEC in Shenzhen",
+   "regions": []
+  },
+  {
+   "title": "Chancay megaport celebrates two years of operation",
+   "link": "https://newsus.cgtn.com/news/2026-11-20/Chancay-megaport-celebrates-two-years-of-operation-1Sdk9Lpo304/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T23:09:13.000Z",
+   "summary": "Chancay megaport celebrates two years of operation",
+   "regions": []
+  },
+  {
+   "title": "US companies form the largest overseas contingent at APEC CEO Summit",
+   "link": "https://newsus.cgtn.com/news/2026-11-20/US-companies-form-the-largest-overseas-contingent-at-APEC-CEO-Summit-1SdktPJajeM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T23:09:01.000Z",
+   "summary": "US companies form the largest overseas contingent at APEC CEO Summit",
+   "regions": []
+  },
+  {
+   "title": "Cyber disruptions continue to plague the US, hitting NSA and Apple",
+   "link": "https://newsus.cgtn.com/news/2026-11-20/Cyber-disruptions-continue-to-plague-the-US-hitting-NSA-and-Apple-1SdkBesE6ha/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T23:08:50.000Z",
+   "summary": "Cyber disruptions continue to plague the US, hitting NSA and Apple",
+   "regions": []
+  },
+  {
+   "title": "NVIDIA’s bumpy road ahead",
+   "link": "https://newsus.cgtn.com/news/2026-11-20/NVIDIA-s-bumpy-road-ahead-1Sdjz2Cy8o0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T23:08:40.000Z",
+   "summary": "NVIDIA’s bumpy road ahead",
+   "regions": []
+  },
+  {
+   "title": "Tariff disputes on hold, but unresolved as APEC meeting gets underway",
+   "link": "https://newsus.cgtn.com/news/2026-11-20/Tariff-disputes-on-hold-but-unresolved-as-APEC-meeting-gets-underway-1Sdm0SeIGMU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T23:08:28.000Z",
+   "summary": "Tariff disputes on hold, but unresolved as APEC meeting gets underway",
+   "regions": []
+  },
+  {
+   "title": "韩国最高法院将前总理韩德洙涉内乱案发回重审",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734990.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-19T23:02:27.000Z",
+   "summary": "中新网11月20日电 据韩联社报道，韩国大法院(最高法院)19日就前国务总理韩德洙涉内乱案作出判决，认定韩德洙的行为构成参与内乱重要任务罪，但撤销二审判决中的部分有罪认定，将案件发回首尔高等法院重审。",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "普京飞抵塔吉克斯坦",
+   "link": "https://sputniknews.cn/20261120/1074272194.html",
+   "source": "卫星社中文",
+   "time": "2026-11-19T22:59:12.000Z",
+   "summary": "俄罗斯卫星通讯社杜尚别11月20日电 俄罗斯总统普京抵达塔吉克斯坦进行工作访问，将在此与塔吉克斯坦总统埃莫马利·拉赫蒙举行会谈。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "专栏作者：俄中美元首会晤印证了俄罗斯在国际舞台上的地位",
+   "link": "https://sputniknews.cn/20261120/1074272083.html",
+   "source": "卫星社中文",
+   "time": "2026-11-19T22:52:41.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月20日电 彭博社专栏作者马克·钱皮恩认为，俄罗斯总统普京、中国国家主席习近平和美国总统特朗普在深圳亚太经合组织峰会期间举行的三方会晤，印证了俄罗斯在国际舞台上的地位。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734989.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-19T22:45:16.000Z",
+   "summary": "中新网11月20日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普19日表示，在新年到来之前，他不会就伊朗问题的下一步行动“仓促”作出决定。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
    "title": "记者认为深圳亚太经合组织峰会标志着旧世界秩序的终结",
    "link": "https://sputniknews.cn/20261120/1074271772.html",
    "source": "卫星社中文",
@@ -1294,6 +1520,17 @@
    "summary": "俄罗斯卫星通讯社莫斯科电 据克里姆林宫网站发布的2026年亚太经合组织领导人宣言显示，亚太经合组织成员经济体不打算为腐败分子提供避风港。",
    "regions": [
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】236 km W of Tual, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc3v",
+   "source": "USGS地震台网",
+   "time": "2026-11-19T21:49:33.219Z",
+   "summary": "美国地质调查局官方监测：236 km W of Tual, Indonesia发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
    ]
   },
   {
@@ -1739,6 +1976,22 @@
    ]
   },
   {
+   "title": "Somalia asks UAE ambassador to leave within 72 hours",
+   "link": "https://newsaf.cgtn.com/news/2026-11-19/Somalia-asks-UAE-ambassador-to-leave-within-72-hours-1ScLHe2diXS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T15:22:14.000Z",
+   "summary": "Somalia has ordered the United Arab Emirates (UAE) ambassador to leave the country within 72 hours and recalled its own …",
+   "regions": []
+  },
+  {
+   "title": "Full text: APEC Connectivity Blueprint",
+   "link": "https://news.cgtn.com/news/2026-11-19/APEC-releases-a-connectivity-blueprint-1ScRrQaSt8I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T15:21:42.000Z",
+   "summary": "The 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting adopted the APEC Connectivity Blueprint on T…",
+   "regions": []
+  },
+  {
    "title": "俄专家：中俄美三方会晤对维护国际稳定具有重要意义",
    "link": "https://sputniknews.cn/20261119/1074265143.html",
    "source": "卫星社中文",
@@ -1748,6 +2001,22 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Poll on the China-Russia-US leaders' meeting",
+   "link": "https://news.cgtn.com/news/2026-11-19/Poll-on-the-China-Russia-US-leaders-meeting-1ScP0SNNlTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T15:12:17.000Z",
+   "summary": "Poll on the China-Russia-US leaders' meeting",
+   "regions": []
+  },
+  {
+   "title": "Why China-Russia-US summit matters so much and what it has achieved",
+   "link": "https://news.cgtn.com/news/2026-11-19/Why-China-Russia-US-summit-matters-so-much-and-what-it-has-achieved-1ScKiTGKfVC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T15:08:00.000Z",
+   "summary": "The first-ever trilateral meeting between the leaders of China, Russia and the United States carries significance beyond…",
+   "regions": []
   },
   {
    "title": "普京称不执行国际体育仲裁法庭针对俄罗斯运动员的裁决违法",
@@ -1778,6 +2047,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "How cultural exchanges build a close Asia-Pacific community",
+   "link": "https://news.cgtn.com/news/2026-11-19/How-cultural-exchanges-build-a-close-Asia-Pacific-community-1ScMKLIdOKs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T14:55:03.000Z",
+   "summary": "As a group of children brought the traditional Xingshi (lion awakening) performance and Yingge dance to life, Peng Liyua…",
+   "regions": []
   },
   {
    "title": "俄总理：今年前九个月俄罗斯向东方的货运量增长10%",
@@ -1832,6 +2109,14 @@
    ]
   },
   {
+   "title": "A historic first: What Xi-Putin-Trump summit means for world stability",
+   "link": "https://news.cgtn.com/news/2026-11-19/A-historic-first-What-Xi-Putin-Trump-summit-means-for-world-stability-1ScyrTmUvBe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T14:24:43.000Z",
+   "summary": "In a historic first with far-reaching implications for the world, Chinese President Xi Jinping met with Russian Presiden…",
+   "regions": []
+  },
+  {
    "title": "【和合共生】习言道丨“修昔底德陷阱”绝不是宿命",
    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734952.shtml",
    "source": "中新网滚动",
@@ -1855,6 +2140,14 @@
    ]
   },
   {
+   "title": "TCL's Globalization 3.0: Starting in Asia-Pacific",
+   "link": "https://news.cgtn.com/news/2026-11-19/TCL-s-Globalization-3-0-Starting-in-Asia-Pacific-1ScOCOHkVQQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T14:21:47.000Z",
+   "summary": "TCL's Globalization 3.0: Starting in Asia-Pacific",
+   "regions": []
+  },
+  {
    "title": "普京：西方阻碍世贸组织正常工作，多年来已使世贸组织的工作陷入瘫痪",
    "link": "https://sputniknews.cn/20261119/1074263729.html",
    "source": "卫星社中文",
@@ -1863,6 +2156,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Full text: 2026 APEC Leaders' Shenzhen Outlook",
+   "link": "https://news.cgtn.com/news/2026-11-19/Full-text-2026-APEC-Leaders-Shenzhen-Outlook-1ScNEirhiKI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T14:15:42.000Z",
+   "summary": "The 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting adopted the 2026 APEC Leaders' Shenzhen Outl…",
+   "regions": []
   },
   {
    "title": "普京：俄中协作是国际安全基石之一",
@@ -1884,6 +2185,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "John Lee outlines Hong Kong's development priorities",
+   "link": "https://news.cgtn.com/news/2026-11-19/John-Lee-outlines-Hong-Kong-s-development-priorities-1ScEFFKV0ME/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T14:02:27.000Z",
+   "summary": "John Lee outlines Hong Kong's development priorities",
+   "regions": []
   },
   {
    "title": "普京计划与塔吉克斯坦总统讨论使用俄罗斯军事基地的问题",
@@ -2092,6 +2401,14 @@
    ]
   },
   {
+   "title": "10,000 trains: Chinese-made cars speed to global markets",
+   "link": "https://news.cgtn.com/news/2026-11-19/10-000-trains-Chinese-made-cars-speed-to-global-markets-1ScFHgf3Mmk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T12:40:56.000Z",
+   "summary": "10,000 trains: Chinese-made cars speed to global markets",
+   "regions": []
+  },
+  {
    "title": "联合国国际法院认定缅甸前政府对罗兴亚人实施种族灭绝",
    "link": "https://sputniknews.cn/20261119/1074260100.html",
    "source": "卫星社中文",
@@ -2154,6 +2471,22 @@
    ]
   },
   {
+   "title": "Peng Liyuan, APEC economic leaders' spouses visit cultural exhibition",
+   "link": "https://news.cgtn.com/news/2026-11-19/Peng-Liyuan-APEC-economic-leaders-spouses-visit-cultural-exhibition-1ScBneZRrkk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T12:22:56.000Z",
+   "summary": "Peng Liyuan, wife of Chinese President Xi Jinping, and spouses of leaders of Asia-Pacific Economic Cooperation (APEC) ec…",
+   "regions": []
+  },
+  {
+   "title": "John Lee outlines five key takeaways from HK's APEC participation",
+   "link": "https://news.cgtn.com/news/2026-11-19/John-Lee-outlines-five-key-takeaways-from-HK-s-APEC-participation-1ScC9zhA6xq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T12:00:26.000Z",
+   "summary": "John Lee outlines five key takeaways from HK's APEC participation",
+   "regions": []
+  },
+  {
    "title": "货币基金组织总裁：人工智能将成为影响全球竞争力和经济增长的重要因素",
    "link": "https://news.un.org/feed/view/zh/story/2026/11/1143226",
    "source": "联合国新闻",
@@ -2183,6 +2516,14 @@
    ]
   },
   {
+   "title": "Xi: China-Russia-US summit positive, constructive, fruitful",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-China-Russia-US-summit-positive-constructive-fruitful-1ScC0QMM3tK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T11:48:49.000Z",
+   "summary": "Chinese President Xi Jinping on Thursday said that the China-Russia-US summit has been positive, constructive and fruitf…",
+   "regions": []
+  },
+  {
    "title": "白俄罗斯安全会议：白俄罗斯将AI元素引入军事装备 但对此持谨慎态度",
    "link": "https://sputniknews.cn/20261119/1074256421.html",
    "source": "卫星社中文",
@@ -2191,6 +2532,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Xi's vision for Asia-Pacific development wins support at APEC meeting",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-s-vision-for-Asia-Pacific-development-wins-support-at-APEC-meeting-1Scy00AGorC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T11:44:43.000Z",
+   "summary": "Chinese President Xi Jinping's speech at the 33rd APEC Economic Leaders' Meeting on Thursday has drawn widespread suppor…",
+   "regions": []
   },
   {
    "title": "俄总统助理：俄中美领导人三方会晤气氛良好",
@@ -2202,6 +2551,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "From one open door to all: Xi Jinping's vision for Asia-Pacific growth",
+   "link": "https://news.cgtn.com/news/2026-11-19/From-one-open-door-to-all-Xi-Jinping-s-vision-for-Asia-Pacific-growth-1Scut1gjYas/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T11:34:14.000Z",
+   "summary": "From one open door to all: Xi Jinping's vision for Asia-Pacific growth",
+   "regions": []
   },
   {
    "title": "亚太经合组织领导人认同安全、不间断的能源供应的重要性",
@@ -2235,6 +2592,14 @@
    ]
   },
   {
+   "title": "Full text: China-Russia-US Heads of State Declaration toward Peace",
+   "link": "https://news.cgtn.com/news/2026-11-19/Full-text-China-Russia-US-Heads-of-State-Declaration-toward-Peace-1SczM9jzJII/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T11:18:16.000Z",
+   "summary": "Chinese President Xi Jinping, Russian President Vladimir Putin and US President Donald Trump on Thursday issued a joint …",
+   "regions": []
+  },
+  {
    "title": "巴基斯坦在反恐行动中打死22名恐怖分子",
    "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734843.shtml",
    "source": "中新网国际",
@@ -2251,6 +2616,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Uganda, Tanzania pursue economic integration",
+   "link": "https://newsaf.cgtn.com/news/2026-11-19/Uganda-Tanzania-pursue-economic-integration-1Scxp0bRCrm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T11:05:09.000Z",
+   "summary": "Ugandan President Yoweri Museveni and Tanzanian President Samia Suluhu Hassan have agreed to strengthen cooperation on t…",
+   "regions": []
   },
   {
    "title": "联合国教科文组织正在拟定对报告中未提及俄战地记者死亡问题的答复",
@@ -2284,6 +2657,14 @@
     "巴布亚新几内亚",
     "亚太"
    ]
+  },
+  {
+   "title": "IMF clears way for $2.3 billion disbursement to Egypt",
+   "link": "https://newsaf.cgtn.com/news/2026-11-19/IMF-clears-way-for-2-3-billion-disbursement-to-Egypt-1ScoCjHYbi8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T10:44:37.000Z",
+   "summary": "The International Monetary Fund has reached a staff-level agreement with Egypt to unlock about $2.3 billion in financing…",
+   "regions": []
   },
   {
    "title": "习近平在俄中美三方会晤结束后将普京送到专车旁",
@@ -2372,6 +2753,14 @@
    ]
   },
   {
+   "title": "China-Russia-US summit concludes in Shenzhen",
+   "link": "https://news.cgtn.com/news/2026-11-19/China-Russia-US-summit-concludes-in-Shenzhen-1ScvWQfhU0U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T09:58:02.000Z",
+   "summary": "China-Russia-US summit concludes in Shenzhen",
+   "regions": []
+  },
+  {
    "title": "特朗普：美国呼吁俄中共同制定解决问题的工具",
    "link": "https://sputniknews.cn/20261119/1074254486.html",
    "source": "卫星社中文",
@@ -2402,6 +2791,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "West Africa summit advances integration with new agreements",
+   "link": "https://newsaf.cgtn.com/news/2026-11-19/West-Africa-summit-advances-integration-with-new-agreements-1SckzKsy5Ik/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T09:46:59.000Z",
+   "summary": "A regional summit in Sierra Leone has secured four major agreements and launched three initiatives aimed at advancing co…",
+   "regions": []
   },
   {
    "title": "夜蛾如何辨识方向？国际最新研究发现利用地磁和星光两种罗盘导航",
@@ -2469,6 +2866,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Xi makes four points on how major countries get along with each other",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-makes-four-points-on-how-major-countries-get-along-with-each-other-1SctgLzjhYY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T09:34:45.000Z",
+   "summary": "Chinese President Xi Jinping on Thursday made four points on how major countries should get along with each other and jo…",
+   "regions": []
   },
   {
    "title": "普京：俄中美能够为加强世界稳定作出贡献",
@@ -2588,6 +2993,14 @@
    ]
   },
   {
+   "title": "China-Russia-US summit: Xi urges positive major-country interactions",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-holds-China-Russia-US-summit-with-Putin-Trump-1SckF5lIYz6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T08:31:50.000Z",
+   "summary": "Chinese President Xi Jinping on Thursday afternoon held a China-Russia-US summit with Russian President Vladimir Putin a…",
+   "regions": []
+  },
+  {
    "title": "俄中美元首会晤开始",
    "link": "https://sputniknews.cn/20261119/1074251909.html",
    "source": "卫星社中文",
@@ -2704,6 +3117,14 @@
    ]
   },
   {
+   "title": "South Korea's top court upholds 4-year sentence for former first lady",
+   "link": "https://news.cgtn.com/news/2026-11-19/news-1SckWH3yqXe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T07:24:04.000Z",
+   "summary": "South Korea's Supreme Court on Thursday upheld a four-year prison sentence and a 50-million-won (about $37,570) fine for…",
+   "regions": []
+  },
+  {
    "title": "澳大利亚10月失业率升至4.9%",
    "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734599.shtml",
    "source": "中新网国际",
@@ -2743,6 +3164,14 @@
    ]
   },
   {
+   "title": "NASA Voyager 1 probe believed to have reached 'light-day' milestone",
+   "link": "https://news.cgtn.com/news/2026-11-19/NASA-Voyager-1-probe-believed-to-have-reached-light-day-milestone-1Sc7oJxO8jC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T07:04:30.000Z",
+   "summary": "NASA's ​Voyager 1 probe is believed to have now hit a distance milestone accomplished by no other spacecraft from Earth,…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.7】67 km S of Ugashik, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wxgryr",
    "source": "USGS地震台网",
@@ -2764,6 +3193,14 @@
    ]
   },
   {
+   "title": "Xi, Trump conclude meeting in Shenzhen",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-Trump-conclude-meeting-in-Shenzhen-1SbT1vQRYIM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T06:36:54.000Z",
+   "summary": "Xi, Trump conclude meeting in Shenzhen",
+   "regions": []
+  },
+  {
    "title": "俄总统助理：普京在与特朗普会晤后心情极佳",
    "link": "https://sputniknews.cn/20261119/1074248912.html",
    "source": "卫星社中文",
@@ -2773,6 +3210,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Trump says looking forward to trilateral meeting with Xi, Putin",
+   "link": "https://news.cgtn.com/news/2026-11-19/Trump-says-looking-forward-to-trilateral-meeting-with-Xi-Putin-1Scdb1PQ2Ck/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T06:10:46.000Z",
+   "summary": "US President Donald Trump said on Thursday that he was very much looking forward to a historic trilateral meeting with C…",
+   "regions": []
   },
   {
    "title": "马斯克承认2014年乌克兰政变实际上由美国策划",
@@ -2848,6 +3293,22 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "Xi meets Trump, urging continued efforts to steer ties on right course",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-meets-Trump-in-Shenzhen-1Sca74tCc80/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T05:30:18.000Z",
+   "summary": "Chinese President Xi Jinping met with US President Donald Trump on Thursday in Shenzhen, calling for continued efforts t…",
+   "regions": []
+  },
+  {
+   "title": "Trump arrives at venue for meeting with Xi in Shenzhen",
+   "link": "https://news.cgtn.com/news/2026-11-19/Trump-arrives-at-venue-for-meeting-with-Xi-in-Shenzhen-1SccMOdOLmM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T05:29:54.000Z",
+   "summary": "Trump arrives at venue for meeting with Xi in Shenzhen",
+   "regions": []
   },
   {
    "title": "俄美元首会晤已结束，持续近一小时",
@@ -2931,6 +3392,14 @@
     "俄乌",
     "美洲"
    ]
+  },
+  {
+   "title": "Xi announces measures to consistently support Asia-Pacific cooperation",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-announces-measures-to-consistently-support-Asia-Pacific-cooperation-1Sc0KodIXcY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-19T03:29:19.000Z",
+   "summary": "Xi announces measures to consistently support Asia-Pacific cooperation",
+   "regions": []
   },
   {
    "title": "美国中央司令部司令在以色列会见以军方和摩萨德领导人",
@@ -3380,6 +3849,17 @@
    ]
   },
   {
+   "title": "John Lee outlines Hong Kong's development priorities",
+   "link": "https://news.cgtn.com/news/2026-11-19/John-Lee-outlines-Hong-Kong-s-development-priorities-1ScEFFKV0ME/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T14:02:27.000Z",
+   "summary": "John Lee outlines Hong Kong's development priorities",
+   "regions": [
+    "香港",
+    "亚太"
+   ]
+  },
+  {
    "title": "琼州海峡智能航运示范工程在海口启动",
    "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734950.shtml",
    "source": "中新网滚动",
@@ -3442,6 +3922,59 @@
  ],
  "cn": [
   {
+   "title": "研究发现：大脑的“青春期”能持续到32岁左右",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735006.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-19T23:51:52.000Z",
+   "summary": "研究发现：大脑的“青春期”能持续到32岁左右！30岁，慌啥子嘛……",
+   "regions": []
+  },
+  {
+   "title": "强化对党忠诚教育（学习贯彻党的二十届五中全会精神）",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735003.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-19T23:50:00.000Z",
+   "summary": "王小洪",
+   "regions": []
+  },
+  {
+   "title": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-20/10734999.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-19T23:46:21.000Z",
+   "summary": "2026年11月19日，中共中央政治局委员、外交部长王毅在深圳向中外记者介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果，并回答记者提问。",
+   "regions": [
+    "深圳"
+   ]
+  },
+  {
+   "title": "医美逐渐低龄化，“变美”风险不容忽视",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735001.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-19T23:40:15.000Z",
+   "summary": "近年来，各大医院的整形美容科门诊多出不少稚嫩面孔。割双眼皮、打瘦脸针、填充玻尿酸……这些需谨慎对待的医疗美容项目，正被越来越多大学生、未成年人提上日程。半月谈记者调查发现，医美低龄化趋势明显，容貌焦虑与违规营销共存，“变美”风险不容忽视。",
+   "regions": []
+  },
+  {
+   "title": "“互联网+AI监管”24小时全自动巡检 餐饮后厨有了智慧眼",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-20/10734998.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-19T23:32:27.000Z",
+   "summary": "餐饮后厨有了智慧眼(大国小家)",
+   "regions": []
+  },
+  {
+   "title": "Mexico sees opportunities for business at APEC in Shenzhen",
+   "link": "https://newsus.cgtn.com/news/2026-11-20/Mexico-sees-opportunities-for-business-at-APEC-in-Shenzhen-1Sdk1deFshW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T23:09:28.000Z",
+   "summary": "Mexico sees opportunities for business at APEC in Shenzhen",
+   "regions": [
+    "墨西哥",
+    "美洲"
+   ]
+  },
+  {
    "title": "习近平：大国和则世界安，大国斗则世界乱",
    "link": "https://www.chinanews.com.cn/gn/2026/11-20/10734985.shtml",
    "source": "中新网中国",
@@ -3464,6 +3997,17 @@
    ]
   },
   {
+   "title": "Full text: APEC Connectivity Blueprint",
+   "link": "https://news.cgtn.com/news/2026-11-19/APEC-releases-a-connectivity-blueprint-1ScRrQaSt8I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T15:21:42.000Z",
+   "summary": "The 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting adopted the APEC Connectivity Blueprint on T…",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
    "title": "国家级非遗“宛梆”唱响伏牛山",
    "link": "https://www.chinanews.com.cn/tp/2026/11-19/10734964.shtml",
    "source": "中新网滚动",
@@ -3483,12 +4027,40 @@
    "regions": []
   },
   {
+   "title": "Poll on the China-Russia-US leaders' meeting",
+   "link": "https://news.cgtn.com/news/2026-11-19/Poll-on-the-China-Russia-US-leaders-meeting-1ScP0SNNlTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T15:12:17.000Z",
+   "summary": "Poll on the China-Russia-US leaders' meeting",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
    "title": "中国担任2026年亚太经合组织东道主成果清单",
    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734978.shtml",
    "source": "中新网中国",
    "time": "2026-11-19T15:11:55.000Z",
    "summary": "(共75项)",
    "regions": []
+  },
+  {
+   "title": "Why China-Russia-US summit matters so much and what it has achieved",
+   "link": "https://news.cgtn.com/news/2026-11-19/Why-China-Russia-US-summit-matters-so-much-and-what-it-has-achieved-1ScKiTGKfVC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T15:08:00.000Z",
+   "summary": "The first-ever trilateral meeting between the leaders of China, Russia and the United States carries significance beyond…",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌",
+    "美国",
+    "美洲"
+   ]
   },
   {
    "title": "难忘二战记忆——火光之下，不只是新加坡",
@@ -3499,6 +4071,25 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "How cultural exchanges build a close Asia-Pacific community",
+   "link": "https://news.cgtn.com/news/2026-11-19/How-cultural-exchanges-build-a-close-Asia-Pacific-community-1ScMKLIdOKs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T14:55:03.000Z",
+   "summary": "As a group of children brought the traditional Xingshi (lion awakening) performance and Yingge dance to life, Peng Liyua…",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Beyond efficiency: Perovskite's green ledger remains unbalanced",
+   "link": "https://news.cgtn.com/news/2026-11-19/Beyond-efficiency-Perovskite-s-green-ledger-remains-unbalanced-1ScPEMB6kFy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T14:54:26.000Z",
+   "summary": "Beyond efficiency: Perovskite's green ledger remains unbalanced",
+   "regions": []
   },
   {
    "title": "亚太经合组织互联互通蓝图",
@@ -3598,6 +4189,17 @@
    ]
   },
   {
+   "title": "A historic first: What Xi-Putin-Trump summit means for world stability",
+   "link": "https://news.cgtn.com/news/2026-11-19/A-historic-first-What-Xi-Putin-Trump-summit-means-for-world-stability-1ScyrTmUvBe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T14:24:43.000Z",
+   "summary": "In a historic first with far-reaching implications for the world, Chinese President Xi Jinping met with Russian Presiden…",
+   "regions": [
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
    "title": "【和合共生】习言道丨“修昔底德陷阱”绝不是宿命",
    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734952.shtml",
    "source": "中新网中国",
@@ -3617,6 +4219,28 @@
    "summary": "中新网呼和浩特11月19日电 题：从“城市包围机场”到4F级枢纽：呼和浩特新机场“大”在哪？",
    "regions": [
     "呼和浩特"
+   ]
+  },
+  {
+   "title": "TCL's Globalization 3.0: Starting in Asia-Pacific",
+   "link": "https://news.cgtn.com/news/2026-11-19/TCL-s-Globalization-3-0-Starting-in-Asia-Pacific-1ScOCOHkVQQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T14:21:47.000Z",
+   "summary": "TCL's Globalization 3.0: Starting in Asia-Pacific",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Full text: 2026 APEC Leaders' Shenzhen Outlook",
+   "link": "https://news.cgtn.com/news/2026-11-19/Full-text-2026-APEC-Leaders-Shenzhen-Outlook-1ScNEirhiKI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T14:15:42.000Z",
+   "summary": "The 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting adopted the 2026 APEC Leaders' Shenzhen Outl…",
+   "regions": [
+    "太平洋",
+    "亚太"
    ]
   },
   {
@@ -3690,6 +4314,14 @@
     "亚太",
     "深圳"
    ]
+  },
+  {
+   "title": "The Shenzhen Miracle: From fishing village to global tech hub",
+   "link": "https://news.cgtn.com/news/2026-11-19/The-Shenzhen-Miracle-From-fishing-village-to-global-tech-hub-1ScIA9Zc7V6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T13:38:59.000Z",
+   "summary": "The Shenzhen Miracle: From fishing village to global tech hub",
+   "regions": []
   },
   {
    "title": "习近平主持中俄美元首会晤",
@@ -3786,6 +4418,17 @@
    ]
   },
   {
+   "title": "China names 34 new leading smart factories in second batch",
+   "link": "https://news.cgtn.com/news/2026-11-19/China-names-34-new-leading-smart-factories-in-second-batch-1ScDQHOB3Zm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T12:37:54.000Z",
+   "summary": "China names 34 new leading smart factories in second batch",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "天津河西：“老帮老”搭桥 银发互助融入社区日常",
    "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734832.shtml",
    "source": "中新网社会",
@@ -3862,6 +4505,14 @@
    ]
   },
   {
+   "title": "John Lee outlines five key takeaways from HK's APEC participation",
+   "link": "https://news.cgtn.com/news/2026-11-19/John-Lee-outlines-five-key-takeaways-from-HK-s-APEC-participation-1ScC9zhA6xq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T12:00:26.000Z",
+   "summary": "John Lee outlines five key takeaways from HK's APEC participation",
+   "regions": []
+  },
+  {
    "title": "习近平：三国会晤播下的种子必将生根发芽、开花结果",
    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734863.shtml",
    "source": "中新网中国",
@@ -3874,6 +4525,30 @@
    ]
   },
   {
+   "title": "Xi: China-Russia-US summit positive, constructive, fruitful",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-China-Russia-US-summit-positive-constructive-fruitful-1ScC0QMM3tK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T11:48:49.000Z",
+   "summary": "Chinese President Xi Jinping on Thursday said that the China-Russia-US summit has been positive, constructive and fruitf…",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "Xi's vision for Asia-Pacific development wins support at APEC meeting",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-s-vision-for-Asia-Pacific-development-wins-support-at-APEC-meeting-1Scy00AGorC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T11:44:43.000Z",
+   "summary": "Chinese President Xi Jinping's speech at the 33rd APEC Economic Leaders' Meeting on Thursday has drawn widespread suppor…",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
    "title": "石泰峰在陕西、四川调研时强调 深入学习贯彻习近平党建思想 推动全面从严治党各项任务落到实处",
    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734861.shtml",
    "source": "中新网中国",
@@ -3882,6 +4557,17 @@
    "regions": [
     "成都",
     "四川"
+   ]
+  },
+  {
+   "title": "From one open door to all: Xi Jinping's vision for Asia-Pacific growth",
+   "link": "https://news.cgtn.com/news/2026-11-19/From-one-open-door-to-all-Xi-Jinping-s-vision-for-Asia-Pacific-growth-1Scut1gjYas/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T11:34:14.000Z",
+   "summary": "From one open door to all: Xi Jinping's vision for Asia-Pacific growth",
+   "regions": [
+    "太平洋",
+    "亚太"
    ]
   },
   {
@@ -3903,6 +4589,14 @@
    "regions": []
   },
   {
+   "title": "Reporter turns Latin America quizmaster at APEC",
+   "link": "https://news.cgtn.com/news/2026-11-19/Reporter-turns-Latin-America-quizmaster-at-APEC-1SczMSLnJXa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T11:24:26.000Z",
+   "summary": "Reporter turns Latin America quizmaster at APEC",
+   "regions": []
+  },
+  {
    "title": "李希在广西调研时强调 深入学习贯彻党的二十届五中全会精神 在持之以恒推进全面从严治党中更好担当尽责",
    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734844.shtml",
    "source": "中新网中国",
@@ -3911,6 +4605,19 @@
    "regions": [
     "南宁",
     "广西"
+   ]
+  },
+  {
+   "title": "Full text: China-Russia-US Heads of State Declaration toward Peace",
+   "link": "https://news.cgtn.com/news/2026-11-19/Full-text-China-Russia-US-Heads-of-State-Declaration-toward-Peace-1SczM9jzJII/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T11:18:16.000Z",
+   "summary": "Chinese President Xi Jinping, Russian President Vladimir Putin and US President Donald Trump on Thursday issued a joint …",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
    ]
   },
   {
@@ -3979,6 +4686,14 @@
    ]
   },
   {
+   "title": "Youth and Knowledge for Global Climate Action at COP31",
+   "link": "https://news.cgtn.com/news/2026-11-19/Youth-and-Knowledge-for-Global-Climate-Action-at-COP31-1ScrnHnk95S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T10:36:00.000Z",
+   "summary": "Youth and Knowledge for Global Climate Action at COP31",
+   "regions": []
+  },
+  {
    "title": "浙江景宁综合高中试点观察：一所山区县中的“第二次选择”",
    "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734777.shtml",
    "source": "中新网社会",
@@ -4033,6 +4748,120 @@
    "regions": [
     "江西"
    ]
+  },
+  {
+   "title": "A scarf of shared harmony: Chinese heritage and Lingnan spirit at APEC",
+   "link": "https://news.cgtn.com/news/2026-11-19/A-scarf-of-shared-harmony-Chinese-heritage-and-Lingnan-spirit-at-APEC-1Scs1GSSwfK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T10:03:22.000Z",
+   "summary": "The 33rd APEC Economic Leaders' Meeting was held at the Shenzhen World Convention Center on November 19. Before the grou…",
+   "regions": []
+  },
+  {
+   "title": "Over half a century of diplomatic relations celebrated in Reykjavik",
+   "link": "https://news.cgtn.com/news/2026-11-19/Over-half-a-century-of-diplomatic-relations-celebrated-in-Reykjavik-1ScpXorYTxm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T10:02:19.000Z",
+   "summary": "A concert celebrating the 55th anniversary of China-Iceland diplomatic relations was held on Saturday evening at the Har…",
+   "regions": [
+    "中国",
+    "亚太",
+    "冰岛",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "China-Russia-US summit concludes in Shenzhen",
+   "link": "https://news.cgtn.com/news/2026-11-19/China-Russia-US-summit-concludes-in-Shenzhen-1ScvWQfhU0U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T09:58:02.000Z",
+   "summary": "China-Russia-US summit concludes in Shenzhen",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "Xi makes four points on how major countries get along with each other",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-makes-four-points-on-how-major-countries-get-along-with-each-other-1SctgLzjhYY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T09:34:45.000Z",
+   "summary": "Chinese President Xi Jinping on Thursday made four points on how major countries should get along with each other and jo…",
+   "regions": []
+  },
+  {
+   "title": "China-Russia-US summit: Xi urges positive major-country interactions",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-holds-China-Russia-US-summit-with-Putin-Trump-1SckF5lIYz6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T08:31:50.000Z",
+   "summary": "Chinese President Xi Jinping on Thursday afternoon held a China-Russia-US summit with Russian President Vladimir Putin a…",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "Exploring the Natural Treasures of the Three Gorges",
+   "link": "https://news.cgtn.com/news/2026-11-19/Exploring-the-Natural-Treasures-of-the-Three-Gorges-1SchOLkmtO0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T08:27:20.000Z",
+   "summary": "Exploring the Natural Treasures of the Three Gorges",
+   "regions": []
+  },
+  {
+   "title": "Ceramics of the Lost Voyage",
+   "link": "https://news.cgtn.com/news/2026-11-19/Ceramics-of-the-Lost-Voyage-1SclOS8U7EQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T08:22:09.000Z",
+   "summary": "Ceramics of the Lost Voyage",
+   "regions": []
+  },
+  {
+   "title": "Xi Jinping's key remarks at 33rd APEC Economic Leaders' Meeting",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-Jinping-s-key-remarks-at-33rd-APEC-Economic-Leaders-Meeting-1Scc6uqDW3S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T06:43:28.000Z",
+   "summary": "Chinese President Xi Jinping on Thursday addressed the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' M…",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Xi, Trump conclude meeting in Shenzhen",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-Trump-conclude-meeting-in-Shenzhen-1SbT1vQRYIM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T06:36:54.000Z",
+   "summary": "Xi, Trump conclude meeting in Shenzhen",
+   "regions": []
+  },
+  {
+   "title": "Trump says looking forward to trilateral meeting with Xi, Putin",
+   "link": "https://news.cgtn.com/news/2026-11-19/Trump-says-looking-forward-to-trilateral-meeting-with-Xi-Putin-1Scdb1PQ2Ck/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T06:10:46.000Z",
+   "summary": "US President Donald Trump said on Thursday that he was very much looking forward to a historic trilateral meeting with C…",
+   "regions": []
+  },
+  {
+   "title": "Xi says issues linked to population aging should be actively addressed",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-urges-actively-addressing-population-aging-1Sc8FZ38uwU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T05:38:14.000Z",
+   "summary": "Chinese President Xi Jinping has urged further efforts to implement the national strategy of actively addressing populat…",
+   "regions": []
+  },
+  {
+   "title": "Trump arrives at venue for meeting with Xi in Shenzhen",
+   "link": "https://news.cgtn.com/news/2026-11-19/Trump-arrives-at-venue-for-meeting-with-Xi-in-Shenzhen-1SccMOdOLmM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T05:29:54.000Z",
+   "summary": "Trump arrives at venue for meeting with Xi in Shenzhen",
+   "regions": []
   },
   {
    "title": "北方多地飘雪！山东半岛冷流降雪上线 威海迎来下半年首场降雪",
@@ -4122,6 +4951,17 @@
    ]
   },
   {
+   "title": "Full text: Xi Jinping's remarks at 33rd APEC Economic Leaders' Meeting",
+   "link": "https://news.cgtn.com/news/2026-11-19/Full-text-Xi-Jinping-s-remarks-at-33rd-APEC-Economic-Leaders-Meeting-1Sc0QPKZkm4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T03:48:20.000Z",
+   "summary": "Chinese President Xi Jinping on Thursday made remarks at the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Lead…",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
+  },
+  {
    "title": "（深圳APEC）习近平：携手搭建亚太共同体的“四梁八柱”",
    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734544.shtml",
    "source": "中新网中国",
@@ -4139,6 +4979,17 @@
    "summary": "中新社深圳11月19日电 (记者 谢雁冰)11月19日上午，中国国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话。",
    "regions": [
     "深圳"
+   ]
+  },
+  {
+   "title": "Xi announces measures to consistently support Asia-Pacific cooperation",
+   "link": "https://news.cgtn.com/news/2026-11-19/Xi-announces-measures-to-consistently-support-Asia-Pacific-cooperation-1Sc0KodIXcY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T03:29:19.000Z",
+   "summary": "Xi announces measures to consistently support Asia-Pacific cooperation",
+   "regions": [
+    "太平洋",
+    "亚太"
    ]
   },
   {
@@ -4464,6 +5315,14 @@
  ],
  "econ": [
   {
+   "title": "产销、改装、回收，汽车消费全链条发力",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735005.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-19T23:45:47.000Z",
+   "summary": "《扩大消费“十五五”规划》提出“扩大汽车消费，推进汽车流通消费领域全链条创新发展，促进二手车流通，拓展汽车改装、租赁、赛事及房车露营等汽车后市场消费”。",
+   "regions": []
+  },
+  {
    "title": "钱凯港运营两周年 为中秘双边贸易带来哪些改变？",
    "link": "https://www.chinanews.com.cn/cj/2026/11-20/10734988.shtml",
    "source": "中新网滚动",
@@ -4707,6 +5566,14 @@
    ]
   },
   {
+   "title": "10,000 trains: Chinese-made cars speed to global markets",
+   "link": "https://news.cgtn.com/news/2026-11-19/10-000-trains-Chinese-made-cars-speed-to-global-markets-1ScFHgf3Mmk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T12:40:56.000Z",
+   "summary": "10,000 trains: Chinese-made cars speed to global markets",
+   "regions": []
+  },
+  {
    "title": "青海德令哈：柴达木枸杞“入饲”蛋鸡养殖促增收",
    "link": "https://www.chinanews.com.cn/cj/2026/11-19/10734865.shtml",
    "source": "中新网财经",
@@ -4721,6 +5588,17 @@
    "time": "2026-11-19T12:23:12.000Z",
    "summary": "中新社郑州11月19日电 (记者 阚力)河南郑州新郑国际机场19日通过世界卫生组织实地测评验收，被授予“国际卫生机场”称号，成为中国中部地区首个成功创建“国际卫生机场”的航空口岸。",
    "regions": []
+  },
+  {
+   "title": "Peng Liyuan, APEC economic leaders' spouses visit cultural exhibition",
+   "link": "https://news.cgtn.com/news/2026-11-19/Peng-Liyuan-APEC-economic-leaders-spouses-visit-cultural-exhibition-1ScBneZRrkk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T12:22:56.000Z",
+   "summary": "Peng Liyuan, wife of Chinese President Xi Jinping, and spouses of leaders of Asia-Pacific Economic Cooperation (APEC) ec…",
+   "regions": [
+    "太平洋",
+    "亚太"
+   ]
   },
   {
    "title": "权威报告称，中国民营企业踊跃参与虚拟电厂项目投资",
@@ -4841,6 +5719,43 @@
    "regions": [
     "重庆",
     "福建"
+   ]
+  },
+  {
+   "title": "China-US trade council's agriculture working group to hold meeting",
+   "link": "https://news.cgtn.com/news/2026-11-19/China-US-trade-council-s-agriculture-working-group-to-hold-meeting-1SclhqBqxrO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T07:37:01.000Z",
+   "summary": "China-US trade council's agriculture working group to hold meeting",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "A Future We Share | China Singapore Team Up to Battle Gastric Cancer",
+   "link": "https://news.cgtn.com/news/2026-11-19/A-Future-We-Share-China-Singapore-Team-Up-to-Battle-Gastric-Cancer-1SaCxvn99n2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T07:25:42.000Z",
+   "summary": "New progress has been made in early gastric cancer screening.",
+   "regions": [
+    "中国",
+    "亚太",
+    "新加坡"
+   ]
+  },
+  {
+   "title": "China, Russia and US: Global economic share, Asia-Pacific roles",
+   "link": "https://news.cgtn.com/news/2026-11-19/China-Russia-and-US-Global-economic-share-Asia-Pacific-roles-1Sc8DxcAHm0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-19T07:12:32.000Z",
+   "summary": "China, Russia and US: Global economic share, Asia-Pacific roles",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌",
+    "太平洋"
    ]
   },
   {
@@ -5057,5 +5972,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-19T22:43:29.507Z"
+ "updatedAt": "2026-11-20T03:51:06.045Z"
 }
