@@ -924,6 +924,123 @@
  ],
  "world": [
   {
+   "title": "【地震 M2.6】11 km WNW of Calipatria, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364663",
+   "source": "USGS地震台网",
+   "time": "2026-11-21T21:46:31.560Z",
+   "summary": "美国地质调查局官方监测：11 km WNW of Calipatria, CA发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】11 km NW of Pinnacles, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75469982",
+   "source": "USGS地震台网",
+   "time": "2026-11-21T20:21:38.630Z",
+   "summary": "美国地质调查局官方监测：11 km NW of Pinnacles, CA发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.9】88 km WNW of El Aguilar, Argentina",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni",
+   "source": "USGS地震台网",
+   "time": "2026-11-21T19:03:04.170Z",
+   "summary": "美国地质调查局官方监测：88 km WNW of El Aguilar, Argentina发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "阿根廷",
+    "拉美"
+   ]
+  },
+  {
+   "title": "伊朗议会表示美国要么屈服于伊朗外交官，要么屈服于伊朗导弹",
+   "link": "https://sputniknews.cn/20261122/1074296144.html",
+   "source": "卫星社中文",
+   "time": "2026-11-21T19:00:00.000Z",
+   "summary": "伊朗议会国家安全与外交政策委员会发言人易卜拉欣·雷扎伊表示，美国必须屈服于伊朗外交官，否则则将屈服于伊朗导弹。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "俄分析家：深圳俄中美三方会晤标志着全球政治的新篇章",
+   "link": "https://sputniknews.cn/20261122/1074295623.html",
+   "source": "卫星社中文",
+   "time": "2026-11-21T18:20:00.000Z",
+   "summary": "俄罗斯政治学家维塔利·阿尔科夫对俄罗斯卫星通讯社表示，11月19日在深圳举行的2026年亚太经合组织峰会期间，俄罗斯、中国和美国首脑的三方会晤是国际关系新架构形成的重要信号。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "外媒：英伟达市值在几周内已蒸发1万多亿美元",
+   "link": "https://sputniknews.cn/20261122/1074295453.html",
+   "source": "卫星社中文",
+   "time": "2026-11-21T17:50:00.000Z",
+   "summary": "外国媒体报道，在英伟达首席执行官黄仁勋及其辞职的丑闻背景下图形处理器开发商英伟达公司的市值在几周内已蒸发了1万多亿美元。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】15 km WSW of Ollagüe, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucn9",
+   "source": "USGS地震台网",
+   "time": "2026-11-21T17:41:02.389Z",
+   "summary": "美国地质调查局官方监测：15 km WSW of Ollagüe, Chile发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.6】68 km SSE of Tateyama, Japan",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucn8",
+   "source": "USGS地震台网",
+   "time": "2026-11-21T17:30:44.504Z",
+   "summary": "美国地质调查局官方监测：68 km SSE of Tateyama, Japan发生 4.6 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄列宁格勒州州长：在芬兰湾遭无人机袭击的俄罗斯干货船船员无需撤离",
+   "link": "https://sputniknews.cn/20261122/1074295339.html",
+   "source": "卫星社中文",
+   "time": "2026-11-21T17:20:00.000Z",
+   "summary": "俄列宁格勒州州长德罗兹坚科表示，此前在芬兰湾海域遭无人机袭击的俄罗斯干货船船员无需撤离，船上的情况可控。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】0 km SSW of La Colorada, Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucn2",
+   "source": "USGS地震台网",
+   "time": "2026-11-21T17:14:21.477Z",
+   "summary": "美国地质调查局官方监测：0 km SSW of La Colorada, Panama发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "巴拿马",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】149 km S of Cordova, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xbsutp",
+   "source": "USGS地震台网",
+   "time": "2026-11-21T16:53:25.513Z",
+   "summary": "美国地质调查局官方监测：149 km S of Cordova, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "美国中央司令部否认伊朗关于F-16战斗机受损的说法",
    "link": "https://sputniknews.cn/20261122/1074295229.html",
    "source": "卫星社中文",
@@ -968,6 +1085,27 @@
     "中东",
     "俄乌",
     "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.0】44 km S of Calama, Chile",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucmv",
+   "source": "USGS地震台网",
+   "time": "2026-11-21T16:04:39.659Z",
+   "summary": "美国地质调查局官方监测：44 km S of Calama, Chile发生 4.0 级地震，震源深度 未知。",
+   "regions": [
+    "智利",
+    "拉美"
+   ]
+  },
+  {
+   "title": "【地震 M4.1】237 km NNE of Lospalos, Timor Leste",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucmt",
+   "source": "USGS地震台网",
+   "time": "2026-11-21T15:56:07.655Z",
+   "summary": "美国地质调查局官方监测：237 km NNE of Lospalos, Timor Leste发生 4.1 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
    ]
   },
   {
@@ -1166,6 +1304,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "走近冰川：一场关于地球未来的青春探索",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143243",
+   "source": "联合国新闻",
+   "time": "2026-11-21T12:00:00.000Z",
+   "summary": "冰川，看似坚不可摧，却是气候变化最敏感的见证者之一。跟随联合国新闻的镜头，去聆听祁连山八一冰川的故事，寻找属于年轻一代的答案。",
+   "regions": []
   },
   {
    "title": "伊朗宣布击落一架美军MQ-1无人机",
@@ -3750,5 +3896,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-21T16:53:39.138Z"
+ "updatedAt": "2026-11-21T21:59:32.605Z"
 }
