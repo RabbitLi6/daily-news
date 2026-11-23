@@ -2,6 +2,38 @@
  "date": "2026-11-22",
  "tech": [
   {
+   "title": "BLG 连斩 4 支韩国队夺冠，《英雄联盟》S16 中国 LPL 纪录片《风起今朝》12 月播出",
+   "link": "https://www.ithome.com/1/030/731.htm",
+   "source": "IT之家",
+   "time": "2026-11-22T23:56:04.000Z",
+   "summary": "IT之家 11 月 23 日消息，《英雄联盟》赛事今日官宣，2026 全球总决赛 LPL 纪录片《风起今朝》将于 12 月在B站播出，首支预告短片公布。 IT之家注意到，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛于 11 月 15…",
+   "regions": []
+  },
+  {
+   "title": "古尔曼：苹果若想在 AI 时代生存下去，需进行结构和文化层面的全面改革",
+   "link": "https://www.ithome.com/1/030/730.htm",
+   "source": "IT之家",
+   "time": "2026-11-22T23:47:41.000Z",
+   "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨日在新一期《Power On》通讯中认为，苹果传统的软件开发方式可能阻碍其进入 AI 时代。僵化的发布周期、集中化的决策和缓慢的开发流程，让苹果很难和 AI 领域竞争对手抗衡。 …",
+   "regions": []
+  },
+  {
+   "title": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元",
+   "link": "https://www.ithome.com/1/030/729.htm",
+   "source": "IT之家",
+   "time": "2026-11-22T23:37:54.000Z",
+   "summary": "IT之家 11 月 23 日消息，苹果今年 5 月同意支付 2.5 亿美元 （IT之家注：现汇率约合 16.73 亿元人民币） ，以和解一起涉及 Siri AI 功能延迟上线的美国集体诉讼。 根据 MacRumors 当地时间 11 月 2…",
+   "regions": []
+  },
+  {
+   "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+   "link": "https://sspai.com/post/119418",
+   "source": "少数派",
+   "time": "2026-11-22T23:34:27.000Z",
+   "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 …",
+   "regions": []
+  },
+  {
    "title": "涉案金额超 3 亿元，北京查处首例区块链虚拟货币新型协助传销案",
    "link": "https://www.ithome.com/1/030/723.htm",
    "source": "IT之家",
@@ -39,6 +71,14 @@
    "source": "IT之家",
    "time": "2026-11-22T22:42:26.000Z",
    "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨晚发布了最新一期 Power On 新闻通讯，分析了苹果在 AI Agent 竞争中的处境，并披露了苹果 2027 年上半年的部分新品计划。 IT之家此前报道，苹果正在招聘负责 …",
+   "regions": []
+  },
+  {
+   "title": "XXL-AI v1.7.0 发布｜AI 应用开发平台",
+   "link": "https://www.oschina.net/news/503728",
+   "source": "开源中国",
+   "time": "2026-11-22T16:53:53.000Z",
+   "summary": "Release Notes： 【本地版（Desk 桌面端）】 1、【架构】Harness模块独立：针对会话Loop，包含模型请求、工具调用、MCP调用、SKILL加载等等，统一闭环在chat模块下独立的 harness 模块中，提升可维护性…",
    "regions": []
   },
   {
@@ -151,6 +191,14 @@
    "source": "IT之家",
    "time": "2026-11-22T11:44:18.000Z",
    "summary": "IT之家 11 月 22 日消息，近期B站出现大量爱好者设置的 AI 智能体账号，这些账号通常以“大肥鱼”“小飞鲸”等昵称，使用 DeepSeek 鲸鱼娘等形象作为头像，在评论区广泛活跃。 对此，B站官方账号“哔哩哔哩社区小管家”于 11 …",
+   "regions": []
+  },
+  {
+   "title": "开源AI终端 uniTerm 1.12.4 发布，34协议合一，网络工具箱、笔记面板上线",
+   "link": "https://www.oschina.net/news/503723",
+   "source": "开源中国",
+   "time": "2026-11-22T11:39:48.000Z",
+   "summary": "关于 uniTerm uniTerm 是一款轻量级、跨平台的一站式终端软件，基于 Wails v3 + Go + Vue 3 构建。它将远程终端、文件传输、远程桌面、数据库、Kubernetes 管理、AI Agent整合进一个不到 20M…",
    "regions": []
   },
   {
@@ -498,6 +546,14 @@
    "regions": []
   },
   {
+   "title": "智慧党支部 v1.3 发布：16 个支部台账模块，Docker 一条命令起服务",
+   "link": "https://www.oschina.net/news/503721",
+   "source": "开源中国",
+   "time": "2026-11-22T07:54:54.000Z",
+   "summary": "v1.3 发布说明 开源项目「智慧党支部」发布 v1.3。这是一个面向基层党支部的日常办公管理系统，Flask + SQLite 单容器部署，MIT 协议，数据全部保存在本地，不依赖云服务。本次版本把支部日常的\"人、钱、会、事\"收进一个数据…",
+   "regions": []
+  },
+  {
    "title": "Netflix 日区订阅涨价，高级版套餐月费突破 2500 日元",
    "link": "https://www.ithome.com/1/030/605.htm",
    "source": "IT之家",
@@ -778,6 +834,14 @@
    "regions": []
   },
   {
+   "title": "v2.4.4：增强 AI 智能体、修复数据同步问题、优化前端资源等",
+   "link": "https://www.oschina.net/news/503719",
+   "source": "开源中国",
+   "time": "2026-11-22T04:14:29.000Z",
+   "summary": "本版概要 v2.4.4 以数据正确性与日常运维体验为主：修复跨库时间主键导致的同步删除误判、CDC 位点 / 租约与 ClickHouse 时区绑定等数据问题；新增变更 / 审计 / 系统日志的按日期清理与三档保留期；看板资源环与底部双卡重…",
+   "regions": []
+  },
+  {
    "title": "重控制、轻渲染，达瓦科技的 AI 视频工业路线",
    "link": "http://www.geekpark.net/news/374303",
    "source": "极客公园",
@@ -931,6 +995,122 @@
   }
  ],
  "world": [
+  {
+   "title": "【地震 M4.7】226 km NW of Tobelo, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucv2",
+   "source": "USGS地震台网",
+   "time": "2026-11-22T23:50:44.048Z",
+   "summary": "美国地质调查局官方监测：226 km NW of Tobelo, Indonesia发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.2】33 km WSW of Pánormos, Greece",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucv1",
+   "source": "USGS地震台网",
+   "time": "2026-11-22T23:42:49.074Z",
+   "summary": "美国地质调查局官方监测：33 km WSW of Pánormos, Greece发生 4.2 级地震，震源深度 未知。",
+   "regions": [
+    "希腊",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "俄副总理：至2050年俄罗斯道路上约50%的交通工具将实现无人驾驶",
+   "link": "https://sputniknews.cn/20261123/1074303382.html",
+   "source": "卫星社中文",
+   "time": "2026-11-22T23:39:42.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科电 俄罗斯副总理安德烈·尼基京在接受俄罗斯卫星通讯社采访时表示，至2050年，俄罗斯道路上约50%的交通工具将实现无人驾驶。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "外媒：伊拉克安全部队打死极端组织“伊斯兰国”一头目",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736231.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-22T23:37:20.000Z",
+   "summary": "中新网11月23日电 据伊拉克沙法克通讯社报道，当地时间22日，伊拉克国家安全局在一份声明中表示，在伊东部迪亚拉省的一次行动中，打死了极端组织“伊斯兰国”一名头目。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "2026年清华财经新闻论坛在美举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736226.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-22T23:34:32.000Z",
+   "summary": "中新社华盛顿11月22日电 (记者 陈孟统)当地时间11月20日，2026年清华财经新闻论坛在美国首都华盛顿举行。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.8】9 km NW of Pinnacles, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75470822",
+   "source": "USGS地震台网",
+   "time": "2026-11-22T23:30:56.600Z",
+   "summary": "美国地质调查局官方监测：9 km NW of Pinnacles, CA发生 2.8 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "美国国家情报总监：针对美国的网络威胁是真实存在的",
+   "link": "https://sputniknews.cn/20261123/1074303263.html",
+   "source": "卫星社中文",
+   "time": "2026-11-22T23:30:29.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿电 美国国家情报总监克莱顿11月22日表示，针对美国的网络威胁是真实存在的。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "特朗普指责民主党与伊朗推高油价",
+   "link": "https://sputniknews.cn/20261123/1074303134.html",
+   "source": "卫星社中文",
+   "time": "2026-11-22T23:27:09.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿11月23日电 美国总统特朗普指责民主党人试图维持高油价。",
+   "regions": [
+    "中东",
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "日本熊本县发生4.1级地震 多地有震感",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736227.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-22T23:24:20.000Z",
+   "summary": "中新网11月23日电 据日本广播协会(NHK)报道，当地时间23日2时46分左右，日本熊本县天草、芦北地区发生4.1级地震，震源深度10公里。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M2.7】85 km W of Akhiok, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xebyhe",
+   "source": "USGS地震台网",
+   "time": "2026-11-22T23:24:16.401Z",
+   "summary": "美国地质调查局官方监测：85 km W of Akhiok, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "塞尔维亚议会议长：总统选举将于12月27日举行",
+   "link": "https://sputniknews.cn/20261123/1074303023.html",
+   "source": "卫星社中文",
+   "time": "2026-11-22T23:22:32.000Z",
+   "summary": "俄罗斯卫星通讯社贝尔格莱德11月23日电 塞尔维亚议会议长、代理总统丘皮奇在电视转播中表示，该国总统选举将于12月27日举行。",
+   "regions": [
+    "俄乌"
+   ]
+  },
   {
    "title": "古特雷斯发表声明 对COP31未就政治决定达成一致表示失望",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736224.shtml",
@@ -1193,6 +1373,14 @@
    ]
   },
   {
+   "title": "Signs of U.S. \"brain drain\" amid Trump administration policies",
+   "link": "https://newsus.cgtn.com/news/2026-11-23/-Signs-of-U-S-brain-drain-amid-Trump-administration-policies--1Si8xvxgozS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T19:31:32.000Z",
+   "summary": "Signs of U.S. \"brain drain\" amid Trump administration policies",
+   "regions": []
+  },
+  {
    "title": "外媒：欧洲多国选举结果或削弱欧盟",
    "link": "https://sputniknews.cn/20261123/1074299881.html",
    "source": "卫星社中文",
@@ -1363,6 +1551,14 @@
    ]
   },
   {
+   "title": "COP31 fails to reach consensus on Antalya Pact",
+   "link": "https://news.cgtn.com/news/2026-11-22/COP31-fails-to-reach-consensus-on-Antalya-Pact-1ShNqP9QQg0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T14:49:38.000Z",
+   "summary": "COP31 fails to reach consensus on Antalya Pact",
+   "regions": []
+  },
+  {
    "title": "青海德令哈5.6级地震经三轮排查无人员伤亡",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736213.shtml",
    "source": "中新网滚动",
@@ -1372,6 +1568,30 @@
     "西宁",
     "青海"
    ]
+  },
+  {
+   "title": "Ethiopia clashes disrupt cross-border trade and transport in Moyale",
+   "link": "https://newsaf.cgtn.com/news/2026-11-22/Ethiopia-clashes-disrupt-cross-border-trade-and-transport-in-Moyale-1ShIW6ibZcs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T14:36:51.000Z",
+   "summary": "Fighting in southern Ethiopia has disrupted trade across the Kenya-Ethiopia border, leaving truck drivers stranded and b…",
+   "regions": []
+  },
+  {
+   "title": "Asia-Pacific voices: Openness and connectivity for shared growth",
+   "link": "https://news.cgtn.com/news/2026-11-22/Asia-Pacific-voices-Openness-and-connectivity-for-shared-growth-1ShFqI2YlVu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T14:20:33.000Z",
+   "summary": "Former international officials and regional scholars have underscored the importance of openness, trade and connectivity…",
+   "regions": []
+  },
+  {
+   "title": "China-Russia-US summit: An 'enormous gift' to the world",
+   "link": "https://news.cgtn.com/news/2026-11-22/China-Russia-US-summit-An-enormous-gift-to-the-world-1ShG6CMkXde/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T14:15:35.000Z",
+   "summary": "International voices have described dialogue among major countries as an \"enormous gift to the world,\" saying latest eng…",
+   "regions": []
   },
   {
    "title": "芬兰媒体：芬兰计划采购重型多用途无人机",
@@ -1384,6 +1604,14 @@
    ]
   },
   {
+   "title": "Experts offer insights into China's approach to global challenges",
+   "link": "https://news.cgtn.com/news/2026-11-22/Experts-offer-insights-into-China-s-approach-to-global-challenges-1ShvBfi57Gw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T14:07:50.000Z",
+   "summary": "China's approach to global governance, regional cooperation and domestic development was among the key topics discussed …",
+   "regions": []
+  },
+  {
    "title": "日本文部科学大臣因政治筹款丑闻面临辞职压力",
    "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736208.shtml",
    "source": "中新网国际",
@@ -1392,6 +1620,38 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Nigeria State oil company says major pipelines fully restored",
+   "link": "https://newsaf.cgtn.com/news/2026-11-22/Nigeria-State-oil-company-says-major-pipelines-fully-restored-1ShKeQZCZ5S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T14:04:22.000Z",
+   "summary": "Nigeria says its major oil and gas pipelines have returned to full availability for the first time in two decades, follo…",
+   "regions": []
+  },
+  {
+   "title": "China urges US to revoke FCC measures targeting telecom firms",
+   "link": "https://news.cgtn.com/news/2026-11-22/China-urges-US-to-revoke-FCC-measures-targeting-telecom-firms-1ShgAIIg60E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T13:43:11.000Z",
+   "summary": "The US Federal Communications Commission (FCC) has abused its regulatory authority by exaggerating so-called national se…",
+   "regions": []
+  },
+  {
+   "title": "Saudi-led coalition says it intercepted Houthi missile",
+   "link": "https://news.cgtn.com/news/2026-11-22/Saudi-led-coalition-says-it-intercepted-Houthi-missile-1Shw7cmAhOw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T13:38:15.000Z",
+   "summary": "Saudi-led coalition says it intercepted Houthi missile",
+   "regions": []
+  },
+  {
+   "title": "Washington governor calls ICE 'out of control' after airport arrests",
+   "link": "https://news.cgtn.com/news/2026-11-22/Washington-governor-calls-ICE-out-of-control-after-airport-arrests-1ShwxAQ3xzq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T13:35:56.000Z",
+   "summary": "Washington governor calls ICE 'out of control' after airport arrests",
+   "regions": []
   },
   {
    "title": "华盛顿的“失误”令美国在亚洲年度实力榜上对华优势收窄",
@@ -1403,6 +1663,14 @@
     "美洲",
     "亚太"
    ]
+  },
+  {
+   "title": "Why the China-ASEAN relation matters",
+   "link": "https://news.cgtn.com/news/2026-11-22/Why-the-China-ASEAN-relation-matters-1Shbu0B5R16/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T13:03:04.000Z",
+   "summary": "November 22 marks the fifth anniversary of the Comprehensive Strategic Partnership between China and the Association of …",
+   "regions": []
   },
   {
    "title": "昆明口岸今年以来中泰往来旅客突破百万人次",
@@ -1434,6 +1702,22 @@
    "regions": [
     "朝鲜半岛"
    ]
+  },
+  {
+   "title": "Neves secures second term as Cape Verde president",
+   "link": "https://newsaf.cgtn.com/news/2026-11-22/Neves-secures-second-term-as-Cape-Verde-president-1ShuyXvgdSE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T12:32:18.000Z",
+   "summary": "Cape Verde's incumbent President Jose Maria Neves has been officially declared the winner of the November 15 presidentia…",
+   "regions": []
+  },
+  {
+   "title": "Swiss vice president, foreign minister to visit China",
+   "link": "https://news.cgtn.com/news/2026-11-22/Swiss-vice-president-foreign-minister-to-visit-China-1ShjNUUZCyk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T12:31:40.000Z",
+   "summary": "Swiss Vice President and Foreign Minister Ignazio Cassis will visit China from November 23 to 24 and hold the fifth roun…",
+   "regions": []
   },
   {
    "title": "阿富汗警方称打死3名武装分子",
@@ -1506,6 +1790,14 @@
    ]
   },
   {
+   "title": "Malawi steps up Ebola screening at border points",
+   "link": "https://newsaf.cgtn.com/news/2026-11-22/Malawi-steps-up-Ebola-screening-at-border-points-1Shmlcq48DK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T10:59:44.000Z",
+   "summary": "Malawi has introduced new travel restrictions and stepped-up health screening measures to guard against the spread of Eb…",
+   "regions": []
+  },
+  {
    "title": "佩斯科夫回应特朗普称赞：最主要的是普京总统不批评我就好",
    "link": "https://sputniknews.cn/20261122/1074298786.html",
    "source": "卫星社中文",
@@ -1528,6 +1820,14 @@
    ]
   },
   {
+   "title": "From Karakoram to Arabian Sea, Ep. 10: The Light of Bahawalpur",
+   "link": "https://news.cgtn.com/news/2026-11-22/From-Karakoram-to-Arabian-Sea-Ep-10-The-Light-of-Bahawalpur-1ShvD5iRPWg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T10:32:43.000Z",
+   "summary": "From Karakoram to Arabian Sea, Ep. 10: The Light of Bahawalpur",
+   "regions": []
+  },
+  {
    "title": "“大美中国”中华纹样与民族古乐融合创新展演亮相巴黎",
    "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736122.shtml",
    "source": "中新网国际",
@@ -1536,6 +1836,14 @@
    "regions": [
     "欧洲"
    ]
+  },
+  {
+   "title": "Nigerian president mourns victims of deadly boat accident",
+   "link": "https://newsaf.cgtn.com/news/2026-11-22/Nigerian-president-mourns-victims-of-deadly-boat-accident-1ShiSetahqM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T10:24:07.000Z",
+   "summary": "Nigerian President Bola Tinubu has confirmed fatalities after a boat carrying dozens of passengers capsized in Bayelsa S…",
+   "regions": []
   },
   {
    "title": "俄外交部：俄中有意开展稳定的天然气合作",
@@ -1624,6 +1932,14 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "Indonesia candy factory fire not fully extinguished, about 50 missing",
+   "link": "https://news.cgtn.com/news/2026-11-22/news-1ShqqiAfYhG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T08:58:45.000Z",
+   "summary": "Indonesian police said Sunday that a fire that broke out at a candy factory in Banten province on Saturday night had not…",
+   "regions": []
   },
   {
    "title": "俄军“天竺葵”袭击乌后方炼油厂及变电站",
@@ -1768,6 +2084,14 @@
    ]
   },
   {
+   "title": "Senior CPC official to visit Germany, Austria November 22-28",
+   "link": "https://news.cgtn.com/news/2026-11-22/Senior-CPC-official-to-visit-Germany-Austria-November-22-28-1ShdwqIZJpC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T06:31:11.000Z",
+   "summary": "Chen Wenqing, a member of the Political Bureau of the Communist Party of China (CPC) Central Committee and secretary of …",
+   "regions": []
+  },
+  {
    "title": "芬兰总统：芬兰湾俄罗斯船只遭袭是严重事件",
    "link": "https://sputniknews.cn/20261122/1074297807.html",
    "source": "卫星社中文",
@@ -1831,6 +2155,14 @@
    ]
   },
   {
+   "title": "Storms batter California coast as 'Super El Niño' fuels damage fears",
+   "link": "https://news.cgtn.com/news/2026-11-22/Storms-batter-California-coast-as-Super-El-Ni-o-fuels-damage-fears-1Sh6MyVAweI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T05:28:56.000Z",
+   "summary": "Storms batter California coast as 'Super El Niño' fuels damage fears",
+   "regions": []
+  },
+  {
    "title": "【地震 M2.6】16 km SSE of Soldotna, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xcrtkj",
    "source": "USGS地震台网",
@@ -1851,6 +2183,14 @@
     "秘鲁",
     "拉美"
    ]
+  },
+  {
+   "title": "Han Xu drops WNBL career-high 38 points as Geelong beats Southside",
+   "link": "https://news.cgtn.com/news/2026-11-22/Han-Xu-drops-WNBL-career-high-38-points-as-Geelong-beats-Southside-1SgXeJzPVGU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T05:06:17.000Z",
+   "summary": "Han Xu drops WNBL career-high 38 points as Geelong beats Southside",
+   "regions": []
   },
   {
    "title": "【地震 M2.5】86 km WNW of Aleneva, Alaska",
@@ -1941,6 +2281,22 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Rescuers say 3 killed, dozens missing after Indonesia factory fire",
+   "link": "https://news.cgtn.com/news/2026-11-22/news-1Sh1Lh8OCHK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T03:13:39.000Z",
+   "summary": "Rescuers say 3 killed, dozens missing after Indonesia factory fire",
+   "regions": []
+  },
+  {
+   "title": "Experts: One-China principle unshakable, 'Taiwan independence' doomed",
+   "link": "https://news.cgtn.com/news/2026-11-22/Experts-One-China-principle-unshakable-Taiwan-independence-doomed-1SgSzqUxqEM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-22T03:02:57.000Z",
+   "summary": "The recent meeting between the heads of state of China and the United States and the China-Russia-US summit have sent a …",
+   "regions": []
   },
   {
    "title": "五角大楼指示军方限制与加拿大人的非正式交流",
@@ -2163,9 +2519,61 @@
     "台海",
     "福建"
    ]
+  },
+  {
+   "title": "Hong Kong Bulls and Jiangxi Daqian pull off CBA Club Cup upsets",
+   "link": "https://news.cgtn.com/news/2026-11-22/Hong-Kong-Bulls-and-Jiangxi-Daqian-pull-off-CBA-Club-Cup-upsets-1SgZuoeY4da/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T05:11:08.000Z",
+   "summary": "Hong Kong Bulls and Jiangxi Daqian pull off CBA Club Cup upsets",
+   "regions": [
+    "香港",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Experts: One-China principle unshakable, 'Taiwan independence' doomed",
+   "link": "https://news.cgtn.com/news/2026-11-22/Experts-One-China-principle-unshakable-Taiwan-independence-doomed-1SgSzqUxqEM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T03:02:57.000Z",
+   "summary": "The recent meeting between the heads of state of China and the United States and the China-Russia-US summit have sent a …",
+   "regions": [
+    "台湾",
+    "台海",
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌",
+    "美国",
+    "美洲"
+   ]
   }
  ],
  "cn": [
+  {
+   "title": "别给电动车非法提速留“后门”",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736232.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-22T23:43:47.000Z",
+   "summary": "明明存在“最高设计时速不得超过25公里”的红线，不少电动自行车却能通过改装轻易突破限速，给日常出行埋下安全隐患。11月1日起，《强制性产品认证实施规则 电动自行车(试行)》正式施行，进一步强化产品一致性和获证后监督，为堵住非法改装漏洞提供了…",
+   "regions": []
+  },
+  {
+   "title": "今起可打印准考证！2027国考考生注意了→",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736229.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-22T23:27:50.000Z",
+   "summary": "报考国考的考生注意了，今起可打印准考证，打印时间为11月23日0:00至11月29日15:00。开考在即，这份提醒赶紧“码住”。",
+   "regions": []
+  },
+  {
+   "title": "当年轻人说“边界感”，他们在守护什么",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736228.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-22T23:24:36.000Z",
+   "summary": "“边界感”已成为年轻人处理关系时最常用的词之一。拒绝父母过度介入、下班后不回工作消息、在亲密关系里保留“专属领域”、用“搭子”替代高维护成本的社交……这些都是年轻人划定“边界感”的具体实践。但同样需要追问：边界感是否正在变成“体面的冷漠”，…",
+   "regions": []
+  },
   {
    "title": "是什么让多国紧急关停大批政企网络？国家安全部提示",
    "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736220.shtml",
@@ -2207,6 +2615,30 @@
    ]
   },
   {
+   "title": "China-Russia-US summit: An 'enormous gift' to the world",
+   "link": "https://news.cgtn.com/news/2026-11-22/China-Russia-US-summit-An-enormous-gift-to-the-world-1ShG6CMkXde/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T14:15:35.000Z",
+   "summary": "International voices have described dialogue among major countries as an \"enormous gift to the world,\" saying latest eng…",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "Experts offer insights into China's approach to global challenges",
+   "link": "https://news.cgtn.com/news/2026-11-22/Experts-offer-insights-into-China-s-approach-to-global-challenges-1ShvBfi57Gw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T14:07:50.000Z",
+   "summary": "China's approach to global governance, regional cooperation and domestic development was among the key topics discussed …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "（文化新纪行）山东梁山打造分布式流动演出 水浒文脉蕴新活力",
    "link": "https://www.chinanews.com.cn/cul/2026/11-22/10736206.shtml",
    "source": "中新网滚动",
@@ -2225,6 +2657,28 @@
    "regions": [
     "玉溪",
     "云南"
+   ]
+  },
+  {
+   "title": "China urges US to revoke FCC measures targeting telecom firms",
+   "link": "https://news.cgtn.com/news/2026-11-22/China-urges-US-to-revoke-FCC-measures-targeting-telecom-firms-1ShgAIIg60E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T13:43:11.000Z",
+   "summary": "The US Federal Communications Commission (FCC) has abused its regulatory authority by exaggerating so-called national se…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Why the China-ASEAN relation matters",
+   "link": "https://news.cgtn.com/news/2026-11-22/Why-the-China-ASEAN-relation-matters-1Shbu0B5R16/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T13:03:04.000Z",
+   "summary": "November 22 marks the fifth anniversary of the Comprehensive Strategic Partnership between China and the Association of …",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2293,6 +2747,17 @@
    "summary": "中新社北京11月22日电 (记者 应妮)今年以来，在持续走热的“China Travel”中，微妙的变化或许不在数量，而在方式。",
    "regions": [
     "北京"
+   ]
+  },
+  {
+   "title": "Swiss vice president, foreign minister to visit China",
+   "link": "https://news.cgtn.com/news/2026-11-22/Swiss-vice-president-foreign-minister-to-visit-China-1ShjNUUZCyk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T12:31:40.000Z",
+   "summary": "Swiss Vice President and Foreign Minister Ignazio Cassis will visit China from November 23 to 24 and hold the fifth roun…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2399,6 +2864,14 @@
    ]
   },
   {
+   "title": "From Karakoram to Arabian Sea, Ep. 10: The Light of Bahawalpur",
+   "link": "https://news.cgtn.com/news/2026-11-22/From-Karakoram-to-Arabian-Sea-Ep-10-The-Light-of-Bahawalpur-1ShvD5iRPWg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T10:32:43.000Z",
+   "summary": "From Karakoram to Arabian Sea, Ep. 10: The Light of Bahawalpur",
+   "regions": []
+  },
+  {
    "title": "北京东城举办“集贤人才”大会 发布东城青年人才创新创业生态地图",
    "link": "https://www.chinanews.com.cn/sh/2026/11-22/10736135.shtml",
    "source": "中新网社会",
@@ -2478,6 +2951,14 @@
    ]
   },
   {
+   "title": "New museum showcases 10,000-year-old Shangshan culture",
+   "link": "https://news.cgtn.com/news/2026-11-22/New-museum-showcases-10-000-year-old-Shangshan-culture-1Shf1gd7t0Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T09:30:53.000Z",
+   "summary": "New museum showcases 10,000-year-old Shangshan culture",
+   "regions": []
+  },
+  {
    "title": "大理白族自治州成立70周年 苍洱处处石榴红",
    "link": "https://www.chinanews.com.cn/txy/2026/11-22/10736110.shtml",
    "source": "中新网滚动",
@@ -2508,6 +2989,17 @@
    "regions": [
     "杭州",
     "浙江"
+   ]
+  },
+  {
+   "title": "Science and culture gala marks 70 years of China's space program",
+   "link": "https://news.cgtn.com/news/2026-11-22/Science-and-culture-gala-marks-70-years-of-China-s-space-program-1Sho1KBRfzy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T09:21:39.000Z",
+   "summary": "A large-scale science and culture gala marking the 70th anniversary of China's space program was broadcast on China Medi…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -2734,6 +3226,28 @@
    "time": "2026-11-22T07:07:10.000Z",
    "summary": "外交部发言人宣布：",
    "regions": []
+  },
+  {
+   "title": "Global experts discuss community with a shared future for humanity",
+   "link": "https://news.cgtn.com/news/2026-11-22/Global-experts-discuss-community-with-a-shared-future-for-humanity-1ShguqZ0vqE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T07:04:09.000Z",
+   "summary": "Global experts discuss community with a shared future for humanity",
+   "regions": []
+  },
+  {
+   "title": "Senior CPC official to visit Germany, Austria November 22-28",
+   "link": "https://news.cgtn.com/news/2026-11-22/Senior-CPC-official-to-visit-Germany-Austria-November-22-28-1ShdwqIZJpC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T06:31:11.000Z",
+   "summary": "Chen Wenqing, a member of the Political Bureau of the Communist Party of China (CPC) Central Committee and secretary of …",
+   "regions": [
+    "中国",
+    "亚太",
+    "德国",
+    "欧洲",
+    "奥地利"
+   ]
   },
   {
    "title": "陈文清将赴德国出席第六次中德高级别安全对话并访问德国、奥地利",
@@ -3036,6 +3550,16 @@
  ],
  "econ": [
   {
+   "title": "城市也要容得下野生动物",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736234.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-22T23:50:35.000Z",
+   "summary": "又到候鸟南迁时节，近10万只候鸟迁飞到深圳湾滩涂越冬，好不热闹。11月5日起施行的《深圳经济特区红树林湿地保护若干规定》，明确要求优化红树林湿地候鸟栖息地及周边区域的夜间照明布局并强化管控。城市为不会说话的候鸟调暗灯光，不禁让人思考一个命题…",
+   "regions": [
+    "深圳"
+   ]
+  },
+  {
    "title": "“零碳暖流”、AI控温 核能供暖是一种什么样的体验",
    "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736219.shtml",
    "source": "中新网财经",
@@ -3051,6 +3575,17 @@
    "summary": "本周，国际金价出现连续下跌。国际现货黄金单周跌幅达8.9%，每盎司3800美元、3700美元、3600美元关口接连失守，现货黄金最低触及每盎司3502美元，创14个月新低。",
    "regions": [
     "美洲"
+   ]
+  },
+  {
+   "title": "Asia-Pacific voices: Openness and connectivity for shared growth",
+   "link": "https://news.cgtn.com/news/2026-11-22/Asia-Pacific-voices-Openness-and-connectivity-for-shared-growth-1ShFqI2YlVu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-22T14:20:33.000Z",
+   "summary": "Former international officials and regional scholars have underscored the importance of openness, trade and connectivity…",
+   "regions": [
+    "太平洋",
+    "亚太"
    ]
   },
   {
@@ -3447,5 +3982,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-22T23:16:57.125Z"
+ "updatedAt": "2026-11-23T03:52:44.761Z"
 }

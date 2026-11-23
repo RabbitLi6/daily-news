@@ -1,0 +1,1435 @@
+{
+ "date": "2026-11-23",
+ "tech": [
+  {
+   "title": "微软 CEO 纳德拉承认，VS Code 的护城河被人从终端绕过去了",
+   "link": "https://www.oschina.net/news/503739/nadella-admits-vs-code-faded-in-six-months",
+   "source": "开源中国",
+   "time": "2026-11-23T03:50:52.000Z",
+   "summary": "微软花了十多年把 VS Code 做成开发者的默认工作台。然后 Nadella 自己承认，它称霸十年后仅大概六个月就“销声匿迹”了。 他在《The Pragmatic Engineer》的播客里对 Gergely Orosz 说了这段话： …",
+   "regions": []
+  },
+  {
+   "title": "蚂蚁阿福宣布全新升级：“望闻问切”实时视频看健康，全家档案一个 App 管",
+   "link": "https://www.ithome.com/1/030/794.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T03:25:38.000Z",
+   "summary": "IT之家 11 月 23 日现场消息，在今日的蚂蚁阿福医疗健康生态大会上，蚂蚁阿福 App 宣布迎来全新升级。 IT之家在大会现场获悉，蚂蚁阿福 App 基于蚂蚁百灵医疗健康系列模型，带来两项功能大升级： 实时视频看健康，AI 也能“望闻问…",
+   "regions": []
+  },
+  {
+   "title": "壹号本预热《EVA》联名限量款 OneXPlayer X2：明日香二号机设计",
+   "link": "https://www.ithome.com/1/030/793.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T03:24:21.000Z",
+   "summary": "IT之家 11 月 23 日消息，壹号本 (ONE-NETBOOK) 本月 20 日宣布将推出《新世纪福音战士》(EVA) 联名限量款 OneXPlayer X2 三合一 PC 游戏掌机。 该特别版 融入二号机风格设计元素与明日香主题涂装 …",
+   "regions": []
+  },
+  {
+   "title": "特朗普：我希望英伟达董事会能重新聘用黄仁勋，这对英伟达、美国来说都是最好的事情",
+   "link": "https://www.ithome.com/1/030/792.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T03:22:33.000Z",
+   "summary": "IT之家 11 月 23 日消息，美国总统唐纳德 · 特朗普今日在真实社交平台表示， 他希望英伟达董事会能重新聘用黄仁勋 。这对英伟达公司、美国来说都是最好的事情。 据IT之家此前报道 ，黄仁勋于 11 月初向英伟达发布全员信，承认自己的出…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 首席科学家提议为 AI 开发设置“行业上限”",
+   "link": "https://www.oschina.net/news/503737/openai-perplexity-and-intelligence",
+   "source": "开源中国",
+   "time": "2026-11-23T03:18:00.000Z",
+   "summary": "OpenAI 首席科学家 Jakub Pachocki 写了篇论文式的文章，主张把 perplexity（困惑度，等价于交叉熵损失）确立为跨公司比较模型的行业指标，并以此为基础建立共享的安全标准。 这件事值得注意的地方不在技术定义，而在他想…",
+   "regions": []
+  },
+  {
+   "title": "小鹏 P7 全新车色「晨曦粉」亮相，11 月 25 日线下首展",
+   "link": "https://www.ithome.com/1/030/791.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T03:16:37.000Z",
+   "summary": "IT之家 11 月 23 日消息，今日，小鹏 P7 全新车色「晨曦粉」正式亮相，将于 11 月 25 日小鹏科技日开启线下首展。 IT之家附官方介绍： 灵感来自晨曦洒落湖面的一缕柔光，温柔而闪耀。 低饱和、高明度的银粉色调，融入多粒径金属铝…",
+   "regions": []
+  },
+  {
+   "title": "qData 主数据平台开源版 v1.0.1 发布：聚焦使用反馈，功能细节与产品体验持续优化",
+   "link": "https://www.oschina.net/news/503735",
+   "source": "开源中国",
+   "time": "2026-11-23T03:15:01.000Z",
+   "summary": "一笔冻结申请显示“已通过”，回到主数据列表一看，对应记录却还没冻结。 类似“页面提示与最终状态不一致”的使用反馈，是 qData 主数据平台开源版 v1.0.1 本次集中处理的问题之一。 本次更新以问题修复为主，覆盖全局提示、删除校验、重复…",
+   "regions": []
+  },
+  {
+   "title": "Flyme Auto 全球累计装车量突破 376.9 万辆，魅族与亿咖通联合开发",
+   "link": "https://www.ithome.com/1/030/790.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T03:14:03.000Z",
+   "summary": "IT之家 11 月 23 日消息，魅族 Flyme AIOS 今日公布 Flyme Auto 最新装机数据。 官方数据显示，2026 年 10 月，Flyme Auto 新增装机量为 175,341 辆，1—10 月累计装机量超过 1,50…",
+   "regions": []
+  },
+  {
+   "title": "vivo S70 系列手机官宣 12 月发布，预计提供“闪光人像专业套装”",
+   "link": "https://www.ithome.com/1/030/789.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T03:09:11.000Z",
+   "summary": "IT之家 11 月 23 日消息，vivo S70 系列手机今日在各大电商平台开启预约，官网显示新品将于 12 月发布，分为 vivo S70、S70 旗舰版两款机型。 据博主 @数码闲聊站 今日爆料，vivo S70 系列将提供专门的 「…",
+   "regions": []
+  },
+  {
+   "title": "蚂蚁阿福发布全新 AI 健康手环“福环”和 AI 健康戒指“福戒”",
+   "link": "https://www.ithome.com/1/030/788.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T03:08:59.000Z",
+   "summary": "IT之家 11 月 23 日现场消息，在今日的蚂蚁阿福医疗健康生态大会上，蚂蚁阿福带来了两款全新的 AI 健康硬件 —— AI 健康手环 · 福环 AI 健康戒指 · 福戒 两款产品均主打健康监测和超长续航 ，主要用来记录睡眠、心率、呼吸、…",
+   "regions": []
+  },
+  {
+   "title": "小米 REDMI 多款笔记本电脑今日已执行涨价：涨幅最高 500 元",
+   "link": "https://www.ithome.com/1/030/787.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T03:06:15.000Z",
+   "summary": "IT之家 11 月 23 日消息，博主 @懒酱的日记本 发现，小米旗下多款笔记本电脑今日起价格上调 300～500 元： REDMI Book 14 2024 焕新版 REDMI Book 14 2025 REDMI Book 16 202…",
+   "regions": []
+  },
+  {
+   "title": "腾讯魔方新作《异人之下》定档 12 月 17 日，登陆 PC、iOS、安卓、鸿蒙",
+   "link": "https://www.ithome.com/1/030/786.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T03:04:09.000Z",
+   "summary": "IT之家 11 月 23 日消息，腾讯魔方工作室旗下 3D 格斗竞技游戏《异人之下》宣布定档 12 月 17 日， 登陆 PC、iOS、安卓和鸿蒙端 。 目前，本作已在苹果 App Store 中上线。官方宣称本作提供纯粹极致的 3D 格斗…",
+   "regions": []
+  },
+  {
+   "title": "小米推出米家窗帘伴侣卷帘版：单次续航 4 个月，众筹价 259 元",
+   "link": "https://www.ithome.com/1/030/785.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T03:00:12.000Z",
+   "summary": "IT之家 11 月 23 日消息，今日，米家窗帘伴侣卷帘版在小米有品上架，众筹到手价 259 元起，建议零售价 349 元起（ 点击前往 ）。 IT之家从商品页面获悉，该产品是后装智能配件，无需布线、不改电路，通过带动卷帘拉珠实现电动升降。…",
+   "regions": []
+  },
+  {
+   "title": "蚂蚁百灵医疗健康大模型宣布开源，最轻量版一台笔记本就能部署",
+   "link": "https://www.ithome.com/1/030/784.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:56:54.000Z",
+   "summary": "IT之家 11 月 23 日现场消息，在今日的蚂蚁阿福医疗健康生态大会上， 蚂蚁百灵医疗健康大模型宣布全面开源 。 蚂蚁百灵医疗健康大模型家族包含大语言模型、实时音视频模型、预测模型、安全防护模型，支持疾病未来六年的发病风险预测，疾病种类、…",
+   "regions": []
+  },
+  {
+   "title": "TCP/IP 为什么没申请专利？Vint Cerf 说因为不知道 25 年后盟友是谁",
+   "link": "https://www.oschina.net/news/503734/vint-cerf-on-why-tcpip-was-never",
+   "source": "开源中国",
+   "time": "2026-11-23T02:56:01.000Z",
+   "summary": "TCP/IP 为什么没有申请专利？Vint Cerf 在 João Tomé 的新播客《Future Stories》里给了答案。 他 1970 年代和 Bob Kahn 一起写下了那套让全世界的网络能互相通信的规则。给的理由是这样的： W…",
+   "regions": []
+  },
+  {
+   "title": "MrDoc v1.1.2 发布，全平台多终端的私有部署AI知识库系统",
+   "link": "https://www.oschina.net/news/503733",
+   "source": "开源中国",
+   "time": "2026-11-23T02:55:16.000Z",
+   "summary": "觅思文档（MrDoc）是一款面向团队与企业的私有化知识管理解决方案，致力于帮助组织构建结构化、可沉淀、可复用的知识体系。 通过「文集 + 文档」的组织方式，结合 Markdown、富文本、Office 文档、表格、图表等多种内容形态，以及完…",
+   "regions": []
+  },
+  {
+   "title": "谷歌 AI 搜索变现受阻，苹果服务业务收入增长也随之放缓",
+   "link": "https://www.ithome.com/1/030/783.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:44:11.000Z",
+   "summary": "IT之家 11 月 23 日消息，据科技媒体 Appleinsider 昨天报道，苹果与谷歌达成的搜索合作协议，带来的收益已不如从前。如今用户的搜索习惯已经改变，导致市场格局生变。 据报道，苹果与谷歌早已就 Safari 默认搜索引擎达成合…",
+   "regions": []
+  },
+  {
+   "title": "小米推出米家智能水暖毯 Pro：左右双区独立调温，众筹价 799 元",
+   "link": "https://www.ithome.com/1/030/782.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:33:36.000Z",
+   "summary": "IT之家 11 月 23 日消息，米家智能水暖毯 Pro 已在小米有品上架并开启众筹预约，众筹价 799 元，建议零售价 1099 元。众筹将于 11 月 25 日 10:00 开始，12 月 2 日 09:59 结束（ 点击前往 ）。 I…",
+   "regions": []
+  },
+  {
+   "title": "特斯拉 AI4.5 芯片有望明年推出，马斯克称内存太贵、从 32GB 降到 24GB",
+   "link": "https://www.ithome.com/1/030/780.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:31:23.000Z",
+   "summary": "IT之家 11 月 23 日消息，特斯拉 CEO 埃隆 · 马斯克今日在 X 平台发文回复博主 Sawyer Merritt， 升级版 AI4.5 芯片的性能提升较小，主要是将内存升级到 LPDDR5X 。 马斯克表示 AI5 芯片将专属于…",
+   "regions": []
+  },
+  {
+   "title": "海盗船推出 WS 3200D RS 工作站机箱：配备安全锁孔、防盗螺丝",
+   "link": "https://www.ithome.com/1/030/779.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:28:01.000Z",
+   "summary": "IT之家 11 月 23 日消息，CORSAIR（海盗船）本月中旬推出了 WS 3200D RS 机箱。这一型号与面向游戏 PC 的标准 3200D RS 共享基础，但针对工作站工作负载进行了优化调整。 WS 3200D RS 两侧均配备钢…",
+   "regions": []
+  },
+  {
+   "title": "迈从 G87 V3 机械键盘发布：全新多功能按键旋钮，首发 239 元起",
+   "link": "https://www.ithome.com/1/030/778.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:23:19.000Z",
+   "summary": "IT之家 11 月 23 日消息，迈从 G87 V3 全能 87 配列机械键盘今日发布，11 月 25 日 10:00 全平台开售，首发到手价 239 元、269 元。 IT之家从官方公布信息获悉，G87 V3 提供海平线、晴空蓝、鎏金黑、…",
+   "regions": []
+  },
+  {
+   "title": "马斯克称存储芯片涨价使特斯拉 AI4 车载电脑成本翻倍",
+   "link": "https://www.ithome.com/1/030/777.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:23:14.000Z",
+   "summary": "IT之家 11 月 23 日消息，特斯拉 CEO 埃隆 · 马斯克 11 月 22 日表示，受全球 DRAM 内存和 NAND 闪存价格上涨影响， 特斯拉 AI4 车载计算机的物料成本已经翻倍 。 他在 X 平台上回应有关特斯拉最新版完全自…",
+   "regions": []
+  },
+  {
+   "title": "高通汽车芯片业务年收入达 80 亿美元，有望 2027 年登顶全球汽车半导体市场",
+   "link": "https://www.ithome.com/1/030/776.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:22:13.000Z",
+   "summary": "IT之家 11 月 23 日消息，据科技媒体 Wccftech 昨天报道，高通多年来意在摆脱过度依赖智能手机的刻板印象，毕竟在 DRAM 飞速涨价的今天，手机芯片业务面临着较大压力。最新行业数据表明，该公司规模最大的多元化布局正在提前取得成…",
+   "regions": []
+  },
+  {
+   "title": "鸿蒙智行问界新 M7 官宣：升级面向 L3 的全域冗余架构，新色首发「翡冷翠」「暖阳金」",
+   "link": "https://www.ithome.com/1/030/775.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:10:59.000Z",
+   "summary": "IT之家 11 月 23 日消息，鸿蒙智行问界新 M7 正式官宣，并公布了两款新配色： 温润「翡冷翠」 华贵「暖阳金」 余承东表示，问界 M7 系列一直很受家庭用户欢迎，上市至今已经交付超 47 万辆，稳居中国品牌 30 万级 SUV 车型…",
+   "regions": []
+  },
+  {
+   "title": "东风日产 NX7 定档 11 月 27 日广州车展上市：全系宁德时代电池，预售 12.99 万元起",
+   "link": "https://www.ithome.com/1/030/774.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:08:49.000Z",
+   "summary": "IT之家 11 月 23 日消息，东风日产 N 序列第四款车型 NX7 将于 11 月 27 日在广州车展正式上市，并同步开启交付。 新车已于 11 月 13 日开启预售，共推出三款配置，预售价区间为 12.99 万元至 14.99 万元，…",
+   "regions": []
+  },
+  {
+   "title": "Singularity Computers 推出外置液冷系统：四组 560 冷排，5000W 解热",
+   "link": "https://www.ithome.com/1/030/773.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:05:17.000Z",
+   "summary": "IT之家 11 月 23 日消息，澳大利亚分体式液冷制造商 Singularity Computers 当地时间本月 21 日推出了 SC Enterprise 5000W 液冷系统。该外置散热装置 具备 5kW 的设计解热能力 。 SC …",
+   "regions": []
+  },
+  {
+   "title": "奇瑞纵横 R700 车型 11 月 26 日发布，与纵横 G700 同平台打造",
+   "link": "https://www.ithome.com/1/030/772.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:05:16.000Z",
+   "summary": "IT之家 11 月 23 日消息，据易车今日报道，奇瑞纵横 R700 将于 11 月 26 日正式发布。作为纵横品牌全新“R”系列首款车型，与纵横 G700 同平台打造，虽然整体延续了方盒子硬派造型，但细节上却与纵横 G700 不同。 ▲ …",
+   "regions": []
+  },
+  {
+   "title": "歼-35、空警-600 将亮相 12 月 7 日珠海航展并首设海上展区，055 型万吨大驱面向公众开放",
+   "link": "https://www.ithome.com/1/030/771.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:03:07.000Z",
+   "summary": "IT之家 11 月 23 日消息，第十六届中国国际航空航天博览会定于 12 月 7 日至 13 日在广东珠海举办。 恰逢中国航展创办三十周年，本届航展采用“一展三区”布局，在珠海国际航展中心主展区之外，新增高栏港海上装备展示区与莲洲无人装备…",
+   "regions": []
+  },
+  {
+   "title": "韩国防 AI 作弊新招：要求考生穿围裙考试、时隔 6 年重新收缴手机",
+   "link": "https://www.ithome.com/1/030/770.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:02:34.000Z",
+   "summary": "IT之家 11 月 23 日消息，据韩媒报道，韩国第 28 届警卫指导师考试前日开考。据考生所述，本次考试加强了作弊防范力度，去年只要求将手机和手表放在包里，今年全部收走。 考场还要求考生穿上餐馆使用的一次性围裙 ，各处都悬挂着禁止作弊的标…",
+   "regions": []
+  },
+  {
+   "title": "四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品",
+   "link": "https://www.ithome.com/1/030/769.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T02:01:37.000Z",
+   "summary": "IT之家 11 月 23 日消息，今日，发改委等四部门印发《“一老一小”服务体系建设实施方案》。 其中提到，支持养老、托育机构应用智能管理服务、智慧消防安防等系统，提升管理水平。推动养老机构配置智能健康监测、辅助器具等设备。 鼓励发展适合养…",
+   "regions": []
+  },
+  {
+   "title": "从北影毕设到院线电影：B站《龙心少女》最新 PV 公布，摔跤社与火药方糖联合制作",
+   "link": "https://www.ithome.com/1/030/765.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:49:37.000Z",
+   "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，动画电影《龙心少女》正式官宣，并发布了 2026 全新 PV。 这部影片由摔跤社与火药方糖联合制作，哔哩哔哩、摔跤社、火药方糖共同出品。 这部电…",
+   "regions": []
+  },
+  {
+   "title": "蚂蚁电竞 24.5\" QHD 540Hz HMO 显示器 ANT255TQ 在售，6299 元",
+   "link": "https://www.ithome.com/1/030/764.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:49:36.000Z",
+   "summary": "IT之家 11 月 23 日消息，蚂蚁电竞 (ANTGAMER) 现已在销售 ANT255TQ 显示器，实际价格为 6299 元。 这一型号采用 24.5\" IPS 面板， 结合新一代 HMO（高迁移率氧化物）背板技术 ，支持 QHD (2…",
+   "regions": []
+  },
+  {
+   "title": "《黑神话：悟空》美术总监杨奇谈《GTA 6》：“工业化”一词是对其贬损，昂贵且低效的艺术品",
+   "link": "https://www.ithome.com/1/030/763.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:49:31.000Z",
+   "summary": "IT之家 11 月 23 日消息，昨晚，游戏科学联合创始人、《黑神话：悟空》美术总监杨奇在微博回复网友提问时表示，“工业化”一词儿是对《GTA 6》的贬损，该作“明明是无数的日夜和灵感的整合，昂贵且低效的艺术品”。 据他描述，自己刚结束《G…",
+   "regions": []
+  },
+  {
+   "title": "DC 超级英雄电影《泥面人》定档 11 月 27 日上映",
+   "link": "https://www.ithome.com/1/030/762.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:45:45.000Z",
+   "summary": "IT之家 11 月 23 日消息，DC 电影官方今日宣布，超级英雄电影《泥面人》定档 11 月 27 日 于全国影院上映。 《泥面人》豆瓣评分 8.0、烂番茄观众好评度 94%、CinemaScore 获评 A-，是一部动作奇幻惊悚电影，今…",
+   "regions": []
+  },
+  {
+   "title": "微软申请新专利：手柄换摇杆仅需一把螺丝刀",
+   "link": "https://www.ithome.com/1/030/761.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:35:25.000Z",
+   "summary": "IT之家 11 月 23 日消息，相信每位玩家在游戏生涯中都遇到过手柄摇杆漂移问题，最终只能花大价钱买新手柄，或是自己动手拆开换摇杆。如今，微软似乎正在悄悄开发解决方案。 据科技媒体 TechPower Up 今天报道，微软已提交“可更换输…",
+   "regions": []
+  },
+  {
+   "title": "玄机接手《夜的命名术》动画制作：B站追加预算，定档 2027 下半年",
+   "link": "https://www.ithome.com/1/030/760.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:32:41.000Z",
+   "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《夜的命名术》动画正式官宣，由哔哩哔哩与玄机科技联合出品，玄机科技负责制作。 这是该动画项目经历推倒重制后，制作阵容的首次正式确认。按玄机科技已…",
+   "regions": []
+  },
+  {
+   "title": "捷波带来 MTX-RYZ1 主板：板载锐龙 7 PRO 8845HS，提供 PCIe 插槽",
+   "link": "https://www.ithome.com/1/030/758.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:32:00.000Z",
+   "summary": "IT之家 11 月 23 日消息，捷波 (Jetway) 近日在其官网上线了面向工业嵌入式领域的 Mini-ITX 主板 MTX-RYZ1。这一型号 板载 AMD 锐龙 7 PRO 8845HS 处理器 。 MTX-RYZ1 拥有 2 条 …",
+   "regions": []
+  },
+  {
+   "title": "有望配备消费级显卡史上最大显存容量，摩尔线程下一代“庐山”GPU 预告“性能足够惊艳”",
+   "link": "https://www.ithome.com/1/030/757.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:30:26.000Z",
+   "summary": "IT之家 11 月 23 日消息，摩尔线程官方日前公布了 MDC 2026（MUSA 开发者大会）的首张预热海报， 其中暗藏下一代消费级显卡“庐山”的身影 。 据 VideoCardz 报道，摩尔线程 MTT S80 显卡相关的产品经理 A…",
+   "regions": []
+  },
+  {
+   "title": "B站《绍宋》动画首支正式 PV 宣传片公布，档期待定",
+   "link": "https://www.ithome.com/1/030/756.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:22:55.000Z",
+   "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，改编自榴弹怕水同名小说的《绍宋》发布了首支正式 PV，宣传语只有一句“群臣向南，君独向北”，具体信息未公布，档期待定。 《绍宋》原著于 2021…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
+   "link": "http://www.geekpark.net/news/374304",
+   "source": "极客公园",
+   "time": "2026-11-23T01:22:36.000Z",
+   "summary": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &middot; 帕霍茨基（Jakub Pac…",
+   "regions": []
+  },
+  {
+   "title": "中国车企首次：小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎",
+   "link": "https://www.ithome.com/1/030/755.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:20:36.000Z",
+   "summary": "IT之家 11 月 23 日消息，小鹏汽车今天宣布，小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎。 小鹏宣称，他们是全球唯二、中国首家在海外门店开放城区高阶智驾公众体验的车企。 据IT之家此前援引彭博社消息 ，在巴黎车展前夕，小鹏…",
+   "regions": []
+  },
+  {
+   "title": "Shuttle 推出 0.4L \"Wildcat Lake\" 迷你主机 NW10U",
+   "link": "https://www.ithome.com/1/030/754.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:20:01.000Z",
+   "summary": "IT之家 11 月 23 日消息，Shuttle（辅信，原名浩鑫）当地时间本月 18 日面向北美市场推出了 NW10U 迷你主机。这一型号基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，体积仅 0.4L。 NW10U 三维 1…",
+   "regions": []
+  },
+  {
+   "title": "一加 16《凡人》动画联名礼盒 11 月 27 日限量开售，购机（16GB+512GB 版）+269 元可得",
+   "link": "https://www.ithome.com/1/030/753.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:17:37.000Z",
+   "summary": "IT之家 11 月 23 日消息，一加今日宣布， 一加 16 《凡人》动画联名礼盒将于 11 月 27 日 10:00 限量开售。该礼盒不单独售卖，需要购买一加 16 指定存储版本（16GB+512GB 版），加价 269 元获取。 IT之…",
+   "regions": []
+  },
+  {
+   "title": "《灵笼：落子无悔》前瞻 PV 首曝，2027 年下半年上线",
+   "link": "https://www.ithome.com/1/030/752.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:15:09.000Z",
+   "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《灵笼：落子无悔》新篇章前瞻 PV 内容首次公开。 发布会上，制片人杜杨阳确认该篇章将于 2027 年下半年上线。这是《灵笼》第二季收官后，系列…",
+   "regions": []
+  },
+  {
+   "title": "小米汽车广州车展发布会官宣，李肖爽和大家聊聊澎程 N70",
+   "link": "https://www.ithome.com/1/030/751.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:13:33.000Z",
+   "summary": "IT之家 11 月 23 日消息，小米汽车今日官宣，小米汽车广州车展发布会定档 11 月 27 日早 9 点 ，小米汽车副总裁李肖爽和大家好好聊聊澎程 N70。 小米汽车表示，刚刚过去的 10 月，N70 荣获中大型 SUV、增程车型销量双…",
+   "regions": []
+  },
+  {
+   "title": "华为 Mate 90 Air 手机影像配置曝光：50Mp 主摄 +8Mp 超广角 +12Mp 长焦 + 红枫镜头",
+   "link": "https://www.ithome.com/1/030/750.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:11:26.000Z",
+   "summary": "IT之家 11 月 23 日消息，微博博主 @数码闲聊站 今日曝光华为 Mate 90 Air 手机的参数详情。该机预计将搭载麒麟 9020 芯片，采用 7 英寸 1.5K+120Hz 等深四曲屏。 影像方面，这款手机或采用 5000 万像…",
+   "regions": []
+  },
+  {
+   "title": "人界篇最大战役：《凡人修仙传》“边界之战”PV 公开，慕兰之战年番进入最高潮章节",
+   "link": "https://www.ithome.com/1/030/749.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:09:49.000Z",
+   "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《凡人修仙传》全新 PV“边界之战”正式公开。 该 PV 对应的并非一部新开的季番，而是正在B站独播的“慕兰之战”年番中的高潮章节 —— 天南与…",
+   "regions": []
+  },
+  {
+   "title": "海盗船推出 CX ATX 3.1 电源：125mm 短长度设计，至高 750W",
+   "link": "https://www.ithome.com/1/030/748.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:08:36.000Z",
+   "summary": "IT之家 11 月 23 日消息，CORSAIR（海盗船）本月推出了 CX ATX 3.1 系列 PC 电源。其采用 ATX 外形规格和直出线材设计，内置 120mm 风扇， 长度仅有 125mm ，覆盖 550W / 650W / 750…",
+   "regions": []
+  },
+  {
+   "title": "第 95 条蔚来加电风景线“桂湘喀斯特山水线”贯通，今年计划增至 100 条",
+   "link": "https://www.ithome.com/1/030/747.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:08:33.000Z",
+   "summary": "IT之家 11 月 23 日消息，蔚来今日宣布，第 95 条蔚来加电风景线｜桂湘喀斯特山水线正式贯通，从南宁出发，途经河池、柳州、桂林、邵阳、永州，最终抵达衡阳， 全程 1,925 公里 ，沿途布局 24 座充换电站，串联桂湘两地的山水人文…",
+   "regions": []
+  },
+  {
+   "title": "《仙剑奇侠传四》动画最新宣传片公开：2027 年上半年开播，玄机科技承制",
+   "link": "https://www.ithome.com/1/030/746.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:02:40.000Z",
+   "summary": "IT之家 11 月 23 日消息，哔哩哔哩在昨晚举行的 2026—2027 年国创动画作品发布会上公布了《仙剑奇侠传四》全新 PV，云天河与韩菱纱的双人海报同步释出。 该片由哔哩哔哩出品、玄机科技制作（IT之家注：玄机科技为《秦时明月》《吞…",
+   "regions": []
+  },
+  {
+   "title": "微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议",
+   "link": "https://www.ithome.com/1/030/745.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T01:00:23.000Z",
+   "summary": "IT之家 11 月 23 日消息，微软 AI 负责人穆斯塔法 · 苏莱曼（Mustafa Suleyman）今天在 X 平台表示，他完全支持 OpenAI 提高透明度的倡议。 苏莱曼表示， AI 业界所有人都是为了打造安全 、 真正有益于人…",
+   "regions": []
+  },
+  {
+   "title": "传英特尔将以锐炫 G3 Play 的名称推出 4Xe3 掌机处理器",
+   "link": "https://www.ithome.com/1/030/744.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:57:56.000Z",
+   "summary": "IT之家 11 月 23 日消息，外媒 VideoCardz 当地时间昨日报道称，Intel（英特尔）将以 Arc（锐炫）G3 Play 的名称推出配备 4 个 \"Xe3\" Xe-core 核显的入门级 \"Panther Lake\" 掌机处…",
+   "regions": []
+  },
+  {
+   "title": "B站《三体短篇集：平行之境》动画定档 12 月 23 日：六个独立短片组成，聚焦危机下的普通人",
+   "link": "https://www.ithome.com/1/030/743.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:57:08.000Z",
+   "summary": "IT之家 11 月 23 日消息，哔哩哔哩在昨晚举行的 2026—2027 年国创动画作品发布会上宣布，《三体短篇集：平行之境》将于 2026 年 12 月 23 日 11:00 开播。 这是B站时隔四年再次启动《三体》IP 的动画化改编，…",
+   "regions": []
+  },
+  {
+   "title": "中科宇航力箭二号运载火箭进入多发并行总装阶段，批量化生产体系迈上新台阶",
+   "link": "https://www.ithome.com/1/030/742.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:55:09.000Z",
+   "summary": "IT之家 11 月 23 日消息，中科宇航宣布，近日，该公司力箭二号遥三、遥四运载火箭按计划并行开展总装工作，各工序流转顺畅、推进有序。 型号从单发研制攻关转向多箭并行组织阶段 ，标志着力箭二号运载火箭批量化生产体系迈上新台阶，生产组织模式…",
+   "regions": []
+  },
+  {
+   "title": "让 Switch 2 游戏机接入 4G 网络，日本厂商 Kausmedia 推出 Switch Direct Link 适配器",
+   "link": "https://www.ithome.com/1/030/741.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:52:42.000Z",
+   "summary": "IT之家 11 月 23 日消息，日本厂商 Kausmedia 近日推出 Switch Direct Link，这是一款为 Switch 2 游戏机打造的移动数据网络适配器， 该产品集成 4G LTE、Wi-Fi 6 和预付费流量服务 。 …",
+   "regions": []
+  },
+  {
+   "title": "我国第二艘国产大型邮轮“爱达 · 花城号”首航抵达香港",
+   "link": "https://www.ithome.com/1/030/740.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:48:36.000Z",
+   "summary": "IT之家 11 月 23 日消息，据央视新闻报道，今早 7 时 30 分左右，正式开启商业首航的第二艘国产大型邮轮“爱达 · 花城号”顺利抵达香港启德邮轮码头。该邮轮本次航程共计 6 天 5 晚，搭载超 3800 名旅客前往中国香港和越南顺…",
+   "regions": []
+  },
+  {
+   "title": "小米米家智能嵌入式洗碗机灶下 13 套开售：支持 75℃ 高温煮洗、可洗红酒杯，2599 元",
+   "link": "https://www.ithome.com/1/030/739.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:45:03.000Z",
+   "summary": "IT之家 11 月 23 日消息，小米米家智能嵌入式洗碗机灶下 13 套今日开售，支持 75℃ 高温煮洗、可洗红酒杯，新品首发价 2599 元。 IT之家从商品页面获悉，该产品是号称专为三口之家打造，整机内部拥有 104L 的内腔容积，清洁…",
+   "regions": []
+  },
+  {
+   "title": "《GTA6》发售后，《GTA5》PC Steam 在线人数翻倍至 23.9 万",
+   "link": "https://www.ithome.com/1/030/737.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:36:24.000Z",
+   "summary": "IT之家 11 月 23 日消息，GTATracker 汇总的数据显示，11 月 22 日，《GTA 5》增强版、传承版和在线模式在 Steam 的同时在线总人数超过 23.9 万， 约为当月部分繁忙日期的两倍 。 《GTA 5》正在迎来第…",
+   "regions": []
+  },
+  {
+   "title": "《雾山五行 · 封界大战》院线电影公开：坚持手绘，档期待定",
+   "link": "https://www.ithome.com/1/030/736.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:34:15.000Z",
+   "summary": "IT之家 11 月 23 日消息，哔哩哔哩在 2026~2027 年国创动画作品发布会上宣布，将与六道无鱼动画工作室再次合作，把《雾山五行》第三季最终季改编为院线电影《雾山五行 · 封界大战》，并首次公布预告片。 《雾山五行》剧集第一季豆瓣…",
+   "regions": []
+  },
+  {
+   "title": "消息称苹果为 iPhone Duo 开发锁屏右侧纵向小组件栏，可显示更多信息",
+   "link": "https://www.ithome.com/1/030/735.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:27:02.000Z",
+   "summary": "IT之家 11 月 23 日消息，据 X 平台消息人士 pdfu 昨日爆料，苹果曾测试过一套 iPhone Duo 实验性界面，允许锁屏状态下，在屏幕右侧显示两个不同的小组件。 据介绍，该功能可在屏幕右侧增加纵向排列的圆形小组件。 pdfu…",
+   "regions": []
+  },
+  {
+   "title": "陈立武：英特尔 18A 制程良率达 70%，下一代 14A 计划 2028 年量产",
+   "link": "https://www.ithome.com/1/030/734.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:18:21.000Z",
+   "summary": "IT之家 11 月 23 日消息，据 Tom's Hardware 报道，英特尔 CEO 陈立武在 11 月 19 日举行的 TomorrowX 会议上称，Intel 18A 制程的芯片良品率已达到 70%。 陈立武表示，自己于 2025 …",
+   "regions": []
+  },
+  {
+   "title": "🔥 拾趣 Magpie v0.2.0 发布：模型视图更准确，词典功能上新，多项细节优化",
+   "link": "https://www.oschina.net/news/503729",
+   "source": "开源中国",
+   "time": "2026-11-23T00:17:07.000Z",
+   "summary": "🔥 拾趣 Magpie v0.2.0 发布：模型视图更准确，多项细节优化 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现；复制、搜索、写入 Obsidian、Anki 、…",
+   "regions": []
+  },
+  {
+   "title": "微软 CEO 纳德拉感叹：Claude Code 仅半年动摇 VS Code 地位",
+   "link": "https://www.ithome.com/1/030/733.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:10:21.000Z",
+   "summary": "IT之家 11 月 23 日消息，据科技媒体 Windows Latest 今天报道，这几天，不少开发者炫耀自己已经好几个月没打开过 VS Code。如今微软 CEO 萨提亚 · 纳德拉表示，他完全了解这一现象。Anthropic 推出 C…",
+   "regions": []
+  },
+  {
+   "title": "不满 Instagram 账号被封，印度反对党在 Meta 多地办事处示威并与警方冲突",
+   "link": "https://www.ithome.com/1/030/732.htm",
+   "source": "IT之家",
+   "time": "2026-11-23T00:05:19.000Z",
+   "summary": "IT之家 11 月 23 日消息，据路透社 11 月 21 日报道，印度主要反对党国大党的青年团近日因不满旗下成员的 Instagram 账号遭到限制，前往 Meta 印度办事处抗议，还与警方及安保人员发生冲突。 印度青年国大党（India…",
+   "regions": []
+  }
+ ],
+ "world": [
+  {
+   "title": "马奎斯提前加冕2026赛季MotoGP世界冠军",
+   "link": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211449.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T03:42:57.000Z",
+   "summary": "",
+   "regions": []
+  },
+  {
+   "title": "泽连斯基敦促美国提供“爱国者”导弹 乌军一周袭击俄8处石油设施",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736321.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-23T03:42:28.000Z",
+   "summary": "中新社北京11月23日电 综合消息：乌克兰总统泽连斯基22日称，本周乌克兰多地遭到俄军袭击，美国在“爱国者”导弹项目上的拖延令人费解。同日，乌国防部称，乌军在一周内袭击了俄罗斯8处石油基础设施。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "中国代表团出席联合国气候变化安塔利亚大会",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736349.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T03:37:17.000Z",
+   "summary": "中新网土耳其安塔利亚11月23日电 (记者 陈溯 魏园)2026年11月9日至22日，《联合国气候变化框架公约》(以下简称《公约》)第三十一次缔约方大会(COP31)在土耳其安塔利亚召开。本届大会共有194个缔约方、约2200家观察员组织、…",
+   "regions": []
+  },
+  {
+   "title": "【地震 M2.7】48 km NE of Chase, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xekfce",
+   "source": "USGS地震台网",
+   "time": "2026-11-23T03:32:00.575Z",
+   "summary": "美国地质调查局官方监测：48 km NE of Chase, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "报告：美国对华在亚洲的军事与影响力优势已降至最低",
+   "link": "https://sputniknews.cn/20261123/1074305261.html",
+   "source": "卫星社中文",
+   "time": "2026-11-23T03:29:14.000Z",
+   "summary": "据澳大利亚洛伊研究所报告，美国在亚洲的军事潜力与综合影响力相对于中国的领先优势已缩至2018年以来的最低水平。",
+   "regions": [
+    "美洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "中国某部委机关干部因犯间谍罪被判死刑",
+   "link": "https://sputniknews.cn/20261123/1074305146.html",
+   "source": "卫星社中文",
+   "time": "2026-11-23T03:27:20.000Z",
+   "summary": "据“保密观”微信公众号11月23日披露，中国某部委工作人员麻某长期搜集并向他国情报人员提供中国国家秘密，其中秘密级国家秘密9项，机密级国家秘密26项，并因此获取百万余元间谍经费。法院以犯间谍罪判处麻某死刑，剥夺政治权利终身，并处没收个人全部…",
+   "regions": []
+  },
+  {
+   "title": "【地震 M4.9】Vanuatu region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucw1",
+   "source": "USGS地震台网",
+   "time": "2026-11-23T03:07:52.031Z",
+   "summary": "美国地质调查局官方监测：Vanuatu region发生 4.9 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "新加坡总理：新加坡无法控制向第三国供应芯片",
+   "link": "https://sputniknews.cn/20261123/1074304980.html",
+   "source": "卫星社中文",
+   "time": "2026-11-23T03:02:52.000Z",
+   "summary": "新加坡总理黄循财表示，新加坡无法追踪芯片在第三国的使用情况，也无法确保这些国家遵守美国的出口限制。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M6.5】Vanuatu region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
+   "source": "USGS地震台网",
+   "time": "2026-11-23T02:40:57.933Z",
+   "summary": "美国地质调查局官方监测：Vanuatu region发生 6.5 级地震，震源深度 未知。",
+   "regions": [
+    "瓦努阿图",
+    "亚太"
+   ]
+  },
+  {
+   "title": "俄总统新闻秘书：俄美乌新一轮三方谈判将很快举行",
+   "link": "https://sputniknews.cn/20261123/1074304697.html",
+   "source": "卫星社中文",
+   "time": "2026-11-23T02:30:04.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月23日电 俄罗斯总统新闻秘书佩斯科夫向卫星通讯社表示，新一轮俄美乌三方谈判很快将举行，但具体日期尚未确定。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】15 km NW of Pinnacles, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75470917",
+   "source": "USGS地震台网",
+   "time": "2026-11-23T02:25:44.990Z",
+   "summary": "美国地质调查局官方监测：15 km NW of Pinnacles, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "美政府十年驱逐逾4.3万名乌克兰人",
+   "link": "https://sputniknews.cn/20261123/1074304549.html",
+   "source": "卫星社中文",
+   "time": "2026-11-23T01:58:53.000Z",
+   "summary": "据俄罗斯卫星通讯社对美方移民统计数据的梳理，自乌克兰独立广场抗议及随后发生政变以来的十年间，美国政府共驱逐出境超过4.3万名乌克兰人。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "CPC governance: Staying close to the people and fighting corruption",
+   "link": "https://news.cgtn.com/news/2026-11-23/CPC-governance-Staying-close-to-the-people-and-fighting-corruption-1SivMTyugF2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T01:57:04.000Z",
+   "summary": "The Communist Party of China's (CPC) efforts to strengthen self-governance, stay connected with the people and combat co…",
+   "regions": []
+  },
+  {
+   "title": "Chinese vice premier calls for strengthened cooperation with Singapore",
+   "link": "https://news.cgtn.com/news/2026-11-23/Chinese-vice-premier-calls-for-strengthened-cooperation-with-Singapore-1SirG4fi1S8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T01:47:50.000Z",
+   "summary": "China is willing to work with Singapore to fully utilize the bilateral cooperation mechanism and deepen mutually benefic…",
+   "regions": []
+  },
+  {
+   "title": "美伊谈判僵持冲突外溢 内塔尼亚胡被曝欲单独对伊动武",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736273.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-23T01:47:06.000Z",
+   "summary": "当地时间22日，美国与伊朗之间军事冲突不断。伊朗宣布24小时内击落4架美军无人机，当天霍尔木兹海峡又有油轮触雷起火。与此同时，美伊冲突外溢持续，巴林称伊朗对该国的袭击造成人员受伤。美国提醒在巴林公民提高警惕，称敌对行动可能升级。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "韩国各地手机一天内三次警报大作，三天后韩国教育部长辞职",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736272.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-23T01:43:57.000Z",
+   "summary": "原标题：韩国各地手机一天内三次警报大作，有人被惊醒，有人误以为战争爆发，三天后韩国教育部长辞职 | 国际早察",
+   "regions": [
+    "朝鲜半岛"
+   ]
+  },
+  {
+   "title": "乌国防部情报总局曾掩护对俄毒品走私危害俄民众健康",
+   "link": "https://sputniknews.cn/20261123/1074304442.html",
+   "source": "卫星社中文",
+   "time": "2026-11-23T01:40:26.000Z",
+   "summary": "乌克兰情报部门前特工罗曼•切尔温斯基表示，乌克兰国防部情报总局曾为向俄罗斯供应毒品提供掩护，目的是危害俄罗斯民众健康并破坏社会稳定。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "俄外交部：从教科文组织报告中抹去遇难俄记者是新纳粹主义",
+   "link": "https://sputniknews.cn/20261123/1074304202.html",
+   "source": "卫星社中文",
+   "time": "2026-11-23T01:18:32.000Z",
+   "summary": "俄罗斯卫星通讯社莫斯科11月23日电 俄罗斯外交部发言人扎哈罗娃表示，联合国教科文组织在统计遇害俄罗斯记者问题上的做法——将这些记者的名字从记者安全报告中抹去——是新纳粹主义的表现。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "金正恩：朝鲜不追求霸权，也不追求扩张",
+   "link": "https://sputniknews.cn/20261123/1074304080.html",
+   "source": "卫星社中文",
+   "time": "2026-11-23T01:18:21.000Z",
+   "summary": "据朝中社报道，朝鲜国务委员长金正恩11月22日上午在朝鲜劳动党中央委员会本部大楼接受印尼、瑞典、越南、俄罗斯、巴西、捷克、印度、菲律宾、泰国和孟加拉国驻朝新任大使呈递的国书。",
+   "regions": [
+    "俄乌",
+    "南海",
+    "朝鲜半岛",
+    "亚太",
+    "拉美"
+   ]
+  },
+  {
+   "title": "特朗普：伊朗上周发射的导弹和无人机数量超过去年全年",
+   "link": "https://sputniknews.cn/20261123/1074303787.html",
+   "source": "卫星社中文",
+   "time": "2026-11-23T00:37:43.000Z",
+   "summary": "美国总统特朗普声称，伊朗在过去一周发射的无人机和导弹数量超过了此前一整年的总和。",
+   "regions": [
+    "中东",
+    "美洲"
+   ]
+  },
+  {
+   "title": "贝森特：美国正寻求英伟达就对华出售芯片寻求解释",
+   "link": "https://sputniknews.cn/20261123/1074303536.html",
+   "source": "卫星社中文",
+   "time": "2026-11-23T00:17:32.000Z",
+   "summary": "据路透社报道，美国财政部长贝森特周日表示，美国正在寻求英伟达就其向中国出售芯片一事作出解释，并将查明谁负责该公司的合规事务。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】69 km SE of Pope-Vannoy Landing, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xedqst",
+   "source": "USGS地震台网",
+   "time": "2026-11-23T00:15:38.606Z",
+   "summary": "美国地质调查局官方监测：69 km SE of Pope-Vannoy Landing, Alaska发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "日本文部科学大臣丑闻不断发酵 朝野要求其辞职声音扩大",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736238.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-23T00:08:56.000Z",
+   "summary": "中新网11月23日电 综合日媒报道，近期，日本文部科学大臣关芳弘因邀请政府部门工作人员出席政治筹款活动等问题持续受到质疑，朝野要求其辞职的声音不断扩大。",
+   "regions": [
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M4.7】221 km NE of Bitung, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucv4",
+   "source": "USGS地震台网",
+   "time": "2026-11-23T00:08:00.906Z",
+   "summary": "美国地质调查局官方监测：221 km NE of Bitung, Indonesia发生 4.7 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
+   ]
+  }
+ ],
+ "tw": [
+  {
+   "title": "“饮歌”唱响重庆 港乐金曲搭建渝港文化交流桥梁",
+   "link": "https://www.chinanews.com.cn/cul/2026/11-23/10736303.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T02:38:26.000Z",
+   "summary": "中新网重庆11月23日电 (记者 钟旖)22日晚，由香港特别行政区政府驻重庆联络处主办的“饮歌——香港影视流行音乐会”重庆站在重庆大剧院上演。",
+   "regions": [
+    "重庆"
+   ]
+  },
+  {
+   "title": "中央政府驻港联络办发言人：优中选优展现新气象 选贤任能开创新局面",
+   "link": "https://www.chinanews.com.cn/dwq/2026/11-23/10736284.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T02:32:20.000Z",
+   "summary": "中新社香港11月23日电 中央人民政府驻香港特别行政区联络办公室(简称“中央政府驻港联络办”)发言人23日发表谈话表示，热烈祝贺香港特区2026年选举委员会(下称“选委会”)界别分组一般选举22日圆满结束。这次选委会选举全面贯彻“爱国者治港…",
+   "regions": []
+  },
+  {
+   "title": "HK announces results of 2026 Election Committee subsector elections",
+   "link": "https://news.cgtn.com/news/2026-11-23/HK-announces-results-of-2026-Election-Committee-subsector-elections-1Six9lTYGZy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T02:09:18.000Z",
+   "summary": "Results of the 2026 Election Committee Subsector Ordinary Elections of the Hong Kong Special Administrative Region (HKSA…",
+   "regions": [
+    "香港",
+    "亚太"
+   ]
+  },
+  {
+   "title": "中央政府驻港联络办发言人：优中选优展现新气象，选贤任能开创新局面",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736249.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T01:10:00.000Z",
+   "summary": "中新网11月23日电 据中央政府驻港联络办微信公众号消息，中央人民政府驻香港特别行政区联络办公室发言人11月23日发表谈话表示，香港特区2026年选举委员会界别分组一般选举昨天圆满结束。对此，我们表示热烈祝贺！这次选委会选举全面贯彻“爱国者…",
+   "regions": []
+  }
+ ],
+ "cn": [
+  {
+   "title": "中方回应“COP31未能就政治决定达成共识”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736350.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T03:48:40.000Z",
+   "summary": "中新社土耳其安塔利亚11月23日电 (记者 陈溯)当地时间22日深夜，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)在延期两天后闭幕，但本届大会最终未能就政治决定达成共识。闭幕会后，中国生态环境部副部长、中国代表团团长李高对此…",
+   "regions": []
+  },
+  {
+   "title": "2026（第二届）“人工智能+”产业生态大会将于12月1日至3日在北京举办",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736348.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T03:46:54.000Z",
+   "summary": "中新网11月23日电 由中国互联网协会、世界数据组织共同主办的2026(第二届)“人工智能+”产业生态大会，将于2026年12月1日至3日在北京举办。据了解，本届大会专题论坛将围绕生态治理、网络贯通、算力协同、行业应用与市场机制五大维度展开…",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "广西金秀全面排查涉鸟违法犯罪 抓获涉案人员12人",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736346.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T03:46:12.000Z",
+   "summary": "中新网广西来宾11月23日电 广西来宾市金秀瑶族自治县林业局22日发布情况通报称，近日，接到关于该县出现非法猎捕、贩卖野生鸟类的举报线索后，该局立即联合县公安局、县市场监管局以及各乡(镇)开展全面排查，依法从严打击相关违法犯罪活动。",
+   "regions": [
+    "来宾",
+    "广西"
+   ]
+  },
+  {
+   "title": "新疆多地陆续公布2026年雪（秋）假时间",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736356.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T03:41:52.000Z",
+   "summary": "连日来，新疆乌鲁木齐市、阿勒泰地区、博尔塔拉蒙古自治州、哈密市、伊犁哈萨克自治州等地陆续公布雪假、秋假时间。",
+   "regions": [
+    "乌鲁木齐",
+    "哈密"
+   ]
+  },
+  {
+   "title": "中国代表团出席联合国气候变化安塔利亚大会",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736349.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T03:37:17.000Z",
+   "summary": "中新网土耳其安塔利亚11月23日电 (记者 陈溯 魏园)2026年11月9日至22日，《联合国气候变化框架公约》(以下简称《公约》)第三十一次缔约方大会(COP31)在土耳其安塔利亚召开。本届大会共有194个缔约方、约2200家观察员组织、…",
+   "regions": []
+  },
+  {
+   "title": "国家卫健委：动物双歧杆菌乳亚种CP-9等22种物质纳入“三新食品”",
+   "link": "https://www.chinanews.com.cn/jk/2026/11-23/10736339.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T03:35:31.000Z",
+   "summary": "中新网11月23日电 据国家卫生健康委网站消息，11月23日，国家卫生健康委发布“关于动物双歧杆菌乳亚种CP-9等22种‘三新食品’”的公告，具体内容如下：",
+   "regions": []
+  },
+  {
+   "title": "何以中国 | 在西安，连路灯都会背唐诗",
+   "link": "https://www.chinanews.com.cn/cul/2026/11-23/10736280.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T03:32:55.000Z",
+   "summary": "中新网西安11月23日电(记者 任思雨)西安，可不止有一个“李白”。",
+   "regions": [
+    "西安"
+   ]
+  },
+  {
+   "title": "一个月内连发三起险情 高原旅行遇高反怎么办",
+   "link": "https://www.chinanews.com.cn/life/2026/11-23/10736354.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T03:32:19.000Z",
+   "summary": "入冬前后，高原旅游依然热度不减，徒步赏景的游客络绎不绝，然而美景背后风险暗涌，仅一个月内，四川稻城亚丁就发生三起高反险情。",
+   "regions": [
+    "四川"
+   ]
+  },
+  {
+   "title": "中国海军多型舰机将亮相第十六届中国航展",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736351.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T03:28:37.000Z",
+   "summary": "中新社北京11月23日电 (记者 李纯)记者23日从中国海军获悉，中国海军将实装参加在广东珠海举行的第十六届中国国际航空航天博览会，并首次开设海上装备展示区，实现海军主战舰艇、新锐舰载机、陆战和无人智能装备陆海空联动，全景式亮相，多型现役装…",
+   "regions": [
+    "北京",
+    "珠海"
+   ]
+  },
+  {
+   "title": "解码先进制造：一枚CT部件如何打破国外垄断？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736341.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T03:02:10.000Z",
+   "summary": "未来产业是先进制造业的战略储备，也是培育新质生产力的重要方向。可是再前沿的产业也要靠一枚枚过硬的底层零件撑住。有一枚橡皮大小的零件，全球曾经只有一家企业能批量生产。在安徽安庆，这枚零件到底是怎么被啃下来的？",
+   "regions": [
+    "安徽"
+   ]
+  },
+  {
+   "title": "吉林省工商联全力推动民营企业治理现代化",
+   "link": "https://www.chinanews.com.cn/txy/2026/11-23/10736335.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T03:01:08.000Z",
+   "summary": "近日，全国工商联2026民营企业现代治理提升周活动以江苏主场与上海、浙江、安徽、江西四个专场形式圆满举行。吉林省修正药业集团股份有限公司现代治理实践案例入选全国工商联民营企业现代治理典型实践案例，吉林奥来德光电材料股份有限公司副总经理马晓宇…",
+   "regions": [
+    "上海",
+    "吉林"
+   ]
+  },
+  {
+   "title": "福州：村景如画 人在画中游",
+   "link": "https://www.chinanews.com.cn/tp/2026/11-23/10736327.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T02:59:05.000Z",
+   "summary": "11月22日，村中盛开着的百合花吸引游客前来观赏。中新社记者 张斌 摄 11月22日，村中美丽的景色让游客如在画中游。中新社记者 张斌 摄 11月22日，游客在村中的小溪旁边泡茶边赏美景。中新社记者 张斌 摄 11月22日，九峰村碧澈如镜的…",
+   "regions": [
+    "福州"
+   ]
+  },
+  {
+   "title": "各族民众载歌载舞欢庆大理白族自治州成立70周年",
+   "link": "https://www.chinanews.com.cn/tp/2026/11-23/10736326.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T02:55:13.000Z",
+   "summary": "11月22日晚，各族民众在大理市欢聚一堂载歌载舞，共庆云南省大理白族自治州成立70周年。大理白族自治州于1956年11月22日建州，是中国唯一白族自治州，地处云南中部偏西，苍山洱海相伴，汉族、白族、彝族、傈僳族等多个民族在此共居生活。中新社…",
+   "regions": [
+    "大理",
+    "云南"
+   ]
+  },
+  {
+   "title": "锐度·厚度·高度——从三个维度看广东加速从制造大省迈向制造强省",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736334.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T02:51:29.000Z",
+   "summary": "记者 王军伟 颜之宏 孟盈如",
+   "regions": [
+    "广东"
+   ]
+  },
+  {
+   "title": "2026年“湖北九三科创讲坛”在汉举办",
+   "link": "https://www.chinanews.com.cn/txy/2026/11-23/10736329.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T02:45:55.000Z",
+   "summary": "11月15日，2026年“湖北九三科创讲坛”在省民主党派大楼举办，讲坛由社湖北省委副主委孙涛垒主持，专职副主委付文芳代表社省委致辞。社海南省委专职副主委黄东勉，社安徽省委秘书长殷黎莉，湖北省科协党组成员、副主席孙击翔，社湖北省委秘书长、二级…",
+   "regions": [
+    "安徽",
+    "湖北"
+   ]
+  },
+  {
+   "title": "AI时代 我们需要什么样的科研人才",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736331.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T02:44:53.000Z",
+   "summary": "【“探问AI参与科研的边界”系列报道之六】",
+   "regions": []
+  },
+  {
+   "title": "广西就鸟类保护问题约谈8县（市、区）林长 将全域清网排查",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736325.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T02:35:22.000Z",
+   "summary": "中新网南宁11月23日电 (林浩 李荣霞)11月22日，广西壮族自治区林业局介绍，自治区总林长办公室21日召开鸟类保护问题集中约谈会，对柳州三江侗族自治县、融水苗族自治县，桂林荔浦市，来宾金秀瑶族自治县，贵港平南县，北海合浦县、银海区、铁山…",
+   "regions": [
+    "南宁",
+    "桂林"
+   ]
+  },
+  {
+   "title": "未来十天北方大部降水偏少 全国大部气温偏高",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736320.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T02:32:32.000Z",
+   "summary": "中新网11月23日电 据中央气象台网站消息，未来10天(11月23日-12月2日)，江南中南部、华南及西南部分地区累计降水量有10～30毫米，海南岛、四川南部、云南南部等地局地有50～80毫米，海南岛东部局地超过100毫米，上述部分地区累计…",
+   "regions": [
+    "海南",
+    "四川"
+   ]
+  },
+  {
+   "title": "内蒙古“法治乌兰牧骑”，让草原深处开出法治之花",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736307.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T02:30:16.000Z",
+   "summary": "中新网北京11月23日电 (记者 谢雁冰)内蒙古自治区地处祖国正北方，东西长约2400公里，南北最大跨度1700多公里。面对点多、线长、面广、人口居住分散的特点，如何满足广大农牧民群众对法律服务的需求？如何消除普法“盲区”和“堵点”？这成为…",
+   "regions": [
+    "北京",
+    "内蒙古"
+   ]
+  },
+  {
+   "title": "好吃又好玩！台青在深圳体验“未来生活”",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736302.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T02:09:29.000Z",
+   "summary": "机器人送早餐、机械臂掌勺炒菜",
+   "regions": [
+    "深圳"
+   ]
+  },
+  {
+   "title": "《“一老一小”服务体系建设实施方案》发布",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736289.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T02:03:08.000Z",
+   "summary": "今天，由国家发展改革委等四部门联合印发的《“一老一小”服务体系建设实施方案》对外公布。《实施方案》围绕“一老一小”服务体系建设提出了哪些目标？",
+   "regions": []
+  },
+  {
+   "title": "海军多型舰机将亮相第十六届中国航展",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736287.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T02:01:04.000Z",
+   "summary": "中新网11月23日电 据“人民海军”微信公众号消息，12月7日至13日，海军将实装参加在广东珠海举行的第十六届中国国际航空航天博览会，并首次拓展海上维度，增加高栏海上装备展示区，实现海军主战舰艇、新锐舰载机、陆战和无人智能装备陆海空联动、全…",
+   "regions": [
+    "珠海",
+    "广东"
+   ]
+  },
+  {
+   "title": "农民“上楼”，这些现实难题如何解？",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736283.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T01:57:04.000Z",
+   "summary": "环境脏而乱、生活不适应、物业费收不上，部分农村安置小区面临治理困境",
+   "regions": []
+  },
+  {
+   "title": "CPC governance: Staying close to the people and fighting corruption",
+   "link": "https://news.cgtn.com/news/2026-11-23/CPC-governance-Staying-close-to-the-people-and-fighting-corruption-1SivMTyugF2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T01:57:04.000Z",
+   "summary": "The Communist Party of China's (CPC) efforts to strengthen self-governance, stay connected with the people and combat co…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Second China-built large cruise ship makes maiden commercial voyage",
+   "link": "https://news.cgtn.com/news/2026-11-23/Second-China-built-large-cruise-ship-makes-maiden-commercial-voyage-1Siz5Z2Z0nm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T01:52:23.000Z",
+   "summary": "Second China-built large cruise ship makes maiden commercial voyage",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Chinese vice premier calls for strengthened cooperation with Singapore",
+   "link": "https://news.cgtn.com/news/2026-11-23/Chinese-vice-premier-calls-for-strengthened-cooperation-with-Singapore-1SirG4fi1S8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T01:47:50.000Z",
+   "summary": "China is willing to work with Singapore to fully utilize the bilateral cooperation mechanism and deepen mutually benefic…",
+   "regions": [
+    "中国",
+    "亚太",
+    "新加坡"
+   ]
+  },
+  {
+   "title": "第八届新时代“枫桥经验”论坛在杭州举行",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736269.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T01:46:44.000Z",
+   "summary": "中新网杭州11月23日电 (钱晨菲)11月21日至22日，第八届新时代“枫桥经验”论坛、“平安浙江”学术年会暨浙江省法学会新时代“枫桥经验”研究会学术年会(2026)在杭州举行，主题为“推进人民城市治理现代化、建构中国社会治理自主知识体系”…",
+   "regions": [
+    "杭州",
+    "浙江"
+   ]
+  },
+  {
+   "title": "论道AI时代 华东律师业探索法律服务新路径",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736265.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T01:37:59.000Z",
+   "summary": "中新网杭州11月23日电 (王潇婧)当“出海”遇上“AI”，法律服务如何跟上时代的节奏、产业的需求？11月21日至22日，第二十一届华东律师论坛在浙江杭州举行，华东六省一市律师协会负责人及律师代表400余人齐聚一堂，聚焦涉外法治和人工智能两…",
+   "regions": [
+    "杭州",
+    "浙江"
+   ]
+  },
+  {
+   "title": "歼-15成功着舰14周年 历史性时刻珍贵画面回顾→",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736268.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T01:36:33.000Z",
+   "summary": "14年前的今天，中国自主研制的首型歼-15舰载机在辽宁舰甲板上阻拦着舰。这一历史性时刻标志着中国成为世界少数掌握舰载机起降技术的国家。回望首次成功着舰，看似只是战机从空中落向甲板的短短几秒，背后却是飞行员对极限的挑战，是科研人员对技术难关的…",
+   "regions": [
+    "辽宁"
+   ]
+  },
+  {
+   "title": "江苏省气象台发布寒潮蓝色预警",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736259.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T01:28:59.000Z",
+   "summary": "中新网11月23日电 据中央气象台网站消息。江苏省气象台2026年11月23日09时06分发布寒潮蓝色预警：受较强冷空气影响，预计23-25日，南京、无锡、常州、苏州、南通、淮安、盐城、扬州、镇江、泰州、连云港南部和宿迁南部地区48小时最低…",
+   "regions": [
+    "南京",
+    "苏州"
+   ]
+  },
+  {
+   "title": "兑现力，城市留人的新底牌",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736258.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T01:25:04.000Z",
+   "summary": "中国新闻周刊记者：陈淑莲",
+   "regions": []
+  },
+  {
+   "title": "当年轻人用“生活品质”选城市",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736256.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T01:21:20.000Z",
+   "summary": "中国新闻周刊记者：贾诗卉",
+   "regions": []
+  },
+  {
+   "title": "包容性：被低估的城市竞争力",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736255.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T01:15:56.000Z",
+   "summary": "中国新闻周刊记者：梁婷婷",
+   "regions": []
+  },
+  {
+   "title": "新疆维吾尔自治区乌鲁木齐市人大常委会原党组副书记、主任阿不都热依木·阿不力孜被查",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736250.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T01:14:34.000Z",
+   "summary": "中新网11月23日电 据新疆维吾尔自治区纪委监委消息：新疆维吾尔自治区乌鲁木齐市人大常委会原党组副书记、主任阿不都热依木·阿不力孜涉嫌严重违纪违法，目前正接受新疆维吾尔自治区纪委监委纪律审查和监察调查。",
+   "regions": [
+    "乌鲁木齐",
+    "新疆"
+   ]
+  },
+  {
+   "title": "冷空气东移南下 大风降温影响中东部地区",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736248.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T01:06:49.000Z",
+   "summary": "中新网11月23日电 据中央气象台网站消息，气象监测显示，新一股冷空气已开始影响我国北方地区，过去一天，内蒙古、东北地区出现大风天气，部分地区阵风风力达到8~10级；南方降雨逐渐发展，广西中北部、海南岛东部、湖南中南部、云南西北部等地部分地…",
+   "regions": [
+    "中东",
+    "湖南",
+    "海南"
+   ]
+  },
+  {
+   "title": "南方降水短暂发展增强气温下降 北方大部天气晴朗气温偏高",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736247.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T01:00:17.000Z",
+   "summary": "中国天气网讯 南方降水今天(11月23日)发展增强，部分地区有中到大雨，明后天降雨将逐步缩减。受阴雨影响，南方部分地区气温将创新低。同时，北方大部晴朗持续，气温以偏高为主。25日起，我国大部将现升温浪潮，最高气温20℃线将明显北抬。",
+   "regions": []
+  },
+  {
+   "title": "两个箭头火了，网友在点赞什么",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736245.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T00:35:50.000Z",
+   "summary": "最近，两个箭头火了。一个是江苏南京地铁南京南站的指示牌，指向由直变弯，网友说“箭头恨不得带你到站台”；一个是新疆独库公路红白相间的向下的箭头，被视为恶劣天气中司机的“安全导航”。",
+   "regions": [
+    "南京",
+    "江苏"
+   ]
+  },
+  {
+   "title": "冷空气继续影响我国中东部地区",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736236.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T00:09:26.000Z",
+   "summary": "中新网11月23日电 昨日，东北地区、内蒙古等地部分地区出现大风雨雪天气。预计23日至24日，冷空气继续影响我国，东北地区东部和北部有降雪，江南、华南、西南地区等地有降雨；青藏高原有雨雪天气；关注对交通运输、农牧业、人体健康、能源保供及工程…",
+   "regions": [
+    "中东",
+    "内蒙古"
+   ]
+  },
+  {
+   "title": "北京今天风寒效应明显 最高气温8℃ 阵风可达6至7级",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736230.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-23T00:06:08.000Z",
+   "summary": "随着冷空气到场，北京风力明显加大。预计今天(11月23日)白天，北京阵风可达6至7级，山区局地阵风8级以上，最高气温为8℃，风寒效应明显，公众外出需注意防风防寒。",
+   "regions": [
+    "北京"
+   ]
+  }
+ ],
+ "econ": [
+  {
+   "title": "泽连斯基敦促美国提供“爱国者”导弹 乌军一周袭击俄8处石油设施",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736321.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T03:42:28.000Z",
+   "summary": "中新社北京11月23日电 综合消息：乌克兰总统泽连斯基22日称，本周乌克兰多地遭到俄军袭击，美国在“爱国者”导弹项目上的拖延令人费解。同日，乌国防部称，乌军在一周内袭击了俄罗斯8处石油基础设施。",
+   "regions": [
+    "俄乌",
+    "美洲",
+    "北京"
+   ]
+  },
+  {
+   "title": "加快“补课”，谁是中部大省“第二枢纽”？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736345.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T03:18:20.000Z",
+   "summary": "每经记者｜程晓玲",
+   "regions": []
+  },
+  {
+   "title": "断航近半个世纪，湖南这条“黄金水道”为何重启？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736344.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T03:12:06.000Z",
+   "summary": "每经记者｜刘旭强",
+   "regions": []
+  },
+  {
+   "title": "解码先进制造：一枚CT部件如何打破国外垄断？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736341.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T03:02:10.000Z",
+   "summary": "未来产业是先进制造业的战略储备，也是培育新质生产力的重要方向。可是再前沿的产业也要靠一枚枚过硬的底层零件撑住。有一枚橡皮大小的零件，全球曾经只有一家企业能批量生产。在安徽安庆，这枚零件到底是怎么被啃下来的？",
+   "regions": []
+  },
+  {
+   "title": "小手套做成大产业 滑雪装备如何释放冰雪经济乘数效应",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736340.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T02:59:45.000Z",
+   "summary": "近一个月以来，崇礼、阿勒泰、北大湖等地雪场陆续开板，“开板即火”，商旅平台上，“滑雪”搜索量同比增长125%；崇礼一家雪场开板首个周末，客流比上一雪季同期增长近两成。",
+   "regions": []
+  },
+  {
+   "title": "首批主动ETF在沪深交易所上市",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736338.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T02:57:03.000Z",
+   "summary": "11月23日，18只主动ETF在沪深交易所上市，沪市、深市各9只，合计募集360亿元。这批产品全部触及20亿元募集规模上限并提前结束募集，其中17只因超募启动比例配售，有效认购户数超过30万户。",
+   "regions": []
+  },
+  {
+   "title": "金价震荡回调，黄金挂钩理财“退烧”？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736337.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T02:54:23.000Z",
+   "summary": "金价震荡回调，黄金挂钩理财“退烧”？新发节奏放缓，部分产品净值承压",
+   "regions": []
+  },
+  {
+   "title": "锐度·厚度·高度——从三个维度看广东加速从制造大省迈向制造强省",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736334.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T02:51:29.000Z",
+   "summary": "记者 王军伟 颜之宏 孟盈如",
+   "regions": []
+  },
+  {
+   "title": "电子商务助力经济向新向优",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736330.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T02:41:12.000Z",
+   "summary": "光明日报北京11月22日电 记者张翼从商务部获悉，今年1至10月，我国电子商务平稳发展，线上线下融合持续增强消费市场韧性，数字技术赋能产业转型升级，“丝路电商”拓展国际经贸合作，商务领域新质生产力不断培育壮大，助力我国经济向新向优。",
+   "regions": [
+    "北京"
+   ]
+  },
+  {
+   "title": "前10个月全国一般公共预算收入同比增长4.9%",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736328.shtml",
+   "source": "中新网滚动",
+   "time": "2026-11-23T02:39:38.000Z",
+   "summary": "央视网消息(新闻联播)：财政部数据显示，今年1—10月，全国一般公共预算收入19.57万亿元，同比增长4.9%，实现平稳增长。",
+   "regions": []
+  },
+  {
+   "title": "“雪假”撬动冰雪经济 点燃冬季消费引擎",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736324.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T02:30:04.000Z",
+   "summary": "继秋假之后，“雪假”也来了。随着2026年新雪季开启，吉林、新疆阿勒泰、内蒙古呼伦贝尔、河北张家口等地中小学生迎来特色“雪假”。雪假的意义远不止于多放几天假，它既是对青少年冰雪运动普及的有益探索，也是以“小手拉大手”方式激活家庭冰雪消费、撬…",
+   "regions": []
+  },
+  {
+   "title": "从深圳出发，他们去了哪里",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736323.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T02:27:04.000Z",
+   "summary": "深圳之于APEC，是一个新的起点。",
+   "regions": []
+  },
+  {
+   "title": "加强能源保供 全力保障群众温暖过冬",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736319.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T02:23:41.000Z",
+   "summary": "央视网消息(新闻联播)：我国北方地区已经全面开启冬季供暖，煤炭、天然气以及清洁电能等能源供应协同发力，全力保障群众温暖过冬。",
+   "regions": []
+  },
+  {
+   "title": "8000亿元“金融活水”投向了哪些项目",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736317.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T02:21:09.000Z",
+   "summary": "8000亿元“金融活水”投向了哪些项目(财经深一度)",
+   "regions": []
+  },
+  {
+   "title": "稳市场！三项新政来了",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736308.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T02:15:39.000Z",
+   "summary": "沪深北交易所降低融资保证金比例下限至80%",
+   "regions": []
+  },
+  {
+   "title": "21世纪金融年会启幕 爱康集团发布《2026 版银行及保险高净值客户健康绿皮书》",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736276.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T02:11:47.000Z",
+   "summary": "爱康集团《2026版银行及保险高净值客户健康绿皮书》 11月21日，由南方财经全媒体集团指导、《21世纪经济报道》主办的“第二十一届21世纪金融年会”在北京启幕，本届年会以“破局与笃行：金融锚定新质增长”为主题。自2006年首届举办至今，2…",
+   "regions": []
+  },
+  {
+   "title": "经济保持增长 为什么有些人的感受不一样？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736305.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T02:10:59.000Z",
+   "summary": "不久前，国家统计局公布了前三季度成绩单，中国经济保持增长，大盘子稳住了。可有些朋友会问：“数据是不错，可我怎么没觉得松快呢？”经济在增长，为什么有些人的感受不一样？",
+   "regions": []
+  },
+  {
+   "title": "从车厘子的“鲜”，品出亚太共同体的“甜”（财经观）",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736296.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T02:06:49.000Z",
+   "summary": "王东辉",
+   "regions": []
+  },
+  {
+   "title": "A股创业板指火速翻红",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736281.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T01:55:04.000Z",
+   "summary": "23日，A股开盘后，创业板指火速翻红，截至发稿涨0.08%。成分股中，新易盛、中际旭创、天孚通信集体上涨，其中，新易盛涨超5%。",
+   "regions": []
+  },
+  {
+   "title": "上海黄金交易所：近期贵金属价格波动显著加剧 做好市场风险控制工作",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736266.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T01:52:00.000Z",
+   "summary": "中新网11月23日电 据上海黄金交易所官网消息，11月23日，上海黄金交易所发布关于做好近期市场风险控制工作的通知：近期影响市场不稳定的因素较多，不确定性持续上升，贵金属价格波动显著加剧，请密切关注市场行情变化，做细做好风险应急预案，维护市…",
+   "regions": []
+  },
+  {
+   "title": "A股周一开盘：超5000只个股飘绿，三大指数集体低开",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736270.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T01:38:21.000Z",
+   "summary": "原标题：A股周一开盘：超5000只个股飘绿，三大指数集体低开；黄金股领涨；半导体、传媒、通信设备下跌",
+   "regions": []
+  },
+  {
+   "title": "11月23日央行开展4995亿元隔夜逆回购操作",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736260.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T01:29:45.000Z",
+   "summary": "中新网11月23日电 2026年11月23日中国人民银行以固定利率、数量招标方式开展了4995亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+   "regions": []
+  },
+  {
+   "title": "11月23日人民币对美元中间价报6.7120 上调11个基点",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736257.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T01:28:05.000Z",
+   "summary": "中新网11月23日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月23日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7120元，上调11个基点。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "中国农业发展银行董事会办公室原主任张俊强被查",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736252.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-23T01:15:26.000Z",
+   "summary": "中新网11月23日电 据中央纪委国家监委驻中国农业发展银行纪检监察组、内蒙古自治区纪委监委消息：中国农业发展银行董事会办公室原主任张俊强涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国农业发展银行纪检监察组纪律审查和内蒙古自治区包头市监委…",
+   "regions": [
+    "内蒙古"
+   ]
+  },
+  {
+   "title": "黄金跌跌不休，何时反弹？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736253.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T01:12:18.000Z",
+   "summary": "中新网11月23日电(记者 左雨晴) 最近一周，国际金价接连失守3900美元、3800美元、3700美元、3600美元关口，创下近14个月新低。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "把机器人“教”进真实世界",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736244.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T00:30:37.000Z",
+   "summary": "具身智能机器人应用技术员：",
+   "regions": []
+  },
+  {
+   "title": "AI时代，探索的快乐不变",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736242.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T00:25:55.000Z",
+   "summary": "数学家诺加·阿隆：",
+   "regions": []
+  },
+  {
+   "title": "“灵晟”蝉联全球第一，含金量几何？",
+   "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736239.shtml",
+   "source": "中新网财经",
+   "time": "2026-11-23T00:10:24.000Z",
+   "summary": "国产超算除了要追求峰值性能，更要落实高效、绿色、安全的要求，在服务“东数西算”工程、促进区域协调发展等方面多下功夫",
+   "regions": []
+  }
+ ],
+ "updatedAt": "2026-11-23T03:52:44.758Z"
+}

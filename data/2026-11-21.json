@@ -98,6 +98,14 @@
    "regions": []
   },
   {
+   "title": "增加 search 接口 | gpress v1.2.6 发布",
+   "link": "https://www.oschina.net/news/503718",
+   "source": "开源中国",
+   "time": "2026-11-21T16:22:49.000Z",
+   "summary": "gpress 是 Web3 内容平台，Hertz + Go template + FTS5 全文检索，支持以太坊和百度超级链，兼容 Hugo、WordPress 生态，使用 Wasm 扩展插件，只需 200M 内存. 作为静态站点： gpr…",
+   "regions": []
+  },
+  {
    "title": "今日小雪：雨凝为雪，地气冻结",
    "link": "https://www.ithome.com/1/030/511.htm",
    "source": "IT之家",
@@ -111,6 +119,14 @@
    "source": "IT之家",
    "time": "2026-11-21T15:43:31.000Z",
    "summary": "IT之家 11 月 21 日消息，现如今在海外，让经典车通过电动化改造获得新生的项目不断涌现。外媒 insideevs 今天（21 日）介绍了一辆“复活”的 1967 款保时捷 912，该车由改装厂商 Inverted 经手，改装团队为它装…",
+   "regions": []
+  },
+  {
+   "title": "性能优化 | zorm v1.8.7 发布",
+   "link": "https://www.oschina.net/news/503717",
+   "source": "开源中国",
+   "time": "2026-11-21T15:37:48.000Z",
+   "summary": "Go 轻量 ORM, 零依赖，零侵入分布式事务，支持达梦 (dm), 金仓 (kingbase), 神通 (shentong), 南通 (gbase),TDengine,mysql,postgresql,oracle,mssql,sqlit…",
    "regions": []
   },
   {
@@ -4485,5 +4501,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-22T23:16:57.128Z"
+ "updatedAt": "2026-11-23T03:52:44.764Z"
 }
