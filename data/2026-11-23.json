@@ -154,6 +154,14 @@
    "regions": []
   },
   {
+   "title": "开源 Windows 任务管理器 Argus v0.6.0 发布，新增桌面与任务栏监控、多轨道历史与 NPU 支持",
+   "link": "https://www.oschina.net/news/503759",
+   "source": "开源中国",
+   "time": "2026-11-23T21:04:26.000Z",
+   "summary": "开源 Windows 任务管理器 Argus 现已发布 v0.6.0。Argus 使用 Rust 直接调用 Windows NT 原生接口（不依赖 WMI），界面基于 GPUI Kit 与 DirectX 11 原生渲染，脱离 WebVie…",
+   "regions": []
+  },
+  {
    "title": "2026 年 Steam 大奖提名开启：十周年新增「名人堂」特别奖项，11 月 30 日截止",
    "link": "https://www.ithome.com/1/031/235.htm",
    "source": "IT之家",
@@ -295,6 +303,14 @@
    "source": "IT之家",
    "time": "2026-11-23T13:59:29.000Z",
    "summary": "IT之家 11 月 23 日闪讯速报，英伟达官方今日宣布，公司董事会已一致投票决定， 即日起恢复黄仁勋的总裁、首席执行官及董事职务 。 英伟达表示，董事会经过与黄仁勋多轮讨论和会议，对其坦诚程度及领导公司能力表示认可，并认为恢复其职务符合股…",
+   "regions": []
+  },
+  {
+   "title": "phimint v0.13.0 发布：Windows 自更新、卸载、路径显示逐条修好；MIT OR Apache-2.0 双协议",
+   "link": "https://www.oschina.net/news/503758",
+   "source": "开源中国",
+   "time": "2026-11-23T13:53:30.000Z",
+   "summary": "phimint v0.13.0 已发布（2026-11-23）。phimint 是一个用 Rust 写的终端 AI 编码 agent：一条命令装上，配好 API key，就能在终端里把需求变成跑通的代码。 这一轮要讲的不是新功能，是一批具体…",
    "regions": []
   },
   {
@@ -1510,6 +1526,14 @@
    ]
   },
   {
+   "title": "Explosions heard in Yemeni capital Sana'a",
+   "link": "https://news.cgtn.com/news/2026-11-24/news-1Sk4wPKwjD2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T23:15:11.000Z",
+   "summary": "Explosions heard in Yemeni capital Sana'a",
+   "regions": []
+  },
+  {
    "title": "外媒：以军空袭加沙致3死 其中含1名联合国工作人员",
    "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736730.shtml",
    "source": "中新网国际",
@@ -2062,6 +2086,14 @@
    ]
   },
   {
+   "title": "Nvidia reinstates Jensen Huang as CEO after board reversal",
+   "link": "https://news.cgtn.com/news/2026-11-23/news-1SjqPxGC9MI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T13:59:40.000Z",
+   "summary": "Nvidia reinstates Jensen Huang as CEO after board reversal",
+   "regions": []
+  },
+  {
    "title": "俄中先进技术大学在喀山论坛上正式启动",
    "link": "https://sputniknews.cn/20261123/1074310090.html",
    "source": "卫星社中文",
@@ -2070,6 +2102,22 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "CGTN poll: Why does the world need to re-examine China's experience?",
+   "link": "https://news.cgtn.com/news/2026-11-23/CGTN-poll-Why-does-the-world-need-to-re-examine-China-s-experience--1SjjrVNXaLu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T13:46:01.000Z",
+   "summary": "CGTN poll: Why does the world need to re-examine China's experience?",
+   "regions": []
+  },
+  {
+   "title": "CAF backs Infantino for fourth term as FIFA Chief",
+   "link": "https://newsaf.cgtn.com/news/2026-11-23/CAF-backs-Infantino-for-fourth-term-as-FIFA-Chief--1SjlyMK7lLy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T13:40:25.000Z",
+   "summary": "Gianni Infantino secured the unanimous backing of African football’s governing body for his upcoming FIFA presidential r…",
+   "regions": []
   },
   {
    "title": "俄外长：重要的是维护黎巴嫩结构同时不破坏各族群间的平衡",
@@ -2109,6 +2157,14 @@
    ]
   },
   {
+   "title": "AU to launch roadmap to end preventable maternal and newborn deaths",
+   "link": "https://newsaf.cgtn.com/news/2026-11-23/AU-to-launch-roadmap-to-end-preventable-maternal-and-newborn-deaths-1Sj4uJTwPEQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T13:16:34.000Z",
+   "summary": "The framework calls on African countries to ensure all births take place in well-equipped health facilities under the ca…",
+   "regions": []
+  },
+  {
    "title": "俄外长：俄罗斯希望叙利亚可成功实现民族统一",
    "link": "https://sputniknews.cn/20261123/1074309872.html",
    "source": "卫星社中文",
@@ -2130,6 +2186,14 @@
    ]
   },
   {
+   "title": "At least 35 Fulani killed in revenge attacks in Central Nigeria",
+   "link": "https://newsaf.cgtn.com/news/2026-11-23/At-least-35-Fulani-killed-in-revenge-attacks-in-Central-Nigeria-1SiXPuOYbBu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T13:00:10.000Z",
+   "summary": "At least 35 members of the Fulani ethnic group were killed in retaliatory attacks in central Nigeria following a deadly …",
+   "regions": []
+  },
+  {
    "title": "印度总理莫迪宣布向尼泊尔提供16.2亿美元援助",
    "link": "https://sputniknews.cn/20261123/1074309544.html",
    "source": "卫星社中文",
@@ -2139,6 +2203,22 @@
     "美洲",
     "亚太"
    ]
+  },
+  {
+   "title": "DRC fighting traps health workers, disrupts Ebola response",
+   "link": "https://newsaf.cgtn.com/news/2026-11-23/DRC-fighting-traps-health-workers-disrupts-Ebola-response-1SiVz3ihhQI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T12:53:35.000Z",
+   "summary": "The head of the World Health Organization (WHO) has called for an immediate cessation of hostilities after heavy fightin…",
+   "regions": []
+  },
+  {
+   "title": "Q&A: South China Sea COC left unfinished. Is China really to blame？",
+   "link": "https://news.cgtn.com/news/2026-11-23/Q-A-South-China-Sea-COC-left-unfinished-Is-China-really-to-blame--1Sj0aB7olyw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T12:53:14.000Z",
+   "summary": "CGTN spoke with Ding Duo, director of the Research Center for International and Regional Issues at the National Institut…",
+   "regions": []
   },
   {
    "title": "奥地利宣布愿意为俄欧谈判提供场地",
@@ -2283,6 +2363,40 @@
    ]
   },
   {
+   "title": "【专题报道】从温暖家庭到赋能产业：COP31释放全球地热发展潜力",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143249",
+   "source": "联合国新闻",
+   "time": "2026-11-23T12:00:00.000Z",
+   "summary": "提到地热，人们往往首先想到温泉。但在世界许多地方，来自地球深处的热量，正以更加多样的方式走进日常生活：它可以为千家万户提供暖气，为温室里的农作物创造适宜的生长环境，也可以服务工厂生产、食品加工，甚至为人工智能数据中心提供电力。",
+   "regions": []
+  },
+  {
+   "title": "古特雷斯：必须将声援巴勒斯坦人民付诸行动 推动实现“两国方案”",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143255",
+   "source": "联合国新闻",
+   "time": "2026-11-23T12:00:00.000Z",
+   "summary": "联合国秘书长古特雷斯周一通过常务副秘书长阿明娜·穆罕默德在纪念“声援巴勒斯坦人民国际日”特别会议上宣读的讲话指出，巴勒斯坦人民有权享有尊严、正义和自决。国际社会必须将声援转化为实际行动，结束巴勒斯坦人民的苦难。",
+   "regions": [
+    "中东"
+   ]
+  },
+  {
+   "title": "古特雷斯呼吁就全球人工智能安全框架展开磋商，警告将出现历史性的权力转移",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143254",
+   "source": "联合国新闻",
+   "time": "2026-11-23T12:00:00.000Z",
+   "summary": "联合国秘书长古特雷斯周一呼吁各会员国就管理人工智能风险的多边框架展开讨论，并警告称这项技术正在推动“人类历史上最大的权力转移”。",
+   "regions": []
+  },
+  {
+   "title": "全球仅7%的暴力幸存女性向警方报案 每小时5名女性遭伴侣或家人杀害",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143253",
+   "source": "联合国新闻",
+   "time": "2026-11-23T12:00:00.000Z",
+   "summary": "联合国妇女署和联合国毒品和犯罪问题办公室周一发布的最新数据显示，全球仅有23%遭受身体或性暴力的女性会寻求帮助，向警方报案的仅占7%。与此同时，2025年全球有47000名妇女和女童被亲密伴侣或家庭成员蓄意杀害，平均每小时5人遇害。联合国警…",
+   "regions": []
+  },
+  {
    "title": "俄外交部：对俄罗斯而言没有敌对国家只有不友好的政府",
    "link": "https://sputniknews.cn/20261123/1074309044.html",
    "source": "卫星社中文",
@@ -2301,6 +2415,22 @@
    "regions": [
     "国际"
    ]
+  },
+  {
+   "title": "China and Switzerland hold foreign ministers' strategic dialogue",
+   "link": "https://news.cgtn.com/news/2026-11-23/China-and-Switzerland-hold-foreign-ministers-strategic-dialogue-1SjcKHZ1ako/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T11:55:40.000Z",
+   "summary": "Chinese Foreign Minister Wang Yi and Swiss Federal Council Vice President and Foreign Minister Ignazio Cassis co-chaired…",
+   "regions": []
+  },
+  {
+   "title": "China to boost digital economy, AI, green cooperation with Singapore",
+   "link": "https://news.cgtn.com/news/2026-11-23/China-to-boost-digital-economy-AI-green-cooperation-with-Singapore-1SjagJyyVDW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T11:53:09.000Z",
+   "summary": "China is willing to work with Singapore to upgrade cooperation in traditional fields and expand cooperation in emerging …",
+   "regions": []
   },
   {
    "title": "【地震 M3.3】52 km ENE of Shaktoolik, Alaska",
@@ -2665,6 +2795,14 @@
    ]
   },
   {
+   "title": "Dutch foreign minister to visit China",
+   "link": "https://news.cgtn.com/news/2026-11-23/Dutch-foreign-minister-to-visit-China-1Sj0caE1wmQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T08:00:43.000Z",
+   "summary": "Dutch Foreign Minister Tom Berendsen will visit China from November 23 to 25, a Chinese Foreign Ministry spokesperson an…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.1】1 km SSE of Lima, Montana",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/mb90213553",
    "source": "USGS地震台网",
@@ -2718,6 +2856,14 @@
    ]
   },
   {
+   "title": "Global voices: China's initiatives boost multilateral cooperation",
+   "link": "https://news.cgtn.com/news/2026-11-23/Global-voices-China-s-initiatives-boost-multilateral-cooperation-1SizTEH5VXa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T06:54:22.000Z",
+   "summary": "Former international officials and scholars have highlighted the importance of China's global initiatives in addressing …",
+   "regions": []
+  },
+  {
    "title": "以色列组阁谈判未取得突破 总理人选仍存分歧",
    "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736389.shtml",
    "source": "中新网国际",
@@ -2767,6 +2913,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Chinese envoys step up peace efforts in Middle East, Horn of Africa",
+   "link": "https://news.cgtn.com/news/2026-11-23/Chinese-envoys-step-up-peace-efforts-in-Middle-East-Horn-of-Africa-1SiPdVqBN1C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T06:36:01.000Z",
+   "summary": "Chinese envoys step up peace efforts in Middle East, Horn of Africa",
+   "regions": []
   },
   {
    "title": "【地震 M2.7】96 km WSW of Karluk, Alaska",
@@ -2870,6 +3024,14 @@
    ]
   },
   {
+   "title": "Global leaders and scholars share views on APEC outcomes",
+   "link": "https://news.cgtn.com/news/2026-11-23/Global-leaders-and-scholars-share-views-on-APEC-outcomes-1ShB3fNwu9G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T04:52:01.000Z",
+   "summary": "Global leaders and scholars share views on APEC outcomes",
+   "regions": []
+  },
+  {
    "title": "俄罗斯今年10月对华动力煤出口量增长33%",
    "link": "https://sputniknews.cn/20261123/1074305800.html",
    "source": "卫星社中文",
@@ -2920,6 +3082,14 @@
    "regions": [
     "美洲"
    ]
+  },
+  {
+   "title": "UK joins 10 other nations in NATO STARLIFT satellite launch initiative",
+   "link": "https://news.cgtn.com/news/2026-11-23/UK-joins-10-other-nations-in-NATO-STARLIFT-satellite-launch-initiative-1SiD3GxnPIQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T03:57:25.000Z",
+   "summary": "UK joins 10 other nations in NATO STARLIFT satellite launch initiative",
+   "regions": []
   },
   {
    "title": "金正恩接受十国新任大使递交国书",
@@ -2985,11 +3155,43 @@
    ]
   },
   {
+   "title": "US intelligence chief warns more tech outages during system upgrades",
+   "link": "https://news.cgtn.com/news/2026-11-23/US-intelligence-chief-warns-more-tech-outages-during-system-upgrades-1SizUB2NyGk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T03:29:13.000Z",
+   "summary": "US intelligence chief warns more tech outages during system upgrades",
+   "regions": []
+  },
+  {
    "title": "中国某部委机关干部因犯间谍罪被判死刑",
    "link": "https://sputniknews.cn/20261123/1074305146.html",
    "source": "卫星社中文",
    "time": "2026-11-23T03:27:20.000Z",
    "summary": "据“保密观”微信公众号11月23日披露，中国某部委工作人员麻某长期搜集并向他国情报人员提供中国国家秘密，其中秘密级国家秘密9项，机密级国家秘密26项，并因此获取百万余元间谍经费。法院以犯间谍罪判处麻某死刑，剥夺政治权利终身，并处没收个人全部…",
+   "regions": []
+  },
+  {
+   "title": "China urges faith in multilateral climate process after COP31",
+   "link": "https://news.cgtn.com/news/2026-11-23/China-urges-faith-in-multilateral-climate-process-after-COP31-1SiAIZnjtOU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T03:25:46.000Z",
+   "summary": "China urges faith in multilateral climate process after COP31",
+   "regions": []
+  },
+  {
+   "title": "Landmine blast kills 5 children in northwest Syria",
+   "link": "https://news.cgtn.com/news/2026-11-23/Landmine-blast-kills-5-children-in-northwest-Syria-1SiEQpK0Zq0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T03:23:54.000Z",
+   "summary": "A landmine explosion has killed five children and wounded one other in northwest Syria, state media reported on Sunday.",
+   "regions": []
+  },
+  {
+   "title": "Iran reports downing US drones, Netanyahu weighs solo strike",
+   "link": "https://news.cgtn.com/news/2026-11-23/Iran-reports-downing-US-drones-Netanyahu-weighs-solo-strike-1SiCeMiYYeI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-23T03:22:56.000Z",
+   "summary": "Tensions in the Middle East continued to escalate on Sunday as Iran reported shooting down another US military drone, wh…",
    "regions": []
   },
   {
@@ -3192,6 +3394,17 @@
   }
  ],
  "tw": [
+  {
+   "title": "Mainland cultural trips attract visitors from Taiwan at travel fair",
+   "link": "https://news.cgtn.com/news/2026-11-23/Mainland-cultural-trips-attract-visitors-from-Taiwan-at-travel-fair-1Sj457qOWYw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T14:49:17.000Z",
+   "summary": "Cultural tours to the Chinese mainland drew interest at the Tainan International Travel Fair in Taiwan, with many visito…",
+   "regions": [
+    "台湾",
+    "台海"
+   ]
+  },
   {
    "title": "国务院台办与中国进出口银行签署合作协议",
    "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736705.shtml",
@@ -3450,6 +3663,33 @@
    ]
   },
   {
+   "title": "Cutting-edge tech on display in Beijing's Zhongguancun",
+   "link": "https://news.cgtn.com/news/2026-11-23/Cutting-edge-tech-on-display-in-Beijing-s-Zhongguancun-1SjnW6yCPGo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T13:46:56.000Z",
+   "summary": "Cutting-edge tech on display in Beijing's Zhongguancun",
+   "regions": []
+  },
+  {
+   "title": "CGTN poll: Why does the world need to re-examine China's experience?",
+   "link": "https://news.cgtn.com/news/2026-11-23/CGTN-poll-Why-does-the-world-need-to-re-examine-China-s-experience--1SjjrVNXaLu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T13:46:01.000Z",
+   "summary": "CGTN poll: Why does the world need to re-examine China's experience?",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Xi's speech marking 160th anniversary of Sun Yat-sen's birth published",
+   "link": "https://news.cgtn.com/news/2026-11-23/Xi-s-speech-marking-160th-anniversary-of-Sun-Yat-sen-s-birth-published-1Sj1TnJbL6U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T13:43:23.000Z",
+   "summary": "A speech delivered by Chinese President Xi Jinping at a ceremony marking the 160th anniversary of Sun Yat-sen's birth ha…",
+   "regions": []
+  },
+  {
    "title": "刑事法律援助全球会议在北京开幕 王小洪出席并致辞",
    "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736676.shtml",
    "source": "中新网中国",
@@ -3508,6 +3748,17 @@
    "regions": [
     "哈尔滨",
     "黑龙江"
+   ]
+  },
+  {
+   "title": "Q&A: South China Sea COC left unfinished. Is China really to blame？",
+   "link": "https://news.cgtn.com/news/2026-11-23/Q-A-South-China-Sea-COC-left-unfinished-Is-China-really-to-blame--1Sj0aB7olyw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T12:53:14.000Z",
+   "summary": "CGTN spoke with Ding Duo, director of the Research Center for International and Regional Issues at the National Institut…",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -3617,6 +3868,14 @@
    ]
   },
   {
+   "title": "Brothers in Art: Peking Opera meets Kung Fu | Episode 2",
+   "link": "https://news.cgtn.com/news/2026-11-23/Brothers-in-Art-Peking-Opera-meets-Kung-Fu-Episode-2-1SegPCFdg6A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T12:06:40.000Z",
+   "summary": "Brothers in Art: Peking Opera meets Kung Fu | Episode 2",
+   "regions": []
+  },
+  {
    "title": "宁夏出台“十五五”教育发展规划 力争2030年普高录取率达86%",
    "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736619.shtml",
    "source": "中新网社会",
@@ -3647,6 +3906,19 @@
    "regions": [
     "银川",
     "宁夏"
+   ]
+  },
+  {
+   "title": "China and Switzerland hold foreign ministers' strategic dialogue",
+   "link": "https://news.cgtn.com/news/2026-11-23/China-and-Switzerland-hold-foreign-ministers-strategic-dialogue-1SjcKHZ1ako/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T11:55:40.000Z",
+   "summary": "Chinese Foreign Minister Wang Yi and Swiss Federal Council Vice President and Foreign Minister Ignazio Cassis co-chaired…",
+   "regions": [
+    "中国",
+    "亚太",
+    "瑞士",
+    "欧洲"
    ]
   },
   {
@@ -3765,6 +4037,17 @@
    "regions": []
   },
   {
+   "title": "China's mega water diversion project upgrades its 'smart brain'",
+   "link": "https://news.cgtn.com/news/2026-11-23/China-s-mega-water-diversion-project-upgrades-its-smart-brain--1Sj69aS6gEw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T09:49:30.000Z",
+   "summary": "China's mega water diversion project upgrades its 'smart brain'",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "丁薛祥会见新加坡副总理颜金勇并共同主持中新双边合作机制会议",
    "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736555.shtml",
    "source": "中新网中国",
@@ -3781,6 +4064,14 @@
    "source": "中新网社会",
    "time": "2026-11-23T09:43:01.000Z",
    "summary": "随着AI换脸、拟声技术日益成熟，打着名人及其家属旗号的仿冒账号频频出现，让网友难辨真假。此前有演员温峥嵘被AI仿冒代言，近期演员吴越也在不知情的情况下被AI代了言。AI换脸、拟声技术门槛不断降低，公众人物的形象和声音更容易被冒用。",
+   "regions": []
+  },
+  {
+   "title": "Western-style gates showcase architectural fusion at Beijing temple",
+   "link": "https://news.cgtn.com/news/2026-11-23/Western-style-gates-showcase-architectural-fusion-at-Beijing-temple-1Sj7skp9y5W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T09:42:31.000Z",
+   "summary": "Located on either side of the Amitayus Hall at Wanshou Temple in Beijing, the Western-style gates are a distinctive exam…",
    "regions": []
   },
   {
@@ -3823,6 +4114,17 @@
    ]
   },
   {
+   "title": "China Tech Weekly: Supercompute, nebular constellation, fiber",
+   "link": "https://news.cgtn.com/news/2026-11-23/China-Tech-Weekly-Supercompute-nebular-constellation-fiber-1Sj3O6HXbjy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T09:15:14.000Z",
+   "summary": "China Tech Weekly: Supercompute, nebular constellation, fiber",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "“齐齐哈尔滨·冰雪双城记”文旅推介会在哈尔滨举办",
    "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736521.shtml",
    "source": "中新网社会",
@@ -3841,6 +4143,14 @@
    "regions": [
     "海南"
    ]
+  },
+  {
+   "title": "Central government hails HK's Election Committee subsector elections",
+   "link": "https://news.cgtn.com/news/2026-11-23/Central-government-hails-HK-s-Election-Committee-subsector-elections-1SiZgBhjDt6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T09:02:56.000Z",
+   "summary": "A Chinese central government spokesperson on Monday hailed the 2026 Election Committee Subsector Ordinary Elections of t…",
+   "regions": []
   },
   {
    "title": "受贿1.93亿 浙江省人大常委会原副主任高兴夫一审被判死缓",
@@ -3913,6 +4223,25 @@
    ]
   },
   {
+   "title": "An open-air museum: Exploring China's cultural landscapes in Beijing",
+   "link": "https://news.cgtn.com/news/2026-11-23/An-open-air-museum-Exploring-China-s-cultural-landscapes-in-Beijing-1SiGBT8QUBG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T08:32:08.000Z",
+   "summary": "An open-air museum: Exploring China's cultural landscapes in Beijing",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Inside the Anxious Brain",
+   "link": "https://news.cgtn.com/news/2026-11-23/-Inside-the-Anxious-Brain-1SiZ8lIssta/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T08:31:31.000Z",
+   "summary": "Inside the Anxious Brain",
+   "regions": []
+  },
+  {
    "title": "中方谈COP31未能就政治决定达成共识：失望但不应丧失信心",
    "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736491.shtml",
    "source": "中新网中国",
@@ -3956,6 +4285,36 @@
    ]
   },
   {
+   "title": "A 7-year-old girl brings China's Yingge dance to APEC stage",
+   "link": "https://news.cgtn.com/news/2026-11-23/A-7-year-old-girl-brings-China-s-Yingge-dance-to-APEC-stage-1Sj0yCGAZxe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T08:11:35.000Z",
+   "summary": "At the APEC welcome reception in Shenzhen, a seven-year-old girl stood front and center, leading a vibrant Yingge dance …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Poster Release: \"Talk Xizang\", A Journey in Search of Colors",
+   "link": "https://news.cgtn.com/news/2026-11-23/Poster-Release-Talk-Xizang-A-Journey-in-Search-of-Colors-1SiFJpPcvXa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T08:09:29.000Z",
+   "summary": "Researching a children's picture book, publisher Tashi Tsering returns to Xizang, his birthplace, traveling through Shan…",
+   "regions": []
+  },
+  {
+   "title": "Dutch foreign minister to visit China",
+   "link": "https://news.cgtn.com/news/2026-11-23/Dutch-foreign-minister-to-visit-China-1Sj0caE1wmQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T08:00:43.000Z",
+   "summary": "Dutch Foreign Minister Tom Berendsen will visit China from November 23 to 25, a Chinese Foreign Ministry spokesperson an…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "中国科技新闻学会新质生产力传播专委会成立 发布“五个100”行动计划",
    "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736455.shtml",
    "source": "中新网中国",
@@ -3964,6 +4323,14 @@
    "regions": [
     "北京"
    ]
+  },
+  {
+   "title": "Collecting Nature’s Hues in Nyingchi",
+   "link": "https://news.cgtn.com/news/2026-11-23/Collecting-Nature-s-Hues-in-Nyingchi-1SiTPlXgftK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T07:59:11.000Z",
+   "summary": "On his journey, Tashi witnesses the intertwining of farming and herding with modern life, and discovers colors that are …",
+   "regions": []
   },
   {
    "title": "“来到深圳后，这座城市当时展现出的现代化程度更让我感到震撼”",
@@ -3984,6 +4351,65 @@
    "regions": [
     "深圳"
    ]
+  },
+  {
+   "title": "China launches AI platform for Earth system research",
+   "link": "https://news.cgtn.com/news/2026-11-23/China-launches-AI-platform-for-Earth-system-research-1SiJJxcWpSU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T06:37:17.000Z",
+   "summary": "China launches AI platform for Earth system research",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Chinese envoys step up peace efforts in Middle East, Horn of Africa",
+   "link": "https://news.cgtn.com/news/2026-11-23/Chinese-envoys-step-up-peace-efforts-in-Middle-East-Horn-of-Africa-1SiPdVqBN1C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T06:36:01.000Z",
+   "summary": "Chinese envoys step up peace efforts in Middle East, Horn of Africa",
+   "regions": []
+  },
+  {
+   "title": "Young Dancers on the Plateau: A Millennium-Old Promise in Every Step",
+   "link": "https://news.cgtn.com/news/2026-11-23/Young-Dancers-on-the-Plateau-A-Millennium-Old-Promise-in-Every-Step-1SiGiVdPNEQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T06:32:30.000Z",
+   "summary": "Over the wild hills the wind rises, the drums echo back, and a boy takes up a thousand years of inheritance in his danci…",
+   "regions": []
+  },
+  {
+   "title": "Shennong: sowing the seeds of farming civilization",
+   "link": "https://news.cgtn.com/news/2026-11-23/Shennong-sowing-the-seeds-of-farming-civilization-1SiFg86TpQs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T06:19:13.000Z",
+   "summary": "Shennong: sowing the seeds of farming civilization",
+   "regions": []
+  },
+  {
+   "title": "Golden Fields and Living Crafts - the Colors of Shannan",
+   "link": "https://news.cgtn.com/news/2026-11-23/Golden-Fields-and-Living-Crafts-the-Colors-of-Shannan-1SevhSlA9DW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T05:46:05.000Z",
+   "summary": "From the barley changing with the seasons, to the grain of wood carvings and the woven pulu wool, publisher Tashi Tserin…",
+   "regions": []
+  },
+  {
+   "title": "How Kunqu finds new life at Beijing's Zhengyici Theater",
+   "link": "https://news.cgtn.com/news/2026-11-23/How-Kunqu-finds-new-life-at-Beijing-s-Zhengyici-Theater-1SiL8kP53wI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T05:37:49.000Z",
+   "summary": "At Beijing's historic Zhengyici Theater, a Kunqu production of Farewell My Concubine brings back a version of the classi…",
+   "regions": []
+  },
+  {
+   "title": "Global leaders and scholars share views on APEC outcomes",
+   "link": "https://news.cgtn.com/news/2026-11-23/Global-leaders-and-scholars-share-views-on-APEC-outcomes-1ShB3fNwu9G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T04:52:01.000Z",
+   "summary": "Global leaders and scholars share views on APEC outcomes",
+   "regions": []
   },
   {
    "title": "中方回应“COP31未能就政治决定达成共识”",
@@ -4024,6 +4450,14 @@
     "乌鲁木齐",
     "哈密"
    ]
+  },
+  {
+   "title": "Shenzhen: The making of a miracle",
+   "link": "https://news.cgtn.com/news/2026-11-23/Shenzhen-The-making-of-a-miracle-1SiHNniCvcc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T03:37:18.000Z",
+   "summary": "Shenzhen: The making of a miracle",
+   "regions": []
   },
   {
    "title": "中国代表团出席联合国气候变化安塔利亚大会",
@@ -4070,6 +4504,17 @@
    "regions": [
     "北京",
     "珠海"
+   ]
+  },
+  {
+   "title": "China urges faith in multilateral climate process after COP31",
+   "link": "https://news.cgtn.com/news/2026-11-23/China-urges-faith-in-multilateral-climate-process-after-COP31-1SiAIZnjtOU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T03:25:46.000Z",
+   "summary": "China urges faith in multilateral climate process after COP31",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4634,6 +5079,18 @@
    "regions": []
   },
   {
+   "title": "China to boost digital economy, AI, green cooperation with Singapore",
+   "link": "https://news.cgtn.com/news/2026-11-23/China-to-boost-digital-economy-AI-green-cooperation-with-Singapore-1SjagJyyVDW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T11:53:09.000Z",
+   "summary": "China is willing to work with Singapore to upgrade cooperation in traditional fields and expand cooperation in emerging …",
+   "regions": [
+    "中国",
+    "亚太",
+    "新加坡"
+   ]
+  },
+  {
    "title": "民生调查局 | 起底MCN“洗号”：买号、换头、接广，粉丝信任成变现“耗材”",
    "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736611.shtml",
    "source": "中新网财经",
@@ -4788,6 +5245,17 @@
    "time": "2026-11-23T08:20:01.000Z",
    "summary": "中新网长沙11月23日电 (记者 邓霞)滑冰戏雪，畅享冰雪激情；沐汤泡泉，卸下旅途疲惫；吃烧烤、逛大集，感受市井烟火；游故宫、观辽博典藏，品读辽地文脉……“暖冰热雪·嗨游辽宁——相约十五冬”2026-2027冰雪季辽宁文旅媒体见面会23日在…",
    "regions": []
+  },
+  {
+   "title": "Global voices: China's initiatives boost multilateral cooperation",
+   "link": "https://news.cgtn.com/news/2026-11-23/Global-voices-China-s-initiatives-boost-multilateral-cooperation-1SizTEH5VXa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-23T06:54:22.000Z",
+   "summary": "Former international officials and scholars have highlighted the importance of China's global initiatives in addressing …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "泽连斯基敦促美国提供“爱国者”导弹 乌军一周袭击俄8处石油设施",
@@ -5026,5 +5494,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-11-24T01:29:58.730Z"
+ "updatedAt": "2026-11-24T11:33:28.406Z"
 }
