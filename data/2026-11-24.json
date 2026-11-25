@@ -1124,6 +1124,17 @@
  ],
  "world": [
   {
+   "title": "【地震 M3.5】240 km SSW of Adak, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhuxyw",
+   "source": "USGS地震台网",
+   "time": "2026-11-24T23:52:18.150Z",
+   "summary": "美国地质调查局官方监测：240 km SSW of Adak, Alaska发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M4.7】2 km NNW of Cabatuan, Philippines",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udck",
    "source": "USGS地震台网",
@@ -1213,6 +1224,17 @@
    "regions": [
     "俄乌",
     "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】64 km W of San Juan, Peru",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udcc",
+   "source": "USGS地震台网",
+   "time": "2026-11-24T22:36:30.355Z",
+   "summary": "美国地质调查局官方监测：64 km W of San Juan, Peru发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "秘鲁",
+    "拉美"
    ]
   },
   {
@@ -5922,5 +5944,5 @@
    "regions": []
   }
  ],
- "updatedAt": "2026-11-25T04:44:57.406Z"
+ "updatedAt": "2026-11-25T15:14:38.432Z"
 }
