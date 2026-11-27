@@ -74,6 +74,14 @@
    "regions": []
   },
   {
+   "title": "🔥 Jync v2.4.7 · 目标标识符大小写、达梦原生自增与实时同步加固",
+   "link": "https://www.oschina.net/news/503837",
+   "source": "开源中国",
+   "time": "2026-11-26T23:24:05.000Z",
+   "summary": "本版概要 v2.4.7 增加 Oracle 系目标的「保持源端标识符大小写」开关与达梦 8 原生 AUTO_INCREMENT，完善一源多目标（fan-out）的分发可用性，并集中修复日志 CDC 与轮询中会导致静默丢数据或反复重跑全量的边…",
+   "regions": []
+  },
+  {
    "title": "Anthropic 平台工程负责人莱斯：AI 改变工程师晋升标准，不再只看项目耗时",
    "link": "https://www.ithome.com/1/033/141.htm",
    "source": "IT之家",
@@ -1224,6 +1232,17 @@
    ]
   },
   {
+   "title": "【地震 M3.8】132 km NNW of Nikolski, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xlmznw",
+   "source": "USGS地震台网",
+   "time": "2026-11-26T23:52:59.392Z",
+   "summary": "美国地质调查局官方监测：132 km NNW of Nikolski, Alaska发生 3.8 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
    "title": "泽连斯基任命乌武装部队支援部队新任司令",
    "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738487.shtml",
    "source": "中新网国际",
@@ -1422,6 +1441,16 @@
    ]
   },
   {
+   "title": "【地震 M2.7】19 km NNW of Goldsmith, Texas",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026xhqmyr",
+   "source": "USGS地震台网",
+   "time": "2026-11-26T22:25:30.606Z",
+   "summary": "美国地质调查局官方监测：19 km NNW of Goldsmith, Texas发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
    "title": "俄储蓄银行行长： AI模型价格在2026年降至原来的十三分之一",
    "link": "https://sputniknews.cn/20261127/1074374077.html",
    "source": "卫星社中文",
@@ -1430,6 +1459,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "Storms disrupt US Thanksgiving holiday travel",
+   "link": "https://newsus.cgtn.com/news/2026-11-27/Storms-disrupt-US-Thanksgiving-holiday-travel-1SoZrtAJXIQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T22:22:31.000Z",
+   "summary": "Storms disrupt US Thanksgiving holiday travel",
+   "regions": []
   },
   {
    "title": "【地震 M3.1】40 km SE of Cantwell, Alaska",
@@ -1515,6 +1552,14 @@
    "regions": [
     "俄乌"
    ]
+  },
+  {
+   "title": "When China and America fought together",
+   "link": "https://newsus.cgtn.com/news/2026-11-27/When-China-and-America-fought-together-1SoRiE0bOPS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T21:32:18.000Z",
+   "summary": "When China and America fought together",
+   "regions": []
   },
   {
    "title": "俄储蓄银行机器人在冰上起舞",
@@ -1854,6 +1899,22 @@
    ]
   },
   {
+   "title": "Uganda races to save nearly 50 native tree species from extinction",
+   "link": "https://newsaf.cgtn.com/news/2026-11-26/Uganda-races-to-save-nearly-50-native-tree-species-from-extinction-1Son5PnqFws/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T15:08:17.000Z",
+   "summary": "Uganda is stepping up efforts to save nearly 50 native tree species threatened with extinction, as deforestation and gro…",
+   "regions": []
+  },
+  {
+   "title": "China ready to strengthen cooperation with ADB on regional development",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-ready-to-strengthen-cooperation-with-ADB-on-regional-development-1SoqWyLNWvK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T15:04:47.000Z",
+   "summary": "China stands ready to work with the Asian Development Bank (ADB) to strengthen cooperation in areas such as regional int…",
+   "regions": []
+  },
+  {
    "title": "俄外交部：英国承认其正为乌军对俄境内实施恐怖袭击确定目标清单",
    "link": "https://sputniknews.cn/20261126/1074367648.html",
    "source": "卫星社中文",
@@ -1886,6 +1947,14 @@
     "朝鲜半岛",
     "亚太"
    ]
+  },
+  {
+   "title": "Meloni talks tough on EU budget, warns of Ukraine conflict spillover",
+   "link": "https://news.cgtn.com/news/2026-11-26/Meloni-talks-tough-on-EU-budget-warns-of-Ukraine-conflict-spillover-1SoqyfmquGI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T14:40:22.000Z",
+   "summary": "EU leaders are far from reaching a deal on the bloc's nearly 1.6 trillion euro (about $1.75 trillion) budget proposal fo…",
+   "regions": []
   },
   {
    "title": "中华全国新闻工作者协会书记处书记：期待与俄媒体开展合作",
@@ -2094,6 +2163,14 @@
    ]
   },
   {
+   "title": "African leaders call for greater youth participation in development",
+   "link": "https://newsaf.cgtn.com/news/2026-11-26/African-leaders-call-for-greater-youth-participation-in-development-1So7sRJYHTO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T13:11:49.000Z",
+   "summary": "The eighth YouthConnekt Africa Summit opened in Rwanda's capital, Kigali, on Wednesday, with calls for young Africans to…",
+   "regions": []
+  },
+  {
    "title": "白媒：俄乌进行阵亡军人的遗体交换",
    "link": "https://sputniknews.cn/20261126/1074365087.html",
    "source": "卫星社中文",
@@ -2165,6 +2242,14 @@
    ]
   },
   {
+   "title": "China urges Japan to speed up disposal of wartime chemical weapons",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-urges-Japan-to-speed-up-disposal-of-wartime-chemical-weapons-1So9252rtSg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T12:01:33.000Z",
+   "summary": "China urges Japan to speed up disposal of wartime chemical weapons",
+   "regions": []
+  },
+  {
    "title": "哈萨克斯坦阿拉木图一民宅起火致5人遇难",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10738312.shtml",
    "source": "中新网国际",
@@ -2199,6 +2284,14 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "Detonation of degraded lead azide in US's Iowa raises public concern",
+   "link": "https://news.cgtn.com/news/2026-11-26/Detonation-of-degraded-lead-azide-in-US-s-Iowa-raises-public-concern-1So8l39LvY4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T11:52:34.000Z",
+   "summary": "Detonation of degraded lead azide in US's Iowa raises public concern",
+   "regions": []
   },
   {
    "title": "俄乌相关部门正在拟定战俘交换名单",
@@ -2418,6 +2511,14 @@
    ]
   },
   {
+   "title": "China warns US F-15EX deployment poses threat to regional stability",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-warns-US-F-15EX-deployment-poses-threat-to-regional-stability-1So5eKlfTW0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T09:25:37.000Z",
+   "summary": "China warns US F-15EX deployment poses threat to regional stability",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.3】196 km SE of Perryville, Alaska",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xkkapt",
    "source": "USGS地震台网",
@@ -2517,6 +2618,14 @@
    ]
   },
   {
+   "title": "China lodges protest with Japan over illegal intrusion off Diaoyu Dao",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-lodges-protest-with-Japan-over-illegal-intrusion-off-Diaoyu-Dao-1So1uMSHYxa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T08:50:31.000Z",
+   "summary": "Japanese vessels illegally intruded into the territorial waters of China's Diaoyu Dao, engaging in provocative acts that…",
+   "regions": []
+  },
+  {
    "title": "【地震 M3.0】49 km NW of Toyah, Texas",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026xgpmsr",
    "source": "USGS地震台网",
@@ -2538,6 +2647,14 @@
    ]
   },
   {
+   "title": "China urges Japan to fulfill obligations on abandoned chemical weapons",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-urges-Japan-to-fulfill-obligations-on-abandoned-chemical-weapons-1SnYMqD9rgc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T08:48:35.000Z",
+   "summary": "China has urged Japan to accelerate the destruction of chemical weapons it abandoned in China, stressing that their comp…",
+   "regions": []
+  },
+  {
    "title": "媒体：巴黎和柏林力求保护欧盟预算免受勒庞影响",
    "link": "https://sputniknews.cn/20261126/1074360734.html",
    "source": "卫星社中文",
@@ -2547,6 +2664,14 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "China firmly opposes US's additional tariffs on China, other economies",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-firmly-opposes-US-s-additional-tariffs-on-China-other-economies-1SnZ0kfFYI0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T08:23:43.000Z",
+   "summary": "China firmly opposes the imposition of additional Section 301 tariffs by the United States on China and other economies,…",
+   "regions": []
   },
   {
    "title": "瑞典智库驳斥所谓“中国挤压”：那是近现代历史上前所未有的“共赢”！",
@@ -2596,6 +2721,14 @@
    ]
   },
   {
+   "title": "Top DPRK leader inspects nuclear materials production sites: KCNA",
+   "link": "https://news.cgtn.com/news/2026-11-26/Top-DPRK-leader-inspects-nuclear-materials-production-sites-KCNA-1SnVIAmkEaQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T07:50:45.000Z",
+   "summary": "The top leader of the Democratic People's Republic of Korea (DPRK) inspected nuclear materials production sites and a nu…",
+   "regions": []
+  },
+  {
    "title": "媒体：英伟达停止向东南亚出口芯片",
    "link": "https://sputniknews.cn/20261126/1074360053.html",
    "source": "卫星社中文",
@@ -2615,6 +2748,14 @@
     "俄乌",
     "亚太"
    ]
+  },
+  {
+   "title": "China reaffirms commitment to WTO-centered multilateral trading system",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-reaffirms-commitment-to-WTO-centered-multilateral-trading-system-1SnUCxpsnV6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T07:44:17.000Z",
+   "summary": "Multilateralism is the key to addressing the challenges facing the world, Li Chenggang, China international trade repres…",
+   "regions": []
   },
   {
    "title": "乌军袭击俄军战士从康斯坦丁诺夫卡撤离的平民",
@@ -2687,6 +2828,14 @@
    ]
   },
   {
+   "title": "Isak double lifts Liverpool past Brugge, Barcelona beats Sabah",
+   "link": "https://news.cgtn.com/news/2026-11-26/Isak-double-lifts-Liverpool-past-Brugge-Barcelona-beats-Sabah-1SnEfWkag6s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T06:53:53.000Z",
+   "summary": "Isak double lifts Liverpool past Brugge, Barcelona beats Sabah",
+   "regions": []
+  },
+  {
    "title": "日本民众：政府应铭记历史教训 高市正将日本推向危险路口",
    "link": "https://www.chinanews.com.cn/gj/2026/11-26/10738069.shtml",
    "source": "中新网国际",
@@ -2724,6 +2873,22 @@
    "source": "中新网国际",
    "time": "2026-11-26T06:44:51.000Z",
    "summary": "中国新闻周刊作者：殷晨浠",
+   "regions": []
+  },
+  {
+   "title": "Chinese cities sweep top three spots in global science rankings",
+   "link": "https://news.cgtn.com/news/2026-11-26/Chinese-cities-sweep-top-three-spots-in-global-science-rankings-1SnOJedGpQ4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T06:34:03.000Z",
+   "summary": "Chinese cities sweep top three spots in global science rankings",
+   "regions": []
+  },
+  {
+   "title": "Israel kills Hamas official overseeing economy, education",
+   "link": "https://news.cgtn.com/news/2026-11-26/news-1SnTCsxOXcI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T06:32:57.000Z",
+   "summary": "Israel kills Hamas official overseeing economy, education",
    "regions": []
   },
   {
@@ -2798,6 +2963,30 @@
    ]
   },
   {
+   "title": "China welcomes EU removal of Yusha Group from sanctions list",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-welcomes-EU-removal-of-Yusha-Group-from-sanctions-list-1SnPb4P54d2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T06:01:44.000Z",
+   "summary": "China welcomes the European Union's (EU) decision to remove the Yusha Group from its Russia-related sanctions list and h…",
+   "regions": []
+  },
+  {
+   "title": "Sustainable mobility in a changing world",
+   "link": "https://news.cgtn.com/news/2026-11-26/Sustainable-mobility-in-a-changing-world-1SnIGULbzHO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T06:00:15.000Z",
+   "summary": "Sustainable mobility in a changing world",
+   "regions": []
+  },
+  {
+   "title": "Nepal and UN roll out $49.94m flood defense for Himalayan communities",
+   "link": "https://news.cgtn.com/news/2026-11-26/Nepal-and-UN-roll-out-49-94m-flood-defense-for-Himalayan-communities-1SnKwEsyMY8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T05:59:52.000Z",
+   "summary": "Nepal and UN roll out $49.94m flood defense for Himalayan communities",
+   "regions": []
+  },
+  {
    "title": "2026装备制造业发展大会将于12月3日至6日在苏州举办",
    "link": "https://www.chinanews.com.cn/cj/2026/11-26/10738031.shtml",
    "source": "中新网滚动",
@@ -2854,6 +3043,22 @@
    "regions": [
     "亚太"
    ]
+  },
+  {
+   "title": "China ready to deepen space cooperation with more countries",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-ready-to-deepen-space-cooperation-with-more-countries-1SmHzi2yJ56/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T05:17:09.000Z",
+   "summary": "China ready to deepen space cooperation with more countries",
+   "regions": []
+  },
+  {
+   "title": "Wang Yi says openness and pragmatism define China-Netherlands ties",
+   "link": "https://news.cgtn.com/news/2026-11-26/Wang-Yi-says-openness-and-pragmatism-define-China-Netherlands-ties-1SnxlrZWtyM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T05:13:46.000Z",
+   "summary": "Wang Yi says openness and pragmatism define China-Netherlands ties",
+   "regions": []
   },
   {
    "title": "【地震 M2.8】3 km SW of Ferndale, CA",
@@ -2988,6 +3193,14 @@
     "俄乌",
     "欧洲"
    ]
+  },
+  {
+   "title": "Hormuz tensions rise as US-Iran standoff deepens",
+   "link": "https://news.cgtn.com/news/2026-11-26/Hormuz-tensions-rise-as-US-Iran-standoff-deepens-1SnAD635EaI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+   "source": "CGTN国际",
+   "time": "2026-11-26T03:12:46.000Z",
+   "summary": "Iran's military said on Wednesday that several oil tankers and a liquefied natural gas (LNG) carrier had caught fire aft…",
+   "regions": []
   },
   {
    "title": "金正恩视察朝鲜核物质生产及核武器研究部门",
@@ -3393,6 +3606,41 @@
    ]
   },
   {
+   "title": "Hong Kong SAR lawmaker discusses efforts to improve livelihoods",
+   "link": "https://news.cgtn.com/news/2026-11-26/Hong-Kong-SAR-lawmaker-discusses-efforts-to-improve-livelihoods-1So7bfLGvUQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T11:17:57.000Z",
+   "summary": "Hong Kong SAR lawmaker discusses efforts to improve livelihoods",
+   "regions": [
+    "香港",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China reiterates opposition to 'Taiwan independence'",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-reiterates-opposition-to-Taiwan-independence--1SnzfX8Cvvi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T08:52:08.000Z",
+   "summary": "China on Wednesday reiterated its stance on the Taiwan question, stressing the importance of opposing \"Taiwan independen…",
+   "regions": [
+    "台湾",
+    "台海",
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Taiwan's Pili puppet film debuts on Chinese mainland",
+   "link": "https://news.cgtn.com/news/2026-11-26/Taiwan-s-Pili-puppet-film-debuts-on-Chinese-mainland-1SnW1q8WyVW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T08:13:08.000Z",
+   "summary": "Demigod: The Legend Begins, the first feature film based on Taiwan’s renowned Pili puppet IP to reach Chinese mainland c…",
+   "regions": [
+    "台湾",
+    "台海"
+   ]
+  },
+  {
    "title": "联动四地青春力量 渝粤港澳青年志愿服务交流会在重庆举行",
    "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738030.shtml",
    "source": "中新网滚动",
@@ -3421,6 +3669,14 @@
    "source": "中新网社会",
    "time": "2026-11-26T23:58:27.000Z",
    "summary": "记者从农业农村部了解到，日前首个农耕文明领域大模型“天稷”发布。该模型涵盖8000万条覆盖传统农耕技艺、现代智慧农业与农耕文明演进脉络的知识条目，为农业生产提出智慧决策建议。",
+   "regions": []
+  },
+  {
+   "title": "Return Our Clean Land",
+   "link": "https://news.cgtn.com/news/2026-11-27/Return-Our-Clean-Land-1SodNQJfZqE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T23:53:36.000Z",
+   "summary": "Return Our Clean Land",
    "regions": []
   },
   {
@@ -3471,6 +3727,28 @@
    ]
   },
   {
+   "title": "When China and America fought together",
+   "link": "https://newsus.cgtn.com/news/2026-11-27/When-China-and-America-fought-together-1SoRiE0bOPS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T21:32:18.000Z",
+   "summary": "When China and America fought together",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China ready to strengthen cooperation with ADB on regional development",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-ready-to-strengthen-cooperation-with-ADB-on-regional-development-1SoqWyLNWvK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T15:04:47.000Z",
+   "summary": "China stands ready to work with the Asian Development Bank (ADB) to strengthen cooperation in areas such as regional int…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "每秒要走近3米才能在绿灯内过完马路，残疾男子加速通行时被撞身亡……有温度的社会，要容得下等一等的时间！",
    "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738468.shtml",
    "source": "中新网社会",
@@ -3478,6 +3756,18 @@
    "summary": "34米马路仅12秒绿灯通行时间，成都一腿部残疾的男子过马路时走到一半红灯亮起，他加速通行，不幸被绿灯直行的摩托车撞倒身亡。",
    "regions": [
     "成都"
+   ]
+  },
+  {
+   "title": "China's openness in space hailed as Shenzhou-24 flies first foreigner",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-s-openness-in-space-hailed-as-Shenzhou-24-flies-first-foreigner-1SopNlKmMG4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T14:37:53.000Z",
+   "summary": "The Shenzhou-24 mission, carrying two taikonauts (Chinese astronauts) and Pakistan's first astronaut, has drawn praise f…",
+   "regions": [
+    "巴基斯坦",
+    "亚太",
+    "中国"
    ]
   },
   {
@@ -3803,6 +4093,14 @@
    ]
   },
   {
+   "title": "Sun Yat-sen's Vision Revisited at a Cross-Strait Forum",
+   "link": "https://news.cgtn.com/news/2026-11-26/Sun-Yat-sen-s-Vision-Revisited-at-a-Cross-Strait-Forum-1Soe2nEEQve/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T12:27:20.000Z",
+   "summary": "Sun Yat-sen's Vision Revisited at a Cross-Strait Forum",
+   "regions": []
+  },
+  {
    "title": "广东惠州加快古城保护更新 总投资约40亿元",
    "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738372.shtml",
    "source": "中新网社会",
@@ -3911,6 +4209,18 @@
    ]
   },
   {
+   "title": "China urges Japan to speed up disposal of wartime chemical weapons",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-urges-Japan-to-speed-up-disposal-of-wartime-chemical-weapons-1So9252rtSg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T12:01:33.000Z",
+   "summary": "China urges Japan to speed up disposal of wartime chemical weapons",
+   "regions": [
+    "日本",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
    "title": "神二十四乘组已进入工作状态！“天宫”最新画面公布",
    "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738363.shtml",
    "source": "中新网中国",
@@ -3927,6 +4237,17 @@
    "regions": [
     "昆明",
     "云南"
+   ]
+  },
+  {
+   "title": "China's High-Tech Fair gets down to business in Shenzhen",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-s-High-Tech-Fair-gets-down-to-business-in-Shenzhen-1So6A0VjiA8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T11:53:17.000Z",
+   "summary": "China's High-Tech Fair gets down to business in Shenzhen",
+   "regions": [
+    "中国",
+    "亚太"
    ]
   },
   {
@@ -4055,6 +4376,17 @@
    ]
   },
   {
+   "title": "China says Xiamen is an ideal host for BBNJ Secretariat",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-says-Xiamen-is-an-ideal-host-for-BBNJ-Secretariat-1SnyJ1NLokg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T10:21:13.000Z",
+   "summary": "China says Xiamen is an ideal host for BBNJ Secretariat",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "何黎斌任浙江省衢州市代市长",
    "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738252.shtml",
    "source": "中新网中国",
@@ -4063,6 +4395,92 @@
    "regions": [
     "浙江"
    ]
+  },
+  {
+   "title": "From Fisherwoman to Birdwatcher",
+   "link": "https://news.cgtn.com/news/2026-11-26/From-Fisherwoman-to-Birdwatcher-1SnE7mPpARO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T09:53:08.000Z",
+   "summary": "From Fisherwoman to Birdwatcher",
+   "regions": []
+  },
+  {
+   "title": "China warns US F-15EX deployment poses threat to regional stability",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-warns-US-F-15EX-deployment-poses-threat-to-regional-stability-1So5eKlfTW0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T09:25:37.000Z",
+   "summary": "China warns US F-15EX deployment poses threat to regional stability",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "China lodges protest with Japan over illegal intrusion off Diaoyu Dao",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-lodges-protest-with-Japan-over-illegal-intrusion-off-Diaoyu-Dao-1So1uMSHYxa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T08:50:31.000Z",
+   "summary": "Japanese vessels illegally intruded into the territorial waters of China's Diaoyu Dao, engaging in provocative acts that…",
+   "regions": [
+    "日本",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "It's Tiangong Kaiwu: The Ingenuity Behind Chinese Silk",
+   "link": "https://news.cgtn.com/news/2026-11-26/It-s-Tiangong-Kaiwu-The-Ingenuity-Behind-Chinese-Silk-1SnZtnw92mc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T08:48:37.000Z",
+   "summary": "It's Tiangong Kaiwu: The Ingenuity Behind Chinese Silk",
+   "regions": []
+  },
+  {
+   "title": "China urges Japan to fulfill obligations on abandoned chemical weapons",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-urges-Japan-to-fulfill-obligations-on-abandoned-chemical-weapons-1SnYMqD9rgc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T08:48:35.000Z",
+   "summary": "China has urged Japan to accelerate the destruction of chemical weapons it abandoned in China, stressing that their comp…",
+   "regions": [
+    "日本",
+    "亚太",
+    "中国"
+   ]
+  },
+  {
+   "title": "Squirrel Fish, the sweet-sour crown of Suzhou cuisine",
+   "link": "https://news.cgtn.com/news/2026-11-26/Squirrel-Fish-the-sweet-sour-crown-of-Suzhou-cuisine-1So0siYwRnq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T08:14:52.000Z",
+   "summary": "In today's episode of \"What's for Dinner Tonight?,\" we head to Suzhou, the home of Su cuisine, to sample a dish that see…",
+   "regions": []
+  },
+  {
+   "title": "Following the seasons: The wisdom of Xinjiang's Kazakh herders",
+   "link": "https://news.cgtn.com/news/2026-11-26/Following-the-seasons-The-wisdom-of-Xinjiang-s-Kazakh-herders-1SnZanWEJs4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T08:03:32.000Z",
+   "summary": "In the grasslands and mountain valleys of Xinjiang Uygur Autonomous Region in northwest China, Kazakh herders move with …",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
+   "title": "Boating through a cypress forest",
+   "link": "https://news.cgtn.com/news/2026-11-26/Boating-through-a-cypress-forest-1SnKq0Scbq8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T06:59:31.000Z",
+   "summary": "Boating through a cypress forest",
+   "regions": []
+  },
+  {
+   "title": "Chinese cities sweep top three spots in global science rankings",
+   "link": "https://news.cgtn.com/news/2026-11-26/Chinese-cities-sweep-top-three-spots-in-global-science-rankings-1SnOJedGpQ4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T06:34:03.000Z",
+   "summary": "Chinese cities sweep top three spots in global science rankings",
+   "regions": []
   },
   {
    "title": "青藏铁路通车20年 白玛的故乡与远方",
@@ -4157,6 +4575,27 @@
    ]
   },
   {
+   "title": "China welcomes EU removal of Yusha Group from sanctions list",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-welcomes-EU-removal-of-Yusha-Group-from-sanctions-list-1SnPb4P54d2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T06:01:44.000Z",
+   "summary": "China welcomes the European Union's (EU) decision to remove the Yusha Group from its Russia-related sanctions list and h…",
+   "regions": [
+    "中国",
+    "亚太",
+    "俄罗斯",
+    "俄乌"
+   ]
+  },
+  {
+   "title": "Sustainable mobility in a changing world",
+   "link": "https://news.cgtn.com/news/2026-11-26/Sustainable-mobility-in-a-changing-world-1SnIGULbzHO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T06:00:15.000Z",
+   "summary": "Sustainable mobility in a changing world",
+   "regions": []
+  },
+  {
    "title": "首趟中蒙俄国际旅客列车25日开行 百余名旅客搭乘出境",
    "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738035.shtml",
    "source": "中新网社会",
@@ -4231,6 +4670,27 @@
     "海口",
     "海南"
    ]
+  },
+  {
+   "title": "Wang Yi says openness and pragmatism define China-Netherlands ties",
+   "link": "https://news.cgtn.com/news/2026-11-26/Wang-Yi-says-openness-and-pragmatism-define-China-Netherlands-ties-1SnxlrZWtyM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T05:13:46.000Z",
+   "summary": "Wang Yi says openness and pragmatism define China-Netherlands ties",
+   "regions": [
+    "中国",
+    "亚太",
+    "荷兰",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "Foreign delegates explore Fuzhou's development journey and Kuliang",
+   "link": "https://news.cgtn.com/news/2026-11-26/Foreign-delegates-explore-Fuzhou-s-development-journey-and-Kuliang-1SnLrlcCwY8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T04:54:45.000Z",
+   "summary": "Foreign delegates explore Fuzhou's development journey and Kuliang",
+   "regions": []
   },
   {
    "title": "起火20分钟无人报警 山西太原金屋大厦火灾细节披露",
@@ -4874,6 +5334,30 @@
    "regions": []
   },
   {
+   "title": "China firmly opposes US's additional tariffs on China, other economies",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-firmly-opposes-US-s-additional-tariffs-on-China-other-economies-1SnZ0kfFYI0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T08:23:43.000Z",
+   "summary": "China firmly opposes the imposition of additional Section 301 tariffs by the United States on China and other economies,…",
+   "regions": [
+    "中国",
+    "亚太",
+    "美国",
+    "美洲"
+   ]
+  },
+  {
+   "title": "China reaffirms commitment to WTO-centered multilateral trading system",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-reaffirms-commitment-to-WTO-centered-multilateral-trading-system-1SnUCxpsnV6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T07:44:17.000Z",
+   "summary": "Multilateralism is the key to addressing the challenges facing the world, Li Chenggang, China international trade repres…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
+  },
+  {
    "title": "云南红河州前三季度进出口额同比增长7.5％",
    "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738050.shtml",
    "source": "中新网滚动",
@@ -4938,6 +5422,17 @@
    "time": "2026-11-26T06:12:55.000Z",
    "summary": "中新社北京11月26日电 (记者 阮煜琳)中国国家电网有限公司26日在北京召开西北—华东绿电联合交易启动会，标志着全球交易规模最大的绿电大市场开市。",
    "regions": []
+  },
+  {
+   "title": "China unveils services trade plan to boost global competitiveness",
+   "link": "https://news.cgtn.com/news/2026-11-26/China-unveils-services-trade-plan-to-boost-global-competitiveness-1SnKpdHkHg4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+   "source": "CGTN中国",
+   "time": "2026-11-26T05:59:13.000Z",
+   "summary": "China has unveiled a new plan to expand services trade over the next five years, with a focus on emerging AI services, g…",
+   "regions": [
+    "中国",
+    "亚太"
+   ]
   },
   {
    "title": "鲁苏原油精品航线协同监管显效 长江扬州段原油吞吐量同比增长31.66%",
@@ -5192,5 +5687,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-27T01:08:02.767Z"
+ "updatedAt": "2026-11-27T09:53:39.444Z"
 }
