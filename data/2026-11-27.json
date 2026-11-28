@@ -2,6 +2,142 @@
  "date": "2026-11-27",
  "tech": [
   {
+   "title": "亚马逊再现“临时工”：三星 Galaxy S26 Ultra 以 0.84 折成交，部分用户已收到货",
+   "link": "https://www.ithome.com/1/033/788.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:58:04.000Z",
+   "summary": "IT之家 11 月 28 日消息，当地时间 11 月 26 日，亚马逊日本站出现商品价格异常，三星最新旗舰手机 Galaxy S26 Ultra 一度以 20,185 日元 （IT之家注：现汇率约合 845.6 元人民币） 的价格出售，相比…",
+   "regions": []
+  },
+  {
+   "title": "Linux 7.5 将合并支持 AMD RDNA5，新显卡驱动提前就位",
+   "link": "https://www.ithome.com/1/033/787.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:53:18.000Z",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 phoronix 报道称，AMD 工程师于 11 月 26 日向 DRM-Next 提交了新一轮内核图形与计算驱动变更， 推动 Linux 7.5 内核合并支持 GFX13（即 RDNA 5）图形…",
+   "regions": []
+  },
+  {
+   "title": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实",
+   "link": "https://www.ithome.com/1/033/786.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:39:57.000Z",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 Wccftech 昨日（11 月 27 日）发布博文，报道称 在海关舱单记录后 ，英特尔 Raptor Lake-S NEXT 处理器已在官方驱动文档中确认，该系列面向 LGA 1700 平台，属…",
+   "regions": []
+  },
+  {
+   "title": "美空军云系统遭黑客入侵，大量战术、人事及后勤相关敏感数据或面临安全威胁",
+   "link": "https://www.ithome.com/1/033/785.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:38:22.000Z",
+   "summary": "IT之家 11 月 28 日消息，三名知情人士告诉路透社，美国空军旗舰云计算平台 Cloud One 遭黑客入侵，大量涉及 战术、人事和后勤 的敏感数据恐面临安全威胁。 其中两名知情人士称，入侵事件是在近一个月内 对 Cloud One 进…",
+   "regions": []
+  },
+  {
+   "title": "IT早报 1128：DeepSeek 灰度测试“消耗额度”；有线电视与 IPTV 广告禁令生效；比亚迪海洋网旗舰 MPV 海鲸亮相；市监总局集中约谈 15 家电动自行车企业...",
+   "link": "https://www.ithome.com/1/033/784.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:28:45.000Z",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 28 日星期六，今天的重要科技资讯有： 1. DeepSeek 灰度测试“消耗额度”：直观展示对话成本，此前已实施限额 DeepSeek 移动端小范围测试“显示本轮消耗额度”功能，可…",
+   "regions": []
+  },
+  {
+   "title": "过去 7 年 30% 相关产品销售额！苹果在智利吃官司，最高面临 8000 万美元罚款",
+   "link": "https://www.ithome.com/1/033/783.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:26:40.000Z",
+   "summary": "IT之家 11 月 28 日消息，路透社最新报道称，智利国家竞争管理局（FNE）于当地时间昨日（11 月 27 日）对苹果公司提起反垄断诉讼，寻求 8,000 万美元 （IT之家注：现汇率约合 5.34 亿元人民币） 罚款并要求其开放 Ap…",
+   "regions": []
+  },
+  {
+   "title": "《GTA 6》女主角露西娅扮演者佩雷斯致谢粉丝：为演好角色付出近十年心血",
+   "link": "https://www.ithome.com/1/033/782.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:21:01.000Z",
+   "summary": "IT之家 11 月 28 日消息，《GTA 6》迎来热闹非凡的发售首周，女主角露西娅的扮演者曼尼 ·L· 佩雷斯发文对粉丝的支持表示感谢。 佩雷斯还透露了自己与 R 星开始合作的大致时间：自己饰演露西娅 已有近十年 。由此推断，她很可能早在…",
+   "regions": []
+  },
+  {
+   "title": "微信鸿蒙版 App 获 8.0.24.37 邀测升级",
+   "link": "https://www.ithome.com/1/033/781.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:17:23.000Z",
+   "summary": "IT之家 11 月 28 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.24.37 (8394789) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/27-2026/12…",
+   "regions": []
+  },
+  {
+   "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+   "link": "https://www.ithome.com/1/033/780.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:12:29.000Z",
+   "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商…",
+   "regions": []
+  },
+  {
+   "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+   "link": "https://www.ithome.com/1/033/779.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:07:06.000Z",
+   "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法…",
+   "regions": []
+  },
+  {
+   "title": "民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS",
+   "link": "https://www.ithome.com/1/033/778.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:06:24.000Z",
+   "summary": "IT之家 11 月 28 日消息，科技媒体 MacRumors 昨日（11 月 27 日）报道，尽管 Rockstar Games 没有推出官方 Mac 版本，但社区开发者已通过非官方项目， 成功在苹果芯片 Mac 上运行《侠盗猎车手 VI…",
+   "regions": []
+  },
+  {
+   "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+   "link": "https://www.ithome.com/1/033/777.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T23:04:37.000Z",
+   "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用…",
+   "regions": []
+  },
+  {
+   "title": "马斯克 SpaceX 拓展卫星直连手机业务，有意收购美国 Anterix 900 MHz 频谱",
+   "link": "https://www.ithome.com/1/033/776.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T22:53:40.000Z",
+   "summary": "IT之家 11 月 28 日消息，据彭博社当地时间 11 月 27 日报道，美国无线频谱公司 Anterix 正考虑大规模出售其持有的 900 MHz 无线频谱资产，而马斯克旗下 SpaceX 已表达对这一频段的兴趣。 随着 SpaceX …",
+   "regions": []
+  },
+  {
+   "title": "画面像电影：《荒野大镖客 2》游戏非官方 DLSS 5 后惊艳玩家，但掉 31% 帧率",
+   "link": "https://www.ithome.com/1/033/775.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T22:49:52.000Z",
+   "summary": "IT之家 11 月 28 日消息，YouTube 频道 MxBenchmarkPC 在最新一期视频中， 对比显示经过玩家 MOD 启用的英伟达 DLSS 5 神经渲染技术，可大幅改善《荒野大镖客 2》的光照效果，画面几乎具备电影质感，但同时…",
+   "regions": []
+  },
+  {
+   "title": "IBM 咨询部门停止多数 H-1B 签证及绿卡担保，美国员工三周内决定去留",
+   "link": "https://www.ithome.com/1/033/774.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T22:49:16.000Z",
+   "summary": "IT之家 11 月 28 日消息，IBM 正在停止为旗下咨询部门大多数职位提供美国工作签证及绿卡担保，部分持有 H-1B 工作签证或正在申请美国永久居留权（绿卡）的员工，需要在接受海外调岗和离职之间作出选择，相关离职安排将于 2026 年 …",
+   "regions": []
+  },
+  {
+   "title": "八达通遭网络攻击：7500 名客户、2.2 万名商户资料受影响",
+   "link": "https://www.ithome.com/1/033/773.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T22:43:58.000Z",
+   "summary": "IT之家 11 月 28 日消息，香港八达通卡有限公司 11 月 27 日发布公告称，当天早上侦测到系统遭受网络攻击，并立即采取措施控制事件。此次事件涉及约 7500 名客户及 2.2 万名商户的资料。 根据八达通官方公告，受影响的约 75…",
+   "regions": []
+  },
+  {
+   "title": "存在超 12 年：Linux 内核被曝 CVSS 9.8 高危漏洞，无需登录即可获取服务器 root 权限",
+   "link": "https://www.ithome.com/1/033/772.htm",
+   "source": "IT之家",
+   "time": "2026-11-27T22:36:35.000Z",
+   "summary": "IT之家 11 月 28 日消息，网络安全公司 OpenSec 于当地时间 11 月 25 日披露了 Linux 内核 NFS 服务器一个高危安全漏洞，编号为 CVE-2026-99362，名称为 NFS2ROOT，CVSS 评分达 9.8…",
+   "regions": []
+  },
+  {
    "title": "魏牌高山右舵版车型在香港市场上市，今年第四季度还将登陆澳洲",
    "link": "https://www.ithome.com/1/033/771.htm",
    "source": "IT之家",
@@ -1140,6 +1276,155 @@
  ],
  "world": [
   {
+   "title": "【地震 M2.7】51 km NE of Pedro Bay, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xnjflg",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T23:59:10.487Z",
+   "summary": "美国地质调查局官方监测：51 km NE of Pedro Bay, Alaska发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】6 km NW of Pinnacles, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75470306",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T23:53:21.610Z",
+   "summary": "美国地质调查局官方监测：6 km NW of Pinnacles, CA发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】6 km NW of Pinnacles, CA",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75470301",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T23:49:54.580Z",
+   "summary": "美国地质调查局官方监测：6 km NW of Pinnacles, CA发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "美国空军回应黑客攻击报道，并说明网络防护措施",
+   "link": "https://sputniknews.cn/20261128/1074387624.html",
+   "source": "卫星社中文",
+   "time": "2026-11-27T23:45:11.000Z",
+   "summary": "俄罗斯卫星通讯社华盛顿11月28日电 美国空军旗舰云平台Cloud One被曝遭黑客入侵、运行一度中断后，美国空军对卫星通讯社表示，其持续采取网络和信息系统防护措施，但拒绝对具体平台的安全状态置评。",
+   "regions": [
+    "俄乌",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.9】23 km N of Fishhook, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xnhclh",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T22:55:46.923Z",
+   "summary": "美国地质调查局官方监测：23 km N of Fishhook, Alaska发生 2.9 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "科威特召见伊朗大使 抗议伊“持续袭击”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739097.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-27T22:46:38.000Z",
+   "summary": "科威特外交部27日召见伊朗驻科大使，就前一天导致两名意大利公民死亡的无人机袭击事件提出抗议。",
+   "regions": [
+    "中东",
+    "欧洲"
+   ]
+  },
+  {
+   "title": "美官员称美国空军云计算平台遭黑客入侵",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739096.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-27T22:44:34.000Z",
+   "summary": "当地时间11月27日，央视记者获悉，一名美国官员证实，美国空军的云计算平台遭黑客入侵，此次网络安全事件可能导致敏感军事信息泄露。目前，官方尚未透露入侵发生的具体时间及其造成的实际影响。",
+   "regions": [
+    "美洲"
+   ]
+  },
+  {
+   "title": "多国商界人士和投资者汇聚金边探索柬埔寨合作发展机遇",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739095.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-27T22:41:46.000Z",
+   "summary": "中新社金边11月27日电 (记者 杨强)2026年柬埔寨国际商务与投资论坛当地时间27日在金边举行，柬埔寨首相洪玛奈出席开幕式。来自中国、马来西亚、新加坡、日本、韩国以及欧盟等国家和地区逾千名商界人士及投资者，围绕“柬埔寨的发展，全球的机遇…",
+   "regions": [
+    "朝鲜半岛",
+    "欧洲",
+    "亚太"
+   ]
+  },
+  {
+   "title": "普京出席“彼尔姆”号核潜艇升旗仪式",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739094.shtml",
+   "source": "中新网国际",
+   "time": "2026-11-27T22:40:10.000Z",
+   "summary": "中新社莫斯科11月27日电 俄罗斯总统普京27日在阿尔汉格尔斯克州北德文斯克出席“彼尔姆”号多用途导弹核潜艇海军军旗升旗仪式，标志着这艘新型攻击核潜艇正式加入俄海军战斗序列。",
+   "regions": [
+    "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M3.5】21 km SSW of Silver Peak, Nevada",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00927525",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T22:27:55.801Z",
+   "summary": "美国地质调查局官方监测：21 km SSW of Silver Peak, Nevada发生 3.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M2.5】5 km WNW of Laconia, New Hampshire",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue09",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T21:54:39.854Z",
+   "summary": "美国地质调查局官方监测：5 km WNW of Laconia, New Hampshire发生 2.5 级地震，震源深度 未知。",
+   "regions": [
+    "国际"
+   ]
+  },
+  {
+   "title": "【地震 M4.5】Izu Islands, Japan region",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue0a",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T21:47:28.211Z",
+   "summary": "美国地质调查局官方监测：Izu Islands, Japan region发生 4.5 级地震，震源深度 未知。",
+   "regions": [
+    "日本",
+    "亚太"
+   ]
+  },
+  {
+   "title": "【地震 M3.3】19 km NNE of Willow, Alaska",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xndbvp",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T20:55:14.936Z",
+   "summary": "美国地质调查局官方监测：19 km NNE of Willow, Alaska发生 3.3 级地震，震源深度 未知。",
+   "regions": [
+    "美国阿拉斯加",
+    "美洲"
+   ]
+  },
+  {
+   "title": "【地震 M3.6】24 km SSW of Boca de Yuma, Dominican Republic",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026331001",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T20:08:46.850Z",
+   "summary": "美国地质调查局官方监测：24 km SSW of Boca de Yuma, Dominican Republic发生 3.6 级地震，震源深度 未知。",
+   "regions": [
+    "多米尼加",
+    "拉美"
+   ]
+  },
+  {
    "title": "联合国：在未来6个月内16个地区的严重粮食短缺情况将会加剧",
    "link": "https://sputniknews.cn/20261128/1074387132.html",
    "source": "卫星社中文",
@@ -1239,6 +1524,17 @@
    "summary": "据《金融时报》报道，欧盟计划加强对电池回收废料的出口管控，原因是其中的物质经再处理后可重新投入生产。",
    "regions": [
     "欧洲"
+   ]
+  },
+  {
+   "title": "【地震 M2.6】53 km W of Hawaiian Ocean View, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75077177",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T16:36:20.380Z",
+   "summary": "美国地质调查局官方监测：53 km W of Hawaiian Ocean View, Hawaii发生 2.6 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
    ]
   },
   {
@@ -1365,6 +1661,17 @@
    ]
   },
   {
+   "title": "【地震 M2.7】58 km W of Hawaiian Ocean View, Hawaii",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75077137",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T14:19:21.720Z",
+   "summary": "美国地质调查局官方监测：58 km W of Hawaiian Ocean View, Hawaii发生 2.7 级地震，震源深度 未知。",
+   "regions": [
+    "美国夏威夷",
+    "美洲"
+   ]
+  },
+  {
    "title": "【地震 M3.4】115 km N of Charlotte Amalie, U.S. Virgin Islands",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71540203",
    "source": "USGS地震台网",
@@ -1393,6 +1700,17 @@
    "regions": [
     "中东",
     "俄乌"
+   ]
+  },
+  {
+   "title": "【地震 M4.3】211 km WSW of Tual, Indonesia",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udwp",
+   "source": "USGS地震台网",
+   "time": "2026-11-27T13:40:06.122Z",
+   "summary": "美国地质调查局官方监测：211 km WSW of Tual, Indonesia发生 4.3 级地震，震源深度 未知。",
+   "regions": [
+    "印尼",
+    "亚太"
    ]
   },
   {
@@ -2520,6 +2838,24 @@
   }
  ],
  "cn": [
+  {
+   "title": "吃过啥药、谁家药便宜一查便知！最全医保上新功能使用手册来了",
+   "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739098.shtml",
+   "source": "中新网中国",
+   "time": "2026-11-27T22:57:07.000Z",
+   "summary": "近日 医保便民服务又升级了",
+   "regions": []
+  },
+  {
+   "title": "首只在印尼出生的大熊猫“里奥”迎来周岁",
+   "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739093.shtml",
+   "source": "中新网社会",
+   "time": "2026-11-27T22:40:06.000Z",
+   "summary": "中新社雅加达11月27日电 (记者 李志全)首只在印度尼西亚出生的大熊猫“里奥”27日迎来一周岁生日。位于茂物的印尼野生动物园当天举行庆祝活动，“里奥”在熊猫宫户外展区与母亲一同亮相。",
+   "regions": [
+    "亚太"
+   ]
+  },
   {
    "title": "东西问｜普京与特朗普都爱中国菜：美食，是亚太相知最好的语言",
    "link": "https://www.chinanews.com.cn/dxw/2026/11-27/10739092.shtml",
@@ -4620,5 +4956,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-27T19:18:44.925Z"
+ "updatedAt": "2026-11-28T02:05:36.574Z"
 }
